@@ -19,13 +19,18 @@
     "DamageSettings": {
       "items": [
         {
+          "extra_info": {
+              "idx": 0,
+              "hex_id": "0",
+              "type_num": 1
+          },
           "type": "DamageInfoType_Projectile_Boomer_AcidStream",
           "damage": [
             50,
             50
           ],
           "armor_penetration_per_angle": [
-            3,
+              4,
             4,
             4,
             0
@@ -54,6 +59,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 1,
+              "hex_id": "1",
+              "type_num": 2
+          },
           "type": "DamageInfoType_Projectile_Strider_AcidStream",
           "damage": [
             60,
@@ -89,6 +99,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 2,
+              "hex_id": "2",
+              "type_num": 3
+          },
           "type": "DamageInfoType_Projectile_Boomer_Nurser_AcidStream",
           "damage": [
             50,
@@ -124,6 +139,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 3,
+              "hex_id": "3",
+              "type_num": 4
+          },
           "type": "DamageInfoType_Projectile_Scavenger_AcidBall",
           "damage": [
             15,
@@ -159,15 +179,60 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 4,
+              "hex_id": "4",
+              "type_num": 5
+          },
+          "type": "DMG_ENUM_004_TYPE_005",
+          "damage": [
+              12,
+              12
+          ],
+          "armor_penetration_per_angle": [
+              4,
+              4,
+              4,
+              4
+          ],
+          "demolition_strength": 10,
+          "force_strength": 5,
+          "force_impulse": 5,
+          "element_type": "ElementType_Fire",
+          "status_effects": [
+              {
+                  "type": "StatusEffectType_Fire",
+                  "value": 50
+              },
+              {
+                  "type": "StatusEffectType_BurningHeavy",
+                  "value": 50
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              }
+          ]
+      },
+      {
+          "extra_info": {
+              "idx": 5,
+              "hex_id": "5",
+              "type_num": 6
+          },
           "type": "DamageInfoType_Projectile_CyborgHeavyFlamer",
           "damage": [
             30,
             15
           ],
           "armor_penetration_per_angle": [
-            2,
-            2,
-            2,
+              3,
+              3,
+              3,
             0
           ],
           "demolition_strength": 10,
@@ -194,6 +259,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 6,
+              "hex_id": "6",
+              "type_num": 7
+          },
           "type": "DamageInfoType_Projectile_CyborgLightRocket",
           "damage": [
             30,
@@ -229,6 +299,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 7,
+              "hex_id": "7",
+              "type_num": 8
+          },
           "type": "DamageInfoType_Projectile_CyborgRifle",
           "damage": [
             35,
@@ -264,6 +339,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 8,
+              "hex_id": "8",
+              "type_num": 9
+          },
           "type": "DamageInfoType_Projectile_CyborgShotgun",
           "damage": [
             40,
@@ -299,6 +379,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 9,
+              "hex_id": "9",
+              "type_num": 10
+          },
           "type": "DamageInfoType_Projectile_Flamethrower",
           "damage": [
             4,
@@ -334,6 +419,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 10,
+              "hex_id": "A",
+              "type_num": 11
+          },
           "type": "DamageInfoType_Projectile_Flamethrower_Ripley",
           "damage": [
             3,
@@ -369,6 +459,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 11,
+              "hex_id": "B",
+              "type_num": 12
+          },
           "type": "DamageInfoType_Projectile_Flamethrower_FlamerPistol",
           "damage": [
             3,
@@ -404,6 +499,51 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 12,
+              "hex_id": "C",
+              "type_num": 13
+          },
+          "type": "DMG_ENUM_012_TYPE_013",
+          "damage": [
+              2000,
+              2000
+          ],
+          "armor_penetration_per_angle": [
+              6,
+              6,
+              6,
+              6
+          ],
+          "demolition_strength": 50,
+          "force_strength": 50,
+          "force_impulse": 20,
+          "element_type": "ElementType_None",
+          "status_effects": [
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              }
+          ]
+      },
+      {
+          "extra_info": {
+              "idx": 13,
+              "hex_id": "D",
+              "type_num": 14
+          },
           "type": "DamageInfoType_Spray_Chem_Gun",
           "damage": [
             1,
@@ -439,6 +579,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 14,
+              "hex_id": "E",
+              "type_num": 15
+          },
           "type": "DamageInfoType_Drone_Chem_Gun",
           "damage": [
             1,
@@ -474,6 +619,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 15,
+              "hex_id": "F",
+              "type_num": 16
+          },
           "type": "DamageInfoType_Projectile_Grenade_40mm_HE",
           "damage": [
             20,
@@ -509,6 +659,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 16,
+              "hex_id": "10",
+              "type_num": 17
+          },
           "type": "DamageInfoType_Projectile_Grenade_40mm_ProximityCone",
           "damage": [
             5,
@@ -544,6 +699,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 17,
+              "hex_id": "11",
+              "type_num": 18
+          },
           "type": "DamageInfoType_Projectile_Illuminate_Lightningbolt",
           "damage": [
             10,
@@ -579,16 +739,21 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 18,
+              "hex_id": "12",
+              "type_num": 19
+          },
           "type": "DamageInfoType_Projectile_Illuminate_Lightspear",
           "damage": [
-            75,
-            75
+              40,
+              20
           ],
           "armor_penetration_per_angle": [
-            0,
-            0,
-            0,
-            0
+              3,
+              3,
+              3,
+              3
           ],
           "demolition_strength": 10,
           "force_strength": 5,
@@ -614,6 +779,51 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 19,
+              "hex_id": "13",
+              "type_num": 20
+          },
+          "type": "DMG_ENUM_019_TYPE_020",
+          "damage": [
+              35,
+              15
+          ],
+          "armor_penetration_per_angle": [
+              3,
+              3,
+              3,
+              3
+          ],
+          "demolition_strength": 10,
+          "force_strength": 5,
+          "force_impulse": 5,
+          "element_type": "ElementType_None",
+          "status_effects": [
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              }
+          ]
+      },
+      {
+          "extra_info": {
+              "idx": 20,
+              "hex_id": "14",
+              "type_num": 21
+          },
           "type": "DamageInfoType_Projectile_Illuminate_Obelisk",
           "damage": [
             500,
@@ -649,6 +859,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 21,
+              "hex_id": "15",
+              "type_num": 22
+          },
           "type": "DamageInfoType_Projectile_Illuminate_turret_tesla",
           "damage": [
             200,
@@ -684,10 +899,15 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 22,
+              "hex_id": "16",
+              "type_num": 23
+          },
           "type": "DamageInfoType_Projectile_Illuminate_Observer_Lightning",
           "damage": [
-            10,
-            5
+              30,
+              15
           ],
           "armor_penetration_per_angle": [
             3,
@@ -719,6 +939,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 23,
+              "hex_id": "17",
+              "type_num": 24
+          },
           "type": "DamageInfoType_Projectile_Illuminate_Squidgun",
           "damage": [
             10,
@@ -754,10 +979,15 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 24,
+              "hex_id": "18",
+              "type_num": 25
+          },
           "type": "DamageInfoType_Projectile_Illuminate_Tripod_Lightning",
           "damage": [
-            20,
-            20
+              60,
+              60
           ],
           "armor_penetration_per_angle": [
             5,
@@ -789,6 +1019,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 25,
+              "hex_id": "19",
+              "type_num": 26
+          },
           "type": "DamageInfoType_Projectile_Laser_Long",
           "damage": [
             55,
@@ -824,6 +1059,51 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 26,
+              "hex_id": "1A",
+              "type_num": 27
+          },
+          "type": "DMG_ENUM_026_TYPE_027",
+          "damage": [
+              55,
+              5
+          ],
+          "armor_penetration_per_angle": [
+              3,
+              3,
+              3,
+              0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 10,
+          "force_impulse": 10,
+          "element_type": "ElementType_None",
+          "status_effects": [
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              },
+              {
+                  "type": "StatusEffectType_None",
+                  "value": 0
+              }
+          ]
+      },
+      {
+          "extra_info": {
+              "idx": 27,
+              "hex_id": "1B",
+              "type_num": 28
+          },
           "type": "DamageInfoType_Projectile_Plasma_Pistol_Base",
           "damage": [
             100,
@@ -859,6 +1139,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 28,
+              "hex_id": "1C",
+              "type_num": 29
+          },
           "type": "DamageInfoType_Projectile_Plasma_Bolt",
           "damage": [
             100,
@@ -894,6 +1179,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 29,
+              "hex_id": "1D",
+              "type_num": 30
+          },
           "type": "DamageInfoType_Projectile_Plasma_Punisher",
           "damage": [
             100,
@@ -929,6 +1219,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 30,
+              "hex_id": "1E",
+              "type_num": 31
+          },
           "type": "DamageInfoType_Projectile_Plasma_Pistol_Charge",
           "damage": [
             150,
@@ -964,6 +1259,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 31,
+              "hex_id": "1F",
+              "type_num": 32
+          },
           "type": "DamageInfoType_Projectile_Plasma_Rifle_Charge",
           "damage": [
             200,
@@ -999,6 +1299,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 32,
+              "hex_id": "20",
+              "type_num": 33
+          },
           "type": "DamageInfoType_Projectile_Railgun",
           "damage": [
             600,
@@ -1034,6 +1339,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 33,
+              "hex_id": "21",
+              "type_num": 34
+          },
           "type": "DamageInfoType_Projectile_Railgun_Stun",
           "damage": [
             600,
@@ -1069,6 +1379,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 34,
+              "hex_id": "22",
+              "type_num": 35
+          },
           "type": "DamageInfoType_Projectile_Pistol_9x20mm_exp",
           "damage": [
             60,
@@ -1104,6 +1419,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 35,
+              "hex_id": "23",
+              "type_num": 36
+          },
           "type": "DamageInfoType_Projectile_Pistol_9x20mm_fmj",
           "damage": [
             60,
@@ -1139,6 +1459,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 36,
+              "hex_id": "24",
+              "type_num": 37
+          },
           "type": "DamageInfoType_Projectile_Pistol_9x20mm_smj",
           "damage": [
             65,
@@ -1174,6 +1499,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 37,
+              "hex_id": "25",
+              "type_num": 38
+          },
           "type": "DamageInfoType_Projectile_Pistol_9x20mm_hp",
           "damage": [
             75,
@@ -1209,6 +1539,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 38,
+              "hex_id": "26",
+              "type_num": 39
+          },
           "type": "DamageInfoType_Projectile_Pistol_9x20mm_hv",
           "damage": [
             64,
@@ -1244,6 +1579,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 39,
+              "hex_id": "27",
+              "type_num": 40
+          },
           "type": "DamageInfoType_Projectile_Pistol_9x20mm_pla",
           "damage": [
             38,
@@ -1279,6 +1619,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 40,
+              "hex_id": "28",
+              "type_num": 41
+          },
           "type": "DamageInfoType_Projectile_Pistol_9x20mm_rip",
           "damage": [
             83,
@@ -1314,6 +1659,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 41,
+              "hex_id": "29",
+              "type_num": 42
+          },
           "type": "DamageInfoType_Projectile_Pistol_9x20mm_ther",
           "damage": [
             38,
@@ -1349,6 +1699,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 42,
+              "hex_id": "2A",
+              "type_num": 43
+          },
           "type": "DamageInfoType_Projectile_Pistol_9x20mm_tox",
           "damage": [
             48,
@@ -1384,6 +1739,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 43,
+              "hex_id": "2B",
+              "type_num": 44
+          },
           "type": "DamageInfoType_Projectile_Pistol_12x25mm_exp",
           "damage": [
             70,
@@ -1419,6 +1779,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 44,
+              "hex_id": "2C",
+              "type_num": 45
+          },
           "type": "DamageInfoType_Projectile_Pistol_12x25mm_fmj",
           "damage": [
             75,
@@ -1454,6 +1819,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 45,
+              "hex_id": "2D",
+              "type_num": 46
+          },
           "type": "DamageInfoType_Projectile_Pistol_12x25mm_hp",
           "damage": [
             80,
@@ -1489,6 +1859,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 46,
+              "hex_id": "2E",
+              "type_num": 47
+          },
           "type": "DamageInfoType_Projectile_Pistol_12x25mm_hv",
           "damage": [
             73,
@@ -1524,6 +1899,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 47,
+              "hex_id": "2F",
+              "type_num": 48
+          },
           "type": "DamageInfoType_Projectile_Pistol_12x25mm_pla",
           "damage": [
             40,
@@ -1559,6 +1939,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 48,
+              "hex_id": "30",
+              "type_num": 49
+          },
           "type": "DamageInfoType_Projectile_Pistol_12x25mm_rip",
           "damage": [
             99,
@@ -1594,6 +1979,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 49,
+              "hex_id": "31",
+              "type_num": 50
+          },
           "type": "DamageInfoType_Projectile_Pistol_12x25mm_ther",
           "damage": [
             50,
@@ -1629,6 +2019,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 50,
+              "hex_id": "32",
+              "type_num": 51
+          },
           "type": "DamageInfoType_Projectile_Pistol_12x25mm_tox",
           "damage": [
             70,
@@ -1664,6 +2059,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 51,
+              "hex_id": "33",
+              "type_num": 52
+          },
           "type": "DamageInfoType_Projectile_Pistol_12x25mm_stun",
           "damage": [
             65,
@@ -1699,6 +2099,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 52,
+              "hex_id": "34",
+              "type_num": 53
+          },
           "type": "DamageInfoType_Projectile_Pistol_Magnum",
           "damage": [
             125,
@@ -1734,6 +2139,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 53,
+              "hex_id": "35",
+              "type_num": 54
+          },
           "type": "DamageInfoType_Projectile_SMG_Rhino",
           "damage": [
             125,
@@ -1769,6 +2179,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 54,
+              "hex_id": "36",
+              "type_num": 55
+          },
           "type": "DamageInfoType_Projectile_Pistol_13x40mm_ap",
           "damage": [
             100,
@@ -1804,6 +2219,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 55,
+              "hex_id": "37",
+              "type_num": 56
+          },
           "type": "DamageInfoType_Projectile_Pistol_13x40mm_fmj",
           "damage": [
             200,
@@ -1839,6 +2259,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 56,
+              "hex_id": "38",
+              "type_num": 57
+          },
           "type": "DamageInfoType_Projectile_Pistol_13x40mm_hp",
           "damage": [
             150,
@@ -1874,6 +2299,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 57,
+              "hex_id": "39",
+              "type_num": 58
+          },
           "type": "DamageInfoType_Projectile_Pistol_13x40mm_mag",
           "damage": [
             180,
@@ -1909,6 +2339,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 58,
+              "hex_id": "3A",
+              "type_num": 59
+          },
           "type": "DamageInfoType_Projectile_Pistol_13x40mm_rip",
           "damage": [
             200,
@@ -1944,6 +2379,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 59,
+              "hex_id": "3B",
+              "type_num": 60
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_ap",
           "damage": [
             60,
@@ -1979,6 +2419,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 60,
+              "hex_id": "3C",
+              "type_num": 61
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_dev",
           "damage": [
             60,
@@ -2014,6 +2459,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 61,
+              "hex_id": "3D",
+              "type_num": 62
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_exp",
           "damage": [
             65,
@@ -2049,6 +2499,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 62,
+              "hex_id": "3E",
+              "type_num": 63
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_fmj",
           "damage": [
             70,
@@ -2084,6 +2539,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 63,
+              "hex_id": "3F",
+              "type_num": 64
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_hp",
           "damage": [
             85,
@@ -2119,6 +2579,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 64,
+              "hex_id": "40",
+              "type_num": 65
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_hv",
           "damage": [
             65,
@@ -2154,6 +2619,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 65,
+              "hex_id": "41",
+              "type_num": 66
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_pow",
           "damage": [
             99,
@@ -2189,6 +2659,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 66,
+              "hex_id": "42",
+              "type_num": 67
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_rip",
           "damage": [
             105,
@@ -2224,6 +2699,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 67,
+              "hex_id": "43",
+              "type_num": 68
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_spr",
           "damage": [
             55,
@@ -2259,6 +2739,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 68,
+              "hex_id": "44",
+              "type_num": 69
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_ss",
           "damage": [
             40,
@@ -2294,6 +2779,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 69,
+              "hex_id": "45",
+              "type_num": 70
+          },
           "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_suc",
           "damage": [
             35,
@@ -2329,6 +2819,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 70,
+              "hex_id": "46",
+              "type_num": 71
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_airb",
           "damage": [
             80,
@@ -2364,6 +2859,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 71,
+              "hex_id": "47",
+              "type_num": 72
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_ap",
           "damage": [
             70,
@@ -2399,6 +2899,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 72,
+              "hex_id": "48",
+              "type_num": 73
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_apt",
           "damage": [
             80,
@@ -2434,6 +2939,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 73,
+              "hex_id": "49",
+              "type_num": 74
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_dev",
           "damage": [
             96,
@@ -2469,6 +2979,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 74,
+              "hex_id": "4A",
+              "type_num": 75
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_exp",
           "damage": [
             110,
@@ -2504,6 +3019,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 75,
+              "hex_id": "4B",
+              "type_num": 76
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_flm",
           "damage": [
             80,
@@ -2539,6 +3059,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 76,
+              "hex_id": "4C",
+              "type_num": 77
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_fmj",
           "damage": [
             90,
@@ -2574,6 +3099,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 77,
+              "hex_id": "4D",
+              "type_num": 78
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_hv",
           "damage": [
             90,
@@ -2609,6 +3139,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 78,
+              "hex_id": "4E",
+              "type_num": 79
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_pow",
           "damage": [
             150,
@@ -2644,6 +3179,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 79,
+              "hex_id": "4F",
+              "type_num": 80
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_snb",
           "damage": [
             160,
@@ -2679,6 +3219,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 80,
+              "hex_id": "50",
+              "type_num": 81
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_ss",
           "damage": [
             65,
@@ -2714,6 +3259,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 81,
+              "hex_id": "51",
+              "type_num": 82
+          },
           "type": "DamageInfoType_Projectile_Rifle_8x60mm_suc",
           "damage": [
             80,
@@ -2749,6 +3299,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 82,
+              "hex_id": "52",
+              "type_num": 83
+          },
           "type": "DamageInfoType_Projectile_Battle_Rifle",
           "damage": [
             90,
@@ -2784,6 +3339,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 83,
+              "hex_id": "53",
+              "type_num": 84
+          },
           "type": "DamageInfoType_Projectile_Rifle_Rico",
           "damage": [
             95,
@@ -2819,6 +3379,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 84,
+              "hex_id": "54",
+              "type_num": 85
+          },
           "type": "DamageInfoType_Projectile_Rifle_Constitution",
           "damage": [
             180,
@@ -2854,6 +3419,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 85,
+              "hex_id": "55",
+              "type_num": 86
+          },
           "type": "DamageInfoType_Projectile_Rifle_9x70mm_ap",
           "damage": [
             100,
@@ -2889,6 +3459,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 86,
+              "hex_id": "56",
+              "type_num": 87
+          },
           "type": "DamageInfoType_Projectile_Rifle_9x70mm_fmj",
           "damage": [
             165,
@@ -2924,6 +3499,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 87,
+              "hex_id": "57",
+              "type_num": 88
+          },
           "type": "DamageInfoType_Projectile_Rifle_9x70mm_hv",
           "damage": [
             200,
@@ -2959,6 +3539,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 88,
+              "hex_id": "58",
+              "type_num": 89
+          },
           "type": "DamageInfoType_Projectile_Rifle_9x70mm_snb",
           "damage": [
             170,
@@ -2994,6 +3579,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 89,
+              "hex_id": "59",
+              "type_num": 90
+          },
           "type": "DamageInfoType_Projectile_Rifle_9x70mm_soc",
           "damage": [
             222,
@@ -3029,6 +3619,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 90,
+              "hex_id": "5A",
+              "type_num": 91
+          },
           "type": "DamageInfoType_Projectile_Rifle_9x70mm_spr",
           "damage": [
             112,
@@ -3064,6 +3659,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 91,
+              "hex_id": "5B",
+              "type_num": 92
+          },
           "type": "DamageInfoType_Projectile_Rifle_9x70mm_suc",
           "damage": [
             112,
@@ -3099,6 +3699,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 92,
+              "hex_id": "5C",
+              "type_num": 93
+          },
           "type": "DamageInfoType_Projectile_Rocket_15x100mm_emp",
           "damage": [
             120,
@@ -3134,6 +3739,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 93,
+              "hex_id": "5D",
+              "type_num": 94
+          },
           "type": "DamageInfoType_Projectile_Rocket_15x100mm_exp",
           "damage": [
             230,
@@ -3169,6 +3779,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 94,
+              "hex_id": "5E",
+              "type_num": 95
+          },
           "type": "DamageInfoType_Projectile_Rocket_15x100mm_frag",
           "damage": [
             160,
@@ -3204,6 +3819,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 95,
+              "hex_id": "5F",
+              "type_num": 96
+          },
           "type": "DamageInfoType_Projectile_Rocket_15x100mm_hv",
           "damage": [
             160,
@@ -3239,6 +3859,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 96,
+              "hex_id": "60",
+              "type_num": 97
+          },
           "type": "DamageInfoType_Projectile_Rocket_15x100mm_pla",
           "damage": [
             180,
@@ -3274,6 +3899,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 97,
+              "hex_id": "61",
+              "type_num": 98
+          },
           "type": "DamageInfoType_Projectile_Rocket_15x100mm_std",
           "damage": [
             275,
@@ -3309,6 +3939,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 98,
+              "hex_id": "62",
+              "type_num": 99
+          },
           "type": "DamageInfoType_Projectile_Rocket_15x100mm_ther",
           "damage": [
             70,
@@ -3344,6 +3979,11 @@
           ]
         },
         {
+          "extra_info": {
+              "idx": 99,
+              "hex_id": "63",
+              "type_num": 100
+          },
           "type": "DamageInfoType_Projectile_Rocket_15x100mm_tox",
           "damage": [
             160,
