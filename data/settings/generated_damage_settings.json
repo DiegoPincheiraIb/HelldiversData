@@ -6704,7 +6704,7 @@
               "hex_id": "A7",
               "type_num": 168
           },
-          "type": "DMG_ENUM_167_TYPE_168",
+          "type": "DamageInfoType_Projectile_WASP_Hornets",
           "damage": [
               200,
               200
@@ -11104,7 +11104,7 @@
               "hex_id": "115",
               "type_num": 277
           },
-          "type": "DMG_ENUM_277_TYPE_277",
+          "type": "DamageInfoType_Explosion_WASP_Hornets",
           "damage": [
               600,
               600
