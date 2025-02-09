@@ -8504,7 +8504,7 @@
               "hex_id": "D4",
               "type_num": 213
           },
-          "type": "DMG_ENUM_212_TYPE_213",
+          "type": "DamageInfoType_Projectile_PlasmaSniper",
           "damage": [
               250,
               125
@@ -8544,7 +8544,7 @@
               "hex_id": "D5",
               "type_num": 214
           },
-          "type": "DMG_ENUM_213_TYPE_214",
+          "type": "DamageInfoType_Explosion_PlasmaSniper",
           "damage": [
               100,
               100
@@ -15424,7 +15424,7 @@
               "hex_id": "181",
               "type_num": 388
           },
-          "type": "DMG_ENUM_385_TYPE_388",
+          "type": "DamageInfoType_StunLance",
           "damage": [
               110,
               55
@@ -15464,7 +15464,7 @@
               "hex_id": "182",
               "type_num": 389
           },
-          "type": "DMG_ENUM_386_TYPE_389",
+          "type": "DamageInfoType_RiotBaton",
           "damage": [
               50,
               25
