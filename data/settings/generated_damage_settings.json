@@ -1064,7 +1064,7 @@
               "hex_id": "1A",
               "type_num": 27
           },
-          "type": "DMG_ENUM_026_TYPE_027",
+          "type": "DamageInfoType_DoubleEdgeSickle",
           "damage": [
               55,
               5
@@ -15264,7 +15264,7 @@
               "hex_id": "17D",
               "type_num": 384
           },
-          "type": "DMG_ENUM_381_TYPE_384",
+          "type": "DamageInfoType_Tomahawk",
           "damage": [
               110,
               55
