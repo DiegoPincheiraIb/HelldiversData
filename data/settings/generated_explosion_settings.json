@@ -2309,8 +2309,8 @@
                         "hex_id": "3E",
                         "type_num": 268
                     },
-                    "type": "EXPL_ENUM_062_TYPE_268",
-                    "damage_type": "DMG_ENUM_213_TYPE_214",
+                    "type": "ExplosionType_PlasmaSniper",
+                    "damage_type": "DamageInfoType_Explosion_PlasmaSniper",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 1,
                     "outer_radius": 2,
@@ -10072,7 +10072,7 @@
                         "hex_id": "110",
                         "type_num": 251
                     },
-                    "type": "EXPL_ENUM_272_TYPE_251",
+                    "type": "ExplosionType_SeekerDroneImpact",
                     "damage_type": "DamageInfoType_Explosion_HandGrenade_HighExplosive_Impact",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 3.5,
