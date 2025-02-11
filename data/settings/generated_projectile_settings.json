@@ -7836,7 +7836,7 @@
                         "hex_id": "67",
                         "type_num": 74
                     },
-                    "type": "PROJ_ENUM_103_TYPE_074",
+                    "type": "ProjectileType_UltimatumGrenadePistol",
                     "name_upper": 498741318,
                     "name_cased": 3829521136,
                     "short_name": 4056765033,

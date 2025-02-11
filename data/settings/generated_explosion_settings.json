@@ -3941,7 +3941,7 @@
                         "hex_id": "6A",
                         "type_num": 222
                     },
-                    "type": "EXPL_ENUM_106_TYPE_222",
+                    "type": "ExplosionType_UltimatumGrenadePistol",
                     "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalBarrage",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 4,
