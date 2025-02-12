@@ -182,7 +182,7 @@
                         "hex_id": "4",
                         "type_num": 5
                     },
-                    "type": "DMG_ENUM_004_TYPE_005",
+                    "type": "DMG_ENUM_4_TYPE_5",
                     "damage": [
                         12,
                         12
@@ -502,7 +502,7 @@
                         "hex_id": "C",
                         "type_num": 13
                     },
-                    "type": "DMG_ENUM_012_TYPE_013",
+                    "type": "DMG_ENUM_12_TYPE_13",
                     "damage": [
                         2000,
                         2000
@@ -782,7 +782,7 @@
                         "hex_id": "13",
                         "type_num": 20
                     },
-                    "type": "DMG_ENUM_019_TYPE_020",
+                    "type": "DMG_ENUM_19_TYPE_20",
                     "damage": [
                         35,
                         15
@@ -5782,7 +5782,7 @@
                         "hex_id": "90",
                         "type_num": 145
                     },
-                    "type": "DMG_ENUM_142_TYPE_143",
+                    "type": "DMG_ENUM_144_TYPE_145",
                     "damage": [
                         2000,
                         2000
@@ -6182,7 +6182,7 @@
                         "hex_id": "9A",
                         "type_num": 155
                     },
-                    "type": "DMG_ENUM_152_TYPE_153",
+                    "type": "DMG_ENUM_154_TYPE_155",
                     "damage": [
                         1300,
                         1300
@@ -7782,7 +7782,7 @@
                         "hex_id": "C2",
                         "type_num": 195
                     },
-                    "type": "DMG_ENUM_192_TYPE_193",
+                    "type": "DMG_ENUM_194_TYPE_195",
                     "damage": [
                         1500,
                         1500
@@ -8102,7 +8102,7 @@
                         "hex_id": "CA",
                         "type_num": 203
                     },
-                    "type": "DMG_ENUM_200_TYPE_201",
+                    "type": "DMG_ENUM_202_TYPE_203",
                     "damage": [
                         25,
                         25
@@ -8142,7 +8142,7 @@
                         "hex_id": "CB",
                         "type_num": 204
                     },
-                    "type": "DMG_ENUM_201_TYPE_202",
+                    "type": "DMG_ENUM_203_TYPE_204",
                     "damage": [
                         35,
                         35
@@ -8182,7 +8182,7 @@
                         "hex_id": "CC",
                         "type_num": 205
                     },
-                    "type": "DMG_ENUM_202_TYPE_203",
+                    "type": "DMG_ENUM_204_TYPE_205",
                     "damage": [
                         50,
                         50
@@ -9742,7 +9742,7 @@
                         "hex_id": "F3",
                         "type_num": 244
                     },
-                    "type": "DMG_ENUM_241_TYPE_242",
+                    "type": "DMG_ENUM_243_TYPE_244",
                     "damage": [
                         400,
                         400
@@ -11702,7 +11702,7 @@
                         "hex_id": "124",
                         "type_num": 292
                     },
-                    "type": "DMG_ENUM_290_TYPE_290",
+                    "type": "DMG_ENUM_292_TYPE_292",
                     "damage": [
                         200,
                         200
@@ -13222,7 +13222,7 @@
                         "hex_id": "14A",
                         "type_num": 330
                     },
-                    "type": "DMG_ENUM_328_TYPE_328",
+                    "type": "DMG_ENUM_330_TYPE_330",
                     "damage": [
                         200,
                         200
@@ -14942,7 +14942,7 @@
                         "hex_id": "175",
                         "type_num": 376
                     },
-                    "type": "DMG_ENUM_371_TYPE_374",
+                    "type": "DMG_ENUM_373_TYPE_376",
                     "damage": [
                         1800,
                         900
@@ -15062,7 +15062,7 @@
                         "hex_id": "178",
                         "type_num": 379
                     },
-                    "type": "DMG_ENUM_374_TYPE_377",
+                    "type": "DMG_ENUM_376_TYPE_379",
                     "damage": [
                         10,
                         10
@@ -15102,7 +15102,7 @@
                         "hex_id": "179",
                         "type_num": 380
                     },
-                    "type": "DMG_ENUM_375_TYPE_378",
+                    "type": "DMG_ENUM_377_TYPE_380",
                     "damage": [
                         20,
                         20
@@ -15142,7 +15142,7 @@
                         "hex_id": "17A",
                         "type_num": 381
                     },
-                    "type": "DMG_ENUM_376_TYPE_379",
+                    "type": "DMG_ENUM_378_TYPE_381",
                     "damage": [
                         50,
                         50
@@ -15182,7 +15182,7 @@
                         "hex_id": "17B",
                         "type_num": 382
                     },
-                    "type": "DMG_ENUM_377_TYPE_380",
+                    "type": "DMG_ENUM_379_TYPE_382",
                     "damage": [
                         10,
                         10
@@ -15302,7 +15302,7 @@
                         "hex_id": "17E",
                         "type_num": 385
                     },
-                    "type": "DMG_ENUM_380_TYPE_383",
+                    "type": "DMG_ENUM_382_TYPE_385",
                     "damage": [
                         200,
                         50
@@ -15382,7 +15382,7 @@
                         "hex_id": "180",
                         "type_num": 387
                     },
-                    "type": "DMG_ENUM_382_TYPE_385",
+                    "type": "DMG_ENUM_384_TYPE_387",
                     "damage": [
                         110,
                         55
@@ -17182,7 +17182,7 @@
                         "hex_id": "1AD",
                         "type_num": 432
                     },
-                    "type": "DMG_ENUM_427_TYPE_430",
+                    "type": "DMG_ENUM_429_TYPE_432",
                     "damage": [
                         25,
                         10
@@ -17822,7 +17822,7 @@
                         "hex_id": "1BD",
                         "type_num": 448
                     },
-                    "type": "DMG_ENUM_443_TYPE_446",
+                    "type": "DMG_ENUM_445_TYPE_448",
                     "damage": [
                         0,
                         0
