@@ -3622,7 +3622,7 @@
                         "hex_id": "5A",
                         "type_num": 91
                     },
-                    "type": "DamageInfoType_LevelRifle_Deadeye",
+                    "type": "DamageInfoType_LeverRifle_Deadeye",
                     "damage": [
                         300,
                         100
