@@ -3552,7 +3552,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_ENUM_096_TYPE_097",
+                    "type": "DMG_TYPE_101",
                     "damage": [
                         112,
                         11
@@ -5372,7 +5372,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_ENUM_148_TYPE_149",
+                    "type": "DMG_TYPE_153",
                     "damage": [
                         2000,
                         2000
@@ -5722,7 +5722,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_ENUM_158_TYPE_159",
+                    "type": "DMG_TYPE_163",
                     "damage": [
                         1300,
                         1300
@@ -17253,7 +17253,7 @@
                     "type_num": 101,
                     "hex_id": "65",
                     "idx": 101,
-                    "type": "DMG_ENUM_096_TYPE_097"
+                    "type": "DMG_TYPE_101"
                 },
                 {
                     "type_num": 102,
@@ -17565,7 +17565,7 @@
                     "type_num": 153,
                     "hex_id": "99",
                     "idx": 153,
-                    "type": "DMG_ENUM_148_TYPE_149"
+                    "type": "DMG_TYPE_153"
                 },
                 {
                     "type_num": 154,
@@ -17625,7 +17625,7 @@
                     "type_num": 163,
                     "hex_id": "A3",
                     "idx": 163,
-                    "type": "DMG_ENUM_158_TYPE_159"
+                    "type": "DMG_TYPE_163"
                 },
                 {
                     "type_num": 164,
