@@ -9,7 +9,12 @@
     "ModifiableStatType_EagleExtraBomb",
     "ModifiableStatType_ArcWeaponExtraJumps",
     "ModifiableStatType_AmmoBoxSupportWeaponFillPercentage",
-    "ModifiableStatType_WeaponReloadTimeScale",
+    "ModifiableStatType_UNKNOWN",
     "ModifiableStatType_WeaponDamageRecoilScale",
+    "ModifiableStatType_PrimaryWeaponAmmoScale",
+    "ModifiableStatType_WeaponReloadTimeScale",
+    "ModifiableStatType_SidearmReloadTimeScale",
+    "ModifiableStatType_SidearmDrawTimeScale",
+    "ModifiableStatType_SidearmDamageRecoilScale",
     "ModifiableStatType_Count"
 ]}
