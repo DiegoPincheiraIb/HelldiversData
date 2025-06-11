@@ -787,7 +787,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_205",
+                    "type": "DMG_TYPE_212",
                     "damage": [
                         50,
                         50
@@ -1382,6 +1382,111 @@
                     ]
                 },
                 {
+                    "type": "DMG_TYPE_039",
+                    "damage": [
+                        300,
+                        300
+                    ],
+                    "armor_penetration_per_angle": [
+                        6,
+                        6,
+                        6,
+                        0
+                    ],
+                    "demolition_strength": 30,
+                    "force_strength": 50,
+                    "force_impulse": 25,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_040",
+                    "damage": [
+                        300,
+                        300
+                    ],
+                    "armor_penetration_per_angle": [
+                        5,
+                        5,
+                        5,
+                        0
+                    ],
+                    "demolition_strength": 20,
+                    "force_strength": 5,
+                    "force_impulse": 40,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_041",
+                    "damage": [
+                        750,
+                        750
+                    ],
+                    "armor_penetration_per_angle": [
+                        5,
+                        5,
+                        5,
+                        0
+                    ],
+                    "demolition_strength": 20,
+                    "force_strength": 5,
+                    "force_impulse": 40,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
                     "type": "DamageInfoType_Projectile_Plasma_Pistol_Charge",
                     "damage": [
                         150,
@@ -1629,8 +1734,8 @@
                 {
                     "type": "DamageInfoType_Projectile_Pistol_9x20mm_hp",
                     "damage": [
-                        75,
-                        15
+                        85,
+                        25
                     ],
                     "armor_penetration_per_angle": [
                         2,
@@ -2156,6 +2261,41 @@
                     "damage": [
                         125,
                         32
+                    ],
+                    "armor_penetration_per_angle": [
+                        3,
+                        3,
+                        3,
+                        0
+                    ],
+                    "demolition_strength": 10,
+                    "force_strength": 15,
+                    "force_impulse": 10,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DamageInfoType_Projectile_Pistol_Warrant",
+                    "damage": [
+                        80,
+                        20
                     ],
                     "armor_penetration_per_angle": [
                         3,
@@ -2782,6 +2922,41 @@
                     ]
                 },
                 {
+                    "type": "DamageInfoType_Projectile_Rifle_Pacifier",
+                    "damage": [
+                        50,
+                        10
+                    ],
+                    "armor_penetration_per_angle": [
+                        3,
+                        3,
+                        3,
+                        0
+                    ],
+                    "demolition_strength": 10,
+                    "force_strength": 15,
+                    "force_impulse": 10,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_StunSmall",
+                            "value": 1.25
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
                     "type": "DamageInfoType_Projectile_Rifle_8x60mm_airb",
                     "damage": [
                         80,
@@ -3307,7 +3482,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_094",
+                    "type": "DamageInfoType_Projectile_Rifle_Amendment",
                     "damage": [
                         200,
                         50
@@ -3552,7 +3727,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_101",
+                    "type": "DMG_TYPE_106",
                     "damage": [
                         112,
                         11
@@ -5092,6 +5267,41 @@
                     ]
                 },
                 {
+                    "type": "DMG_TYPE_150",
+                    "damage": [
+                        250,
+                        45
+                    ],
+                    "armor_penetration_per_angle": [
+                        7,
+                        7,
+                        7,
+                        0
+                    ],
+                    "demolition_strength": 10,
+                    "force_strength": 30,
+                    "force_impulse": 25,
+                    "element_type": "ElementType_Electricity",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_StunSmall",
+                            "value": 8
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
                     "type": "DamageInfoType_Projectile_Cannon_20mm_Flak",
                     "damage": [
                         150,
@@ -5372,7 +5582,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_153",
+                    "type": "DMG_TYPE_160",
                     "damage": [
                         2000,
                         2000
@@ -5722,7 +5932,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_163",
+                    "type": "DMG_TYPE_170",
                     "damage": [
                         1300,
                         1300
@@ -6632,21 +6842,21 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_189",
+                    "type": "DamageInfoType_Projectile_Illuminate_Leviathan",
                     "damage": [
-                        1500,
-                        1500
+                        350,
+                        350
                     ],
                     "armor_penetration_per_angle": [
-                        6,
                         5,
-                        4,
+                        5,
+                        5,
                         0
                     ],
                     "demolition_strength": 10,
-                    "force_strength": 60,
+                    "force_strength": 40,
                     "force_impulse": 30,
-                    "element_type": "ElementType_None",
+                    "element_type": "ELEMENT_TYPE_006",
                     "status_effects": [
                         {
                             "type": "StatusEffectType_None",
@@ -6984,8 +7194,8 @@
                 {
                     "type": "DamageInfoType_Projectile_Cyborg_Orbital_Cannon",
                     "damage": [
-                        2800,
-                        2800
+                        8400,
+                        8400
                     ],
                     "armor_penetration_per_angle": [
                         8,
@@ -7157,7 +7367,42 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_209",
+                    "type": "DMG_TYPE_216",
+                    "damage": [
+                        0,
+                        0
+                    ],
+                    "armor_penetration_per_angle": [
+                        6,
+                        0,
+                        0,
+                        0
+                    ],
+                    "demolition_strength": 0,
+                    "force_strength": 0,
+                    "force_impulse": 0,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_StunMedium",
+                            "value": 10
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_217",
                     "damage": [
                         2000,
                         2000
@@ -7437,7 +7682,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_218",
+                    "type": "DMG_TYPE_226",
                     "damage": [
                         25,
                         25
@@ -7472,7 +7717,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_219",
+                    "type": "DMG_TYPE_227",
                     "damage": [
                         35,
                         35
@@ -7507,7 +7752,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_220",
+                    "type": "DMG_TYPE_228",
                     "damage": [
                         50,
                         50
@@ -8557,6 +8802,76 @@
                     ]
                 },
                 {
+                    "type": "DMG_TYPE_258",
+                    "damage": [
+                        300,
+                        300
+                    ],
+                    "armor_penetration_per_angle": [
+                        3,
+                        0,
+                        0,
+                        0
+                    ],
+                    "demolition_strength": 30,
+                    "force_strength": 20,
+                    "force_impulse": 40,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_Fire",
+                            "value": 20
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_259",
+                    "damage": [
+                        500,
+                        500
+                    ],
+                    "armor_penetration_per_angle": [
+                        4,
+                        0,
+                        0,
+                        0
+                    ],
+                    "demolition_strength": 30,
+                    "force_strength": 40,
+                    "force_impulse": 40,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_Fire",
+                            "value": 25
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
                     "type": "DamageInfoType_Explosion_Building_Small",
                     "damage": [
                         100,
@@ -8872,7 +9187,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_260",
+                    "type": "DMG_TYPE_270",
                     "damage": [
                         400,
                         400
@@ -9327,7 +9642,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_217",
+                    "type": "DMG_TYPE_225",
                     "damage": [
                         300,
                         300
@@ -10657,7 +10972,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_330",
+                    "type": "DMG_TYPE_344",
                     "damage": [
                         300,
                         300
@@ -10692,7 +11007,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_309",
+                    "type": "DMG_TYPE_322",
                     "damage": [
                         200,
                         200
@@ -11147,6 +11462,41 @@
                     ]
                 },
                 {
+                    "type": "DamageInfoType_Explosion_HellpodStunBooster",
+                    "damage": [
+                        50,
+                        50
+                    ],
+                    "armor_penetration_per_angle": [
+                        10,
+                        0,
+                        0,
+                        0
+                    ],
+                    "demolition_strength": 40,
+                    "force_strength": 80,
+                    "force_impulse": 40,
+                    "element_type": "ElementType_Electricity",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_StunLarge",
+                            "value": 100
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
                     "type": "DamageInfoType_Explosion_HellpodExplosion",
                     "damage": [
                         300,
@@ -11357,7 +11707,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_328",
+                    "type": "DMG_TYPE_342",
                     "damage": [
                         75,
                         75
@@ -11392,7 +11742,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_329",
+                    "type": "DMG_TYPE_343",
                     "damage": [
                         125,
                         125
@@ -11497,7 +11847,42 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_258",
+                    "type": "DMG_TYPE_283",
+                    "damage": [
+                        200,
+                        200
+                    ],
+                    "armor_penetration_per_angle": [
+                        5,
+                        0,
+                        0,
+                        0
+                    ],
+                    "demolition_strength": 30,
+                    "force_strength": 50,
+                    "force_impulse": 40,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_268",
                     "damage": [
                         300,
                         300
@@ -11917,7 +12302,77 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_190",
+                    "type": "DMG_TYPE_197",
+                    "damage": [
+                        350,
+                        350
+                    ],
+                    "armor_penetration_per_angle": [
+                        5,
+                        5,
+                        5,
+                        0
+                    ],
+                    "demolition_strength": 30,
+                    "force_strength": 30,
+                    "force_impulse": 35,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_198",
+                    "damage": [
+                        175,
+                        175
+                    ],
+                    "armor_penetration_per_angle": [
+                        3,
+                        0,
+                        0,
+                        0
+                    ],
+                    "demolition_strength": 30,
+                    "force_strength": 30,
+                    "force_impulse": 30,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_199",
                     "damage": [
                         100,
                         100
@@ -11952,77 +12407,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_191",
-                    "damage": [
-                        100,
-                        100
-                    ],
-                    "armor_penetration_per_angle": [
-                        3,
-                        0,
-                        0,
-                        0
-                    ],
-                    "demolition_strength": 30,
-                    "force_strength": 30,
-                    "force_impulse": 50,
-                    "element_type": "ElementType_None",
-                    "status_effects": [
-                        {
-                            "type": "StatusEffectType_None",
-                            "value": 0
-                        },
-                        {
-                            "type": "StatusEffectType_None",
-                            "value": 0
-                        },
-                        {
-                            "type": "StatusEffectType_None",
-                            "value": 0
-                        },
-                        {
-                            "type": "StatusEffectType_None",
-                            "value": 0
-                        }
-                    ]
-                },
-                {
-                    "type": "DMG_TYPE_192",
-                    "damage": [
-                        100,
-                        100
-                    ],
-                    "armor_penetration_per_angle": [
-                        3,
-                        0,
-                        0,
-                        0
-                    ],
-                    "demolition_strength": 30,
-                    "force_strength": 30,
-                    "force_impulse": 50,
-                    "element_type": "ElementType_None",
-                    "status_effects": [
-                        {
-                            "type": "StatusEffectType_None",
-                            "value": 0
-                        },
-                        {
-                            "type": "StatusEffectType_None",
-                            "value": 0
-                        },
-                        {
-                            "type": "StatusEffectType_None",
-                            "value": 0
-                        },
-                        {
-                            "type": "StatusEffectType_None",
-                            "value": 0
-                        }
-                    ]
-                },
-                {
-                    "type": "DMG_TYPE_193",
+                    "type": "DMG_TYPE_200",
                     "damage": [
                         250,
                         250
@@ -12267,7 +12652,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_350",
+                    "type": "DMG_TYPE_364",
                     "damage": [
                         200,
                         200
@@ -13772,7 +14157,77 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_396",
+                    "type": "DMG_TYPE_410",
+                    "damage": [
+                        50,
+                        25
+                    ],
+                    "armor_penetration_per_angle": [
+                        7,
+                        7,
+                        7,
+                        0
+                    ],
+                    "demolition_strength": 40,
+                    "force_strength": 0,
+                    "force_impulse": 0,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_Fire",
+                            "value": 0.80000001192093
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_412",
+                    "damage": [
+                        0,
+                        0
+                    ],
+                    "armor_penetration_per_angle": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "demolition_strength": 0,
+                    "force_strength": 0,
+                    "force_impulse": 0,
+                    "element_type": "ElementType_None",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_Fire",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_411",
                     "damage": [
                         1800,
                         900
@@ -13877,7 +14332,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_399",
+                    "type": "DMG_TYPE_415",
                     "damage": [
                         20,
                         20
@@ -13912,7 +14367,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_400",
+                    "type": "DMG_TYPE_416",
                     "damage": [
                         40,
                         40
@@ -13947,7 +14402,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_401",
+                    "type": "DMG_TYPE_417",
                     "damage": [
                         100,
                         100
@@ -13982,7 +14437,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_402",
+                    "type": "DMG_TYPE_418",
                     "damage": [
                         20,
                         20
@@ -14087,7 +14542,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_405",
+                    "type": "DMG_TYPE_421",
                     "damage": [
                         200,
                         50
@@ -14192,7 +14647,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_408",
+                    "type": "DMG_TYPE_424",
                     "damage": [
                         110,
                         55
@@ -15767,7 +16222,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_453",
+                    "type": "DMG_TYPE_469",
                     "damage": [
                         25,
                         10
@@ -15977,7 +16432,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_459",
+                    "type": "DMG_TYPE_475",
                     "damage": [
                         30,
                         25
@@ -16012,7 +16467,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_460",
+                    "type": "DMG_TYPE_476",
                     "damage": [
                         0,
                         0
@@ -16047,7 +16502,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_461",
+                    "type": "DMG_TYPE_477",
                     "damage": [
                         30,
                         30
@@ -16082,7 +16537,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_462",
+                    "type": "DMG_TYPE_478",
                     "damage": [
                         50,
                         40
@@ -16117,7 +16572,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_463",
+                    "type": "DMG_TYPE_479",
                     "damage": [
                         5,
                         5
@@ -16502,7 +16957,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_474",
+                    "type": "DMG_TYPE_490",
                     "damage": [
                         0,
                         0
@@ -16607,7 +17062,42 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_475",
+                    "type": "DMG_TYPE_285",
+                    "damage": [
+                        0,
+                        0
+                    ],
+                    "armor_penetration_per_angle": [
+                        6,
+                        0,
+                        0,
+                        0
+                    ],
+                    "demolition_strength": 0,
+                    "force_strength": 0,
+                    "force_impulse": 0,
+                    "element_type": "ElementType_Electricity",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_StunMedium",
+                            "value": 25
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_491",
                     "damage": [
                         5,
                         5
@@ -16626,6 +17116,76 @@
                         {
                             "type": "StatusEffectType_None",
                             "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_286",
+                    "damage": [
+                        0,
+                        0
+                    ],
+                    "armor_penetration_per_angle": [
+                        6,
+                        0,
+                        0,
+                        0
+                    ],
+                    "demolition_strength": 0,
+                    "force_strength": 0,
+                    "force_impulse": 0,
+                    "element_type": "ElementType_Electricity",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_StunMedium",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "type": "DMG_TYPE_151",
+                    "damage": [
+                        55,
+                        55
+                    ],
+                    "armor_penetration_per_angle": [
+                        4,
+                        4,
+                        4,
+                        0
+                    ],
+                    "demolition_strength": 20,
+                    "force_strength": 35,
+                    "force_impulse": 10,
+                    "element_type": "ElementType_Electricity",
+                    "status_effects": [
+                        {
+                            "type": "StatusEffectType_StunSmall",
+                            "value": 1.5
                         },
                         {
                             "type": "StatusEffectType_None",
@@ -16776,10 +17336,10 @@
                     "type": "DamageInfoType_Projectile_Grenade_40mm_ProximityCone"
                 },
                 {
-                    "type_num": 205,
+                    "type_num": 212,
                     "hex_id": "16",
                     "idx": 22,
-                    "type": "DMG_TYPE_205"
+                    "type": "DMG_TYPE_212"
                 },
                 {
                     "type_num": 23,
@@ -16881,2617 +17441,2713 @@
                     "type_num": 39,
                     "hex_id": "27",
                     "idx": 39,
-                    "type": "DamageInfoType_Projectile_Plasma_Pistol_Charge"
+                    "type": "DMG_TYPE_039"
                 },
                 {
                     "type_num": 40,
                     "hex_id": "28",
                     "idx": 40,
-                    "type": "DamageInfoType_Projectile_Plasma_Rifle_Charge"
+                    "type": "DMG_TYPE_040"
                 },
                 {
                     "type_num": 41,
                     "hex_id": "29",
                     "idx": 41,
-                    "type": "DamageInfoType_Projectile_Railgun"
+                    "type": "DMG_TYPE_041"
                 },
                 {
                     "type_num": 42,
                     "hex_id": "2A",
                     "idx": 42,
-                    "type": "DamageInfoType_Projectile_Railgun_Stun"
+                    "type": "DamageInfoType_Projectile_Plasma_Pistol_Charge"
                 },
                 {
                     "type_num": 43,
                     "hex_id": "2B",
                     "idx": 43,
-                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_exp"
+                    "type": "DamageInfoType_Projectile_Plasma_Rifle_Charge"
                 },
                 {
                     "type_num": 44,
                     "hex_id": "2C",
                     "idx": 44,
-                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_fmj"
+                    "type": "DamageInfoType_Projectile_Railgun"
                 },
                 {
                     "type_num": 45,
                     "hex_id": "2D",
                     "idx": 45,
-                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_smj"
+                    "type": "DamageInfoType_Projectile_Railgun_Stun"
                 },
                 {
                     "type_num": 46,
                     "hex_id": "2E",
                     "idx": 46,
-                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_hp"
+                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_exp"
                 },
                 {
                     "type_num": 47,
                     "hex_id": "2F",
                     "idx": 47,
-                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_hv"
+                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_fmj"
                 },
                 {
                     "type_num": 48,
                     "hex_id": "30",
                     "idx": 48,
-                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_pla"
+                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_smj"
                 },
                 {
                     "type_num": 49,
                     "hex_id": "31",
                     "idx": 49,
-                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_rip"
+                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_hp"
                 },
                 {
                     "type_num": 50,
                     "hex_id": "32",
                     "idx": 50,
-                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_ther"
+                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_hv"
                 },
                 {
                     "type_num": 51,
                     "hex_id": "33",
                     "idx": 51,
-                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_tox"
+                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_pla"
                 },
                 {
                     "type_num": 52,
                     "hex_id": "34",
                     "idx": 52,
-                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_exp"
+                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_rip"
                 },
                 {
                     "type_num": 53,
                     "hex_id": "35",
                     "idx": 53,
-                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_fmj"
+                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_ther"
                 },
                 {
                     "type_num": 54,
                     "hex_id": "36",
                     "idx": 54,
-                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_hp"
+                    "type": "DamageInfoType_Projectile_Pistol_9x20mm_tox"
                 },
                 {
                     "type_num": 55,
                     "hex_id": "37",
                     "idx": 55,
-                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_hv"
+                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_exp"
                 },
                 {
                     "type_num": 56,
                     "hex_id": "38",
                     "idx": 56,
-                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_pla"
+                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_fmj"
                 },
                 {
                     "type_num": 57,
                     "hex_id": "39",
                     "idx": 57,
-                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_rip"
+                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_hp"
                 },
                 {
                     "type_num": 58,
                     "hex_id": "3A",
                     "idx": 58,
-                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_ther"
+                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_hv"
                 },
                 {
                     "type_num": 59,
                     "hex_id": "3B",
                     "idx": 59,
-                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_tox"
+                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_pla"
                 },
                 {
                     "type_num": 60,
                     "hex_id": "3C",
                     "idx": 60,
-                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_stun"
+                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_rip"
                 },
                 {
                     "type_num": 61,
                     "hex_id": "3D",
                     "idx": 61,
-                    "type": "DamageInfoType_Projectile_Pistol_Magnum"
+                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_ther"
                 },
                 {
                     "type_num": 62,
                     "hex_id": "3E",
                     "idx": 62,
-                    "type": "DamageInfoType_Projectile_SMG_Rhino"
+                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_tox"
                 },
                 {
                     "type_num": 63,
                     "hex_id": "3F",
                     "idx": 63,
-                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_ap"
+                    "type": "DamageInfoType_Projectile_Pistol_12x25mm_stun"
                 },
                 {
                     "type_num": 64,
                     "hex_id": "40",
                     "idx": 64,
-                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_fmj"
+                    "type": "DamageInfoType_Projectile_Pistol_Magnum"
                 },
                 {
                     "type_num": 65,
                     "hex_id": "41",
                     "idx": 65,
-                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_hp"
+                    "type": "DamageInfoType_Projectile_Pistol_Warrant"
                 },
                 {
                     "type_num": 66,
                     "hex_id": "42",
                     "idx": 66,
-                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_mag"
+                    "type": "DamageInfoType_Projectile_SMG_Rhino"
                 },
                 {
                     "type_num": 67,
                     "hex_id": "43",
                     "idx": 67,
-                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_rip"
+                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_ap"
                 },
                 {
                     "type_num": 68,
                     "hex_id": "44",
                     "idx": 68,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_ap"
+                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_fmj"
                 },
                 {
                     "type_num": 69,
                     "hex_id": "45",
                     "idx": 69,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_dev"
+                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_hp"
                 },
                 {
                     "type_num": 70,
                     "hex_id": "46",
                     "idx": 70,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_exp"
+                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_mag"
                 },
                 {
                     "type_num": 71,
                     "hex_id": "47",
                     "idx": 71,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_fmj"
+                    "type": "DamageInfoType_Projectile_Pistol_13x40mm_rip"
                 },
                 {
                     "type_num": 72,
                     "hex_id": "48",
                     "idx": 72,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_hp"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_ap"
                 },
                 {
                     "type_num": 73,
                     "hex_id": "49",
                     "idx": 73,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_hv"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_dev"
                 },
                 {
                     "type_num": 74,
                     "hex_id": "4A",
                     "idx": 74,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_pow"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_exp"
                 },
                 {
                     "type_num": 75,
                     "hex_id": "4B",
                     "idx": 75,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_rip"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_fmj"
                 },
                 {
                     "type_num": 76,
                     "hex_id": "4C",
                     "idx": 76,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_spr"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_hp"
                 },
                 {
                     "type_num": 77,
                     "hex_id": "4D",
                     "idx": 77,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_ss"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_hv"
                 },
                 {
                     "type_num": 78,
                     "hex_id": "4E",
                     "idx": 78,
-                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_suc"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_pow"
                 },
                 {
                     "type_num": 79,
                     "hex_id": "4F",
                     "idx": 79,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_airb"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_rip"
                 },
                 {
                     "type_num": 80,
                     "hex_id": "50",
                     "idx": 80,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_ap"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_spr"
                 },
                 {
                     "type_num": 81,
                     "hex_id": "51",
                     "idx": 81,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_apt"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_ss"
                 },
                 {
                     "type_num": 82,
                     "hex_id": "52",
                     "idx": 82,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_dev"
+                    "type": "DamageInfoType_Projectile_Rifle_5p5x50mm_suc"
                 },
                 {
                     "type_num": 83,
                     "hex_id": "53",
                     "idx": 83,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_exp"
+                    "type": "DamageInfoType_Projectile_Rifle_Pacifier"
                 },
                 {
                     "type_num": 84,
                     "hex_id": "54",
                     "idx": 84,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_flm"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_airb"
                 },
                 {
                     "type_num": 85,
                     "hex_id": "55",
                     "idx": 85,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_fmj"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_ap"
                 },
                 {
                     "type_num": 86,
                     "hex_id": "56",
                     "idx": 86,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_hv"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_apt"
                 },
                 {
                     "type_num": 87,
                     "hex_id": "57",
                     "idx": 87,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_pow"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_dev"
                 },
                 {
                     "type_num": 88,
                     "hex_id": "58",
                     "idx": 88,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_snb"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_exp"
                 },
                 {
                     "type_num": 89,
                     "hex_id": "59",
                     "idx": 89,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_ss"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_flm"
                 },
                 {
                     "type_num": 90,
                     "hex_id": "5A",
                     "idx": 90,
-                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_suc"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_fmj"
                 },
                 {
                     "type_num": 91,
                     "hex_id": "5B",
                     "idx": 91,
-                    "type": "DamageInfoType_Projectile_Battle_Rifle"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_hv"
                 },
                 {
                     "type_num": 92,
                     "hex_id": "5C",
                     "idx": 92,
-                    "type": "DamageInfoType_Projectile_Rifle_Rico"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_pow"
                 },
                 {
                     "type_num": 93,
                     "hex_id": "5D",
                     "idx": 93,
-                    "type": "DamageInfoType_Projectile_Rifle_Constitution"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_snb"
                 },
                 {
                     "type_num": 94,
                     "hex_id": "5E",
                     "idx": 94,
-                    "type": "DMG_TYPE_094"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_ss"
                 },
                 {
                     "type_num": 95,
                     "hex_id": "5F",
                     "idx": 95,
-                    "type": "DamageInfoType_LeverRifle_Deadeye"
+                    "type": "DamageInfoType_Projectile_Rifle_8x60mm_suc"
                 },
                 {
                     "type_num": 96,
                     "hex_id": "60",
                     "idx": 96,
-                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_ap"
+                    "type": "DamageInfoType_Projectile_Battle_Rifle"
                 },
                 {
                     "type_num": 97,
                     "hex_id": "61",
                     "idx": 97,
-                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_fmj"
+                    "type": "DamageInfoType_Projectile_Rifle_Rico"
                 },
                 {
                     "type_num": 98,
                     "hex_id": "62",
                     "idx": 98,
-                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_hv"
+                    "type": "DamageInfoType_Projectile_Rifle_Constitution"
                 },
                 {
                     "type_num": 99,
                     "hex_id": "63",
                     "idx": 99,
-                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_snb"
+                    "type": "DamageInfoType_Projectile_Rifle_Amendment"
                 },
                 {
                     "type_num": 100,
                     "hex_id": "64",
                     "idx": 100,
-                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_soc"
+                    "type": "DamageInfoType_LeverRifle_Deadeye"
                 },
                 {
                     "type_num": 101,
                     "hex_id": "65",
                     "idx": 101,
-                    "type": "DMG_TYPE_101"
+                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_ap"
                 },
                 {
                     "type_num": 102,
                     "hex_id": "66",
                     "idx": 102,
-                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_suc"
+                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_fmj"
                 },
                 {
                     "type_num": 103,
                     "hex_id": "67",
                     "idx": 103,
-                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_emp"
+                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_hv"
                 },
                 {
                     "type_num": 104,
                     "hex_id": "68",
                     "idx": 104,
-                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_exp"
+                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_snb"
                 },
                 {
                     "type_num": 105,
                     "hex_id": "69",
                     "idx": 105,
-                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_frag"
+                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_soc"
                 },
                 {
                     "type_num": 106,
                     "hex_id": "6A",
                     "idx": 106,
-                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_hv"
+                    "type": "DMG_TYPE_106"
                 },
                 {
                     "type_num": 107,
                     "hex_id": "6B",
                     "idx": 107,
-                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_pla"
+                    "type": "DamageInfoType_Projectile_Rifle_9x70mm_suc"
                 },
                 {
                     "type_num": 108,
                     "hex_id": "6C",
                     "idx": 108,
-                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_std"
+                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_emp"
                 },
                 {
                     "type_num": 109,
                     "hex_id": "6D",
                     "idx": 109,
-                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_ther"
+                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_exp"
                 },
                 {
                     "type_num": 110,
                     "hex_id": "6E",
                     "idx": 110,
-                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_tox"
+                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_frag"
                 },
                 {
                     "type_num": 111,
                     "hex_id": "6F",
                     "idx": 111,
-                    "type": "DamageInfoType_Projectile_TripleBarrelShotgun_10g_buc"
+                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_hv"
                 },
                 {
                     "type_num": 112,
                     "hex_id": "70",
                     "idx": 112,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_bir"
+                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_pla"
                 },
                 {
                     "type_num": 113,
                     "hex_id": "71",
                     "idx": 113,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_buc"
+                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_std"
                 },
                 {
                     "type_num": 114,
                     "hex_id": "72",
                     "idx": 114,
-                    "type": "DamageInfoType_Projectile_Shotgun_Dragon_10g_flm"
+                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_ther"
                 },
                 {
                     "type_num": 115,
                     "hex_id": "73",
                     "idx": 115,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_bug"
+                    "type": "DamageInfoType_Projectile_Rocket_15x100mm_tox"
                 },
                 {
                     "type_num": 116,
                     "hex_id": "74",
                     "idx": 116,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_fle"
+                    "type": "DamageInfoType_Projectile_TripleBarrelShotgun_10g_buc"
                 },
                 {
                     "type_num": 117,
                     "hex_id": "75",
                     "idx": 117,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_flm"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_bir"
                 },
                 {
                     "type_num": 118,
                     "hex_id": "76",
                     "idx": 118,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_frag"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_buc"
                 },
                 {
                     "type_num": 119,
                     "hex_id": "77",
                     "idx": 119,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_mag"
+                    "type": "DamageInfoType_Projectile_Shotgun_Dragon_10g_flm"
                 },
                 {
                     "type_num": 120,
                     "hex_id": "78",
                     "idx": 120,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_magtri"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_bug"
                 },
                 {
                     "type_num": 121,
                     "hex_id": "79",
                     "idx": 121,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_sab"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_fle"
                 },
                 {
                     "type_num": 122,
                     "hex_id": "7A",
                     "idx": 122,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_sab2"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_flm"
                 },
                 {
                     "type_num": 123,
                     "hex_id": "7B",
                     "idx": 123,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_sabhv"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_frag"
                 },
                 {
                     "type_num": 124,
                     "hex_id": "7C",
                     "idx": 124,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_scs"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_mag"
                 },
                 {
                     "type_num": 125,
                     "hex_id": "7D",
                     "idx": 125,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_stun"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_magtri"
                 },
                 {
                     "type_num": 126,
                     "hex_id": "7E",
                     "idx": 126,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_slug"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_sab"
                 },
                 {
                     "type_num": 127,
                     "hex_id": "7F",
                     "idx": 127,
-                    "type": "DamageInfoType_Projectile_Shotgun_10g_tri"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_sab2"
                 },
                 {
                     "type_num": 128,
                     "hex_id": "80",
                     "idx": 128,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_bir"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_sabhv"
                 },
                 {
                     "type_num": 129,
                     "hex_id": "81",
                     "idx": 129,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_buc"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_scs"
                 },
                 {
                     "type_num": 130,
                     "hex_id": "82",
                     "idx": 130,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_bug"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_stun"
                 },
                 {
                     "type_num": 131,
                     "hex_id": "83",
                     "idx": 131,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_fle"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_slug"
                 },
                 {
                     "type_num": 132,
                     "hex_id": "84",
                     "idx": 132,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_flm"
+                    "type": "DamageInfoType_Projectile_Shotgun_10g_tri"
                 },
                 {
                     "type_num": 133,
                     "hex_id": "85",
                     "idx": 133,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_mag"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_bir"
                 },
                 {
                     "type_num": 134,
                     "hex_id": "86",
                     "idx": 134,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_magtri"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_buc"
                 },
                 {
                     "type_num": 135,
                     "hex_id": "87",
                     "idx": 135,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_scs"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_bug"
                 },
                 {
                     "type_num": 136,
                     "hex_id": "88",
                     "idx": 136,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_scs_shrapnel"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_fle"
                 },
                 {
                     "type_num": 137,
                     "hex_id": "89",
                     "idx": 137,
-                    "type": "DamageInfoType_Projectile_Shotgun_12g_tri"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_flm"
                 },
                 {
                     "type_num": 138,
                     "hex_id": "8A",
                     "idx": 138,
-                    "type": "DamageInfoType_Projectile_Shrapnel"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_mag"
                 },
                 {
                     "type_num": 139,
                     "hex_id": "8B",
                     "idx": 139,
-                    "type": "DamageInfoType_Projectile_Shrapnel_High_Velocity"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_magtri"
                 },
                 {
                     "type_num": 140,
                     "hex_id": "8C",
                     "idx": 140,
-                    "type": "DamageInfoType_Projectile_StratagemLauncher"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_scs"
                 },
                 {
                     "type_num": 141,
                     "hex_id": "8D",
                     "idx": 141,
-                    "type": "DamageInfoType_Projectile_World_VolcanoStrike"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_scs_shrapnel"
                 },
                 {
                     "type_num": 142,
                     "hex_id": "8E",
                     "idx": 142,
-                    "type": "DamageInfoType_Projectile_Arc_Thrower"
+                    "type": "DamageInfoType_Projectile_Shotgun_12g_tri"
                 },
                 {
                     "type_num": 143,
                     "hex_id": "8F",
                     "idx": 143,
-                    "type": "DamageInfoType_Projectile_Arc_Thrower_Mk2"
+                    "type": "DamageInfoType_Projectile_Shrapnel"
                 },
                 {
                     "type_num": 144,
                     "hex_id": "90",
                     "idx": 144,
-                    "type": "DamageInfoType_Projectile_Arc_Shotgun"
+                    "type": "DamageInfoType_Projectile_Shrapnel_High_Velocity"
                 },
                 {
                     "type_num": 145,
                     "hex_id": "91",
                     "idx": 145,
-                    "type": "DamageInfoType_Projectile_Cannon_20mm_Flak"
+                    "type": "DamageInfoType_Projectile_StratagemLauncher"
                 },
                 {
                     "type_num": 146,
                     "hex_id": "92",
                     "idx": 146,
-                    "type": "DamageInfoType_Projectile_CyborgHmg"
+                    "type": "DamageInfoType_Projectile_World_VolcanoStrike"
                 },
                 {
                     "type_num": 147,
                     "hex_id": "93",
                     "idx": 147,
-                    "type": "DamageInfoType_Projectile_Rifle_12p5x100mm_fmj"
+                    "type": "DamageInfoType_Projectile_Arc_Thrower"
                 },
                 {
                     "type_num": 148,
                     "hex_id": "94",
                     "idx": 148,
-                    "type": "DamageInfoType_Projectile_Rifle_12p5x100mm_bchp"
+                    "type": "DamageInfoType_Projectile_Arc_Thrower_Mk2"
                 },
                 {
                     "type_num": 149,
                     "hex_id": "95",
                     "idx": 149,
-                    "type": "DamageInfoType_Projectile_Rifle_12p5x100mm_eit"
+                    "type": "DamageInfoType_Projectile_Arc_Shotgun"
                 },
                 {
                     "type_num": 150,
                     "hex_id": "96",
                     "idx": 150,
-                    "type": "DamageInfoType_Projectile_Rifle_12p5x100mm_eit_mk2"
-                },
-                {
-                    "type_num": 151,
-                    "hex_id": "97",
-                    "idx": 151,
-                    "type": "DamageInfoType_Projectile_Crossbow_Bolt"
+                    "type": "DMG_TYPE_150"
                 },
                 {
                     "type_num": 152,
-                    "hex_id": "98",
-                    "idx": 152,
-                    "type": "DamageInfoType_Explosion_Crossbow_Bolt"
+                    "hex_id": "97",
+                    "idx": 151,
+                    "type": "DamageInfoType_Projectile_Cannon_20mm_Flak"
                 },
                 {
                     "type_num": 153,
-                    "hex_id": "99",
-                    "idx": 153,
-                    "type": "DMG_TYPE_153"
+                    "hex_id": "98",
+                    "idx": 152,
+                    "type": "DamageInfoType_Projectile_CyborgHmg"
                 },
                 {
                     "type_num": 154,
-                    "hex_id": "9A",
-                    "idx": 154,
-                    "type": "DamageInfoType_Projectile_Tesla_Turret"
+                    "hex_id": "99",
+                    "idx": 153,
+                    "type": "DamageInfoType_Projectile_Rifle_12p5x100mm_fmj"
                 },
                 {
                     "type_num": 155,
-                    "hex_id": "9B",
-                    "idx": 155,
-                    "type": "DamageInfoType_Projectile_Cannon_20mm_APHET"
+                    "hex_id": "9A",
+                    "idx": 154,
+                    "type": "DamageInfoType_Projectile_Rifle_12p5x100mm_bchp"
                 },
                 {
                     "type_num": 156,
-                    "hex_id": "9C",
-                    "idx": 156,
-                    "type": "DamageInfoType_Projectile_Cannon_20mm_HVAPT"
+                    "hex_id": "9B",
+                    "idx": 155,
+                    "type": "DamageInfoType_Projectile_Rifle_12p5x100mm_eit"
                 },
                 {
                     "type_num": 157,
-                    "hex_id": "9D",
-                    "idx": 157,
-                    "type": "DamageInfoType_Projectile_Cannon_30mm_APHE"
+                    "hex_id": "9C",
+                    "idx": 156,
+                    "type": "DamageInfoType_Projectile_Rifle_12p5x100mm_eit_mk2"
                 },
                 {
                     "type_num": 158,
-                    "hex_id": "9E",
-                    "idx": 158,
-                    "type": "DamageInfoType_Projectile_Cannon_40mm_APHE"
+                    "hex_id": "9D",
+                    "idx": 157,
+                    "type": "DamageInfoType_Projectile_Crossbow_Bolt"
                 },
                 {
                     "type_num": 159,
-                    "hex_id": "9F",
-                    "idx": 159,
-                    "type": "DamageInfoType_Projectile_Cannon_40mm_Flak"
+                    "hex_id": "9E",
+                    "idx": 158,
+                    "type": "DamageInfoType_Explosion_Crossbow_Bolt"
                 },
                 {
                     "type_num": 160,
-                    "hex_id": "A0",
-                    "idx": 160,
-                    "type": "DamageInfoType_Projectile_Cannon_Eagle_23mm"
+                    "hex_id": "9F",
+                    "idx": 159,
+                    "type": "DMG_TYPE_160"
                 },
                 {
                     "type_num": 161,
-                    "hex_id": "A1",
-                    "idx": 161,
-                    "type": "DamageInfoType_Projectile_CyborgLightCannon"
+                    "hex_id": "A0",
+                    "idx": 160,
+                    "type": "DamageInfoType_Projectile_Tesla_Turret"
                 },
                 {
                     "type_num": 162,
-                    "hex_id": "A2",
-                    "idx": 162,
-                    "type": "DamageInfoType_Projectile_Grenade_40mm_HEAT"
+                    "hex_id": "A1",
+                    "idx": 161,
+                    "type": "DamageInfoType_Projectile_Cannon_20mm_APHET"
                 },
                 {
                     "type_num": 163,
-                    "hex_id": "A3",
-                    "idx": 163,
-                    "type": "DMG_TYPE_163"
+                    "hex_id": "A2",
+                    "idx": 162,
+                    "type": "DamageInfoType_Projectile_Cannon_20mm_HVAPT"
                 },
                 {
                     "type_num": 164,
-                    "hex_id": "A4",
-                    "idx": 164,
-                    "type": "DamageInfoType_Projectile_Grenade_75mm_HEAT"
+                    "hex_id": "A3",
+                    "idx": 163,
+                    "type": "DamageInfoType_Projectile_Cannon_30mm_APHE"
                 },
                 {
                     "type_num": 165,
-                    "hex_id": "A5",
-                    "idx": 165,
-                    "type": "DamageInfoType_Projectile_Grenade_85mm_HEAT"
+                    "hex_id": "A4",
+                    "idx": 164,
+                    "type": "DamageInfoType_Projectile_Cannon_40mm_APHE"
                 },
                 {
                     "type_num": 166,
-                    "hex_id": "A6",
-                    "idx": 166,
-                    "type": "DamageInfoType_Projectile_Grenade_85mm_HEAT_MK2"
+                    "hex_id": "A5",
+                    "idx": 165,
+                    "type": "DamageInfoType_Projectile_Cannon_40mm_Flak"
                 },
                 {
                     "type_num": 167,
-                    "hex_id": "A7",
-                    "idx": 167,
-                    "type": "DamageInfoType_Projectile_Grenade_Mortar_40mm_Aphe"
+                    "hex_id": "A6",
+                    "idx": 166,
+                    "type": "DamageInfoType_Projectile_Cannon_Eagle_23mm"
                 },
                 {
                     "type_num": 168,
-                    "hex_id": "A8",
-                    "idx": 168,
-                    "type": "DamageInfoType_Projectile_Grenade_Mortar_40mm_HE"
+                    "hex_id": "A7",
+                    "idx": 167,
+                    "type": "DamageInfoType_Projectile_CyborgLightCannon"
                 },
                 {
                     "type_num": 169,
-                    "hex_id": "A9",
-                    "idx": 169,
-                    "type": "DamageInfoType_Projectile_Rocket_70mm"
+                    "hex_id": "A8",
+                    "idx": 168,
+                    "type": "DamageInfoType_Projectile_Grenade_40mm_HEAT"
                 },
                 {
                     "type_num": 170,
-                    "hex_id": "AA",
-                    "idx": 170,
-                    "type": "DamageInfoType_Projectile_Anti_Missile_Robot"
+                    "hex_id": "A9",
+                    "idx": 169,
+                    "type": "DMG_TYPE_170"
                 },
                 {
                     "type_num": 171,
-                    "hex_id": "AB",
-                    "idx": 171,
-                    "type": "DamageInfoType_Projectile_Bomb_100kg"
+                    "hex_id": "AA",
+                    "idx": 170,
+                    "type": "DamageInfoType_Projectile_Grenade_75mm_HEAT"
                 },
                 {
                     "type_num": 172,
-                    "hex_id": "AC",
-                    "idx": 172,
-                    "type": "DamageInfoType_Projectile_Grenade_85mm_HE"
+                    "hex_id": "AB",
+                    "idx": 171,
+                    "type": "DamageInfoType_Projectile_Grenade_85mm_HEAT"
                 },
                 {
                     "type_num": 173,
-                    "hex_id": "AD",
-                    "idx": 173,
-                    "type": "DamageInfoType_Projectile_Illuminate_OutcastBeam"
+                    "hex_id": "AC",
+                    "idx": 172,
+                    "type": "DamageInfoType_Projectile_Grenade_85mm_HEAT_MK2"
                 },
                 {
                     "type_num": 174,
-                    "hex_id": "AE",
-                    "idx": 174,
-                    "type": "DamageInfoType_Projectile_Missile_66mm"
+                    "hex_id": "AD",
+                    "idx": 173,
+                    "type": "DamageInfoType_Projectile_Grenade_Mortar_40mm_Aphe"
                 },
                 {
                     "type_num": 175,
-                    "hex_id": "AF",
-                    "idx": 175,
-                    "type": "DamageInfoType_Projectile_Missile_66mm_MK2"
+                    "hex_id": "AE",
+                    "idx": 174,
+                    "type": "DamageInfoType_Projectile_Grenade_Mortar_40mm_HE"
                 },
                 {
                     "type_num": 176,
-                    "hex_id": "B0",
-                    "idx": 176,
-                    "type": "DamageInfoType_Projectile_Missile_Combat_Walker"
+                    "hex_id": "AF",
+                    "idx": 175,
+                    "type": "DamageInfoType_Projectile_Rocket_70mm"
                 },
                 {
                     "type_num": 177,
-                    "hex_id": "B1",
-                    "idx": 177,
-                    "type": "DamageInfoType_Projectile_Missile_Combat_Walker_MK2"
+                    "hex_id": "B0",
+                    "idx": 176,
+                    "type": "DamageInfoType_Projectile_Anti_Missile_Robot"
                 },
                 {
                     "type_num": 178,
-                    "hex_id": "B2",
-                    "idx": 178,
-                    "type": "DamageInfoType_Projectile_WASP_Hornets"
+                    "hex_id": "B1",
+                    "idx": 177,
+                    "type": "DamageInfoType_Projectile_Bomb_100kg"
                 },
                 {
                     "type_num": 179,
-                    "hex_id": "B3",
-                    "idx": 179,
-                    "type": "DamageInfoType_Projectile_Missile_Faf"
+                    "hex_id": "B2",
+                    "idx": 178,
+                    "type": "DamageInfoType_Projectile_Grenade_85mm_HE"
                 },
                 {
                     "type_num": 180,
-                    "hex_id": "B4",
-                    "idx": 180,
-                    "type": "DamageInfoType_Projectile_Missile_Faf_MK2"
+                    "hex_id": "B3",
+                    "idx": 179,
+                    "type": "DamageInfoType_Projectile_Illuminate_OutcastBeam"
                 },
                 {
                     "type_num": 181,
-                    "hex_id": "B5",
-                    "idx": 181,
-                    "type": "DamageInfoType_Projectile_Missile_Stinger"
+                    "hex_id": "B4",
+                    "idx": 180,
+                    "type": "DamageInfoType_Projectile_Missile_66mm"
                 },
                 {
                     "type_num": 182,
-                    "hex_id": "B6",
-                    "idx": 182,
-                    "type": "DamageInfoType_Projectile_Rocket_110mm"
+                    "hex_id": "B5",
+                    "idx": 181,
+                    "type": "DamageInfoType_Projectile_Missile_66mm_MK2"
                 },
                 {
                     "type_num": 183,
-                    "hex_id": "B7",
-                    "idx": 183,
-                    "type": "DamageInfoType_Projectile_Missile_SAM"
+                    "hex_id": "B6",
+                    "idx": 182,
+                    "type": "DamageInfoType_Projectile_Missile_Combat_Walker"
                 },
                 {
                     "type_num": 184,
-                    "hex_id": "B8",
-                    "idx": 184,
-                    "type": "DamageInfoType_Projectile_Strider_Spike"
+                    "hex_id": "B7",
+                    "idx": 183,
+                    "type": "DamageInfoType_Projectile_Missile_Combat_Walker_MK2"
                 },
                 {
                     "type_num": 185,
-                    "hex_id": "B9",
-                    "idx": 185,
-                    "type": "DamageInfoType_Projectile_Bomb_500kg"
+                    "hex_id": "B8",
+                    "idx": 184,
+                    "type": "DamageInfoType_Projectile_WASP_Hornets"
                 },
                 {
                     "type_num": 186,
-                    "hex_id": "BA",
-                    "idx": 186,
-                    "type": "DamageInfoType_Projectile_Bug_Artillery"
+                    "hex_id": "B9",
+                    "idx": 185,
+                    "type": "DamageInfoType_Projectile_Missile_Faf"
                 },
                 {
                     "type_num": 187,
-                    "hex_id": "BB",
-                    "idx": 187,
-                    "type": "DamageInfoType_Projectile_Cyborg_Artillery"
+                    "hex_id": "BA",
+                    "idx": 186,
+                    "type": "DamageInfoType_Projectile_Missile_Faf_MK2"
                 },
                 {
                     "type_num": 188,
-                    "hex_id": "BC",
-                    "idx": 188,
-                    "type": "DamageInfoType_Projectile_CyborgHeavyCannon"
+                    "hex_id": "BB",
+                    "idx": 187,
+                    "type": "DamageInfoType_Projectile_Missile_Stinger"
                 },
                 {
                     "type_num": 189,
+                    "hex_id": "BC",
+                    "idx": 188,
+                    "type": "DamageInfoType_Projectile_Rocket_110mm"
+                },
+                {
+                    "type_num": 190,
                     "hex_id": "BD",
                     "idx": 189,
-                    "type": "DMG_TYPE_189"
+                    "type": "DamageInfoType_Projectile_Missile_SAM"
+                },
+                {
+                    "type_num": 191,
+                    "hex_id": "BE",
+                    "idx": 190,
+                    "type": "DamageInfoType_Projectile_Strider_Spike"
+                },
+                {
+                    "type_num": 192,
+                    "hex_id": "BF",
+                    "idx": 191,
+                    "type": "DamageInfoType_Projectile_Bomb_500kg"
+                },
+                {
+                    "type_num": 193,
+                    "hex_id": "C0",
+                    "idx": 192,
+                    "type": "DamageInfoType_Projectile_Bug_Artillery"
                 },
                 {
                     "type_num": 194,
-                    "hex_id": "BE",
-                    "idx": 190,
-                    "type": "DamageInfoType_Projectile_Orbital_Cannon_110mm"
+                    "hex_id": "C1",
+                    "idx": 193,
+                    "type": "DamageInfoType_Projectile_Cyborg_Artillery"
                 },
                 {
                     "type_num": 195,
-                    "hex_id": "BF",
-                    "idx": 191,
-                    "type": "DamageInfoType_Projectile_Orbital_Cannon_120mm_HE"
+                    "hex_id": "C2",
+                    "idx": 194,
+                    "type": "DamageInfoType_Projectile_CyborgHeavyCannon"
                 },
                 {
                     "type_num": 196,
-                    "hex_id": "C0",
-                    "idx": 192,
-                    "type": "DamageInfoType_Projectile_Orbital_Cannon_380MM_HE"
-                },
-                {
-                    "type_num": 197,
-                    "hex_id": "C1",
-                    "idx": 193,
-                    "type": "DamageInfoType_Projectile_Orbital_Napalm"
-                },
-                {
-                    "type_num": 198,
-                    "hex_id": "C2",
-                    "idx": 194,
-                    "type": "DamageInfoType_Explosion_Orbital_Napalm"
-                },
-                {
-                    "type_num": 199,
                     "hex_id": "C3",
                     "idx": 195,
-                    "type": "DamageInfoType_Projectile_Orbital_Railcannon"
-                },
-                {
-                    "type_num": 200,
-                    "hex_id": "C4",
-                    "idx": 196,
-                    "type": "DamageInfoType_Projectile_Orbital_Stunround"
+                    "type": "DamageInfoType_Projectile_Illuminate_Leviathan"
                 },
                 {
                     "type_num": 201,
-                    "hex_id": "C5",
-                    "idx": 197,
-                    "type": "DamageInfoType_Projectile_World_Meteor"
+                    "hex_id": "C4",
+                    "idx": 196,
+                    "type": "DamageInfoType_Projectile_Orbital_Cannon_110mm"
                 },
                 {
                     "type_num": 202,
-                    "hex_id": "C6",
-                    "idx": 198,
-                    "type": "DamageInfoType_Projectile_Cyborg_Dropship"
+                    "hex_id": "C5",
+                    "idx": 197,
+                    "type": "DamageInfoType_Projectile_Orbital_Cannon_120mm_HE"
                 },
                 {
                     "type_num": 203,
-                    "hex_id": "C7",
-                    "idx": 199,
-                    "type": "DamageInfoType_Projectile_Cyborg_Orbital_Cannon"
+                    "hex_id": "C6",
+                    "idx": 198,
+                    "type": "DamageInfoType_Projectile_Orbital_Cannon_380MM_HE"
                 },
                 {
                     "type_num": 204,
+                    "hex_id": "C7",
+                    "idx": 199,
+                    "type": "DamageInfoType_Projectile_Orbital_Napalm"
+                },
+                {
+                    "type_num": 205,
                     "hex_id": "C8",
                     "idx": 200,
-                    "type": "DamageInfoType_Projectile_Illuminate_Orb"
+                    "type": "DamageInfoType_Explosion_Orbital_Napalm"
                 },
                 {
                     "type_num": 206,
                     "hex_id": "C9",
                     "idx": 201,
-                    "type": "DamageInfoType_Projectile_Spikeplant_Shrapnel"
+                    "type": "DamageInfoType_Projectile_Orbital_Railcannon"
                 },
                 {
                     "type_num": 207,
                     "hex_id": "CA",
                     "idx": 202,
-                    "type": "DamageInfoType_Explosion_None"
+                    "type": "DamageInfoType_Projectile_Orbital_Stunround"
                 },
                 {
                     "type_num": 208,
                     "hex_id": "CB",
                     "idx": 203,
-                    "type": "DamageInfoType_Explosion_HandGrenade_Flash"
+                    "type": "DamageInfoType_Projectile_World_Meteor"
                 },
                 {
                     "type_num": 209,
                     "hex_id": "CC",
                     "idx": 204,
-                    "type": "DMG_TYPE_209"
+                    "type": "DamageInfoType_Projectile_Cyborg_Dropship"
                 },
                 {
                     "type_num": 210,
                     "hex_id": "CD",
                     "idx": 205,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_Stun"
+                    "type": "DamageInfoType_Projectile_Cyborg_Orbital_Cannon"
                 },
                 {
                     "type_num": 211,
                     "hex_id": "CE",
                     "idx": 206,
-                    "type": "DamageInfoType_Explosion_Projectile_Snowball"
-                },
-                {
-                    "type_num": 212,
-                    "hex_id": "CF",
-                    "idx": 207,
-                    "type": "DamageInfoType_Explosion_BackblastNone"
+                    "type": "DamageInfoType_Projectile_Illuminate_Orb"
                 },
                 {
                     "type_num": 213,
-                    "hex_id": "D0",
-                    "idx": 208,
-                    "type": "DamageInfoType_Explosion_MooMoo"
+                    "hex_id": "CF",
+                    "idx": 207,
+                    "type": "DamageInfoType_Projectile_Spikeplant_Shrapnel"
                 },
                 {
                     "type_num": 214,
-                    "hex_id": "D1",
-                    "idx": 209,
-                    "type": "DamageInfoType_Explosion_Boomer_AcidDeath"
+                    "hex_id": "D0",
+                    "idx": 208,
+                    "type": "DamageInfoType_Explosion_None"
                 },
                 {
                     "type_num": 215,
-                    "hex_id": "D2",
-                    "idx": 210,
-                    "type": "DamageInfoType_Explosion_Scavenger_AcidBall"
+                    "hex_id": "D1",
+                    "idx": 209,
+                    "type": "DamageInfoType_Explosion_HandGrenade_Flash"
                 },
                 {
                     "type_num": 216,
+                    "hex_id": "D2",
+                    "idx": 210,
+                    "type": "DMG_TYPE_216"
+                },
+                {
+                    "type_num": 217,
                     "hex_id": "D3",
                     "idx": 211,
-                    "type": "DamageInfoType_Explosion_Scavenger_AcidDeath"
+                    "type": "DMG_TYPE_217"
                 },
                 {
                     "type_num": 218,
                     "hex_id": "D4",
                     "idx": 212,
-                    "type": "DMG_TYPE_218"
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_Stun"
                 },
                 {
                     "type_num": 219,
                     "hex_id": "D5",
                     "idx": 213,
-                    "type": "DMG_TYPE_219"
+                    "type": "DamageInfoType_Explosion_Projectile_Snowball"
                 },
                 {
                     "type_num": 220,
                     "hex_id": "D6",
                     "idx": 214,
-                    "type": "DMG_TYPE_220"
+                    "type": "DamageInfoType_Explosion_BackblastNone"
                 },
                 {
                     "type_num": 221,
                     "hex_id": "D7",
                     "idx": 215,
-                    "type": "DamageInfoType_Explosion_Strider_StompShockwave"
+                    "type": "DamageInfoType_Explosion_MooMoo"
                 },
                 {
                     "type_num": 222,
                     "hex_id": "D8",
                     "idx": 216,
-                    "type": "DamageInfoType_Explosion_Geyser_Erupt"
+                    "type": "DamageInfoType_Explosion_Boomer_AcidDeath"
                 },
                 {
                     "type_num": 223,
                     "hex_id": "D9",
                     "idx": 217,
-                    "type": "DamageInfoType_Explosion_Earthquake"
+                    "type": "DamageInfoType_Explosion_Scavenger_AcidBall"
                 },
                 {
                     "type_num": 224,
                     "hex_id": "DA",
                     "idx": 218,
-                    "type": "DamageInfoType_Explosion_Projectile_12g_Frag"
-                },
-                {
-                    "type_num": 225,
-                    "hex_id": "DB",
-                    "idx": 219,
-                    "type": "DamageInfoType_Explosion_Projectile_12g_HE"
+                    "type": "DamageInfoType_Explosion_Scavenger_AcidDeath"
                 },
                 {
                     "type_num": 226,
-                    "hex_id": "DC",
-                    "idx": 220,
-                    "type": "DamageInfoType_Explosion_Projectile_15mm_HET"
+                    "hex_id": "DB",
+                    "idx": 219,
+                    "type": "DMG_TYPE_226"
                 },
                 {
                     "type_num": 227,
-                    "hex_id": "DD",
-                    "idx": 221,
-                    "type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Small"
+                    "hex_id": "DC",
+                    "idx": 220,
+                    "type": "DMG_TYPE_227"
                 },
                 {
                     "type_num": 228,
-                    "hex_id": "DE",
-                    "idx": 222,
-                    "type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Medium"
+                    "hex_id": "DD",
+                    "idx": 221,
+                    "type": "DMG_TYPE_228"
                 },
                 {
                     "type_num": 229,
-                    "hex_id": "DF",
-                    "idx": 223,
-                    "type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Medium_Volatile"
+                    "hex_id": "DE",
+                    "idx": 222,
+                    "type": "DamageInfoType_Explosion_Strider_StompShockwave"
                 },
                 {
                     "type_num": 230,
-                    "hex_id": "E0",
-                    "idx": 224,
-                    "type": "DamageInfoType_Projectile_PlasmaSniper"
+                    "hex_id": "DF",
+                    "idx": 223,
+                    "type": "DamageInfoType_Explosion_Geyser_Erupt"
                 },
                 {
                     "type_num": 231,
-                    "hex_id": "E1",
-                    "idx": 225,
-                    "type": "DamageInfoType_Explosion_PlasmaSniper"
+                    "hex_id": "E0",
+                    "idx": 224,
+                    "type": "DamageInfoType_Explosion_Earthquake"
                 },
                 {
                     "type_num": 232,
-                    "hex_id": "E2",
-                    "idx": 226,
-                    "type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Large"
+                    "hex_id": "E1",
+                    "idx": 225,
+                    "type": "DamageInfoType_Explosion_Projectile_12g_Frag"
                 },
                 {
                     "type_num": 233,
-                    "hex_id": "E3",
-                    "idx": 227,
-                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Punisher"
-                },
-                {
-                    "type_num": 236,
-                    "hex_id": "E4",
-                    "idx": 228,
-                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Pistol_Charge_Medium"
-                },
-                {
-                    "type_num": 237,
-                    "hex_id": "E5",
-                    "idx": 229,
-                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Pistol_Charge"
+                    "hex_id": "E2",
+                    "idx": 226,
+                    "type": "DamageInfoType_Explosion_Projectile_12g_HE"
                 },
                 {
                     "type_num": 234,
-                    "hex_id": "E6",
-                    "idx": 230,
-                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Rifle_Charge_Medium"
+                    "hex_id": "E3",
+                    "idx": 227,
+                    "type": "DamageInfoType_Explosion_Projectile_15mm_HET"
                 },
                 {
                     "type_num": 235,
-                    "hex_id": "E7",
-                    "idx": 231,
-                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Rifle_Charge"
+                    "hex_id": "E4",
+                    "idx": 228,
+                    "type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Small"
+                },
+                {
+                    "type_num": 236,
+                    "hex_id": "E5",
+                    "idx": 229,
+                    "type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Medium"
+                },
+                {
+                    "type_num": 237,
+                    "hex_id": "E6",
+                    "idx": 230,
+                    "type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Medium_Volatile"
                 },
                 {
                     "type_num": 238,
-                    "hex_id": "E8",
-                    "idx": 232,
-                    "type": "DamageInfoType_Explosion_Plasma_Cone"
+                    "hex_id": "E7",
+                    "idx": 231,
+                    "type": "DamageInfoType_Projectile_PlasmaSniper"
                 },
                 {
                     "type_num": 239,
-                    "hex_id": "E9",
-                    "idx": 233,
-                    "type": "DamageInfoType_Explosion_BackblastSmall"
+                    "hex_id": "E8",
+                    "idx": 232,
+                    "type": "DamageInfoType_Explosion_PlasmaSniper"
                 },
                 {
                     "type_num": 240,
-                    "hex_id": "EA",
-                    "idx": 234,
-                    "type": "DamageInfoType_Explosion_BackblastMedium"
+                    "hex_id": "E9",
+                    "idx": 233,
+                    "type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Large"
                 },
                 {
                     "type_num": 241,
-                    "hex_id": "EB",
-                    "idx": 235,
-                    "type": "DamageInfoType_Explosion_BackblastLarge"
-                },
-                {
-                    "type_num": 242,
-                    "hex_id": "EC",
-                    "idx": 236,
-                    "type": "DamageInfoType_Explosion_HellDummy"
-                },
-                {
-                    "type_num": 243,
-                    "hex_id": "ED",
-                    "idx": 237,
-                    "type": "DamageInfoType_Explosion_BugTrap"
+                    "hex_id": "EA",
+                    "idx": 234,
+                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Punisher"
                 },
                 {
                     "type_num": 244,
-                    "hex_id": "EE",
-                    "idx": 238,
-                    "type": "DamageInfoType_Explosion_Icbm_Take_Off"
+                    "hex_id": "EB",
+                    "idx": 235,
+                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Pistol_Charge_Medium"
                 },
                 {
                     "type_num": 245,
-                    "hex_id": "EF",
-                    "idx": 239,
-                    "type": "DamageInfoType_Explosion_Icbm_Take_Off_Intense"
+                    "hex_id": "EC",
+                    "idx": 236,
+                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Pistol_Charge"
+                },
+                {
+                    "type_num": 242,
+                    "hex_id": "ED",
+                    "idx": 237,
+                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Rifle_Charge_Medium"
+                },
+                {
+                    "type_num": 243,
+                    "hex_id": "EE",
+                    "idx": 238,
+                    "type": "DamageInfoType_Explosion_Projectile_Plasma_Rifle_Charge"
                 },
                 {
                     "type_num": 246,
-                    "hex_id": "F0",
-                    "idx": 240,
-                    "type": "DamageInfoType_Explosion_Illuminate_SmallStun"
+                    "hex_id": "EF",
+                    "idx": 239,
+                    "type": "DamageInfoType_Explosion_Plasma_Cone"
                 },
                 {
                     "type_num": 247,
-                    "hex_id": "F1",
-                    "idx": 241,
-                    "type": "DamageInfoType_Explosion_Illuminate_Small"
+                    "hex_id": "F0",
+                    "idx": 240,
+                    "type": "DamageInfoType_Explosion_BackblastSmall"
                 },
                 {
                     "type_num": 248,
-                    "hex_id": "F2",
-                    "idx": 242,
-                    "type": "DamageInfoType_Explosion_Prop_Barrel"
+                    "hex_id": "F1",
+                    "idx": 241,
+                    "type": "DamageInfoType_Explosion_BackblastMedium"
                 },
                 {
                     "type_num": 249,
-                    "hex_id": "F3",
-                    "idx": 243,
-                    "type": "DamageInfoType_Explosion_Bot_Jumppack"
+                    "hex_id": "F2",
+                    "idx": 242,
+                    "type": "DamageInfoType_Explosion_BackblastLarge"
                 },
                 {
                     "type_num": 250,
-                    "hex_id": "F4",
-                    "idx": 244,
-                    "type": "DamageInfoType_Explosion_Building_Small"
+                    "hex_id": "F3",
+                    "idx": 243,
+                    "type": "DamageInfoType_Explosion_HellDummy"
                 },
                 {
                     "type_num": 251,
-                    "hex_id": "F5",
-                    "idx": 245,
-                    "type": "DamageInfoType_Explosion_Building_Medium"
+                    "hex_id": "F4",
+                    "idx": 244,
+                    "type": "DamageInfoType_Explosion_BugTrap"
                 },
                 {
                     "type_num": 252,
-                    "hex_id": "F6",
-                    "idx": 246,
-                    "type": "DamageInfoType_Explosion_Building_Large"
+                    "hex_id": "F5",
+                    "idx": 245,
+                    "type": "DamageInfoType_Explosion_Icbm_Take_Off"
                 },
                 {
                     "type_num": 253,
-                    "hex_id": "F7",
-                    "idx": 247,
-                    "type": "DamageInfoType_Explosion_Building_Huge"
+                    "hex_id": "F6",
+                    "idx": 246,
+                    "type": "DamageInfoType_Explosion_Icbm_Take_Off_Intense"
                 },
                 {
                     "type_num": 254,
-                    "hex_id": "F8",
-                    "idx": 248,
-                    "type": "DamageInfoType_Explosion_HandGrenade_Frag"
+                    "hex_id": "F7",
+                    "idx": 247,
+                    "type": "DamageInfoType_Explosion_Illuminate_SmallStun"
                 },
                 {
                     "type_num": 255,
-                    "hex_id": "F9",
-                    "idx": 249,
-                    "type": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster"
+                    "hex_id": "F8",
+                    "idx": 248,
+                    "type": "DamageInfoType_Explosion_Illuminate_Small"
                 },
                 {
                     "type_num": 256,
-                    "hex_id": "FA",
-                    "idx": 250,
-                    "type": "DamageInfoType_Explosion_HandGrenade_Incendiary"
+                    "hex_id": "F9",
+                    "idx": 249,
+                    "type": "DamageInfoType_Explosion_Prop_Barrel"
                 },
                 {
                     "type_num": 257,
+                    "hex_id": "FA",
+                    "idx": 250,
+                    "type": "DamageInfoType_Explosion_Bot_Jumppack"
+                },
+                {
+                    "type_num": 258,
                     "hex_id": "FB",
                     "idx": 251,
-                    "type": "DamageInfoType_Explosion_HandGrenade_Incendiary_Impact"
+                    "type": "DMG_TYPE_258"
                 },
                 {
                     "type_num": 259,
                     "hex_id": "FC",
                     "idx": 252,
-                    "type": "DamageInfoType_Explosion_HandGrenade_Thermite"
+                    "type": "DMG_TYPE_259"
                 },
                 {
                     "type_num": 260,
                     "hex_id": "FD",
                     "idx": 253,
-                    "type": "DMG_TYPE_260"
+                    "type": "DamageInfoType_Explosion_Building_Small"
                 },
                 {
                     "type_num": 261,
                     "hex_id": "FE",
                     "idx": 254,
-                    "type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_Flak"
+                    "type": "DamageInfoType_Explosion_Building_Medium"
                 },
                 {
                     "type_num": 262,
                     "hex_id": "FF",
                     "idx": 255,
-                    "type": "DamageInfoType_Explosion_JarPhoenix_20mm"
+                    "type": "DamageInfoType_Explosion_Building_Large"
                 },
                 {
                     "type_num": 263,
                     "hex_id": "100",
                     "idx": 256,
-                    "type": "DamageInfoType_Explosion_Vehicle_CyborgMediumDeath"
+                    "type": "DamageInfoType_Explosion_Building_Huge"
                 },
                 {
                     "type_num": 264,
                     "hex_id": "101",
                     "idx": 257,
-                    "type": "DamageInfoType_Explosion_Vehicle_RocketTankBody"
+                    "type": "DamageInfoType_Explosion_HandGrenade_Frag"
                 },
                 {
                     "type_num": 265,
                     "hex_id": "102",
                     "idx": 258,
-                    "type": "DamageInfoType_Explosion_Vehicle_ThrusterDeath"
+                    "type": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster"
                 },
                 {
                     "type_num": 266,
                     "hex_id": "103",
                     "idx": 259,
-                    "type": "DamageInfoType_Explosion_RailgunOvercharge"
+                    "type": "DamageInfoType_Explosion_HandGrenade_Incendiary"
                 },
                 {
                     "type_num": 267,
                     "hex_id": "104",
                     "idx": 260,
-                    "type": "DamageInfoType_Explosion_Turret_Destroyed"
-                },
-                {
-                    "type_num": 268,
-                    "hex_id": "105",
-                    "idx": 261,
-                    "type": "DamageInfoType_Explosion_Illuminate_ShockWave"
-                },
-                {
-                    "type_num": 366,
-                    "hex_id": "106",
-                    "idx": 262,
-                    "type": "DamageInfoType_Explosion_Illuminate_Harvester_Pull"
+                    "type": "DamageInfoType_Explosion_HandGrenade_Incendiary_Impact"
                 },
                 {
                     "type_num": 269,
-                    "hex_id": "107",
-                    "idx": 263,
-                    "type": "DamageInfoType_Explosion_Prop_Small"
+                    "hex_id": "105",
+                    "idx": 261,
+                    "type": "DamageInfoType_Explosion_HandGrenade_Thermite"
                 },
                 {
                     "type_num": 270,
-                    "hex_id": "108",
-                    "idx": 264,
-                    "type": "DamageInfoType_Explosion_Prop_Medium"
+                    "hex_id": "106",
+                    "idx": 262,
+                    "type": "DMG_TYPE_270"
                 },
                 {
                     "type_num": 271,
-                    "hex_id": "109",
-                    "idx": 265,
-                    "type": "DamageInfoType_Explosion_HandGrenade_HighExplosive"
-                },
-                {
-                    "type_num": 217,
-                    "hex_id": "10A",
-                    "idx": 266,
-                    "type": "DMG_TYPE_217"
+                    "hex_id": "107",
+                    "idx": 263,
+                    "type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_Flak"
                 },
                 {
                     "type_num": 272,
-                    "hex_id": "10B",
-                    "idx": 267,
-                    "type": "DamageInfoType_Explosion_HandGrenade_HighExplosive_Impact"
+                    "hex_id": "108",
+                    "idx": 264,
+                    "type": "DamageInfoType_Explosion_JarPhoenix_20mm"
                 },
                 {
                     "type_num": 273,
-                    "hex_id": "10C",
-                    "idx": 268,
-                    "type": "DamageInfoType_Dynamite_Explosive"
+                    "hex_id": "109",
+                    "idx": 265,
+                    "type": "DamageInfoType_Explosion_Vehicle_CyborgMediumDeath"
                 },
                 {
                     "type_num": 274,
-                    "hex_id": "10D",
-                    "idx": 269,
-                    "type": "DamageInfoType_Explosion_Projectile_Cannon_Eagle_23mm"
+                    "hex_id": "10A",
+                    "idx": 266,
+                    "type": "DamageInfoType_Explosion_Vehicle_RocketTankBody"
                 },
                 {
                     "type_num": 275,
-                    "hex_id": "10E",
-                    "idx": 270,
-                    "type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_HE"
+                    "hex_id": "10B",
+                    "idx": 267,
+                    "type": "DamageInfoType_Explosion_Vehicle_ThrusterDeath"
                 },
                 {
                     "type_num": 276,
-                    "hex_id": "10F",
-                    "idx": 271,
-                    "type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_APHET"
+                    "hex_id": "10C",
+                    "idx": 268,
+                    "type": "DamageInfoType_Explosion_RailgunOvercharge"
                 },
                 {
                     "type_num": 277,
-                    "hex_id": "110",
-                    "idx": 272,
-                    "type": "DamageInfoType_Explosion_Projectile_Cannon_30mm_APHE"
+                    "hex_id": "10D",
+                    "idx": 269,
+                    "type": "DamageInfoType_Explosion_Turret_Destroyed"
                 },
                 {
                     "type_num": 278,
-                    "hex_id": "111",
-                    "idx": 273,
-                    "type": "DamageInfoType_Explosion_Projectile_Cannon_40mm_Flak"
+                    "hex_id": "10E",
+                    "idx": 270,
+                    "type": "DamageInfoType_Explosion_Illuminate_ShockWave"
+                },
+                {
+                    "type_num": 380,
+                    "hex_id": "10F",
+                    "idx": 271,
+                    "type": "DamageInfoType_Explosion_Illuminate_Harvester_Pull"
                 },
                 {
                     "type_num": 279,
-                    "hex_id": "112",
-                    "idx": 274,
-                    "type": "DamageInfoType_Explosion_Projectile_Cannon_40mm_APHE"
+                    "hex_id": "110",
+                    "idx": 272,
+                    "type": "DamageInfoType_Explosion_Prop_Small"
                 },
                 {
                     "type_num": 280,
-                    "hex_id": "113",
-                    "idx": 275,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_HE"
+                    "hex_id": "111",
+                    "idx": 273,
+                    "type": "DamageInfoType_Explosion_Prop_Medium"
                 },
                 {
                     "type_num": 281,
-                    "hex_id": "114",
-                    "idx": 276,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_APHE"
+                    "hex_id": "112",
+                    "idx": 274,
+                    "type": "DamageInfoType_Explosion_HandGrenade_HighExplosive"
+                },
+                {
+                    "type_num": 225,
+                    "hex_id": "113",
+                    "idx": 275,
+                    "type": "DMG_TYPE_225"
                 },
                 {
                     "type_num": 282,
-                    "hex_id": "115",
-                    "idx": 277,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_ProximityCone"
-                },
-                {
-                    "type_num": 283,
-                    "hex_id": "116",
-                    "idx": 278,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_Mortar_40mm_HE"
+                    "hex_id": "114",
+                    "idx": 276,
+                    "type": "DamageInfoType_Explosion_HandGrenade_HighExplosive_Impact"
                 },
                 {
                     "type_num": 284,
-                    "hex_id": "117",
-                    "idx": 279,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_DirectHit"
-                },
-                {
-                    "type_num": 285,
-                    "hex_id": "118",
-                    "idx": 280,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HEAT"
-                },
-                {
-                    "type_num": 286,
-                    "hex_id": "119",
-                    "idx": 281,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_75mm_HEAT"
+                    "hex_id": "115",
+                    "idx": 277,
+                    "type": "DamageInfoType_Dynamite_Explosive"
                 },
                 {
                     "type_num": 287,
-                    "hex_id": "11A",
-                    "idx": 282,
-                    "type": "DamageInfoType_Projectile_Laser_Pulse"
+                    "hex_id": "116",
+                    "idx": 278,
+                    "type": "DamageInfoType_Explosion_Projectile_Cannon_Eagle_23mm"
                 },
                 {
                     "type_num": 288,
-                    "hex_id": "11B",
-                    "idx": 283,
-                    "type": "DamageInfoType_Explosion_Laser_Pulse"
+                    "hex_id": "117",
+                    "idx": 279,
+                    "type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_HE"
                 },
                 {
                     "type_num": 289,
-                    "hex_id": "11C",
-                    "idx": 284,
-                    "type": "DamageInfoType_Explosion_Projectile_OrbitalShot"
+                    "hex_id": "118",
+                    "idx": 280,
+                    "type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_APHET"
                 },
                 {
                     "type_num": 290,
-                    "hex_id": "11D",
-                    "idx": 285,
-                    "type": "DamageInfoType_Explosion_Projectile_OrbitalShot_MK2"
+                    "hex_id": "119",
+                    "idx": 281,
+                    "type": "DamageInfoType_Explosion_Projectile_Cannon_30mm_APHE"
                 },
                 {
                     "type_num": 291,
-                    "hex_id": "11E",
-                    "idx": 286,
-                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_Napalm"
+                    "hex_id": "11A",
+                    "idx": 282,
+                    "type": "DamageInfoType_Explosion_Projectile_Cannon_40mm_Flak"
                 },
                 {
                     "type_num": 292,
-                    "hex_id": "11F",
-                    "idx": 287,
-                    "type": "DamageInfoType_Explosion_Projectile_Missile_66mm"
+                    "hex_id": "11B",
+                    "idx": 283,
+                    "type": "DamageInfoType_Explosion_Projectile_Cannon_40mm_APHE"
                 },
                 {
                     "type_num": 293,
-                    "hex_id": "120",
-                    "idx": 288,
-                    "type": "DamageInfoType_Explosion_Projectile_Missile_66mm_MK2"
+                    "hex_id": "11C",
+                    "idx": 284,
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_HE"
                 },
                 {
                     "type_num": 294,
-                    "hex_id": "121",
-                    "idx": 289,
-                    "type": "DamageInfoType_Explosion_Projectile_Missile_CombatWalker"
+                    "hex_id": "11D",
+                    "idx": 285,
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_APHE"
                 },
                 {
                     "type_num": 295,
-                    "hex_id": "122",
-                    "idx": 290,
-                    "type": "DamageInfoType_Explosion_Projectile_Missile_CombatWalker_MK2"
+                    "hex_id": "11E",
+                    "idx": 286,
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_ProximityCone"
                 },
                 {
                     "type_num": 296,
-                    "hex_id": "123",
-                    "idx": 291,
-                    "type": "DamageInfoType_Explosion_WASP_Hornets"
+                    "hex_id": "11F",
+                    "idx": 287,
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_Mortar_40mm_HE"
                 },
                 {
                     "type_num": 297,
-                    "hex_id": "124",
-                    "idx": 292,
-                    "type": "DamageInfoType_Explosion_Projectile_Missile_Faf"
+                    "hex_id": "120",
+                    "idx": 288,
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_DirectHit"
                 },
                 {
                     "type_num": 298,
-                    "hex_id": "125",
-                    "idx": 293,
-                    "type": "DamageInfoType_Explosion_Projectile_Missile_Faf_MK2"
+                    "hex_id": "121",
+                    "idx": 289,
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HEAT"
                 },
                 {
                     "type_num": 299,
-                    "hex_id": "126",
-                    "idx": 294,
-                    "type": "DamageInfoType_Explosion_Projectile_Missile_Stinger"
+                    "hex_id": "122",
+                    "idx": 290,
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_75mm_HEAT"
                 },
                 {
                     "type_num": 300,
-                    "hex_id": "127",
-                    "idx": 295,
-                    "type": "DamageInfoType_Explosion_Projectile_Rocket_70mm"
+                    "hex_id": "123",
+                    "idx": 291,
+                    "type": "DamageInfoType_Projectile_Laser_Pulse"
                 },
                 {
                     "type_num": 301,
-                    "hex_id": "128",
-                    "idx": 296,
-                    "type": "DamageInfoType_Explosion_Projectile_Rocket_70mm_HE"
+                    "hex_id": "124",
+                    "idx": 292,
+                    "type": "DamageInfoType_Explosion_Laser_Pulse"
                 },
                 {
                     "type_num": 302,
-                    "hex_id": "129",
-                    "idx": 297,
-                    "type": "DamageInfoType_Explosion_Projectile_Rocket_110mm"
+                    "hex_id": "125",
+                    "idx": 293,
+                    "type": "DamageInfoType_Explosion_Projectile_OrbitalShot"
                 },
                 {
                     "type_num": 303,
-                    "hex_id": "12A",
-                    "idx": 298,
-                    "type": "DamageInfoType_Explosion_TunnelerEmerge"
+                    "hex_id": "126",
+                    "idx": 294,
+                    "type": "DamageInfoType_Explosion_Projectile_OrbitalShot_MK2"
                 },
                 {
                     "type_num": 304,
-                    "hex_id": "12B",
-                    "idx": 299,
-                    "type": "DamageInfoType_Explosion_ContactMine"
+                    "hex_id": "127",
+                    "idx": 295,
+                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_Napalm"
                 },
                 {
                     "type_num": 305,
-                    "hex_id": "12C",
-                    "idx": 300,
-                    "type": "DamageInfoType_Explosion_ContactMine_Incendiary"
+                    "hex_id": "128",
+                    "idx": 296,
+                    "type": "DamageInfoType_Explosion_Projectile_Missile_66mm"
                 },
                 {
                     "type_num": 306,
-                    "hex_id": "12D",
-                    "idx": 301,
-                    "type": "DamageInfoType_Explosion_AntiTankMine"
+                    "hex_id": "129",
+                    "idx": 297,
+                    "type": "DamageInfoType_Explosion_Projectile_Missile_66mm_MK2"
                 },
                 {
                     "type_num": 307,
-                    "hex_id": "12E",
-                    "idx": 302,
-                    "type": "DamageInfoType_Explosion_CyborgMine"
+                    "hex_id": "12A",
+                    "idx": 298,
+                    "type": "DamageInfoType_Explosion_Projectile_Missile_CombatWalker"
                 },
                 {
                     "type_num": 308,
-                    "hex_id": "12F",
-                    "idx": 303,
-                    "type": "DamageInfoType_Explosion_Illuminate_AdeptCircle"
-                },
-                {
-                    "type_num": 330,
-                    "hex_id": "130",
-                    "idx": 304,
-                    "type": "DMG_TYPE_330"
+                    "hex_id": "12B",
+                    "idx": 299,
+                    "type": "DamageInfoType_Explosion_Projectile_Missile_CombatWalker_MK2"
                 },
                 {
                     "type_num": 309,
-                    "hex_id": "131",
-                    "idx": 305,
-                    "type": "DMG_TYPE_309"
+                    "hex_id": "12C",
+                    "idx": 300,
+                    "type": "DamageInfoType_Explosion_WASP_Hornets"
                 },
                 {
                     "type_num": 310,
-                    "hex_id": "132",
-                    "idx": 306,
-                    "type": "DamageInfoType_Explosion_Prop_Large"
+                    "hex_id": "12D",
+                    "idx": 301,
+                    "type": "DamageInfoType_Explosion_Projectile_Missile_Faf"
                 },
                 {
                     "type_num": 311,
-                    "hex_id": "133",
-                    "idx": 307,
-                    "type": "DamageInfoType_Explosion_HandGrenade_CyborgAntiTank"
+                    "hex_id": "12E",
+                    "idx": 302,
+                    "type": "DamageInfoType_Explosion_Projectile_Missile_Faf_MK2"
                 },
                 {
                     "type_num": 312,
-                    "hex_id": "134",
-                    "idx": 308,
-                    "type": "DamageInfoType_Explosion_Projectile_Shotgun_Flakblast"
+                    "hex_id": "12F",
+                    "idx": 303,
+                    "type": "DamageInfoType_Explosion_Projectile_Missile_Stinger"
                 },
                 {
                     "type_num": 313,
-                    "hex_id": "135",
-                    "idx": 309,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HE"
+                    "hex_id": "130",
+                    "idx": 304,
+                    "type": "DamageInfoType_Explosion_Projectile_Rocket_70mm"
                 },
                 {
                     "type_num": 314,
-                    "hex_id": "136",
-                    "idx": 310,
-                    "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HE_MK2"
+                    "hex_id": "131",
+                    "idx": 305,
+                    "type": "DamageInfoType_Explosion_Projectile_Rocket_70mm_HE"
                 },
                 {
                     "type_num": 315,
-                    "hex_id": "137",
-                    "idx": 311,
-                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_Impact"
+                    "hex_id": "132",
+                    "idx": 306,
+                    "type": "DamageInfoType_Explosion_Projectile_Rocket_110mm"
                 },
                 {
                     "type_num": 316,
-                    "hex_id": "138",
-                    "idx": 312,
-                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_100kg"
+                    "hex_id": "133",
+                    "idx": 307,
+                    "type": "DamageInfoType_Explosion_TunnelerEmerge"
                 },
                 {
                     "type_num": 317,
-                    "hex_id": "139",
-                    "idx": 313,
-                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_100kg_MK3"
+                    "hex_id": "134",
+                    "idx": 308,
+                    "type": "DamageInfoType_Explosion_ContactMine"
                 },
                 {
                     "type_num": 318,
-                    "hex_id": "13A",
-                    "idx": 314,
-                    "type": "DamageInfoType_Explosion_Projectile_EagleMissile"
+                    "hex_id": "135",
+                    "idx": 309,
+                    "type": "DamageInfoType_Explosion_ContactMine_Incendiary"
                 },
                 {
                     "type_num": 319,
-                    "hex_id": "13B",
-                    "idx": 315,
-                    "type": "DamageInfoType_Explosion_Projectile_CyborgLightRocket"
+                    "hex_id": "136",
+                    "idx": 310,
+                    "type": "DamageInfoType_Explosion_AntiTankMine"
                 },
                 {
                     "type_num": 320,
-                    "hex_id": "13C",
-                    "idx": 316,
-                    "type": "DamageInfoType_Explosion_HellpodImpact"
+                    "hex_id": "137",
+                    "idx": 311,
+                    "type": "DamageInfoType_Explosion_CyborgMine"
                 },
                 {
                     "type_num": 321,
-                    "hex_id": "13D",
-                    "idx": 317,
-                    "type": "DamageInfoType_Explosion_HellpodImpact_FieryDrop"
-                },
-                {
-                    "type_num": 322,
-                    "hex_id": "13E",
-                    "idx": 318,
-                    "type": "DamageInfoType_Explosion_HellpodExplosion"
-                },
-                {
-                    "type_num": 323,
-                    "hex_id": "13F",
-                    "idx": 319,
-                    "type": "DamageInfoType_Explosion_Vehicle_CyborgHugeDeath"
-                },
-                {
-                    "type_num": 324,
-                    "hex_id": "140",
-                    "idx": 320,
-                    "type": "DamageInfoType_Explosion_TentacleImpact"
-                },
-                {
-                    "type_num": 325,
-                    "hex_id": "141",
-                    "idx": 321,
-                    "type": "DamageInfoType_Explosion_Vehicle_DropshipCrash"
-                },
-                {
-                    "type_num": 326,
-                    "hex_id": "142",
-                    "idx": 322,
-                    "type": "DamageInfoType_Explosion_ScavengerPillar"
-                },
-                {
-                    "type_num": 327,
-                    "hex_id": "143",
-                    "idx": 323,
-                    "type": "DamageInfoType_Explosion_Illuminate_OutcastBeam"
-                },
-                {
-                    "type_num": 328,
-                    "hex_id": "144",
-                    "idx": 324,
-                    "type": "DMG_TYPE_328"
-                },
-                {
-                    "type_num": 329,
-                    "hex_id": "145",
-                    "idx": 325,
-                    "type": "DMG_TYPE_329"
-                },
-                {
-                    "type_num": 331,
-                    "hex_id": "146",
-                    "idx": 326,
-                    "type": "DamageInfoType_Explosion_Prop_Huge"
-                },
-                {
-                    "type_num": 332,
-                    "hex_id": "147",
-                    "idx": 327,
-                    "type": "DamageInfoType_Explosion_HandGrenade_CyborgHighExplosive"
-                },
-                {
-                    "type_num": 258,
-                    "hex_id": "148",
-                    "idx": 328,
-                    "type": "DMG_TYPE_258"
-                },
-                {
-                    "type_num": 333,
-                    "hex_id": "149",
-                    "idx": 329,
-                    "type": "DamageInfoType_Explosion_Projectile_Railcannon"
-                },
-                {
-                    "type_num": 334,
-                    "hex_id": "14A",
-                    "idx": 330,
-                    "type": "DamageInfoType_Explosion_Projectile_OrbitalBarrage"
-                },
-                {
-                    "type_num": 335,
-                    "hex_id": "14B",
-                    "idx": 331,
-                    "type": "DamageInfoType_Explosion_Projectile_OrbitalStrike"
-                },
-                {
-                    "type_num": 336,
-                    "hex_id": "14C",
-                    "idx": 332,
-                    "type": "DamageInfoType_Explosion_Projectile_OrbitalGas"
-                },
-                {
-                    "type_num": 337,
-                    "hex_id": "14D",
-                    "idx": 333,
-                    "type": "DamageInfoType_Explosion_Gas_Grenade"
-                },
-                {
-                    "type_num": 338,
-                    "hex_id": "14E",
-                    "idx": 334,
-                    "type": "DamageInfoType_Explosion_Projectile_OrbitalShell"
-                },
-                {
-                    "type_num": 339,
-                    "hex_id": "14F",
-                    "idx": 335,
-                    "type": "DamageInfoType_Explosion_Projectile_OrbitalStun"
-                },
-                {
-                    "type_num": 340,
-                    "hex_id": "150",
-                    "idx": 336,
-                    "type": "DamageInfoType_Explosion_Projectile_OrbitalStun_MK2"
-                },
-                {
-                    "type_num": 341,
-                    "hex_id": "151",
-                    "idx": 337,
-                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_500kg"
-                },
-                {
-                    "type_num": 342,
-                    "hex_id": "152",
-                    "idx": 338,
-                    "type": "DamageInfoType_Explosion_Projectile_MiniMissilesilo"
-                },
-                {
-                    "type_num": 343,
-                    "hex_id": "153",
-                    "idx": 339,
-                    "type": "DamageInfoType_Explosion_Projectile_CyborgLightCannon"
-                },
-                {
-                    "type_num": 190,
-                    "hex_id": "154",
-                    "idx": 340,
-                    "type": "DMG_TYPE_190"
-                },
-                {
-                    "type_num": 191,
-                    "hex_id": "155",
-                    "idx": 341,
-                    "type": "DMG_TYPE_191"
-                },
-                {
-                    "type_num": 192,
-                    "hex_id": "156",
-                    "idx": 342,
-                    "type": "DMG_TYPE_192"
-                },
-                {
-                    "type_num": 193,
-                    "hex_id": "157",
-                    "idx": 343,
-                    "type": "DMG_TYPE_193"
+                    "hex_id": "138",
+                    "idx": 312,
+                    "type": "DamageInfoType_Explosion_Illuminate_AdeptCircle"
                 },
                 {
                     "type_num": 344,
-                    "hex_id": "158",
-                    "idx": 344,
-                    "type": "DamageInfoType_Explosion_Projectile_CyborgHeavyCannon"
+                    "hex_id": "139",
+                    "idx": 313,
+                    "type": "DMG_TYPE_344"
+                },
+                {
+                    "type_num": 322,
+                    "hex_id": "13A",
+                    "idx": 314,
+                    "type": "DMG_TYPE_322"
+                },
+                {
+                    "type_num": 323,
+                    "hex_id": "13B",
+                    "idx": 315,
+                    "type": "DamageInfoType_Explosion_Prop_Large"
+                },
+                {
+                    "type_num": 324,
+                    "hex_id": "13C",
+                    "idx": 316,
+                    "type": "DamageInfoType_Explosion_HandGrenade_CyborgAntiTank"
+                },
+                {
+                    "type_num": 325,
+                    "hex_id": "13D",
+                    "idx": 317,
+                    "type": "DamageInfoType_Explosion_Projectile_Shotgun_Flakblast"
+                },
+                {
+                    "type_num": 326,
+                    "hex_id": "13E",
+                    "idx": 318,
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HE"
+                },
+                {
+                    "type_num": 327,
+                    "hex_id": "13F",
+                    "idx": 319,
+                    "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HE_MK2"
+                },
+                {
+                    "type_num": 328,
+                    "hex_id": "140",
+                    "idx": 320,
+                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_Impact"
+                },
+                {
+                    "type_num": 329,
+                    "hex_id": "141",
+                    "idx": 321,
+                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_100kg"
+                },
+                {
+                    "type_num": 330,
+                    "hex_id": "142",
+                    "idx": 322,
+                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_100kg_MK3"
+                },
+                {
+                    "type_num": 331,
+                    "hex_id": "143",
+                    "idx": 323,
+                    "type": "DamageInfoType_Explosion_Projectile_EagleMissile"
+                },
+                {
+                    "type_num": 332,
+                    "hex_id": "144",
+                    "idx": 324,
+                    "type": "DamageInfoType_Explosion_Projectile_CyborgLightRocket"
+                },
+                {
+                    "type_num": 333,
+                    "hex_id": "145",
+                    "idx": 325,
+                    "type": "DamageInfoType_Explosion_HellpodImpact"
+                },
+                {
+                    "type_num": 334,
+                    "hex_id": "146",
+                    "idx": 326,
+                    "type": "DamageInfoType_Explosion_HellpodImpact_FieryDrop"
+                },
+                {
+                    "type_num": 335,
+                    "hex_id": "147",
+                    "idx": 327,
+                    "type": "DamageInfoType_Explosion_HellpodStunBooster"
+                },
+                {
+                    "type_num": 336,
+                    "hex_id": "148",
+                    "idx": 328,
+                    "type": "DamageInfoType_Explosion_HellpodExplosion"
+                },
+                {
+                    "type_num": 337,
+                    "hex_id": "149",
+                    "idx": 329,
+                    "type": "DamageInfoType_Explosion_Vehicle_CyborgHugeDeath"
+                },
+                {
+                    "type_num": 338,
+                    "hex_id": "14A",
+                    "idx": 330,
+                    "type": "DamageInfoType_Explosion_TentacleImpact"
+                },
+                {
+                    "type_num": 339,
+                    "hex_id": "14B",
+                    "idx": 331,
+                    "type": "DamageInfoType_Explosion_Vehicle_DropshipCrash"
+                },
+                {
+                    "type_num": 340,
+                    "hex_id": "14C",
+                    "idx": 332,
+                    "type": "DamageInfoType_Explosion_ScavengerPillar"
+                },
+                {
+                    "type_num": 341,
+                    "hex_id": "14D",
+                    "idx": 333,
+                    "type": "DamageInfoType_Explosion_Illuminate_OutcastBeam"
+                },
+                {
+                    "type_num": 342,
+                    "hex_id": "14E",
+                    "idx": 334,
+                    "type": "DMG_TYPE_342"
+                },
+                {
+                    "type_num": 343,
+                    "hex_id": "14F",
+                    "idx": 335,
+                    "type": "DMG_TYPE_343"
                 },
                 {
                     "type_num": 345,
-                    "hex_id": "159",
-                    "idx": 345,
-                    "type": "DamageInfoType_Explosion_Projectile_CyborgHeavyRocket"
+                    "hex_id": "150",
+                    "idx": 336,
+                    "type": "DamageInfoType_Explosion_Prop_Huge"
                 },
                 {
                     "type_num": 346,
-                    "hex_id": "15A",
-                    "idx": 346,
-                    "type": "DamageInfoType_Explosion_Projectile_CyborgArtillery"
+                    "hex_id": "151",
+                    "idx": 337,
+                    "type": "DamageInfoType_Explosion_HandGrenade_CyborgHighExplosive"
+                },
+                {
+                    "type_num": 283,
+                    "hex_id": "152",
+                    "idx": 338,
+                    "type": "DMG_TYPE_283"
+                },
+                {
+                    "type_num": 268,
+                    "hex_id": "153",
+                    "idx": 339,
+                    "type": "DMG_TYPE_268"
                 },
                 {
                     "type_num": 347,
-                    "hex_id": "15B",
-                    "idx": 347,
-                    "type": "DamageInfoType_Explosion_Vehicle_SeSmallDeath"
+                    "hex_id": "154",
+                    "idx": 340,
+                    "type": "DamageInfoType_Explosion_Projectile_Railcannon"
                 },
                 {
                     "type_num": 348,
-                    "hex_id": "15C",
-                    "idx": 348,
-                    "type": "DamageInfoType_Explosion_Vehicle_SeMediumDeath"
+                    "hex_id": "155",
+                    "idx": 341,
+                    "type": "DamageInfoType_Explosion_Projectile_OrbitalBarrage"
                 },
                 {
                     "type_num": 349,
-                    "hex_id": "15D",
-                    "idx": 349,
-                    "type": "DamageInfoType_Explosion_Vehicle_SeLargeDeath"
+                    "hex_id": "156",
+                    "idx": 342,
+                    "type": "DamageInfoType_Explosion_Projectile_OrbitalStrike"
                 },
                 {
                     "type_num": 350,
-                    "hex_id": "15E",
-                    "idx": 350,
-                    "type": "DMG_TYPE_350"
+                    "hex_id": "157",
+                    "idx": 343,
+                    "type": "DamageInfoType_Explosion_Projectile_OrbitalGas"
                 },
                 {
                     "type_num": 351,
-                    "hex_id": "15F",
-                    "idx": 351,
-                    "type": "DamageInfoType_Explosion_Projectile_BugArtillery"
+                    "hex_id": "158",
+                    "idx": 344,
+                    "type": "DamageInfoType_Explosion_Gas_Grenade"
                 },
                 {
                     "type_num": 352,
-                    "hex_id": "160",
-                    "idx": 352,
-                    "type": "DamageInfoType_Explosion_Projectile_WorldMeteor"
+                    "hex_id": "159",
+                    "idx": 345,
+                    "type": "DamageInfoType_Explosion_Projectile_OrbitalShell"
                 },
                 {
                     "type_num": 353,
-                    "hex_id": "161",
-                    "idx": 353,
-                    "type": "DamageInfoType_Explosion_EscapePodCrash"
+                    "hex_id": "15A",
+                    "idx": 346,
+                    "type": "DamageInfoType_Explosion_Projectile_OrbitalStun"
                 },
                 {
                     "type_num": 354,
-                    "hex_id": "162",
-                    "idx": 354,
-                    "type": "DamageInfoType_Explosion_Projectile_WorldVolcanoStrike"
+                    "hex_id": "15B",
+                    "idx": 347,
+                    "type": "DamageInfoType_Explosion_Projectile_OrbitalStun_MK2"
                 },
                 {
                     "type_num": 355,
-                    "hex_id": "163",
-                    "idx": 355,
-                    "type": "DamageInfoType_Explosion_MapBoundary"
+                    "hex_id": "15C",
+                    "idx": 348,
+                    "type": "DamageInfoType_Explosion_Projectile_EagleBomb_500kg"
                 },
                 {
                     "type_num": 356,
-                    "hex_id": "164",
-                    "idx": 356,
-                    "type": "DamageInfoType_Explosion_Hellbomb"
+                    "hex_id": "15D",
+                    "idx": 349,
+                    "type": "DamageInfoType_Explosion_Projectile_MiniMissilesilo"
                 },
                 {
                     "type_num": 357,
-                    "hex_id": "165",
-                    "idx": 357,
-                    "type": "DamageInfoType_Explosion_BugDrill"
+                    "hex_id": "15E",
+                    "idx": 350,
+                    "type": "DamageInfoType_Explosion_Projectile_CyborgLightCannon"
+                },
+                {
+                    "type_num": 197,
+                    "hex_id": "15F",
+                    "idx": 351,
+                    "type": "DMG_TYPE_197"
+                },
+                {
+                    "type_num": 198,
+                    "hex_id": "160",
+                    "idx": 352,
+                    "type": "DMG_TYPE_198"
+                },
+                {
+                    "type_num": 199,
+                    "hex_id": "161",
+                    "idx": 353,
+                    "type": "DMG_TYPE_199"
+                },
+                {
+                    "type_num": 200,
+                    "hex_id": "162",
+                    "idx": 354,
+                    "type": "DMG_TYPE_200"
                 },
                 {
                     "type_num": 358,
-                    "hex_id": "166",
-                    "idx": 358,
-                    "type": "DamageInfoType_Explosion_ICBM_explode"
+                    "hex_id": "163",
+                    "idx": 355,
+                    "type": "DamageInfoType_Explosion_Projectile_CyborgHeavyCannon"
                 },
                 {
                     "type_num": 359,
-                    "hex_id": "167",
-                    "idx": 359,
-                    "type": "DamageInfoType_Explosion_Tower_Collapse"
+                    "hex_id": "164",
+                    "idx": 356,
+                    "type": "DamageInfoType_Explosion_Projectile_CyborgHeavyRocket"
                 },
                 {
                     "type_num": 360,
-                    "hex_id": "168",
-                    "idx": 360,
-                    "type": "DamageInfoType_Explosion_SAM_Missile"
+                    "hex_id": "165",
+                    "idx": 357,
+                    "type": "DamageInfoType_Explosion_Projectile_CyborgArtillery"
                 },
                 {
                     "type_num": 361,
-                    "hex_id": "169",
-                    "idx": 361,
-                    "type": "DamageInfoType_Explosion_MoorMushroom_Burst"
-                },
-                {
-                    "type_num": 364,
-                    "hex_id": "16A",
-                    "idx": 362,
-                    "type": "DamageInfoType_Explosion_EmbryoCluster_Burst"
+                    "hex_id": "166",
+                    "idx": 358,
+                    "type": "DamageInfoType_Explosion_Vehicle_SeSmallDeath"
                 },
                 {
                     "type_num": 362,
-                    "hex_id": "16B",
-                    "idx": 363,
-                    "type": "DamageInfoType_Explosion_Spikeplant_Shrapnel_Explosion"
+                    "hex_id": "167",
+                    "idx": 359,
+                    "type": "DamageInfoType_Explosion_Vehicle_SeMediumDeath"
                 },
                 {
                     "type_num": 363,
-                    "hex_id": "16C",
-                    "idx": 364,
-                    "type": "DamageInfoType_Explosion_Iceplant_Shatter"
+                    "hex_id": "168",
+                    "idx": 360,
+                    "type": "DamageInfoType_Explosion_Vehicle_SeLargeDeath"
+                },
+                {
+                    "type_num": 364,
+                    "hex_id": "169",
+                    "idx": 361,
+                    "type": "DMG_TYPE_364"
+                },
+                {
+                    "type_num": 365,
+                    "hex_id": "16A",
+                    "idx": 362,
+                    "type": "DamageInfoType_Explosion_Projectile_BugArtillery"
+                },
+                {
+                    "type_num": 366,
+                    "hex_id": "16B",
+                    "idx": 363,
+                    "type": "DamageInfoType_Explosion_Projectile_WorldMeteor"
                 },
                 {
                     "type_num": 367,
+                    "hex_id": "16C",
+                    "idx": 364,
+                    "type": "DamageInfoType_Explosion_EscapePodCrash"
+                },
+                {
+                    "type_num": 368,
                     "hex_id": "16D",
                     "idx": 365,
-                    "type": "DamageInfoType_Explosion_DustDevil"
+                    "type": "DamageInfoType_Explosion_Projectile_WorldVolcanoStrike"
                 },
                 {
                     "type_num": 369,
                     "hex_id": "16E",
                     "idx": 366,
-                    "type": "DamageInfoType_DPS_BeamSmall"
+                    "type": "DamageInfoType_Explosion_MapBoundary"
                 },
                 {
                     "type_num": 370,
                     "hex_id": "16F",
                     "idx": 367,
-                    "type": "DamageInfoType_DPS_BeamMedium"
+                    "type": "DamageInfoType_Explosion_Hellbomb"
                 },
                 {
                     "type_num": 371,
                     "hex_id": "170",
                     "idx": 368,
-                    "type": "DamageInfoType_DPS_BeamMediumDrone"
+                    "type": "DamageInfoType_Explosion_BugDrill"
                 },
                 {
                     "type_num": 372,
                     "hex_id": "171",
                     "idx": 369,
-                    "type": "DamageInfoType_DPS_BeamMedium_Wide"
+                    "type": "DamageInfoType_Explosion_ICBM_explode"
                 },
                 {
                     "type_num": 373,
                     "hex_id": "172",
                     "idx": 370,
-                    "type": "DamageInfoType_DPS_BeamMedium_Spread"
+                    "type": "DamageInfoType_Explosion_Tower_Collapse"
                 },
                 {
                     "type_num": 374,
                     "hex_id": "173",
                     "idx": 371,
-                    "type": "DamageInfoType_DPS_BeamMedium_Focused"
+                    "type": "DamageInfoType_Explosion_SAM_Missile"
                 },
                 {
                     "type_num": 375,
                     "hex_id": "174",
                     "idx": 372,
-                    "type": "DamageInfoType_DPS_BeamLarge"
-                },
-                {
-                    "type_num": 376,
-                    "hex_id": "175",
-                    "idx": 373,
-                    "type": "DamageInfoType_DPS_BeamLarge_Heavy"
-                },
-                {
-                    "type_num": 377,
-                    "hex_id": "176",
-                    "idx": 374,
-                    "type": "DamageInfoType_DPS_BeamLarge_Light"
+                    "type": "DamageInfoType_Explosion_MoorMushroom_Burst"
                 },
                 {
                     "type_num": 378,
+                    "hex_id": "175",
+                    "idx": 373,
+                    "type": "DamageInfoType_Explosion_EmbryoCluster_Burst"
+                },
+                {
+                    "type_num": 376,
+                    "hex_id": "176",
+                    "idx": 374,
+                    "type": "DamageInfoType_Explosion_Spikeplant_Shrapnel_Explosion"
+                },
+                {
+                    "type_num": 377,
                     "hex_id": "177",
                     "idx": 375,
-                    "type": "DamageInfoType_DPS_BeamHuge"
-                },
-                {
-                    "type_num": 379,
-                    "hex_id": "178",
-                    "idx": 376,
-                    "type": "DamageInfoType_DPS_BeamHuge_Upgrade"
-                },
-                {
-                    "type_num": 380,
-                    "hex_id": "179",
-                    "idx": 377,
-                    "type": "DamageInfoType_DPS_BeamLarge_Fire"
+                    "type": "DamageInfoType_Explosion_Iceplant_Shatter"
                 },
                 {
                     "type_num": 381,
-                    "hex_id": "17A",
-                    "idx": 378,
-                    "type": "DamageInfoType_DPS_Cyborg_Torch"
-                },
-                {
-                    "type_num": 382,
-                    "hex_id": "17B",
-                    "idx": 379,
-                    "type": "DamageInfoType_DPS_Fire"
+                    "hex_id": "178",
+                    "idx": 376,
+                    "type": "DamageInfoType_Explosion_DustDevil"
                 },
                 {
                     "type_num": 383,
-                    "hex_id": "17C",
-                    "idx": 380,
-                    "type": "DamageInfoType_DPS_Thermite"
+                    "hex_id": "179",
+                    "idx": 377,
+                    "type": "DamageInfoType_DPS_BeamSmall"
                 },
                 {
                     "type_num": 384,
-                    "hex_id": "17D",
-                    "idx": 381,
-                    "type": "DamageInfoType_DPS_Acid_Splash"
+                    "hex_id": "17A",
+                    "idx": 378,
+                    "type": "DamageInfoType_DPS_BeamMedium"
                 },
                 {
                     "type_num": 385,
-                    "hex_id": "17E",
-                    "idx": 382,
-                    "type": "DamageInfoType_DPS_Acid_Stream"
+                    "hex_id": "17B",
+                    "idx": 379,
+                    "type": "DamageInfoType_DPS_BeamMediumDrone"
                 },
                 {
                     "type_num": 386,
-                    "hex_id": "17F",
-                    "idx": 383,
-                    "type": "DamageInfoType_DPS_Cyborg_Fire"
+                    "hex_id": "17C",
+                    "idx": 380,
+                    "type": "DamageInfoType_DPS_BeamMedium_Wide"
                 },
                 {
                     "type_num": 387,
-                    "hex_id": "180",
-                    "idx": 384,
-                    "type": "DamageInfoType_DPS_Pure_Damage"
+                    "hex_id": "17D",
+                    "idx": 381,
+                    "type": "DamageInfoType_DPS_BeamMedium_Spread"
                 },
                 {
                     "type_num": 388,
-                    "hex_id": "181",
-                    "idx": 385,
-                    "type": "DamageInfoType_DPS_BurningHeavy"
+                    "hex_id": "17E",
+                    "idx": 382,
+                    "type": "DamageInfoType_DPS_BeamMedium_Focused"
                 },
                 {
                     "type_num": 389,
-                    "hex_id": "182",
-                    "idx": 386,
-                    "type": "DamageInfoType_DPS_RadiationLight"
+                    "hex_id": "17F",
+                    "idx": 383,
+                    "type": "DamageInfoType_DPS_BeamLarge"
                 },
                 {
                     "type_num": 390,
-                    "hex_id": "183",
-                    "idx": 387,
-                    "type": "DamageInfoType_DPS_RadiationHeavy"
+                    "hex_id": "180",
+                    "idx": 384,
+                    "type": "DamageInfoType_DPS_BeamLarge_Heavy"
                 },
                 {
                     "type_num": 391,
-                    "hex_id": "184",
-                    "idx": 388,
-                    "type": "DamageInfoType_DPS_Electric"
+                    "hex_id": "181",
+                    "idx": 385,
+                    "type": "DamageInfoType_DPS_BeamLarge_Light"
                 },
                 {
                     "type_num": 392,
-                    "hex_id": "185",
-                    "idx": 389,
-                    "type": "DamageInfoType_DPS_Thornbush"
+                    "hex_id": "182",
+                    "idx": 386,
+                    "type": "DamageInfoType_DPS_BeamHuge"
                 },
                 {
                     "type_num": 393,
-                    "hex_id": "186",
-                    "idx": 390,
-                    "type": "DamageInfoType_DPS_Gas"
+                    "hex_id": "183",
+                    "idx": 387,
+                    "type": "DamageInfoType_DPS_BeamHuge_Upgrade"
                 },
                 {
                     "type_num": 394,
-                    "hex_id": "187",
-                    "idx": 391,
-                    "type": "DamageInfoType_DPS_Gas_MK2"
+                    "hex_id": "184",
+                    "idx": 388,
+                    "type": "DamageInfoType_DPS_BeamLarge_Fire"
                 },
                 {
                     "type_num": 395,
-                    "hex_id": "188",
-                    "idx": 392,
-                    "type": "DamageInfoType_DPS_BeamTripodEye"
+                    "hex_id": "185",
+                    "idx": 389,
+                    "type": "DamageInfoType_DPS_Cyborg_Torch"
                 },
                 {
                     "type_num": 396,
-                    "hex_id": "189",
-                    "idx": 393,
-                    "type": "DMG_TYPE_396"
+                    "hex_id": "186",
+                    "idx": 390,
+                    "type": "DamageInfoType_DPS_Fire"
                 },
                 {
                     "type_num": 397,
-                    "hex_id": "18A",
-                    "idx": 394,
-                    "type": "DamageInfoType_DPS_Avatar_Bleed"
+                    "hex_id": "187",
+                    "idx": 391,
+                    "type": "DamageInfoType_DPS_Thermite"
                 },
                 {
                     "type_num": 398,
-                    "hex_id": "18B",
-                    "idx": 395,
-                    "type": "DamageInfoType_DPS_DeathMarch"
+                    "hex_id": "188",
+                    "idx": 392,
+                    "type": "DamageInfoType_DPS_Acid_Splash"
                 },
                 {
                     "type_num": 399,
-                    "hex_id": "18C",
-                    "idx": 396,
-                    "type": "DMG_TYPE_399"
+                    "hex_id": "189",
+                    "idx": 393,
+                    "type": "DamageInfoType_DPS_Acid_Stream"
                 },
                 {
                     "type_num": 400,
-                    "hex_id": "18D",
-                    "idx": 397,
-                    "type": "DMG_TYPE_400"
+                    "hex_id": "18A",
+                    "idx": 394,
+                    "type": "DamageInfoType_DPS_Cyborg_Fire"
                 },
                 {
                     "type_num": 401,
-                    "hex_id": "18E",
-                    "idx": 398,
-                    "type": "DMG_TYPE_401"
+                    "hex_id": "18B",
+                    "idx": 395,
+                    "type": "DamageInfoType_DPS_Pure_Damage"
                 },
                 {
                     "type_num": 402,
-                    "hex_id": "18F",
-                    "idx": 399,
-                    "type": "DMG_TYPE_402"
+                    "hex_id": "18C",
+                    "idx": 396,
+                    "type": "DamageInfoType_DPS_BurningHeavy"
                 },
                 {
                     "type_num": 403,
-                    "hex_id": "190",
-                    "idx": 400,
-                    "type": "DamageInfoType_Ability_Empty"
+                    "hex_id": "18D",
+                    "idx": 397,
+                    "type": "DamageInfoType_DPS_RadiationLight"
                 },
                 {
                     "type_num": 404,
-                    "hex_id": "191",
-                    "idx": 401,
-                    "type": "DamageInfoType_Ability_Avatar_Melee"
+                    "hex_id": "18E",
+                    "idx": 398,
+                    "type": "DamageInfoType_DPS_RadiationHeavy"
                 },
                 {
                     "type_num": 405,
-                    "hex_id": "192",
-                    "idx": 402,
-                    "type": "DMG_TYPE_405"
+                    "hex_id": "18F",
+                    "idx": 399,
+                    "type": "DamageInfoType_DPS_Electric"
                 },
                 {
                     "type_num": 406,
-                    "hex_id": "193",
-                    "idx": 403,
-                    "type": "DamageInfoType_Tomahawk"
+                    "hex_id": "190",
+                    "idx": 400,
+                    "type": "DamageInfoType_DPS_Thornbush"
                 },
                 {
                     "type_num": 407,
-                    "hex_id": "194",
-                    "idx": 404,
-                    "type": "DamageInfoType_Saber"
+                    "hex_id": "191",
+                    "idx": 401,
+                    "type": "DamageInfoType_DPS_Gas"
                 },
                 {
                     "type_num": 408,
-                    "hex_id": "195",
-                    "idx": 405,
-                    "type": "DMG_TYPE_408"
+                    "hex_id": "192",
+                    "idx": 402,
+                    "type": "DamageInfoType_DPS_Gas_MK2"
                 },
                 {
                     "type_num": 409,
-                    "hex_id": "196",
-                    "idx": 406,
-                    "type": "DamageInfoType_Ability_Avatar_Melee_Booster_Muscle_Enhancement"
+                    "hex_id": "193",
+                    "idx": 403,
+                    "type": "DamageInfoType_DPS_BeamTripodEye"
                 },
                 {
                     "type_num": 410,
-                    "hex_id": "197",
-                    "idx": 407,
-                    "type": "DamageInfoType_Ability_Avatar_Melee_Bayonet"
-                },
-                {
-                    "type_num": 411,
-                    "hex_id": "198",
-                    "idx": 408,
-                    "type": "DamageInfoType_StunLance"
+                    "hex_id": "194",
+                    "idx": 404,
+                    "type": "DMG_TYPE_410"
                 },
                 {
                     "type_num": 412,
-                    "hex_id": "199",
-                    "idx": 409,
-                    "type": "DamageInfoType_RiotBaton"
+                    "hex_id": "195",
+                    "idx": 405,
+                    "type": "DMG_TYPE_412"
+                },
+                {
+                    "type_num": 411,
+                    "hex_id": "196",
+                    "idx": 406,
+                    "type": "DMG_TYPE_411"
                 },
                 {
                     "type_num": 413,
-                    "hex_id": "19A",
-                    "idx": 410,
-                    "type": "DamageInfoType_Ability_Bug_BroodCommander_ChargeDestruction"
+                    "hex_id": "197",
+                    "idx": 407,
+                    "type": "DamageInfoType_DPS_Avatar_Bleed"
                 },
                 {
                     "type_num": 414,
-                    "hex_id": "19B",
-                    "idx": 411,
-                    "type": "DamageInfoType_Ability_Bug_BroodCommander_ChargeHitInfantry"
+                    "hex_id": "198",
+                    "idx": 408,
+                    "type": "DamageInfoType_DPS_DeathMarch"
                 },
                 {
                     "type_num": 415,
-                    "hex_id": "19C",
-                    "idx": 412,
-                    "type": "DamageInfoType_Ability_Bug_BroodCommander_ChargeHitVehicle"
+                    "hex_id": "199",
+                    "idx": 409,
+                    "type": "DMG_TYPE_415"
                 },
                 {
                     "type_num": 416,
-                    "hex_id": "19D",
-                    "idx": 413,
-                    "type": "DamageInfoType_Ability_Bug_Charger_ChargeDestruction"
+                    "hex_id": "19A",
+                    "idx": 410,
+                    "type": "DMG_TYPE_416"
                 },
                 {
                     "type_num": 417,
-                    "hex_id": "19E",
-                    "idx": 414,
-                    "type": "DamageInfoType_Ability_Bug_Charger_ChargeHitInfantry"
+                    "hex_id": "19B",
+                    "idx": 411,
+                    "type": "DMG_TYPE_417"
                 },
                 {
                     "type_num": 418,
-                    "hex_id": "19F",
-                    "idx": 415,
-                    "type": "DamageInfoType_Ability_Bug_Charger_ChargeHitVehicle"
+                    "hex_id": "19C",
+                    "idx": 412,
+                    "type": "DMG_TYPE_418"
                 },
                 {
                     "type_num": 419,
-                    "hex_id": "1A0",
-                    "idx": 416,
-                    "type": "DamageInfoType_Ability_Bug_Charger_MeleeCrush"
+                    "hex_id": "19D",
+                    "idx": 413,
+                    "type": "DamageInfoType_Ability_Empty"
                 },
                 {
                     "type_num": 420,
-                    "hex_id": "1A1",
-                    "idx": 417,
-                    "type": "DamageInfoType_Ability_Bug_Charger_ObstacleCrush"
-                },
-                {
-                    "type_num": 426,
-                    "hex_id": "1A2",
-                    "idx": 418,
-                    "type": "DamageInfoType_Ability_Bug_Impaler_MeleeCrush"
+                    "hex_id": "19E",
+                    "idx": 414,
+                    "type": "DamageInfoType_Ability_Avatar_Melee"
                 },
                 {
                     "type_num": 421,
-                    "hex_id": "1A3",
-                    "idx": 419,
-                    "type": "DamageInfoType_Ability_Bot_Spawner_Obstacle"
+                    "hex_id": "19F",
+                    "idx": 415,
+                    "type": "DMG_TYPE_421"
                 },
                 {
                     "type_num": 422,
-                    "hex_id": "1A4",
-                    "idx": 420,
-                    "type": "DamageInfoType_Ability_Bug_Hunter_Melee"
+                    "hex_id": "1A0",
+                    "idx": 416,
+                    "type": "DamageInfoType_Tomahawk"
                 },
                 {
                     "type_num": 423,
-                    "hex_id": "1A5",
-                    "idx": 421,
-                    "type": "DamageInfoType_Ability_Bug_Hunter_Tongue"
+                    "hex_id": "1A1",
+                    "idx": 417,
+                    "type": "DamageInfoType_Saber"
                 },
                 {
                     "type_num": 424,
-                    "hex_id": "1A6",
-                    "idx": 422,
-                    "type": "DamageInfoType_Ability_Bug_Hunter_Pounce"
+                    "hex_id": "1A2",
+                    "idx": 418,
+                    "type": "DMG_TYPE_424"
                 },
                 {
                     "type_num": 425,
-                    "hex_id": "1A7",
-                    "idx": 423,
-                    "type": "DamageInfoType_Ability_Bug_Hunter_SyncKill"
+                    "hex_id": "1A3",
+                    "idx": 419,
+                    "type": "DamageInfoType_Ability_Avatar_Melee_Booster_Muscle_Enhancement"
+                },
+                {
+                    "type_num": 426,
+                    "hex_id": "1A4",
+                    "idx": 420,
+                    "type": "DamageInfoType_Ability_Avatar_Melee_Bayonet"
                 },
                 {
                     "type_num": 427,
-                    "hex_id": "1A8",
-                    "idx": 424,
-                    "type": "DamageInfoType_Ability_Bug_Warrior_Claw"
+                    "hex_id": "1A5",
+                    "idx": 421,
+                    "type": "DamageInfoType_StunLance"
                 },
                 {
                     "type_num": 428,
-                    "hex_id": "1A9",
-                    "idx": 425,
-                    "type": "DamageInfoType_Ability_Bug_Warrior_Headbutt"
+                    "hex_id": "1A6",
+                    "idx": 422,
+                    "type": "DamageInfoType_RiotBaton"
                 },
                 {
                     "type_num": 429,
-                    "hex_id": "1AA",
-                    "idx": 426,
-                    "type": "DamageInfoType_Ability_Bug_Warrior_Stomp"
+                    "hex_id": "1A7",
+                    "idx": 423,
+                    "type": "DamageInfoType_Ability_Bug_BroodCommander_ChargeDestruction"
                 },
                 {
                     "type_num": 430,
-                    "hex_id": "1AB",
-                    "idx": 427,
-                    "type": "DamageInfoType_Ability_Bug_Scavenger_Stab"
+                    "hex_id": "1A8",
+                    "idx": 424,
+                    "type": "DamageInfoType_Ability_Bug_BroodCommander_ChargeHitInfantry"
                 },
                 {
                     "type_num": 431,
-                    "hex_id": "1AC",
-                    "idx": 428,
-                    "type": "DamageInfoType_Ability_Bug_Shrieker_Dive"
+                    "hex_id": "1A9",
+                    "idx": 425,
+                    "type": "DamageInfoType_Ability_Bug_BroodCommander_ChargeHitVehicle"
                 },
                 {
                     "type_num": 432,
-                    "hex_id": "1AD",
-                    "idx": 429,
-                    "type": "DamageInfoType_Ability_Bug_Shrieker_Pounce"
+                    "hex_id": "1AA",
+                    "idx": 426,
+                    "type": "DamageInfoType_Ability_Bug_Charger_ChargeDestruction"
                 },
                 {
                     "type_num": 433,
-                    "hex_id": "1AE",
-                    "idx": 430,
-                    "type": "DamageInfoType_Ability_Bug_Stalker_Stab"
+                    "hex_id": "1AB",
+                    "idx": 427,
+                    "type": "DamageInfoType_Ability_Bug_Charger_ChargeHitInfantry"
                 },
                 {
                     "type_num": 434,
-                    "hex_id": "1AF",
-                    "idx": 431,
-                    "type": "DamageInfoType_Ability_Bug_Stalker_Tongue"
+                    "hex_id": "1AC",
+                    "idx": 428,
+                    "type": "DamageInfoType_Ability_Bug_Charger_ChargeHitVehicle"
                 },
                 {
                     "type_num": 435,
-                    "hex_id": "1B0",
-                    "idx": 432,
-                    "type": "DamageInfoType_Ability_Bug_Stalker_Scream"
+                    "hex_id": "1AD",
+                    "idx": 429,
+                    "type": "DamageInfoType_Ability_Bug_Charger_MeleeCrush"
                 },
                 {
                     "type_num": 436,
-                    "hex_id": "1B1",
-                    "idx": 433,
-                    "type": "DamageInfoType_Ability_Bug_Strider_Stomp"
-                },
-                {
-                    "type_num": 437,
-                    "hex_id": "1B2",
-                    "idx": 434,
-                    "type": "DamageInfoType_Ability_Bug_Strider_Acid_Spray"
-                },
-                {
-                    "type_num": 438,
-                    "hex_id": "1B3",
-                    "idx": 435,
-                    "type": "DamageInfoType_Ability_Cyborg_Conscript_Shove"
-                },
-                {
-                    "type_num": 439,
-                    "hex_id": "1B4",
-                    "idx": 436,
-                    "type": "DamageInfoType_Ability_Cyborg_Conscript_Assaultfist"
-                },
-                {
-                    "type_num": 440,
-                    "hex_id": "1B5",
-                    "idx": 437,
-                    "type": "DamageInfoType_Ability_Cyborg_Lieutenant_Shove"
-                },
-                {
-                    "type_num": 441,
-                    "hex_id": "1B6",
-                    "idx": 438,
-                    "type": "DamageInfoType_Ability_Cyborg_Lieutenant_Saw"
+                    "hex_id": "1AE",
+                    "idx": 430,
+                    "type": "DamageInfoType_Ability_Bug_Charger_ObstacleCrush"
                 },
                 {
                     "type_num": 442,
-                    "hex_id": "1B7",
-                    "idx": 439,
-                    "type": "DamageInfoType_Ability_Cyborg_Lieutenant_Stomp"
+                    "hex_id": "1AF",
+                    "idx": 431,
+                    "type": "DamageInfoType_Ability_Bug_Impaler_MeleeCrush"
+                },
+                {
+                    "type_num": 437,
+                    "hex_id": "1B0",
+                    "idx": 432,
+                    "type": "DamageInfoType_Ability_Bot_Spawner_Obstacle"
+                },
+                {
+                    "type_num": 438,
+                    "hex_id": "1B1",
+                    "idx": 433,
+                    "type": "DamageInfoType_Ability_Bug_Hunter_Melee"
+                },
+                {
+                    "type_num": 439,
+                    "hex_id": "1B2",
+                    "idx": 434,
+                    "type": "DamageInfoType_Ability_Bug_Hunter_Tongue"
+                },
+                {
+                    "type_num": 440,
+                    "hex_id": "1B3",
+                    "idx": 435,
+                    "type": "DamageInfoType_Ability_Bug_Hunter_Pounce"
+                },
+                {
+                    "type_num": 441,
+                    "hex_id": "1B4",
+                    "idx": 436,
+                    "type": "DamageInfoType_Ability_Bug_Hunter_SyncKill"
                 },
                 {
                     "type_num": 443,
-                    "hex_id": "1B8",
-                    "idx": 440,
-                    "type": "DamageInfoType_Ability_Cyborg_Lieutenant_Obstacle_Large"
+                    "hex_id": "1B5",
+                    "idx": 437,
+                    "type": "DamageInfoType_Ability_Bug_Warrior_Claw"
                 },
                 {
                     "type_num": 444,
-                    "hex_id": "1B9",
-                    "idx": 441,
-                    "type": "DamageInfoType_Ability_Cyborg_Soldier_Punch"
+                    "hex_id": "1B6",
+                    "idx": 438,
+                    "type": "DamageInfoType_Ability_Bug_Warrior_Headbutt"
                 },
                 {
                     "type_num": 445,
-                    "hex_id": "1BA",
-                    "idx": 442,
-                    "type": "DamageInfoType_Ability_Cyborg_Soldier_Chainsaw"
+                    "hex_id": "1B7",
+                    "idx": 439,
+                    "type": "DamageInfoType_Ability_Bug_Warrior_Stomp"
                 },
                 {
                     "type_num": 446,
-                    "hex_id": "1BB",
-                    "idx": 443,
-                    "type": "DamageInfoType_Ability_Cyborg_Soldier_Stomp"
+                    "hex_id": "1B8",
+                    "idx": 440,
+                    "type": "DamageInfoType_Ability_Bug_Scavenger_Stab"
                 },
                 {
                     "type_num": 447,
-                    "hex_id": "1BC",
-                    "idx": 444,
-                    "type": "DamageInfoType_Ability_Illuminate_Cultist_Melee"
+                    "hex_id": "1B9",
+                    "idx": 441,
+                    "type": "DamageInfoType_Ability_Bug_Shrieker_Dive"
                 },
                 {
                     "type_num": 448,
-                    "hex_id": "1BD",
-                    "idx": 445,
-                    "type": "DamageInfoType_Ability_Illuminate_Illusionist_Orb"
+                    "hex_id": "1BA",
+                    "idx": 442,
+                    "type": "DamageInfoType_Ability_Bug_Shrieker_Pounce"
                 },
                 {
                     "type_num": 449,
-                    "hex_id": "1BE",
-                    "idx": 446,
-                    "type": "DamageInfoType_Ability_Illuminate_Illusionist_MindScramble"
+                    "hex_id": "1BB",
+                    "idx": 443,
+                    "type": "DamageInfoType_Ability_Bug_Stalker_Stab"
                 },
                 {
                     "type_num": 450,
-                    "hex_id": "1BF",
-                    "idx": 447,
-                    "type": "DamageInfoType_Ability_Illuminate_Illusionist_InverseAimAssist"
+                    "hex_id": "1BC",
+                    "idx": 444,
+                    "type": "DamageInfoType_Ability_Bug_Stalker_Tongue"
                 },
                 {
                     "type_num": 451,
-                    "hex_id": "1C0",
-                    "idx": 448,
-                    "type": "DamageInfoType_Ability_Illuminate_Illusionist_Forcechoke"
+                    "hex_id": "1BD",
+                    "idx": 445,
+                    "type": "DamageInfoType_Ability_Bug_Stalker_Scream"
                 },
                 {
                     "type_num": 452,
-                    "hex_id": "1C1",
-                    "idx": 449,
-                    "type": "DamageInfoType_Ability_Illuminate_Ghoul_Claw"
+                    "hex_id": "1BE",
+                    "idx": 446,
+                    "type": "DamageInfoType_Ability_Bug_Strider_Stomp"
                 },
                 {
                     "type_num": 453,
-                    "hex_id": "1C2",
-                    "idx": 450,
-                    "type": "DMG_TYPE_453"
+                    "hex_id": "1BF",
+                    "idx": 447,
+                    "type": "DamageInfoType_Ability_Bug_Strider_Acid_Spray"
                 },
                 {
                     "type_num": 454,
-                    "hex_id": "1C3",
-                    "idx": 451,
-                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_DashStun"
+                    "hex_id": "1C0",
+                    "idx": 448,
+                    "type": "DamageInfoType_Ability_Cyborg_Conscript_Shove"
                 },
                 {
                     "type_num": 455,
-                    "hex_id": "1C4",
-                    "idx": 452,
-                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_QuickSlash"
+                    "hex_id": "1C1",
+                    "idx": 449,
+                    "type": "DamageInfoType_Ability_Cyborg_Conscript_Assaultfist"
                 },
                 {
                     "type_num": 456,
-                    "hex_id": "1C5",
-                    "idx": 453,
-                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_BluntSwipe"
+                    "hex_id": "1C2",
+                    "idx": 450,
+                    "type": "DamageInfoType_Ability_Cyborg_Lieutenant_Shove"
                 },
                 {
                     "type_num": 457,
-                    "hex_id": "1C6",
-                    "idx": 454,
-                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_OverheadSlash"
+                    "hex_id": "1C3",
+                    "idx": 451,
+                    "type": "DamageInfoType_Ability_Cyborg_Lieutenant_Saw"
                 },
                 {
                     "type_num": 458,
-                    "hex_id": "1C7",
-                    "idx": 455,
-                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_StaffExplosion"
+                    "hex_id": "1C4",
+                    "idx": 452,
+                    "type": "DamageInfoType_Ability_Cyborg_Lieutenant_Stomp"
                 },
                 {
                     "type_num": 459,
-                    "hex_id": "1C8",
-                    "idx": 456,
-                    "type": "DMG_TYPE_459"
+                    "hex_id": "1C5",
+                    "idx": 453,
+                    "type": "DamageInfoType_Ability_Cyborg_Lieutenant_Obstacle_Large"
                 },
                 {
                     "type_num": 460,
-                    "hex_id": "1C9",
-                    "idx": 457,
-                    "type": "DMG_TYPE_460"
+                    "hex_id": "1C6",
+                    "idx": 454,
+                    "type": "DamageInfoType_Ability_Cyborg_Soldier_Punch"
                 },
                 {
                     "type_num": 461,
-                    "hex_id": "1CA",
-                    "idx": 458,
-                    "type": "DMG_TYPE_461"
+                    "hex_id": "1C7",
+                    "idx": 455,
+                    "type": "DamageInfoType_Ability_Cyborg_Soldier_Chainsaw"
                 },
                 {
                     "type_num": 462,
-                    "hex_id": "1CB",
-                    "idx": 459,
-                    "type": "DMG_TYPE_462"
+                    "hex_id": "1C8",
+                    "idx": 456,
+                    "type": "DamageInfoType_Ability_Cyborg_Soldier_Stomp"
                 },
                 {
                     "type_num": 463,
-                    "hex_id": "1CC",
-                    "idx": 460,
-                    "type": "DMG_TYPE_463"
+                    "hex_id": "1C9",
+                    "idx": 457,
+                    "type": "DamageInfoType_Ability_Illuminate_Cultist_Melee"
                 },
                 {
                     "type_num": 464,
-                    "hex_id": "1CD",
-                    "idx": 461,
-                    "type": "DamageInfoType_Ability_Illuminate_Outcast_Beam"
+                    "hex_id": "1CA",
+                    "idx": 458,
+                    "type": "DamageInfoType_Ability_Illuminate_Illusionist_Orb"
                 },
                 {
                     "type_num": 465,
-                    "hex_id": "1CE",
-                    "idx": 462,
-                    "type": "DamageInfoType_Ability_Illuminate_Outcast_Melee_Throw"
+                    "hex_id": "1CB",
+                    "idx": 459,
+                    "type": "DamageInfoType_Ability_Illuminate_Illusionist_MindScramble"
                 },
                 {
                     "type_num": 466,
-                    "hex_id": "1CF",
-                    "idx": 463,
-                    "type": "DamageInfoType_Ability_Illuminate_Magus_Whip"
+                    "hex_id": "1CC",
+                    "idx": 460,
+                    "type": "DamageInfoType_Ability_Illuminate_Illusionist_InverseAimAssist"
                 },
                 {
                     "type_num": 467,
-                    "hex_id": "1D0",
-                    "idx": 464,
-                    "type": "DamageInfoType_Ability_SuperEarth_Soldier_Shove"
+                    "hex_id": "1CD",
+                    "idx": 461,
+                    "type": "DamageInfoType_Ability_Illuminate_Illusionist_Forcechoke"
                 },
                 {
                     "type_num": 468,
-                    "hex_id": "1D1",
-                    "idx": 465,
-                    "type": "DamageInfoType_Ability_Illuminate_Outcast_Melee_Slash"
+                    "hex_id": "1CE",
+                    "idx": 462,
+                    "type": "DamageInfoType_Ability_Illuminate_Ghoul_Claw"
                 },
                 {
                     "type_num": 469,
-                    "hex_id": "1D2",
-                    "idx": 466,
-                    "type": "DamageInfoType_Ability_Illuminate_Outcast_Melee_Slash_Finisher"
+                    "hex_id": "1CF",
+                    "idx": 463,
+                    "type": "DMG_TYPE_469"
                 },
                 {
                     "type_num": 470,
-                    "hex_id": "1D3",
-                    "idx": 467,
-                    "type": "DamageInfoType_Ability_Hellpod_Traversal"
+                    "hex_id": "1D0",
+                    "idx": 464,
+                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_DashStun"
                 },
                 {
                     "type_num": 471,
-                    "hex_id": "1D4",
-                    "idx": 468,
-                    "type": "DamageInfoType_Ability_Darkfluid_Aoe"
+                    "hex_id": "1D1",
+                    "idx": 465,
+                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_QuickSlash"
                 },
                 {
                     "type_num": 472,
-                    "hex_id": "1D5",
-                    "idx": 469,
-                    "type": "DamageInfoType_Ability_GateCrush"
+                    "hex_id": "1D2",
+                    "idx": 466,
+                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_BluntSwipe"
                 },
                 {
                     "type_num": 473,
-                    "hex_id": "1D6",
-                    "idx": 470,
-                    "type": "DamageInfoType_Impact_Throwing_Knife"
+                    "hex_id": "1D3",
+                    "idx": 467,
+                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_OverheadSlash"
                 },
                 {
                     "type_num": 474,
-                    "hex_id": "1D7",
-                    "idx": 471,
-                    "type": "DMG_TYPE_474"
-                },
-                {
-                    "type_num": 365,
-                    "hex_id": "1D8",
-                    "idx": 472,
-                    "type": "DamageInfoType_Explosion_Illuminate_FakeEnemies"
-                },
-                {
-                    "type_num": 368,
-                    "hex_id": "1D9",
-                    "idx": 473,
-                    "type": "DamageInfoType_Explosion_DarkFluid"
+                    "hex_id": "1D4",
+                    "idx": 468,
+                    "type": "DamageInfoType_Ability_Illuminate_GuyStaff_StaffExplosion"
                 },
                 {
                     "type_num": 475,
+                    "hex_id": "1D5",
+                    "idx": 469,
+                    "type": "DMG_TYPE_475"
+                },
+                {
+                    "type_num": 476,
+                    "hex_id": "1D6",
+                    "idx": 470,
+                    "type": "DMG_TYPE_476"
+                },
+                {
+                    "type_num": 477,
+                    "hex_id": "1D7",
+                    "idx": 471,
+                    "type": "DMG_TYPE_477"
+                },
+                {
+                    "type_num": 478,
+                    "hex_id": "1D8",
+                    "idx": 472,
+                    "type": "DMG_TYPE_478"
+                },
+                {
+                    "type_num": 479,
+                    "hex_id": "1D9",
+                    "idx": 473,
+                    "type": "DMG_TYPE_479"
+                },
+                {
+                    "type_num": 480,
                     "hex_id": "1DA",
                     "idx": 474,
-                    "type": "DMG_TYPE_475"
+                    "type": "DamageInfoType_Ability_Illuminate_Outcast_Beam"
+                },
+                {
+                    "type_num": 481,
+                    "hex_id": "1DB",
+                    "idx": 475,
+                    "type": "DamageInfoType_Ability_Illuminate_Outcast_Melee_Throw"
+                },
+                {
+                    "type_num": 482,
+                    "hex_id": "1DC",
+                    "idx": 476,
+                    "type": "DamageInfoType_Ability_Illuminate_Magus_Whip"
+                },
+                {
+                    "type_num": 483,
+                    "hex_id": "1DD",
+                    "idx": 477,
+                    "type": "DamageInfoType_Ability_SuperEarth_Soldier_Shove"
+                },
+                {
+                    "type_num": 484,
+                    "hex_id": "1DE",
+                    "idx": 478,
+                    "type": "DamageInfoType_Ability_Illuminate_Outcast_Melee_Slash"
+                },
+                {
+                    "type_num": 485,
+                    "hex_id": "1DF",
+                    "idx": 479,
+                    "type": "DamageInfoType_Ability_Illuminate_Outcast_Melee_Slash_Finisher"
+                },
+                {
+                    "type_num": 486,
+                    "hex_id": "1E0",
+                    "idx": 480,
+                    "type": "DamageInfoType_Ability_Hellpod_Traversal"
+                },
+                {
+                    "type_num": 487,
+                    "hex_id": "1E1",
+                    "idx": 481,
+                    "type": "DamageInfoType_Ability_Darkfluid_Aoe"
+                },
+                {
+                    "type_num": 488,
+                    "hex_id": "1E2",
+                    "idx": 482,
+                    "type": "DamageInfoType_Ability_GateCrush"
+                },
+                {
+                    "type_num": 489,
+                    "hex_id": "1E3",
+                    "idx": 483,
+                    "type": "DamageInfoType_Impact_Throwing_Knife"
+                },
+                {
+                    "type_num": 490,
+                    "hex_id": "1E4",
+                    "idx": 484,
+                    "type": "DMG_TYPE_490"
+                },
+                {
+                    "type_num": 379,
+                    "hex_id": "1E5",
+                    "idx": 485,
+                    "type": "DamageInfoType_Explosion_Illuminate_FakeEnemies"
+                },
+                {
+                    "type_num": 382,
+                    "hex_id": "1E6",
+                    "idx": 486,
+                    "type": "DamageInfoType_Explosion_DarkFluid"
+                },
+                {
+                    "type_num": 285,
+                    "hex_id": "1E7",
+                    "idx": 487,
+                    "type": "DMG_TYPE_285"
+                },
+                {
+                    "type_num": 491,
+                    "hex_id": "1E8",
+                    "idx": 488,
+                    "type": "DMG_TYPE_491"
+                },
+                {
+                    "type_num": 286,
+                    "hex_id": "1E9",
+                    "idx": 489,
+                    "type": "DMG_TYPE_286"
+                },
+                {
+                    "type_num": 151,
+                    "hex_id": "1EA",
+                    "idx": 490,
+                    "type": "DMG_TYPE_151"
                 }
             ]
         }
