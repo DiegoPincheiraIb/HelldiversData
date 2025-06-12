@@ -2001,8 +2001,8 @@
                     "requires_raycast_confirmation": 0
                 },
                 {
-                    "type": "EXPLOSION_TYPE_284",
-                    "damage_type": "DMG_TYPE_017",
+                    "type": "ExplosionType_PyrotechGrenade",
+                    "damage_type": "DamageInfoType_PyrotechGrenade",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 2.5,
                     "outer_radius": 5,
