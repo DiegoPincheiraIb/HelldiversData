@@ -6961,7 +6961,7 @@
                     }
                 },
                 {
-                    "type": "PROJECTILE_TYPE_033",
+                    "type": "Projectile_Missile_WASP_Hornets",
                     "name_upper": 2759158684,
                     "name_cased": 1833867619,
                     "short_name": 2523245633,
@@ -20402,7 +20402,7 @@
                     "type_num": 178
                 },
                 {
-                    "type": "PROJECTILE_TYPE_033",
+                    "type": "Projectile_Missile_WASP_Hornets",
                     "hex_id": "62",
                     "idx": 98,
                     "type_num": 33
