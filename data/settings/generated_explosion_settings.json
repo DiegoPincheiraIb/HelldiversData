@@ -11204,7 +11204,7 @@
                     "type_num": 202
                 },
                 {
-                    "type": "EXPLOSION_TYPE_245",
+                    "type": "ExplosionType_UltimatumGrenadePistol",
                     "hex_id": "7B",
                     "idx": 123,
                     "type_num": 245
