@@ -5932,7 +5932,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_170",
+                    "type": "DamageInfoType_Projectile_AT_Emplacement",
                     "damage": [
                         1300,
                         1300
@@ -17132,7 +17132,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_286",
+                    "type": "DamageInfoType_Explosion_Grenade_Launcher_Stun",
                     "damage": [
                         0,
                         0
@@ -17167,7 +17167,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_151",
+                    "type": "DamageInfoType_Explosion_Grenade_Launcher_Stun_Arcs",
                     "damage": [
                         55,
                         55
@@ -18221,7 +18221,7 @@
                     "type_num": 170,
                     "hex_id": "A9",
                     "idx": 169,
-                    "type": "DMG_TYPE_170"
+                    "type": "DamageInfoType_Projectile_AT_Emplacement"
                 },
                 {
                     "type_num": 171,
@@ -20141,13 +20141,13 @@
                     "type_num": 286,
                     "hex_id": "1E9",
                     "idx": 489,
-                    "type": "DMG_TYPE_286"
+                    "type": "DamageInfoType_Explosion_Grenade_Launcher_Stun"
                 },
                 {
                     "type_num": 151,
                     "hex_id": "1EA",
                     "idx": 490,
-                    "type": "DMG_TYPE_151"
+                    "type": "DamageInfoType_Explosion_Grenade_Launcher_Stun_Arcs"
                 }
             ]
         }

@@ -4689,7 +4689,7 @@
                     }
                 },
                 {
-                    "type": "PROJECTILE_TYPE_180",
+                    "type": "ProjectileType_Grenade_Launcher_Stun",
                     "name_upper": 341582370,
                     "name_cased": 4073392945,
                     "short_name": 3796757242,
@@ -4715,7 +4715,7 @@
                     "projectile_unit_path": 12019415332010288487,
                     "explosion_threshold_angle": 80,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "EXPLOSION_TYPE_029",
+                    "explosion_type_on_impact": "ExplosionType_Grenade_Launcher_Stun",
                     "explosion_proximity": 0,
                     "explosion_delay": 0,
                     "explosion_type_expire": "ExplosionType_None",
@@ -5044,7 +5044,7 @@
                     }
                 },
                 {
-                    "type": "PROJECTILE_TYPE_085",
+                    "type": "ProjectileType_AT_Emplacement",
                     "name_upper": 1271169426,
                     "name_cased": 188540169,
                     "short_name": 4056765033,
@@ -5058,7 +5058,7 @@
                     "simulation_steps": 1,
                     "life_time": 0,
                     "life_time_randomness": 0,
-                    "damage_info_type": "DMG_TYPE_170",
+                    "damage_info_type": "DamageInfoType_Projectile_AT_Emplacement",
                     "penetration_slowdown": 0.850000024,
                     "particle_thruster_effect_path": 13371425197563175203,
                     "low_ammo_particle_thruster_effect_path": 0,
@@ -5070,7 +5070,7 @@
                     "projectile_unit_path": 5753481972191024505,
                     "explosion_threshold_angle": 60,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "EXPLOSION_TYPE_033",
+                    "explosion_type_on_impact": "ExplosionType_AT_Emplacement",
                     "explosion_proximity": 0,
                     "explosion_delay": 0,
                     "explosion_type_expire": "ExplosionType_None",
@@ -10724,7 +10724,7 @@
                     }
                 },
                 {
-                    "type": "PROJECTILE_TYPE_260",
+                    "type": "ProjectileType_Pistol_Warrant",
                     "name_upper": 2980005877,
                     "name_cased": 148357255,
                     "short_name": 4056765033,
@@ -12144,7 +12144,7 @@
                     }
                 },
                 {
-                    "type": "PROJECTILE_TYPE_075",
+                    "type": "ProjectileType_Rifle_Pacifier",
                     "name_upper": 1118055361,
                     "name_cased": 3833165879,
                     "short_name": 4056765033,
@@ -20210,7 +20210,7 @@
                     "type_num": 49
                 },
                 {
-                    "type": "PROJECTILE_TYPE_180",
+                    "type": "ProjectileType_Grenade_Launcher_Stun",
                     "hex_id": "42",
                     "idx": 66,
                     "type_num": 180
@@ -20240,7 +20240,7 @@
                     "type_num": 104
                 },
                 {
-                    "type": "PROJECTILE_TYPE_085",
+                    "type": "ProjectileType_AT_Emplacement",
                     "hex_id": "47",
                     "idx": 71,
                     "type_num": 85
@@ -20720,7 +20720,7 @@
                     "type_num": 12
                 },
                 {
-                    "type": "PROJECTILE_TYPE_260",
+                    "type": "ProjectileType_Pistol_Warrant",
                     "hex_id": "97",
                     "idx": 151,
                     "type_num": 260
@@ -20840,7 +20840,7 @@
                     "type_num": 214
                 },
                 {
-                    "type": "PROJECTILE_TYPE_075",
+                    "type": "ProjectileType_Rifle_Pacifier",
                     "hex_id": "AB",
                     "idx": 171,
                     "type_num": 75

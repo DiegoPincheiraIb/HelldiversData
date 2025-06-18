@@ -3383,7 +3383,7 @@
                     "unk2": 0
                 },
                 {
-                    "type": "EXPLOSION_TYPE_033",
+                    "type": "ExplosionType_AT_Emplacement",
                     "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_75mm_HEAT",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 3,
@@ -10396,8 +10396,8 @@
                     "unk2": 0
                 },
                 {
-                    "type": "EXPLOSION_TYPE_029",
-                    "damage_type": "DMG_TYPE_286",
+                    "type": "ExplosionType_Grenade_Launcher_Stun",
+                    "damage_type": "DamageInfoType_Explosion_Grenade_Launcher_Stun",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 1,
                     "outer_radius": 10,
@@ -11060,7 +11060,7 @@
                     "type_num": 272
                 },
                 {
-                    "type": "EXPLOSION_TYPE_033",
+                    "type": "ExplosionType_AT_Emplacement",
                     "hex_id": "63",
                     "idx": 99,
                     "type_num": 33
@@ -12296,7 +12296,7 @@
                     "type_num": 59
                 },
                 {
-                    "type": "EXPLOSION_TYPE_029",
+                    "type": "ExplosionType_Grenade_Launcher_Stun",
                     "hex_id": "131",
                     "idx": 305,
                     "type_num": 29
