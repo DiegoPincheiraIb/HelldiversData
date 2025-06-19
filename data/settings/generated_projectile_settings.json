@@ -10727,8 +10727,79 @@
                     "type": "ProjectileType_Pistol_Warrant",
                     "name_upper": 2980005877,
                     "name_cased": 148357255,
-                    "short_name": 4056765033,
-                    "hud_icon": 1375641398728222616,
+                    "short_name": 4044635637,
+                    "hud_icon": 9058725009370920137,
+                    "calibre": 12,
+                    "num_projectiles": 1,
+                    "speed": 285,
+                    "mass": 15,
+                    "drag": 0.300000012,
+                    "gravity_multiplier": 1,
+                    "simulation_steps": 1,
+                    "life_time": 0,
+                    "life_time_randomness": 0,
+                    "damage_info_type": "DamageInfoType_Projectile_Pistol_Warrant",
+                    "penetration_slowdown": 0.25,
+                    "particle_thruster_effect_path": 7125953194633755548,
+                    "low_ammo_particle_thruster_effect_path": 4557633415823676875,
+                    "particle_thruster_effect_length": 0.01,
+                    "particle_trail_effect_path": 0,
+                    "dissipate_particle_effect_path": 0,
+                    "disintegration_particle_effect_path": 0,
+                    "hit_direction_hint_effect": 0,
+                    "projectile_unit_path": 15708617757746754668,
+                    "explosion_threshold_angle": 80,
+                    "can_expire_after_impact": 1,
+                    "explosion_type_on_impact": "ExplosionType_None",
+                    "explosion_proximity": 0,
+                    "explosion_delay": 0,
+                    "explosion_type_expire": "ExplosionType_None",
+                    "arming_distance": 0,
+                    "decal_size": 0.100000001,
+                    "surface_impact_type": "SurfaceImpactType_projectile_solid_medium",
+                    "ricochet_impact_type": "SurfaceImpactType_projectile_solid_medium",
+                    "max_ricochets": 1,
+                    "ricochet_threshold_angle": 83,
+                    "ricochet_threshold_speed": 60,
+                    "ricochet_angle_loss": 0.75,
+                    "ricochet_spread_vertical": 2,
+                    "ricochet_spread_horizontal": 15,
+                    "audio_crack_event": 2900491565,
+                    "audio_ricochet_event": 988188807,
+                    "audio_trail_event_start": 0,
+                    "audio_trail_event_stop": 0,
+                    "status_effect_volume_template": "ProjectileStatusEffectVolumeTemplate_None",
+                    "effect_damage_type": "HitEffectDamageType_PiercingSmall",
+                    "fire_template": "FireTemplate_None",
+                    "inherit_velocity": 1,
+                    "ignore_terminal_velocity": 0,
+                    "remove_thruster_effect_instantly": 1,
+                    "remove_trail_effect_instantly": 1,
+                    "projectile_unit_auto_remove": 1,
+                    "explosions_inherit_velocity": 1,
+                    "project_decal": 1,
+                    "global_audio": 0,
+                    "audio_danger_zone": 0,
+                    "hit_only_ground": 0,
+                    "can_pass_through_shield": 0,
+                    "allow_long_distance_travel": 0,
+                    "look_for_audio_source_hijack": 0,
+                    "raycast_template": "RaycastTemplate_Damage",
+                    "proximity_explosion_collision_filter": 960337176,
+                    "apply_stim_on_target": 0,
+                    "projectile_auto_attach": 0,
+                    "projectile_attachment_local_offset": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    }
+                },
+                {
+                    "type": "PROJECTILE_TYPE_256",
+                    "name_upper": 2980005877,
+                    "name_cased": 148357255,
+                    "short_name": 3978283398,
+                    "hud_icon": 13581015757630000983,
                     "calibre": 12,
                     "num_projectiles": 1,
                     "speed": 285,
@@ -19835,7 +19906,7 @@
                     "type": "ProjectileType_Bomb_100kg_MK2",
                     "hex_id": "3",
                     "idx": 3,
-                    "type_num": 270
+                    "type_num": 271
                 },
                 {
                     "type": "ProjectileType_Bomb_100kg_MK3",
@@ -19913,7 +19984,7 @@
                     "type": "ProjectileType_Scavenger_AcidBall",
                     "hex_id": "10",
                     "idx": 16,
-                    "type_num": 277
+                    "type_num": 278
                 },
                 {
                     "type": "ProjectileType_Strider_Spike",
@@ -19925,7 +19996,7 @@
                     "type": "ProjectileType_Bug_Artillery",
                     "hex_id": "12",
                     "idx": 18,
-                    "type_num": 273
+                    "type_num": 274
                 },
                 {
                     "type": "ProjectileType_Cannon_20mm_APHET",
@@ -20105,13 +20176,13 @@
                     "type": "ProjectileType_Cyborg_Tank_RocketLauncher",
                     "hex_id": "30",
                     "idx": 48,
-                    "type_num": 263
+                    "type_num": 264
                 },
                 {
                     "type": "ProjectileType_Cyborg_Flare",
                     "hex_id": "31",
                     "idx": 49,
-                    "type_num": 262
+                    "type_num": 263
                 },
                 {
                     "type": "ProjectileType_Cyborg_Mortar_Grenade_HE",
@@ -20225,7 +20296,7 @@
                     "type": "ProjectileType_Grenade_Mortar_40mm_HE",
                     "hex_id": "44",
                     "idx": 68,
-                    "type_num": 275
+                    "type_num": 276
                 },
                 {
                     "type": "ProjectileType_Grenade_Mortar_40mm_Staticfield",
@@ -20255,7 +20326,7 @@
                     "type": "ProjectileType_Grenade_85mm_HE_MK2",
                     "hex_id": "49",
                     "idx": 73,
-                    "type_num": 279
+                    "type_num": 280
                 },
                 {
                     "type": "ProjectileType_Grenade_85mm_HEAT",
@@ -20333,7 +20404,7 @@
                     "type": "ProjectileType_Illuminate_IllusionistDeathball",
                     "hex_id": "56",
                     "idx": 86,
-                    "type_num": 267
+                    "type_num": 268
                 },
                 {
                     "type": "ProjectileType_Illuminate_TripodDeathball",
@@ -20387,7 +20458,7 @@
                     "type": "ProjectileType_Missile_Stinger",
                     "hex_id": "5F",
                     "idx": 95,
-                    "type_num": 268
+                    "type_num": 269
                 },
                 {
                     "type": "PROJECTILE_TYPE_181",
@@ -20408,10 +20479,10 @@
                     "type_num": 33
                 },
                 {
-                    "type": "PROJECTILE_TYPE_264",
+                    "type": "PROJECTILE_TYPE_265",
                     "hex_id": "63",
                     "idx": 99,
-                    "type_num": 264
+                    "type_num": 265
                 },
                 {
                     "type": "ProjectileType_Missile_Combat_Walker",
@@ -20423,7 +20494,7 @@
                     "type": "ProjectileType_Missile_Combat_Walker_MK2",
                     "hex_id": "65",
                     "idx": 101,
-                    "type_num": 278
+                    "type_num": 279
                 },
                 {
                     "type": "ProjectileType_EagleMissile",
@@ -20579,7 +20650,7 @@
                     "type": "ProjectileType_SEAF_Gun_High_Yield_Explosive",
                     "hex_id": "7F",
                     "idx": 127,
-                    "type_num": 271
+                    "type_num": 272
                 },
                 {
                     "type": "ProjectileType_SEAF_Gun_Mini_Nuke",
@@ -20627,7 +20698,7 @@
                     "type": "ProjectileType_Pistol_9x20mm_hp",
                     "hex_id": "87",
                     "idx": 135,
-                    "type_num": 269
+                    "type_num": 270
                 },
                 {
                     "type": "ProjectileType_Pistol_9x20mm_hv",
@@ -20723,768 +20794,774 @@
                     "type": "ProjectileType_Pistol_Warrant",
                     "hex_id": "97",
                     "idx": 151,
-                    "type_num": 260
+                    "type_num": 261
+                },
+                {
+                    "type": "PROJECTILE_TYPE_256",
+                    "hex_id": "98",
+                    "idx": 152,
+                    "type_num": 256
                 },
                 {
                     "type": "ProjectileType_SMG_Rhino",
-                    "hex_id": "98",
-                    "idx": 152,
+                    "hex_id": "99",
+                    "idx": 153,
                     "type_num": 97
                 },
                 {
                     "type": "ProjectileType_Pistol_13x40mm_ap",
-                    "hex_id": "99",
-                    "idx": 153,
+                    "hex_id": "9A",
+                    "idx": 154,
                     "type_num": 89
                 },
                 {
                     "type": "ProjectileType_Pistol_13x40mm_fmj",
-                    "hex_id": "9A",
-                    "idx": 154,
+                    "hex_id": "9B",
+                    "idx": 155,
                     "type_num": 248
                 },
                 {
                     "type": "ProjectileType_Pistol_13x40mm_hp",
-                    "hex_id": "9B",
-                    "idx": 155,
+                    "hex_id": "9C",
+                    "idx": 156,
                     "type_num": 24
                 },
                 {
                     "type": "ProjectileType_Pistol_13x40mm_mag",
-                    "hex_id": "9C",
-                    "idx": 156,
+                    "hex_id": "9D",
+                    "idx": 157,
                     "type_num": 16
                 },
                 {
                     "type": "ProjectileType_Pistol_13x40mm_rip",
-                    "hex_id": "9D",
-                    "idx": 157,
+                    "hex_id": "9E",
+                    "idx": 158,
                     "type_num": 74
                 },
                 {
                     "type": "ProjectileType_Pistol_Stim",
-                    "hex_id": "9E",
-                    "idx": 158,
+                    "hex_id": "9F",
+                    "idx": 159,
                     "type_num": 255
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_fmj",
-                    "hex_id": "9F",
-                    "idx": 159,
+                    "hex_id": "A0",
+                    "idx": 160,
                     "type_num": 221
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_ap",
-                    "hex_id": "A0",
-                    "idx": 160,
+                    "hex_id": "A1",
+                    "idx": 161,
                     "type_num": 5
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_dev",
-                    "hex_id": "A1",
-                    "idx": 161,
+                    "hex_id": "A2",
+                    "idx": 162,
                     "type_num": 223
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_exp",
-                    "hex_id": "A2",
-                    "idx": 162,
+                    "hex_id": "A3",
+                    "idx": 163,
                     "type_num": 249
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_hp",
-                    "hex_id": "A3",
-                    "idx": 163,
+                    "hex_id": "A4",
+                    "idx": 164,
                     "type_num": 166
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_hv",
-                    "hex_id": "A4",
-                    "idx": 164,
-                    "type_num": 274
+                    "hex_id": "A5",
+                    "idx": 165,
+                    "type_num": 275
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_pow",
-                    "hex_id": "A5",
-                    "idx": 165,
+                    "hex_id": "A6",
+                    "idx": 166,
                     "type_num": 205
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_rip",
-                    "hex_id": "A6",
-                    "idx": 166,
+                    "hex_id": "A7",
+                    "idx": 167,
                     "type_num": 44
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_spr",
-                    "hex_id": "A7",
-                    "idx": 167,
-                    "type_num": 257
+                    "hex_id": "A8",
+                    "idx": 168,
+                    "type_num": 258
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_ss",
-                    "hex_id": "A8",
-                    "idx": 168,
+                    "hex_id": "A9",
+                    "idx": 169,
                     "type_num": 110
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_suc",
-                    "hex_id": "A9",
-                    "idx": 169,
+                    "hex_id": "AA",
+                    "idx": 170,
                     "type_num": 152
                 },
                 {
                     "type": "ProjectileType_Rifle_5p5x50mm_tracer",
-                    "hex_id": "AA",
-                    "idx": 170,
+                    "hex_id": "AB",
+                    "idx": 171,
                     "type_num": 214
                 },
                 {
                     "type": "ProjectileType_Rifle_Pacifier",
-                    "hex_id": "AB",
-                    "idx": 171,
+                    "hex_id": "AC",
+                    "idx": 172,
                     "type_num": 75
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_airb",
-                    "hex_id": "AC",
-                    "idx": 172,
+                    "hex_id": "AD",
+                    "idx": 173,
                     "type_num": 93
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_ap",
-                    "hex_id": "AD",
-                    "idx": 173,
-                    "type_num": 266
+                    "hex_id": "AE",
+                    "idx": 174,
+                    "type_num": 267
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_dev",
-                    "hex_id": "AE",
-                    "idx": 174,
+                    "hex_id": "AF",
+                    "idx": 175,
                     "type_num": 78
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_exp",
-                    "hex_id": "AF",
-                    "idx": 175,
+                    "hex_id": "B0",
+                    "idx": 176,
                     "type_num": 72
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_flm",
-                    "hex_id": "B0",
-                    "idx": 176,
+                    "hex_id": "B1",
+                    "idx": 177,
                     "type_num": 83
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_fmj",
-                    "hex_id": "B1",
-                    "idx": 177,
+                    "hex_id": "B2",
+                    "idx": 178,
                     "type_num": 119
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_fmj_NoCrack",
-                    "hex_id": "B2",
-                    "idx": 178,
+                    "hex_id": "B3",
+                    "idx": 179,
                     "type_num": 132
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_hv",
-                    "hex_id": "B3",
-                    "idx": 179,
+                    "hex_id": "B4",
+                    "idx": 180,
                     "type_num": 169
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_pow",
-                    "hex_id": "B4",
-                    "idx": 180,
+                    "hex_id": "B5",
+                    "idx": 181,
                     "type_num": 170
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_snb",
-                    "hex_id": "B5",
-                    "idx": 181,
+                    "hex_id": "B6",
+                    "idx": 182,
                     "type_num": 208
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_ss",
-                    "hex_id": "B6",
-                    "idx": 182,
-                    "type_num": 259
+                    "hex_id": "B7",
+                    "idx": 183,
+                    "type_num": 260
                 },
                 {
                     "type": "PROJECTILE_TYPE_131",
-                    "hex_id": "B7",
-                    "idx": 183,
+                    "hex_id": "B8",
+                    "idx": 184,
                     "type_num": 131
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_tracer",
-                    "hex_id": "B8",
-                    "idx": 184,
+                    "hex_id": "B9",
+                    "idx": 185,
                     "type_num": 194
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_tracer_NoCrack",
-                    "hex_id": "B9",
-                    "idx": 185,
+                    "hex_id": "BA",
+                    "idx": 186,
                     "type_num": 82
                 },
                 {
                     "type": "ProjectileType_Rifle_8x60mm_apt",
-                    "hex_id": "BA",
-                    "idx": 186,
+                    "hex_id": "BB",
+                    "idx": 187,
                     "type_num": 217
                 },
                 {
                     "type": "ProjectileType_Battle_Rifle",
-                    "hex_id": "BB",
-                    "idx": 187,
+                    "hex_id": "BC",
+                    "idx": 188,
                     "type_num": 107
                 },
                 {
                     "type": "ProjectileType_Rifle_Rico",
-                    "hex_id": "BC",
-                    "idx": 188,
+                    "hex_id": "BD",
+                    "idx": 189,
                     "type_num": 34
                 },
                 {
                     "type": "ProjectileType_Rifle_Constitution",
-                    "hex_id": "BD",
-                    "idx": 189,
+                    "hex_id": "BE",
+                    "idx": 190,
                     "type_num": 227
                 },
                 {
-                    "type": "PROJECTILE_TYPE_261",
-                    "hex_id": "BE",
-                    "idx": 190,
-                    "type_num": 261
+                    "type": "PROJECTILE_TYPE_262",
+                    "hex_id": "BF",
+                    "idx": 191,
+                    "type_num": 262
                 },
                 {
                     "type": "ProjectileType_LeverRifle_Deadeye",
-                    "hex_id": "BF",
-                    "idx": 191,
+                    "hex_id": "C0",
+                    "idx": 192,
                     "type_num": 241
                 },
                 {
                     "type": "ProjectileType_Rifle_9x70mm_ap",
-                    "hex_id": "C0",
-                    "idx": 192,
+                    "hex_id": "C1",
+                    "idx": 193,
                     "type_num": 162
                 },
                 {
                     "type": "ProjectileType_Rifle_9x70mm_fmj",
-                    "hex_id": "C1",
-                    "idx": 193,
+                    "hex_id": "C2",
+                    "idx": 194,
                     "type_num": 246
                 },
                 {
                     "type": "ProjectileType_Rifle_9x70mm_hv",
-                    "hex_id": "C2",
-                    "idx": 194,
+                    "hex_id": "C3",
+                    "idx": 195,
                     "type_num": 193
                 },
                 {
                     "type": "ProjectileType_Rifle_9x70mm_snb",
-                    "hex_id": "C3",
-                    "idx": 195,
+                    "hex_id": "C4",
+                    "idx": 196,
                     "type_num": 211
                 },
                 {
                     "type": "ProjectileType_Rifle_9x70mm_soc",
-                    "hex_id": "C4",
-                    "idx": 196,
+                    "hex_id": "C5",
+                    "idx": 197,
                     "type_num": 27
                 },
                 {
                     "type": "PROJECTILE_TYPE_106",
-                    "hex_id": "C5",
-                    "idx": 197,
+                    "hex_id": "C6",
+                    "idx": 198,
                     "type_num": 106
                 },
                 {
                     "type": "ProjectileType_Rifle_9x70mm_suc",
-                    "hex_id": "C6",
-                    "idx": 198,
+                    "hex_id": "C7",
+                    "idx": 199,
                     "type_num": 80
                 },
                 {
                     "type": "ProjectileType_Rifle_12p5x100mm_fmj",
-                    "hex_id": "C7",
-                    "idx": 199,
+                    "hex_id": "C8",
+                    "idx": 200,
                     "type_num": 63
                 },
                 {
                     "type": "ProjectileType_Rifle_12p5x100mm_eit",
-                    "hex_id": "C8",
-                    "idx": 200,
+                    "hex_id": "C9",
+                    "idx": 201,
                     "type_num": 182
                 },
                 {
                     "type": "ProjectileType_Rifle_12p5x100mm_eit_mk2",
-                    "hex_id": "C9",
-                    "idx": 201,
+                    "hex_id": "CA",
+                    "idx": 202,
                     "type_num": 86
                 },
                 {
                     "type": "ProjectileType_Rifle_12p5x100mm_bchp",
-                    "hex_id": "CA",
-                    "idx": 202,
+                    "hex_id": "CB",
+                    "idx": 203,
                     "type_num": 220
                 },
                 {
                     "type": "ProjectileType_Crossbow_Bolt_exp",
-                    "hex_id": "CB",
-                    "idx": 203,
+                    "hex_id": "CC",
+                    "idx": 204,
                     "type_num": 201
                 },
                 {
                     "type": "ProjectileType_Rocket_15x100mm_emp",
-                    "hex_id": "CC",
-                    "idx": 204,
+                    "hex_id": "CD",
+                    "idx": 205,
                     "type_num": 88
                 },
                 {
                     "type": "ProjectileType_Rocket_15x100mm_exp",
-                    "hex_id": "CD",
-                    "idx": 205,
+                    "hex_id": "CE",
+                    "idx": 206,
                     "type_num": 167
                 },
                 {
                     "type": "ProjectileType_Rocket_15x100mm_frag",
-                    "hex_id": "CE",
-                    "idx": 206,
+                    "hex_id": "CF",
+                    "idx": 207,
                     "type_num": 207
                 },
                 {
                     "type": "ProjectileType_Rocket_15x100mm_pla",
-                    "hex_id": "CF",
-                    "idx": 207,
+                    "hex_id": "D0",
+                    "idx": 208,
                     "type_num": 18
                 },
                 {
                     "type": "ProjectileType_Rocket_15x100mm_hv",
-                    "hex_id": "D0",
-                    "idx": 208,
+                    "hex_id": "D1",
+                    "idx": 209,
                     "type_num": 35
                 },
                 {
                     "type": "ProjectileType_Rocket_15x100mm_std",
-                    "hex_id": "D1",
-                    "idx": 209,
+                    "hex_id": "D2",
+                    "idx": 210,
                     "type_num": 143
                 },
                 {
                     "type": "ProjectileType_Rocket_15x100mm_ther",
-                    "hex_id": "D2",
-                    "idx": 210,
+                    "hex_id": "D3",
+                    "idx": 211,
                     "type_num": 10
                 },
                 {
                     "type": "ProjectileType_Rocket_15x100mm_tox",
-                    "hex_id": "D3",
-                    "idx": 211,
+                    "hex_id": "D4",
+                    "idx": 212,
                     "type_num": 17
                 },
                 {
                     "type": "ProjectileType_Rocket_JarPhoenix_20mm",
-                    "hex_id": "D4",
-                    "idx": 212,
+                    "hex_id": "D5",
+                    "idx": 213,
                     "type_num": 30
                 },
                 {
                     "type": "ProjectileType_Rocket_70mm",
-                    "hex_id": "D5",
-                    "idx": 213,
+                    "hex_id": "D6",
+                    "idx": 214,
                     "type_num": 245
                 },
                 {
                     "type": "ProjectileType_Rocket_70mm_turret",
-                    "hex_id": "D6",
-                    "idx": 214,
-                    "type_num": 256
+                    "hex_id": "D7",
+                    "idx": 215,
+                    "type_num": 257
                 },
                 {
                     "type": "ProjectileType_Rocket_110mm",
-                    "hex_id": "D7",
-                    "idx": 215,
+                    "hex_id": "D8",
+                    "idx": 216,
                     "type_num": 62
                 },
                 {
                     "type": "ProjectileType_Rocket_110mm_silent",
-                    "hex_id": "D8",
-                    "idx": 216,
+                    "hex_id": "D9",
+                    "idx": 217,
                     "type_num": 117
                 },
                 {
                     "type": "ProjectileType_Rocket_110mm_MK2",
-                    "hex_id": "D9",
-                    "idx": 217,
+                    "hex_id": "DA",
+                    "idx": 218,
                     "type_num": 4
                 },
                 {
                     "type": "ProjectileType_Shotgun_12g_bir",
-                    "hex_id": "DA",
-                    "idx": 218,
+                    "hex_id": "DB",
+                    "idx": 219,
                     "type_num": 141
                 },
                 {
                     "type": "ProjectileType_Shotgun_12g_buc",
-                    "hex_id": "DB",
-                    "idx": 219,
+                    "hex_id": "DC",
+                    "idx": 220,
                     "type_num": 145
                 },
                 {
                     "type": "ProjectileType_Shotgun_12g_bug",
-                    "hex_id": "DC",
-                    "idx": 220,
+                    "hex_id": "DD",
+                    "idx": 221,
                     "type_num": 69
                 },
                 {
                     "type": "ProjectileType_Shotgun_12g_fle",
-                    "hex_id": "DD",
-                    "idx": 221,
+                    "hex_id": "DE",
+                    "idx": 222,
                     "type_num": 212
                 },
                 {
                     "type": "ProjectileType_Shotgun_12g_flm",
-                    "hex_id": "DE",
-                    "idx": 222,
+                    "hex_id": "DF",
+                    "idx": 223,
                     "type_num": 252
                 },
                 {
                     "type": "ProjectileType_Shotgun_12g_mag",
-                    "hex_id": "DF",
-                    "idx": 223,
+                    "hex_id": "E0",
+                    "idx": 224,
                     "type_num": 128
                 },
                 {
                     "type": "ProjectileType_Shotgun_12g_magtri",
-                    "hex_id": "E0",
-                    "idx": 224,
+                    "hex_id": "E1",
+                    "idx": 225,
                     "type_num": 247
                 },
                 {
                     "type": "ProjectileType_Shotgun_12g_scs",
-                    "hex_id": "E1",
-                    "idx": 225,
+                    "hex_id": "E2",
+                    "idx": 226,
                     "type_num": 203
                 },
                 {
                     "type": "ProjectileType_Shotgun_12g_tri",
-                    "hex_id": "E2",
-                    "idx": 226,
+                    "hex_id": "E3",
+                    "idx": 227,
                     "type_num": 183
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_bir",
-                    "hex_id": "E3",
-                    "idx": 227,
+                    "hex_id": "E4",
+                    "idx": 228,
                     "type_num": 187
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_buc",
-                    "hex_id": "E4",
-                    "idx": 228,
+                    "hex_id": "E5",
+                    "idx": 229,
                     "type_num": 209
                 },
                 {
                     "type": "ProjectileType_TripleBarrelShotgun_10g_buc",
-                    "hex_id": "E5",
-                    "idx": 229,
+                    "hex_id": "E6",
+                    "idx": 230,
                     "type_num": 234
                 },
                 {
                     "type": "ProjectileType_Shotgun_Dragon_10g_flm",
-                    "hex_id": "E6",
-                    "idx": 230,
-                    "type_num": 276
+                    "hex_id": "E7",
+                    "idx": 231,
+                    "type_num": 277
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_bug",
-                    "hex_id": "E7",
-                    "idx": 231,
+                    "hex_id": "E8",
+                    "idx": 232,
                     "type_num": 161
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_fle",
-                    "hex_id": "E8",
-                    "idx": 232,
+                    "hex_id": "E9",
+                    "idx": 233,
                     "type_num": 148
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_flm",
-                    "hex_id": "E9",
-                    "idx": 233,
+                    "hex_id": "EA",
+                    "idx": 234,
                     "type_num": 236
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_frag",
-                    "hex_id": "EA",
-                    "idx": 234,
-                    "type_num": 258
+                    "hex_id": "EB",
+                    "idx": 235,
+                    "type_num": 259
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_mag",
-                    "hex_id": "EB",
-                    "idx": 235,
+                    "hex_id": "EC",
+                    "idx": 236,
                     "type_num": 175
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_magtri",
-                    "hex_id": "EC",
-                    "idx": 236,
+                    "hex_id": "ED",
+                    "idx": 237,
                     "type_num": 53
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_sab",
-                    "hex_id": "ED",
-                    "idx": 237,
+                    "hex_id": "EE",
+                    "idx": 238,
                     "type_num": 1
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_sab2",
-                    "hex_id": "EE",
-                    "idx": 238,
-                    "type_num": 265
+                    "hex_id": "EF",
+                    "idx": 239,
+                    "type_num": 266
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_sabhv",
-                    "hex_id": "EF",
-                    "idx": 239,
+                    "hex_id": "F0",
+                    "idx": 240,
                     "type_num": 29
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_scs",
-                    "hex_id": "F0",
-                    "idx": 240,
+                    "hex_id": "F1",
+                    "idx": 241,
                     "type_num": 11
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_stun",
-                    "hex_id": "F1",
-                    "idx": 241,
+                    "hex_id": "F2",
+                    "idx": 242,
                     "type_num": 154
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_slug",
-                    "hex_id": "F2",
-                    "idx": 242,
+                    "hex_id": "F3",
+                    "idx": 243,
                     "type_num": 192
                 },
                 {
                     "type": "ProjectileType_Shotgun_10g_tri",
-                    "hex_id": "F3",
-                    "idx": 243,
+                    "hex_id": "F4",
+                    "idx": 244,
                     "type_num": 36
                 },
                 {
                     "type": "ProjectileType_Shrapnel",
-                    "hex_id": "F4",
-                    "idx": 244,
+                    "hex_id": "F5",
+                    "idx": 245,
                     "type_num": 163
                 },
                 {
                     "type": "ProjectileType_ScatterShot",
-                    "hex_id": "F5",
-                    "idx": 245,
+                    "hex_id": "F6",
+                    "idx": 246,
                     "type_num": 92
                 },
                 {
                     "type": "ProjectileType_Shrapnel_High_Velocity",
-                    "hex_id": "F6",
-                    "idx": 246,
+                    "hex_id": "F7",
+                    "idx": 247,
                     "type_num": 184
                 },
                 {
                     "type": "ProjectileType_Shrapnel_Heavy",
-                    "hex_id": "F7",
-                    "idx": 247,
+                    "hex_id": "F8",
+                    "idx": 248,
                     "type_num": 9
                 },
                 {
                     "type": "ProjectileType_Shrapnel_Heavy_MK2",
-                    "hex_id": "F8",
-                    "idx": 248,
+                    "hex_id": "F9",
+                    "idx": 249,
                     "type_num": 151
                 },
                 {
                     "type": "ProjectileType_Plasma_Pistol_Small",
-                    "hex_id": "F9",
-                    "idx": 249,
+                    "hex_id": "FA",
+                    "idx": 250,
                     "type_num": 179
                 },
                 {
                     "type": "ProjectileType_Plasma_Pistol_Charge_Medium",
-                    "hex_id": "FA",
-                    "idx": 250,
+                    "hex_id": "FB",
+                    "idx": 251,
                     "type_num": 51
                 },
                 {
                     "type": "ProjectileType_Plasma_Pistol_Charge",
-                    "hex_id": "FB",
-                    "idx": 251,
-                    "type_num": 272
+                    "hex_id": "FC",
+                    "idx": 252,
+                    "type_num": 273
                 },
                 {
                     "type": "ProjectileType_Plasma_Bolt_Small",
-                    "hex_id": "FC",
-                    "idx": 252,
+                    "hex_id": "FD",
+                    "idx": 253,
                     "type_num": 138
                 },
                 {
                     "type": "ProjectileType_Plasma_Bolt_Medium",
-                    "hex_id": "FD",
-                    "idx": 253,
+                    "hex_id": "FE",
+                    "idx": 254,
                     "type_num": 113
                 },
                 {
                     "type": "ProjectileType_PlasmaSniper",
-                    "hex_id": "FE",
-                    "idx": 254,
+                    "hex_id": "FF",
+                    "idx": 255,
                     "type_num": 124
                 },
                 {
                     "type": "ProjectileType_Plasma_Bolt_Medium_Volatile",
-                    "hex_id": "FF",
-                    "idx": 255,
+                    "hex_id": "100",
+                    "idx": 256,
                     "type_num": 114
                 },
                 {
                     "type": "ProjectileType_Plasma_Bolt_Large",
-                    "hex_id": "100",
-                    "idx": 256,
+                    "hex_id": "101",
+                    "idx": 257,
                     "type_num": 230
                 },
                 {
                     "type": "ProjectileType_Plasma_Bolt_Charge_Medium",
-                    "hex_id": "101",
-                    "idx": 257,
+                    "hex_id": "102",
+                    "idx": 258,
                     "type_num": 101
                 },
                 {
                     "type": "ProjectileType_Plasma_Rifle_Charge",
-                    "hex_id": "102",
-                    "idx": 258,
+                    "hex_id": "103",
+                    "idx": 259,
                     "type_num": 239
                 },
                 {
                     "type": "ProjectileType_Plasma_Punisher_Projectile",
-                    "hex_id": "103",
-                    "idx": 259,
+                    "hex_id": "104",
+                    "idx": 260,
                     "type_num": 42
                 },
                 {
                     "type": "PROJECTILE_TYPE_133",
-                    "hex_id": "104",
-                    "idx": 260,
+                    "hex_id": "105",
+                    "idx": 261,
                     "type_num": 133
                 },
                 {
                     "type": "PROJECTILE_TYPE_156",
-                    "hex_id": "105",
-                    "idx": 261,
+                    "hex_id": "106",
+                    "idx": 262,
                     "type_num": 156
                 },
                 {
                     "type": "ProjectileType_Plasma_Explosion_Cone",
-                    "hex_id": "106",
-                    "idx": 262,
+                    "hex_id": "107",
+                    "idx": 263,
                     "type_num": 14
                 },
                 {
                     "type": "ProjectileType_Railgun",
-                    "hex_id": "107",
-                    "idx": 263,
+                    "hex_id": "108",
+                    "idx": 264,
                     "type_num": 150
                 },
                 {
                     "type": "ProjectileType_Railgun_Stun",
-                    "hex_id": "108",
-                    "idx": 264,
+                    "hex_id": "109",
+                    "idx": 265,
                     "type_num": 176
                 },
                 {
                     "type": "ProjectileType_Laser_Long",
-                    "hex_id": "109",
-                    "idx": 265,
+                    "hex_id": "10A",
+                    "idx": 266,
                     "type_num": 120
                 },
                 {
                     "type": "ProjectileType_DoubleEdgeSickle_RiskLevel1",
-                    "hex_id": "10A",
-                    "idx": 266,
+                    "hex_id": "10B",
+                    "idx": 267,
                     "type_num": 149
                 },
                 {
                     "type": "ProjectileType_DoubleEdgeSickle_RiskLevel2",
-                    "hex_id": "10B",
-                    "idx": 267,
+                    "hex_id": "10C",
+                    "idx": 268,
                     "type_num": 177
                 },
                 {
                     "type": "ProjectileType_DoubleEdgeSickle_RiskLevel3",
-                    "hex_id": "10C",
-                    "idx": 268,
+                    "hex_id": "10D",
+                    "idx": 269,
                     "type_num": 21
                 },
                 {
                     "type": "ProjectileType_LaserRevolver",
-                    "hex_id": "10D",
-                    "idx": 269,
+                    "hex_id": "10E",
+                    "idx": 270,
                     "type_num": 115
                 },
                 {
                     "type": "ProjectileType_Laser_Pulse",
-                    "hex_id": "10E",
-                    "idx": 270,
+                    "hex_id": "10F",
+                    "idx": 271,
                     "type_num": 105
                 },
                 {
                     "type": "ProjectileType_ContactMine",
-                    "hex_id": "10F",
-                    "idx": 271,
+                    "hex_id": "110",
+                    "idx": 272,
                     "type_num": 118
                 },
                 {
                     "type": "ProjectileType_StratagemLauncher",
-                    "hex_id": "110",
-                    "idx": 272,
+                    "hex_id": "111",
+                    "idx": 273,
                     "type_num": 6
                 },
                 {
                     "type": "ProjectileType_FlamethrowerBAD",
-                    "hex_id": "111",
-                    "idx": 273,
+                    "hex_id": "112",
+                    "idx": 274,
                     "type_num": 45
                 },
                 {
                     "type": "ProjectileType_FlamethrowerBAD_MK2",
-                    "hex_id": "112",
-                    "idx": 274,
+                    "hex_id": "113",
+                    "idx": 275,
                     "type_num": 50
                 },
                 {
                     "type": "ProjectileType_Nuke",
-                    "hex_id": "113",
-                    "idx": 275,
+                    "hex_id": "114",
+                    "idx": 276,
                     "type_num": 48
                 },
                 {
                     "type": "ProjectileType_World_Meteor",
-                    "hex_id": "114",
-                    "idx": 276,
+                    "hex_id": "115",
+                    "idx": 277,
                     "type_num": 66
                 },
                 {
                     "type": "ProjectileType_World_VolcanoStrike",
-                    "hex_id": "115",
-                    "idx": 277,
+                    "hex_id": "116",
+                    "idx": 278,
                     "type_num": 254
                 },
                 {
                     "type": "ProjectileType_Spikeplant_Shrapnel",
-                    "hex_id": "116",
-                    "idx": 278,
+                    "hex_id": "117",
+                    "idx": 279,
                     "type_num": 158
                 }
             ]
