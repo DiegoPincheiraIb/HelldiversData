@@ -577,7 +577,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_017",
+                    "type": "DamageInfoType_PyrotechGrenade",
                     "damage": [
                         50,
                         50
@@ -7507,7 +7507,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_220",
+                    "type": "DamageInfoType_Explosion_UltimatumGrenadePistol",
                     "damage": [
                         2000,
                         2000
@@ -13002,7 +13002,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_374",
+                    "type": "DamageInfoType_Explosion_HellbombBackpack",
                     "damage": [
                         1000,
                         1000
@@ -17548,7 +17548,7 @@
                     "idx": 16,
                     "hex_id": "10",
                     "type_num": 17,
-                    "type_str": "DMG_TYPE_017"
+                    "type_str": "DamageInfoType_PyrotechGrenade"
                 },
                 {
                     "idx": 17,
@@ -18736,7 +18736,7 @@
                     "idx": 214,
                     "hex_id": "D6",
                     "type_num": 220,
-                    "type_str": "DMG_TYPE_220"
+                    "type_str": "DamageInfoType_Explosion_UltimatumGrenadePistol"
                 },
                 {
                     "idx": 215,
@@ -19678,7 +19678,7 @@
                     "idx": 371,
                     "hex_id": "173",
                     "type_num": 374,
-                    "type_str": "DMG_TYPE_374"
+                    "type_str": "DamageInfoType_Explosion_HellbombBackpack"
                 },
                 {
                     "idx": 372,
