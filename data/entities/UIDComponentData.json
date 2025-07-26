@@ -148,5 +148,89 @@
     },
     "12220563120145251703": {
         "name": "DeployableType_GasMinefield"
+    },
+    "17083241647592728848": {
+        "name": "DeployableType_TeamShield"
+    },
+    "1051445694670701817": {
+        "name": "DeployableType_HeavyMachineGunEmplacement"
+    },
+    "3397257356679758881": {
+        "name": "OrbitalBombardmentType_GatlingBarrage"
+    },
+    "17250673437555536342": {
+        "name": "OrbitalBombardmentType_Orbital380mmBarrage"
+    },
+    "3259427501513118129": {
+        "name": "OrbitalBombardmentType_Orbital120mmBarrage"
+    },
+    "14663462306863854060": {
+        "name": "OrbitalBombardmentType_OrbitalWalkingBarrage"
+    },
+    "11631307996670093680": {
+        "name": "OrbitalBombardmentType_OrbitalNapalmBarrage"
+    },
+    "6912088101323449320": {
+        "name": "PrimaryWeaponType_Adjudicator"
+    },
+    "6826025955225526457": {
+        "name": "PrimaryWeaponType_SprayAndPrayBreaker"
+    },
+    "9869105320050739364": {
+        "name": "SupportWeaponType_Sterilizer"
+    },
+    "1962385103464102102": {
+        "name": "EagleBombardmentType_GasStrike"
+    },
+    "4580928717960105129": {
+        "name": "SecondaryWeaponType_Crisper"
+    },
+    "5742363029208942635": {
+        "name": "PrimaryWeaponType_Torcher"
+    },
+    "4155583896232633279": {
+        "name": "SupportWeaponType_Flamethrower"
+    },
+    "281046277510948131": {
+        "name": "SupportWeaponType_StandardDiligence"
+    },
+    "17623191861664038783": {
+        "name": "PrimaryWeaponType_ExplodingCrossbow"
+    },
+    "535319041333920260": {
+        "name": "PrimaryWeaponType_ArcShotgun"
+    },
+    "10871298989420119782": {
+        "name": "SupportWeaponType_ArcThrower"
+    },
+    "18319281757224320923": {
+        "name": "SupportWeaponType_DescalatorGrenadeLauncher"
+    },
+    "17196401230144941076": {
+        "name": "PrimaryWeaponType_Scorcher"
+    },
+    "421324886246020354": {
+        "name": "PrimaryWeaponType_PlasmaPunisher"
+    },
+    "12279528435724053588": {
+        "name": "SecondaryWeaponType_Loyalist"
+    },
+    "18102809172282470538": {
+        "name": "PrimaryWeaponType_Purifier"
+    },
+    "3460488074252222302": {
+        "name": "PrimaryWeaponType_PlasmaSniper"
+    },
+    "16777584932715761236": {
+        "name": "SupportWeaponType_EpochPlasmaLauncher"
+    },
+    "14845617694460717074": {
+        "name": "PrimaryWeaponType_Tenderizer"
+    },
+    "5510267968365085927": {
+        "name": "PrimaryWeaponType_CounterSniperDiligence"
+    },
+    "17848709375785648310": {
+        "name": "ThrowableType_ThrowingKnife"
     }
 }
