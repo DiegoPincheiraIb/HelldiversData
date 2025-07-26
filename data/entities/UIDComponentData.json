@@ -1,0 +1,152 @@
+{
+    "10845250369047350884": {
+        "name": "PrimaryWeaponType_StandardLiberator"
+    },
+    "12100643055971655455": {
+        "name": "PrimaryWeaponType_LiberatorCarbine"
+    },
+    "14942687850090605537": {
+        "name": "PrimaryWeaponType_LiberatorConcussive"
+    },
+    "4885016034561106550": {
+        "name": "PrimaryWeaponType_LiberatorPenetrator"
+    },
+    "9291384900638350902": {
+        "name": "PrimaryWeaponType_Dominator"
+    },
+    "14840077516977962372": {
+        "name": "PrimaryWeaponType_StA52"
+    },
+    "1279722939363854678": {
+        "name": "SupportWeaponType_MachineGun"
+    },
+    "1573296579562737333": {
+        "name": "SupportWeaponType_LightMachineGun"
+    },
+    "2401215835282261016": {
+        "name": "SupportWeaponType_HeavyMachineGun"
+    },
+    "10717884433990741653":{
+        "name": "PrimaryWeaponType_Reprimand"
+    },
+    "5641428405267160100":{
+        "name": "PrimaryWeaponType_Defender"
+    },
+    "578623101395158887":{
+        "name": "PrimaryWeaponType_Pummeler"
+    },
+    "5450511615252257986":{
+        "name": "PrimaryWeaponType_StA11"
+    },
+    "4749824949454633632":{
+        "name": "PrimaryWeaponType_Punisher"
+    },
+    "5725374950499373869":{
+        "name": "PrimaryWeaponType_Slugger"
+    },
+    "15214248472323070124":{
+        "name": "PrimaryWeaponType_Cookout"
+    },
+    "5050852199397921576":{
+        "name": "PrimaryWeaponType_StandardBreaker"
+    },
+    "13918995818598980231":{
+        "name": "PrimaryWeaponType_IncendiaryBreaker"
+    },
+    "424716889947522210":{
+        "name": "SecondaryWeaponType_Peacemaker"
+    },
+    "1892480894983787169":{
+        "name": "SecondaryWeaponType_Verdict"
+    },
+    "3852172782311805734": {
+        "name": "SecondaryWeaponType_Redeemer"
+    },
+    "10177381595962512386": {
+        "name": "SecondaryWeaponType_Senator"
+    },
+    "14954542309183038509": {
+        "name": "SecondaryWeaponType_Warrant"
+    },
+    "8896268509512551590": {
+        "name": "PrimaryWeaponType_Constitution"
+    },
+    "16634382492500136054": {
+        "name": "PrimaryWeaponType_Deadeye"
+    },
+    "9927421484392399367": {
+        "name": "SupportWeaponType_AntiMaterielRifle"
+    },
+    "5972955417680186543": {
+        "name": "SecondaryWeaponType_GrenadePistol"
+    },
+    "1456507421651509424":{
+        "name": "ThrowableType_Dynamite"
+    },
+    "12164217308285983839": {
+        "name": "SupportWeapoType_Autocannon"
+    },
+    "2802369506329449110": {
+        "name": "SupportWeaponType_AirburstRocketLauncher"
+    },
+    "13164006426448262783": {
+        "name": "PrimaryWeaponType_Eruptor"
+    },
+    "14733648658679365221": {
+        "name": "SupportWeaponType_WASPLauncher"
+    },
+    "11493422068836852751": {
+        "name": "SupportWeaponType_RecoillesRifle"
+    },
+    "9264801226655597011": {
+        "name": "SupportWeaponType_ExpendableAntiTank"
+    },
+    "6453678319562593995": {
+        "name": "SupportWeaponType_CommandoRocketLauncher"
+    },
+    "3358853937828503136": {
+        "name": "SupportWeaponType_Railgun"
+    },
+    "211331680192206384": {
+        "name": "SupportWeaponType_GrenadeLauncher"
+    },
+    "2714034314705433838": {
+        "name": "SupportWeaponType_SpearLauncher"
+    },
+    "15470422196992643923": {
+        "name": "SecondaryWeaponType_StimPistol"
+    },
+    "6468799106264970105": {
+        "name": "SupportBackpackType_Jumppack"
+    },
+    "6829725667368330959": {
+        "name": "SupportBackpackType_Hoverppack"
+    },
+    "13012964727571811944": {
+        "name": "SupportBackpackType_Warppack"
+    },
+    "1353568197974522460": {
+        "name": "SupportBackpackType_PersonalBubbleShield"
+    },
+    "10844335154607830587": {
+        "name": "SupportBackpackType_BallisticShield"
+    },
+    "9675404802175538082": {
+        "name": "PrimaryWeaponType_Sickle"
+    },
+    "3865797767236207742": {
+        "name": "SupportWeaponType_QuasarPulseCannon"
+    },
+    "17297258079668724512": {
+        "name": "DeployableType_AntiPersonnelMinefield"
+    },
+    "2712008117028049500": {
+        "name": "DeployableType_AntiTankMinefield"
+    },
+    "13777321776887997010": {
+        "name": "DeployableType_IncendiaryMinefield"
+    },
+    "12220563120145251703": {
+        "name": "DeployableType_GasMinefield"
+    }
+}
