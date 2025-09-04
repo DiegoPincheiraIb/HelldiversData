@@ -232,5 +232,80 @@
     },
     "17848709375785648310": {
         "name": "ThrowableType_ThrowingKnife"
+    },
+    "10768610637301609307": {
+        "name": "PrimaryWeaponType_Knight"
+    },
+    "2877271129141764950": {
+        "name": "PrimaryWeaponType_Scythe"
+    },
+    "9526594500243002157": {
+        "name": "PrimaryWeaponType_Coyote"
+    },
+    "8731737688384722662": {
+        "name": "MeleeWeaponType_Machete"
+    },
+    "530045626612387909": {
+        "name": "ThrowableType_PineappleGrenade"
+    },
+    "17259437333005147504": {
+        "name": "DeployableType_GatlingSentry"
+    },
+    "9219146911950674287": {
+        "name": "DeployableType_GatlingSentry"
+    },
+    "10871626090290489728": {
+        "name": "SupportBackpackType_RecoillessRifleBackpack"
+    },
+    "3109983482551492476": {
+        "name": "SecondaryWeaponType_Bushwhacker"
+    },
+    "12984499893943104780": {
+        "name": "SupportWeaponType_LightMachineGun"
+    },
+    "12653822188347841538": {
+        "name": "SupportBackpackType_GuardDogRover"
+    },
+    "15369542005276747891": {
+        "name": "SupportWeaponType_LaserCannon"
+    },
+    "5910727434981086692": {
+        "name": "SupportWeaponType_BreakActionShotgun"
+    },
+    "4046732776742447255": {
+        "name": "SupportWeaponType_Speargun"
+    },
+    "7715225218085078398": {
+        "name": "ThrowableType_HighExplosiveGrenade"
+    },
+    "16965724150372546684": {
+        "name": "ThrowableType_IncendiaryImpactGrenade"
+    },
+    "8540606443036588471": {
+        "name": "ThrowableType_ImpactGrenade"
+    },
+    "316723890334202692": {
+        "name": "ThrowableType_IncendiaryGrenade"
+    },
+    "294590291936179579": {
+        "name": "ThrowableType_GasGrenade"
+    },
+    "36176771630602099": {
+        "name": "ThrowableType_StunGrenade"
+    },
+    "5542218890398374779": {
+        "name": "ThrowableType_FragGrenade"
+    },
+    "14249494547947571097": {
+        "name": "ThrowableType_ThermiteGrenade"
+    },
+    "284602740380634958": {
+        "name": "ThrowableType_PyrotechGrenade"
+    },
+    "4587284938949573643": {
+        "name": "ThrowableType_UrchinThermiteGrenade"
+    },
+    "11435027044679925718": {
+        "name": "SecondaryWeaponType_Ultimatum"
     }
 }
