@@ -13837,7 +13837,7 @@
     "weapon_function_projectile_type": "ProjectileType_None"
   },
   "2802369506329449110": {
-    "projectile_type": "ProjectileType_Grenade_85mm_AirburstCluster",
+    "projectile_type": "ProjectileType_Grenade_85mm_AirburstCluster_FLAK",
     "rounds_per_minute": {
       "x": 0,
       "y": 600,
@@ -13935,7 +13935,7 @@
     "casing_eject_disabled_on_fire": 0,
     "burst_fire_rate": 0,
     "weapon_function_muzzle_velocity": 150,
-    "weapon_function_projectile_type": "ProjectileType_None"
+    "weapon_function_projectile_type": "ProjectileType_Grenade_85mm_AirburstCluster_CLUSTER"
   },
   "14772015414747343144": {
     "projectile_type": "ProjectileType_Rifle_12p5x100mm_bchp",
@@ -14241,7 +14241,7 @@
     "weapon_function_projectile_type": "ProjectileType_None"
   },
   "10845250369047350884": {
-    "projectile_type": "ProjectileType_Rifle_5p5x50mm_ap",
+    "projectile_type": "ProjectileType_Rifle_5p5x50mm_fmj",
     "rounds_per_minute": {
       "x": 0,
       "y": 640,
@@ -14342,7 +14342,7 @@
     "weapon_function_projectile_type": "ProjectileType_None"
   },
   "9291384900638350902": {
-    "projectile_type": "ProjectileType_None",
+    "projectile_type": "ProjectileType_Rocket_15x100mm_std",
     "rounds_per_minute": {
       "x": 0,
       "y": 250,
@@ -15352,7 +15352,7 @@
     "weapon_function_projectile_type": "ProjectileType_None"
   },
   "5641428405267160100": {
-    "projectile_type": "ProjectileType_None",
+    "projectile_type": "ProjectileType_Pistol_12x25mm_fmj",
     "rounds_per_minute": {
       "x": 0,
       "y": 520,
