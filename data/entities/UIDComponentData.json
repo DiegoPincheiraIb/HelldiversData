@@ -341,6 +341,9 @@
     "6337264778388549835": {
         "name": "DeployableType_GatlingSentry"
     },
+    "9371080132553746520": {
+        "name": "DeployableType_FlamethrowerSentry"
+    },
     "10930013077329100956": {
         "name": "PickupType_GrenadeStack"
     },
@@ -539,6 +542,15 @@
     "16121421951002036444": {
         "name": "BugEnemyType_ScavengerV4"
     },
+    "6927066342767148424": {
+        "name": "BugEnemyType_NursingSpewer"
+    },
+    "5953193886108619556": {
+        "name": "BugEnemyType_NursingSpewerBileSpray"
+    },
+    "2129528212146849390": {
+        "name": "BugEnemyType_HunterBileSpray"
+    },
     "13340847352459495240": {
         "name": "BotEnemyType_HeavyDevastator"
     },
@@ -568,6 +580,9 @@
     },
     "4469039597602705386": {
         "name": "BotEnemyType_HulkScorcher"
+    },
+    "17488789745215357128": {
+        "name": "BotEnemyType_HulkScorcherFlamethrower"
     },
     "2190700087544369166": {
         "name": "BotEnemyType_HulkObliterator"
