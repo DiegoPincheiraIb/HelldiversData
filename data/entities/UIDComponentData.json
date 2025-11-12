@@ -1,4 +1,7 @@
 {
+    "5556372446766824087": {
+        "name": "Avatar_Helldiver"
+    },
     "10845250369047350884": {
         "name": "PrimaryWeaponType_StandardLiberator"
     },
@@ -438,7 +441,28 @@
         "name": "OrbitalBombardmentType_OrbitalNapalmBarrage"
     },
     "1962385103464102102": {
-        "name": "EagleBombardmentType_GasStrike"
+        "name": "OrbitalBombardmentType_GasStrike"
+    },
+    "12101561451675752456": {
+        "name": "MeleeWeaponType_Unk1"
+    },
+    "16408494556715988068": {
+        "name": "MeleeWeaponType_Unk2"
+    },
+    "16743928489815142323": {
+        "name": "MeleeWeaponType_Unk3"
+    },
+    "18219495801425257306": {
+        "name": "MeleeWeaponType_Unk4"
+    },
+    "5966635890313573271": {
+        "name": "MeleeWeaponType_Unk5"
+    },
+    "12750169196543686872": {
+        "name": "MeleeWeaponType_Unk6"
+    },
+    "8467154841892407376": {
+        "name": "MeleeWeaponType_Unk7"
     },
     "8731737688384722662": {
         "name": "MeleeWeaponType_Machete"
@@ -454,6 +478,12 @@
     },
     "8783342891467425251": {
         "name": "VehicleType_PatriotExosuit"
+    },
+    "9388736439472594613": {
+        "name": "VehicleType_PatriotExosuit_LeftArmGun"
+    },
+    "645713022044093730": {
+        "name": "VehicleType_PatriotExosuit_RightArmGun"
     },
     "14038927220542196401": {
         "name": "VehicleType_EmancipatorExosuit"
@@ -530,6 +560,9 @@
     "14748816422034837943": {
         "name": "BugEnemyType_BileSpewerV4"
     },
+    "12300518439027380185": {
+        "name": "BugEnemyType_Pouncer"
+    },
     "10371974906799355538": {
         "name": "BugEnemyType_ScavengerV1"
     },
@@ -550,6 +583,30 @@
     },
     "2129528212146849390": {
         "name": "BugEnemyType_HunterBileSpray"
+    },
+    "11555060082231454796": {
+        "name": "BugEnemyType_ChargerBehemoth"
+    },
+    "4251221953861716889": {
+        "name": "BugEnemyType_ChargerBehemoth"
+    },
+    "7719208875390099550": {
+        "name": "BugEnemyType_SporeCharger"
+    },
+    "1909471264691872944": {
+        "name": "BugEnemyType_Charger"
+    },
+    "5663271064929335883": {
+        "name": "BugEnemyType_Warrior"
+    },
+    "16919711124802745493": {
+        "name": "BugEnemyType_Warrior"
+    },
+    "13707236614338800569": {
+        "name": "BugEnemyType_Warrior"
+    },
+    "17672347716099392046": {
+        "name": "BugEnemyType_Stalker"
     },
     "13340847352459495240": {
         "name": "BotEnemyType_HeavyDevastator"
@@ -586,6 +643,9 @@
     },
     "2190700087544369166": {
         "name": "BotEnemyType_HulkObliterator"
+    },
+    "12700624828350087151": {
+        "name": "BotEnemyType_HulkIncineratorFiregrenade"
     },
     "15239773297738004195": {
         "name": "BotEnemyType_FactoryStrider"
@@ -658,5 +718,26 @@
     },
     "1374362502002005721": {
         "name": "SuperEarthType_SAMLauncher"
+    },
+    "15859727822481861892": {
+        "name": "SuperEarthType_SEAF_Gun_Explosive"
+    },
+    "13847484889080110003": {
+        "name": "SuperEarthType_SEAF_Gun_EMP"
+    },
+    "7745884044284159061": {
+        "name": "SuperEarthType_SEAF_Gun_High_Yield_Explosive"
+    },
+    "17696993194780227077": {
+        "name": "SuperEarthType_SEAF_Gun_Smoke"
+    },
+    "7810054165681946755": {
+        "name": "SuperEarthType_None"
+    },
+    "16482681913442925439": {
+        "name": "SuperEarthType_SEAF_Gun_Napalm"
+    },
+    "16185879173872143133": {
+        "name": "SuperEarthType_SEAF_Gun_Mini_Nuke"
     }
 }
