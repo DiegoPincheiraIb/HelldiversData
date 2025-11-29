@@ -5171,7 +5171,7 @@
             },
             {
                 "unique_id": "11201896471107657063",
-                "uid_name": "11201896471107657063",
+                "uid_name": "SupportWeaponType_C4Explosives",
                 "loc_name": 2772570910,
                 "loc_name_plural": 0,
                 "loc_name_upper": 4226754563,
@@ -8333,7 +8333,7 @@
             },
             {
                 "unique_id": "8110598756017148880",
-                "uid_name": "8110598756017148880",
+                "uid_name": "PrimaryWeaponType_Suppressor",
                 "loc_name": 623612841,
                 "loc_name_plural": 0,
                 "loc_name_upper": 141161975,
@@ -8605,7 +8605,7 @@
             },
             {
                 "unique_id": "17308323378831780460",
-                "uid_name": "17308323378831780460",
+                "uid_name": "PrimaryWeaponType_Censor",
                 "loc_name": 1970153390,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2899640133,
@@ -11146,7 +11146,7 @@
                 "uid": "11155000903228636302"
             },
             {
-                "type": "11201896471107657063",
+                "type": "SupportWeaponType_C4Explosives",
                 "idx": 304,
                 "uid": "11201896471107657063"
             },
@@ -12076,7 +12076,7 @@
                 "uid": "14845617694460717074"
             },
             {
-                "type": "8110598756017148880",
+                "type": "PrimaryWeaponType_Suppressor",
                 "idx": 490,
                 "uid": "8110598756017148880"
             },
@@ -12156,7 +12156,7 @@
                 "uid": "12008625947668001407"
             },
             {
-                "type": "17308323378831780460",
+                "type": "PrimaryWeaponType_Censor",
                 "idx": 506,
                 "uid": "17308323378831780460"
             },

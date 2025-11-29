@@ -241,7 +241,7 @@
             },
             {
                 "unique_id": "11201896471107657063",
-                "uid_name": "11201896471107657063",
+                "uid_name": "SupportWeaponType_C4Explosives",
                 "id": 3748434442,
                 "type": "LoadoutItemType_SupportWeapon",
                 "dlc_pack_id": 0,
@@ -521,7 +521,7 @@
             },
             {
                 "unique_id": "16743928489815142323",
-                "uid_name": "16743928489815142323",
+                "uid_name": "MeleeWeaponType_EntrenchmentTool",
                 "id": 4133671573,
                 "type": "LoadoutItemType_SupportWeapon",
                 "dlc_pack_id": 0,
@@ -1095,7 +1095,7 @@
             },
             {
                 "unique_id": "12750169196543686872",
-                "uid_name": "12750169196543686872",
+                "uid_name": "MeleeWeaponType_OneTrueFlag",
                 "id": 819954976,
                 "type": "LoadoutItemType_SupportWeapon",
                 "dlc_pack_id": 0,
@@ -1109,7 +1109,7 @@
             },
             {
                 "unique_id": "8467154841892407376",
-                "uid_name": "8467154841892407376",
+                "uid_name": "MeleeWeaponType_Tomahawk",
                 "id": 1462250732,
                 "type": "LoadoutItemType_SidearmWeapon",
                 "dlc_pack_id": 0,
@@ -1291,7 +1291,7 @@
             },
             {
                 "unique_id": "8110598756017148880",
-                "uid_name": "8110598756017148880",
+                "uid_name": "PrimaryWeaponType_Suppressor",
                 "id": 2643754746,
                 "type": "LoadoutItemType_PrimaryWeapon",
                 "dlc_pack_id": 0,
@@ -1515,7 +1515,7 @@
             },
             {
                 "unique_id": "17308323378831780460",
-                "uid_name": "17308323378831780460",
+                "uid_name": "PrimaryWeaponType_Censor",
                 "id": 838686177,
                 "type": "LoadoutItemType_PrimaryWeapon",
                 "dlc_pack_id": 0,
@@ -1655,7 +1655,7 @@
             },
             {
                 "unique_id": "830958149412624616",
-                "uid_name": "830958149412624616",
+                "uid_name": "SecondaryWeaponType_ReEducator",
                 "id": 1102600214,
                 "type": "LoadoutItemType_SidearmWeapon",
                 "dlc_pack_id": 0,
@@ -2273,7 +2273,7 @@
                 "uid": "11155000903228636302"
             },
             {
-                "type": "11201896471107657063",
+                "type": "SupportWeaponType_C4Explosives",
                 "idx": 17,
                 "uid": "11201896471107657063"
             },
@@ -2373,7 +2373,7 @@
                 "uid": "16408494556715988068"
             },
             {
-                "type": "16743928489815142323",
+                "type": "MeleeWeaponType_EntrenchmentTool",
                 "idx": 37,
                 "uid": "16743928489815142323"
             },
@@ -2578,12 +2578,12 @@
                 "uid": "5966635890313573271"
             },
             {
-                "type": "12750169196543686872",
+                "type": "MeleeWeaponType_OneTrueFlag",
                 "idx": 78,
                 "uid": "12750169196543686872"
             },
             {
-                "type": "8467154841892407376",
+                "type": "MeleeWeaponType_Tomahawk",
                 "idx": 79,
                 "uid": "8467154841892407376"
             },
@@ -2648,7 +2648,7 @@
                 "uid": "14845617694460717074"
             },
             {
-                "type": "8110598756017148880",
+                "type": "PrimaryWeaponType_Suppressor",
                 "idx": 92,
                 "uid": "8110598756017148880"
             },
@@ -2728,7 +2728,7 @@
                 "uid": "12008625947668001407"
             },
             {
-                "type": "17308323378831780460",
+                "type": "PrimaryWeaponType_Censor",
                 "idx": 108,
                 "uid": "17308323378831780460"
             },
@@ -2778,7 +2778,7 @@
                 "uid": "3852172782311805734"
             },
             {
-                "type": "830958149412624616",
+                "type": "SecondaryWeaponType_ReEducator",
                 "idx": 118,
                 "uid": "830958149412624616"
             },

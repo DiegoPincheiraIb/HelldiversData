@@ -134,6 +134,12 @@
     "1117846648694268261": {
         "name": "PrimaryWeaponType_Amendment"
     },
+    "17308323378831780460": {
+        "name": "PrimaryWeaponType_Censor"
+    },
+    "8110598756017148880": {
+        "name": "PrimaryWeaponType_Suppressor"
+    },
     "424716889947522210":{
         "name": "SecondaryWeaponType_Peacemaker"
     },
@@ -175,6 +181,9 @@
     },
     "4714430103453754419": {
         "name": "SecondaryWeaponType_LaserRevolver"
+    },
+    "830958149412624616": {
+        "name": "SecondaryWeaponType_ReEducator"
     },
     "9927421484392399367": {
         "name": "SupportWeaponType_AntiMaterielRifle"
@@ -220,6 +229,9 @@
     },
     "6453678319562593995": {
         "name": "SupportWeaponType_CommandoRocketLauncher"
+    },
+    "11201896471107657063": {
+        "name": "SupportWeaponType_C4Explosives"
     },
     "3358853937828503136": {
         "name": "SupportWeaponType_Railgun"
@@ -450,7 +462,7 @@
         "name": "MeleeWeaponType_StunLance"
     },
     "16743928489815142323": {
-        "name": "MeleeWeaponType_Unk3"
+        "name": "MeleeWeaponType_EntrenchmentTool"
     },
     "18219495801425257306": {
         "name": "MeleeWeaponType_Saber"
@@ -459,7 +471,7 @@
         "name": "MeleeWeaponType_RiotBaton"
     },
     "12750169196543686872": {
-        "name": "MeleeWeaponType_Unk6"
+        "name": "MeleeWeaponType_OneTrueFlag"
     },
     "8467154841892407376": {
         "name": "MeleeWeaponType_Tomahawk"
