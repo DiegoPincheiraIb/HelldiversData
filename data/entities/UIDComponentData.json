@@ -447,22 +447,22 @@
         "name": "MeleeWeaponType_Unk1"
     },
     "16408494556715988068": {
-        "name": "MeleeWeaponType_Unk2"
+        "name": "MeleeWeaponType_StunLance"
     },
     "16743928489815142323": {
         "name": "MeleeWeaponType_Unk3"
     },
     "18219495801425257306": {
-        "name": "MeleeWeaponType_Unk4"
+        "name": "MeleeWeaponType_Saber"
     },
     "5966635890313573271": {
-        "name": "MeleeWeaponType_Unk5"
+        "name": "MeleeWeaponType_RiotBaton"
     },
     "12750169196543686872": {
         "name": "MeleeWeaponType_Unk6"
     },
     "8467154841892407376": {
-        "name": "MeleeWeaponType_Unk7"
+        "name": "MeleeWeaponType_Tomahawk"
     },
     "8731737688384722662": {
         "name": "MeleeWeaponType_Machete"
@@ -712,6 +712,15 @@
     },
     "12587270281642273949": {
         "name": "BotEnemyType_AAEmplacement"
+    },
+    "17246256129031935938": {
+        "name": "BotEnemyType_WarStrider"
+    },
+    "11146468741807915285": {
+        "name": "BotEnemyType_WarStriderLeftGun"
+    },
+    "9471740285315897155": {
+        "name": "BotEnemyType_WarStriderRightGun"
     },
     "11654668915819557853": {
         "name": "SuperEarthType_SAMLauncher"
