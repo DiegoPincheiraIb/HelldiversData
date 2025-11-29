@@ -14936,7 +14936,7 @@
             },
             {
                 "unique_id": "1962385103464102102",
-                "uid_name": "EagleBombardmentType_GasStrike",
+                "uid_name": "OrbitalBombardmentType_GasStrike",
                 "projectile_type": "ProjectileType_Cannon_Eagle_23mm",
                 "rounds_per_minute": {
                     "x": 0.0,
@@ -24453,7 +24453,7 @@
             {
                 "idx": 137,
                 "uid": "1962385103464102102",
-                "type": "EagleBombardmentType_GasStrike"
+                "type": "OrbitalBombardmentType_GasStrike"
             },
             {
                 "idx": 138,
