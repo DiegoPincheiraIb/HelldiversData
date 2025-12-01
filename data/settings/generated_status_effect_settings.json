@@ -2334,7 +2334,7 @@
             "items": [
                 [
                     {
-                        "type": "StatusEffectTemplateType_BurningHeavy",
+                        "type": "StatusEffectTemplateType_Flamethrower",
                         "effects": [
                             {
                                 "type": "StatusEffectType_BurningHeavy",
@@ -2353,12 +2353,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 0,
-                            "hex_idx": "0",
-                            "type_num": 1
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Barbwire",
@@ -2380,12 +2375,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 1,
-                            "hex_idx": "1",
-                            "type_num": 2
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Fire",
@@ -2407,12 +2397,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 2,
-                            "hex_idx": "2",
-                            "type_num": 3
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Acid_Splash",
@@ -2434,12 +2419,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 3,
-                            "hex_idx": "3",
-                            "type_num": 4
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Acid_Stream",
@@ -2461,12 +2441,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 4,
-                            "hex_idx": "4",
-                            "type_num": 5
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Submerged",
@@ -2488,12 +2463,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 5,
-                            "hex_idx": "5",
-                            "type_num": 6
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Electric",
@@ -2515,15 +2485,10 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 6,
-                            "hex_idx": "6",
-                            "type_num": 7
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
-                        "type": "StatusEffectTemplateType_RadiationHeavy",
+                        "type": "StatusEffectTemplateType_Nuke_Radiation",
                         "effects": [
                             {
                                 "type": "StatusEffectType_RadiationHeavy",
@@ -2542,12 +2507,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 7,
-                            "hex_idx": "7",
-                            "type_num": 8
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Snow",
@@ -2569,12 +2529,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 8,
-                            "hex_idx": "8",
-                            "type_num": 9
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Mud",
@@ -2596,12 +2551,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 9,
-                            "hex_idx": "9",
-                            "type_num": 10
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Sand",
@@ -2623,12 +2573,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 10,
-                            "hex_idx": "A",
-                            "type_num": 11
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Pure_Damage",
@@ -2650,12 +2595,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 11,
-                            "hex_idx": "B",
-                            "type_num": 12
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Thornbush",
@@ -2677,15 +2617,10 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 12,
-                            "hex_idx": "C",
-                            "type_num": 13
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
-                        "type": "StatusEffectTemplateType_Smoke_Covered",
+                        "type": "StatusEffectTemplateType_Smoke",
                         "effects": [
                             {
                                 "type": "StatusEffectType_Smoke_Covered",
@@ -2704,15 +2639,10 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 13,
-                            "hex_idx": "D",
-                            "type_num": 14
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
-                        "type": "StatusEffectTemplateType_Stun_Medium",
+                        "type": "StatusEffectTemplateType_Static_Field",
                         "effects": [
                             {
                                 "type": "StatusEffectType_Stun_Medium",
@@ -2731,12 +2661,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 14,
-                            "hex_idx": "E",
-                            "type_num": 15
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Gas",
@@ -2758,12 +2683,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 15,
-                            "hex_idx": "F",
-                            "type_num": 16
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Hidden",
@@ -2785,12 +2705,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 16,
-                            "hex_idx": "10",
-                            "type_num": 17
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Intense_Heat",
@@ -2812,12 +2727,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 17,
-                            "hex_idx": "11",
-                            "type_num": 18
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Extreme_Cold",
@@ -2839,15 +2749,10 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 18,
-                            "hex_idx": "12",
-                            "type_num": 19
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
-                        "type": "StatusEffectTemplateType_Extreme_Cold",
+                        "type": "StatusEffectTemplateType_Freezing",
                         "effects": [
                             {
                                 "type": "StatusEffectType_Extreme_Cold",
@@ -2866,12 +2771,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 19,
-                            "hex_idx": "13",
-                            "type_num": 20
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Sandstorm",
@@ -2893,15 +2793,10 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 20,
-                            "hex_idx": "14",
-                            "type_num": 21
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
-                        "type": "StatusEffectTemplateType_Sandstorm",
+                        "type": "StatusEffectTemplateType_Snowstorm",
                         "effects": [
                             {
                                 "type": "StatusEffectType_Sandstorm",
@@ -2920,12 +2815,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 21,
-                            "hex_idx": "15",
-                            "type_num": 22
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Blizzard",
@@ -2947,12 +2837,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 22,
-                            "hex_idx": "16",
-                            "type_num": 23
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Acid_Storm",
@@ -2974,12 +2859,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 23,
-                            "hex_idx": "17",
-                            "type_num": 24
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Thick_Fog",
@@ -3001,12 +2881,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 24,
-                            "hex_idx": "18",
-                            "type_num": 25
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Protected",
@@ -3028,12 +2903,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 25,
-                            "hex_idx": "19",
-                            "type_num": 26
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Protected_MK2",
@@ -3055,12 +2925,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 26,
-                            "hex_idx": "1A",
-                            "type_num": 27
-                        }
+                        "needs_to_hit_valid_actor": 0
                     },
                     {
                         "type": "StatusEffectTemplateType_Dark_Fluid",
@@ -3082,12 +2947,7 @@
                                 "value_per_second": 1.0
                             }
                         ],
-                        "needs_to_hit_valid_actor": 0,
-                        "extra_info": {
-                            "idx": 27,
-                            "hex_idx": "1B",
-                            "type_num": 28
-                        }
+                        "needs_to_hit_valid_actor": 0
                     }
                 ]
             ],
@@ -3096,7 +2956,7 @@
                     "idx": 0,
                     "hex_idx": "0",
                     "type_num": 1,
-                    "type_str": "StatusEffectTemplateType_BurningHeavy"
+                    "type_str": "StatusEffectTemplateType_Flamethrower"
                 },
                 {
                     "idx": 1,
@@ -3138,7 +2998,7 @@
                     "idx": 7,
                     "hex_idx": "7",
                     "type_num": 8,
-                    "type_str": "StatusEffectTemplateType_RadiationHeavy"
+                    "type_str": "StatusEffectTemplateType_Nuke_Radiation"
                 },
                 {
                     "idx": 8,
@@ -3174,13 +3034,13 @@
                     "idx": 13,
                     "hex_idx": "D",
                     "type_num": 14,
-                    "type_str": "StatusEffectTemplateType_Smoke_Covered"
+                    "type_str": "StatusEffectTemplateType_Smoke"
                 },
                 {
                     "idx": 14,
                     "hex_idx": "E",
                     "type_num": 15,
-                    "type_str": "StatusEffectTemplateType_Stun_Medium"
+                    "type_str": "StatusEffectTemplateType_Static_Field"
                 },
                 {
                     "idx": 15,
@@ -3210,7 +3070,7 @@
                     "idx": 19,
                     "hex_idx": "13",
                     "type_num": 20,
-                    "type_str": "StatusEffectTemplateType_Extreme_Cold"
+                    "type_str": "StatusEffectTemplateType_Freezing"
                 },
                 {
                     "idx": 20,
@@ -3222,7 +3082,7 @@
                     "idx": 21,
                     "hex_idx": "15",
                     "type_num": 22,
-                    "type_str": "StatusEffectTemplateType_Sandstorm"
+                    "type_str": "StatusEffectTemplateType_Snowstorm"
                 },
                 {
                     "idx": 22,
