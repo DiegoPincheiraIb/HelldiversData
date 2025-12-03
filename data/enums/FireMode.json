@@ -6,5 +6,6 @@
     "FireMode_AllBarrels",
     "FireMode_ChargeWithSafetyOn",
     "FireMode_ChargeWithSafetyOff",
+    "FireMode_TotalMode",
     "FireMode_Count"
 ]}
