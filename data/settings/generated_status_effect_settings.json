@@ -11,7 +11,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 8.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -40,7 +40,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 5.0,
                         "duration": 9999.0,
-                        "damage_info_type": "DMG_TYPE_449",
+                        "damage_info_type": "DamageInfoType_DPS_Avatar_Bleed",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -69,7 +69,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 8.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -98,7 +98,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.0,
                         "duration": 12.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -127,7 +127,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 5.0,
                         "duration": 3.0,
-                        "damage_info_type": "DMG_TYPE_430",
+                        "damage_info_type": "DamageInfoType_DPS_Fire",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 1912561169,
@@ -149,6 +149,35 @@
                         "notify_event_on_removed": 0
                     },
                     {
+                        "type": "StatusEffectType_Lava",
+                        "debug_name": "Lava",
+                        "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
+                        "shading_environment": "0",
+                        "shading_environment_fade_time": 0.0,
+                        "strength": 0.150000006,
+                        "duration": 1.0,
+                        "damage_info_type": "DamageInfoType_DPS_Lava",
+                        "damage_ignore_avatar_armor": 0,
+                        "particle_effect_path": "0",
+                        "script_event_start": 0,
+                        "script_event_stop": 0,
+                        "wwise_state": "WwiseAudioState_None",
+                        "audio_event_start": 0,
+                        "audio_event_stop": 0,
+                        "audio_event_enter": 0,
+                        "audio_event_exit": 0,
+                        "animation_event_start": 0,
+                        "animation_event_stop": 0,
+                        "difficult_terrain_amount": 1.0,
+                        "unique_effect": 0,
+                        "no_susceptibility_required": 0,
+                        "audio_event_master_only": 0,
+                        "block_sprint": 0,
+                        "modified_stats_multipliers": [],
+                        "notify_event_on_added": 0,
+                        "notify_event_on_removed": 0
+                    },
+                    {
                         "type": "StatusEffectType_Fire_Panic",
                         "debug_name": "Fire Panic",
                         "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
@@ -156,7 +185,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.25,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -185,7 +214,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 3.0,
                         "duration": 0.5,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -214,7 +243,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.0,
                         "duration": 4.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -243,7 +272,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.300000012,
                         "duration": 4.0,
-                        "damage_info_type": "DMG_TYPE_432",
+                        "damage_info_type": "DamageInfoType_DPS_Acid_Splash",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "15732881546721521284",
                         "script_event_start": 1034147453,
@@ -272,7 +301,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 0.5,
-                        "damage_info_type": "DMG_TYPE_433",
+                        "damage_info_type": "DamageInfoType_DPS_Acid_Stream",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "15732881546721521284",
                         "script_event_start": 1034147453,
@@ -301,7 +330,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_431",
+                        "damage_info_type": "DamageInfoType_DPS_Thermite",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -330,7 +359,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 5.0,
-                        "damage_info_type": "DMG_TYPE_434",
+                        "damage_info_type": "DamageInfoType_DPS_Cyborg_Fire",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "11680611848941944870",
                         "script_event_start": 0,
@@ -359,7 +388,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 50.0,
                         "duration": 3.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -388,7 +417,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.25,
                         "duration": 0.5,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -417,7 +446,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.25,
                         "duration": 0.5,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -446,7 +475,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.200000003,
                         "duration": 0.5,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -475,7 +504,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.0,
                         "duration": 0.5,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -504,7 +533,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.300000012,
                         "duration": 0.100000001,
-                        "damage_info_type": "DMG_TYPE_440",
+                        "damage_info_type": "DamageInfoType_DPS_Thornbush",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -533,7 +562,7 @@
                         "shading_environment_fade_time": 1.0,
                         "strength": 0.100000001,
                         "duration": 0.100000001,
-                        "damage_info_type": "DMG_TYPE_441",
+                        "damage_info_type": "DamageInfoType_DPS_Cactus",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -562,7 +591,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.300000012,
                         "duration": 0.100000001,
-                        "damage_info_type": "DMG_TYPE_440",
+                        "damage_info_type": "DamageInfoType_DPS_Thornbush",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -591,7 +620,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.300000012,
                         "duration": 0.100000001,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -620,7 +649,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.5,
                         "duration": 0.100000001,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -649,7 +678,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.330000043,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_435",
+                        "damage_info_type": "DamageInfoType_DPS_Pure_Damage",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -678,7 +707,7 @@
                         "shading_environment_fade_time": 1.5,
                         "strength": 2.0,
                         "duration": 4.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "17782080687470053357",
                         "script_event_start": 0,
@@ -707,7 +736,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 8.0,
                         "duration": 4.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -736,7 +765,7 @@
                         "shading_environment_fade_time": 1.5,
                         "strength": 2.0,
                         "duration": 4.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -765,7 +794,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.125,
                         "duration": 0.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -794,7 +823,7 @@
                         "shading_environment_fade_time": 3.5,
                         "strength": 1.100000024,
                         "duration": 10.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -828,7 +857,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 60.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -857,7 +886,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_436",
+                        "damage_info_type": "DamageInfoType_DPS_BurningHeavy",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 2555083099,
@@ -886,7 +915,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 10.0,
-                        "damage_info_type": "DMG_TYPE_437",
+                        "damage_info_type": "DamageInfoType_DPS_RadiationLight",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -915,7 +944,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.5,
                         "duration": 10.0,
-                        "damage_info_type": "DMG_TYPE_438",
+                        "damage_info_type": "DamageInfoType_DPS_RadiationHeavy",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -944,7 +973,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.330000043,
                         "duration": 5.0,
-                        "damage_info_type": "DMG_TYPE_439",
+                        "damage_info_type": "DamageInfoType_DPS_Electric",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -973,7 +1002,7 @@
                         "shading_environment_fade_time": 1.0,
                         "strength": 0.899999976,
                         "duration": 0.5,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1002,7 +1031,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 1.5,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 3870900677,
@@ -1031,7 +1060,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 3.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 3870900677,
@@ -1060,7 +1089,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 5.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 3870900677,
@@ -1089,12 +1118,12 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 10.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 3870900677,
                         "script_event_stop": 3079767420,
-                        "wwise_state": "WwiseAudioState_player_stunned_state",
+                        "wwise_state": "WwiseAudioState_None",
                         "audio_event_start": 3010460542,
                         "audio_event_stop": 1033258398,
                         "audio_event_enter": 0,
@@ -1118,7 +1147,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 15.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 3870900677,
@@ -1147,7 +1176,7 @@
                         "shading_environment_fade_time": 1.5,
                         "strength": 0.25,
                         "duration": 6.0,
-                        "damage_info_type": "DMG_TYPE_442",
+                        "damage_info_type": "DamageInfoType_DPS_Gas",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1176,7 +1205,7 @@
                         "shading_environment_fade_time": 1.5,
                         "strength": 0.25,
                         "duration": 10.0,
-                        "damage_info_type": "DMG_TYPE_442",
+                        "damage_info_type": "DamageInfoType_DPS_Gas_MK2",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1205,7 +1234,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.25,
                         "duration": 5.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1234,7 +1263,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.25,
                         "duration": 9.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1263,7 +1292,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 50.0,
                         "duration": 12.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1292,7 +1321,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 10.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1321,7 +1350,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 0.400000006,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1350,7 +1379,7 @@
                         "shading_environment_fade_time": 1.5,
                         "strength": 2.0,
                         "duration": 8.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1379,7 +1408,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1408,7 +1437,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1437,7 +1466,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 10.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1466,7 +1495,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.25,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1495,7 +1524,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.25,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1524,7 +1553,7 @@
                         "shading_environment_fade_time": 1.5,
                         "strength": 1.0,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1553,7 +1582,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.400000006,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1582,7 +1611,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1611,7 +1640,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1640,7 +1669,7 @@
                         "shading_environment_fade_time": 3.5,
                         "strength": 1.0,
                         "duration": 3.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1669,7 +1698,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.0,
                         "duration": 0.150000006,
-                        "damage_info_type": "DMG_TYPE_450",
+                        "damage_info_type": "DamageInfoType_DPS_DeathMarch",
                         "damage_ignore_avatar_armor": 1,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1698,7 +1727,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.0,
                         "duration": 0.150000006,
-                        "damage_info_type": "DMG_TYPE_451",
+                        "damage_info_type": "DamageInfoType_DPS_Hotshot_Laser_Rifle_RL1",
                         "damage_ignore_avatar_armor": 1,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1727,7 +1756,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 2.0,
                         "duration": 0.150000006,
-                        "damage_info_type": "DMG_TYPE_452",
+                        "damage_info_type": "DamageInfoType_DPS_Hotshot_Laser_Rifle_RL2",
                         "damage_ignore_avatar_armor": 1,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1756,7 +1785,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 2.0,
                         "duration": 0.150000006,
-                        "damage_info_type": "DMG_TYPE_453",
+                        "damage_info_type": "DamageInfoType_DPS_Hotshot_Laser_Rifle_RL3",
                         "damage_ignore_avatar_armor": 1,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1785,7 +1814,7 @@
                         "shading_environment_fade_time": 1.0,
                         "strength": 1.0,
                         "duration": 1.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1814,12 +1843,12 @@
                         "shading_environment_fade_time": 0.200000003,
                         "strength": 1.0,
                         "duration": 999999.0,
-                        "damage_info_type": "DMG_TYPE_454",
+                        "damage_info_type": "DamageInfoType_DPS_Constitution",
                         "damage_ignore_avatar_armor": 1,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
                         "script_event_stop": 0,
-                        "wwise_state": "WWISE_002",
+                        "wwise_state": "WwiseAudioState_None",
                         "audio_event_start": 1418379388,
                         "audio_event_stop": 2256656248,
                         "audio_event_enter": 0,
@@ -1843,7 +1872,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 0.0,
                         "duration": 3.0,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1877,7 +1906,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 1.5,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1906,7 +1935,7 @@
                         "shading_environment_fade_time": 0.0,
                         "strength": 1.0,
                         "duration": 1.5,
-                        "damage_info_type": "DMG_TYPE_000",
+                        "damage_info_type": "DamageInfoType_None",
                         "damage_ignore_avatar_armor": 0,
                         "particle_effect_path": "0",
                         "script_event_start": 0,
@@ -1963,367 +1992,373 @@
                 {
                     "idx": 5,
                     "hex_idx": "5",
-                    "type_num": 6,
-                    "type_str": "StatusEffectType_Fire_Panic"
+                    "type_num": 7,
+                    "type_str": "StatusEffectType_Lava"
                 },
                 {
                     "idx": 6,
                     "hex_idx": "6",
-                    "type_num": 7,
-                    "type_str": "StatusEffectType_Slowed"
+                    "type_num": 6,
+                    "type_str": "StatusEffectType_Fire_Panic"
                 },
                 {
                     "idx": 7,
                     "hex_idx": "7",
                     "type_num": 8,
-                    "type_str": "StatusEffectType_Rooted"
+                    "type_str": "StatusEffectType_Slowed"
                 },
                 {
                     "idx": 8,
                     "hex_idx": "8",
                     "type_num": 9,
-                    "type_str": "StatusEffectType_Acid_Splash"
+                    "type_str": "StatusEffectType_Rooted"
                 },
                 {
                     "idx": 9,
                     "hex_idx": "9",
                     "type_num": 10,
-                    "type_str": "StatusEffectType_Acid_Stream"
+                    "type_str": "StatusEffectType_Acid_Splash"
                 },
                 {
                     "idx": 10,
                     "hex_idx": "A",
                     "type_num": 11,
-                    "type_str": "StatusEffectType_Thermite"
+                    "type_str": "StatusEffectType_Acid_Stream"
                 },
                 {
                     "idx": 11,
                     "hex_idx": "B",
                     "type_num": 12,
-                    "type_str": "StatusEffectType_Cyborg_Fire"
+                    "type_str": "StatusEffectType_Thermite"
                 },
                 {
                     "idx": 12,
                     "hex_idx": "C",
                     "type_num": 13,
-                    "type_str": "StatusEffectType_Choked"
+                    "type_str": "StatusEffectType_Cyborg_Fire"
                 },
                 {
                     "idx": 13,
                     "hex_idx": "D",
                     "type_num": 14,
-                    "type_str": "StatusEffectType_Sand"
+                    "type_str": "StatusEffectType_Choked"
                 },
                 {
                     "idx": 14,
                     "hex_idx": "E",
                     "type_num": 15,
-                    "type_str": "StatusEffectType_Mud"
+                    "type_str": "StatusEffectType_Sand"
                 },
                 {
                     "idx": 15,
                     "hex_idx": "F",
                     "type_num": 16,
-                    "type_str": "StatusEffectType_Snow"
+                    "type_str": "StatusEffectType_Mud"
                 },
                 {
                     "idx": 16,
                     "hex_idx": "10",
                     "type_num": 17,
-                    "type_str": "StatusEffectType_Submerged"
+                    "type_str": "StatusEffectType_Snow"
                 },
                 {
                     "idx": 17,
                     "hex_idx": "11",
                     "type_num": 18,
-                    "type_str": "StatusEffectType_Thornbush"
+                    "type_str": "StatusEffectType_Submerged"
                 },
                 {
                     "idx": 18,
                     "hex_idx": "12",
                     "type_num": 19,
-                    "type_str": "StatusEffectType_Cactus"
+                    "type_str": "StatusEffectType_Thornbush"
                 },
                 {
                     "idx": 19,
                     "hex_idx": "13",
                     "type_num": 20,
-                    "type_str": "StatusEffectType_Barbwire"
+                    "type_str": "StatusEffectType_Cactus"
                 },
                 {
                     "idx": 20,
                     "hex_idx": "14",
                     "type_num": 21,
-                    "type_str": "StatusEffectType_BushSmall"
+                    "type_str": "StatusEffectType_Barbwire"
                 },
                 {
                     "idx": 21,
                     "hex_idx": "15",
                     "type_num": 22,
-                    "type_str": "StatusEffectType_BushLarge"
+                    "type_str": "StatusEffectType_BushSmall"
                 },
                 {
                     "idx": 22,
                     "hex_idx": "16",
                     "type_num": 23,
-                    "type_str": "StatusEffectType_Pure_Damage"
+                    "type_str": "StatusEffectType_BushLarge"
                 },
                 {
                     "idx": 23,
                     "hex_idx": "17",
                     "type_num": 24,
-                    "type_str": "StatusEffectType_Stim_Fx"
+                    "type_str": "StatusEffectType_Pure_Damage"
                 },
                 {
                     "idx": 24,
                     "hex_idx": "18",
                     "type_num": 25,
-                    "type_str": "StatusEffectType_Stim_Stamina"
+                    "type_str": "StatusEffectType_Stim_Fx"
                 },
                 {
                     "idx": 25,
                     "hex_idx": "19",
                     "type_num": 26,
-                    "type_str": "StatusEffectType_Stim_Heal"
+                    "type_str": "StatusEffectType_Stim_Stamina"
                 },
                 {
                     "idx": 26,
                     "hex_idx": "1A",
                     "type_num": 27,
-                    "type_str": "StatusEffectType_Stim_Pistol_Heal"
+                    "type_str": "StatusEffectType_Stim_Heal"
                 },
                 {
                     "idx": 27,
                     "hex_idx": "1B",
                     "type_num": 28,
-                    "type_str": "StatusEffectType_Stim_Combat_Drugs"
+                    "type_str": "StatusEffectType_Stim_Pistol_Heal"
                 },
                 {
                     "idx": 28,
                     "hex_idx": "1C",
                     "type_num": 29,
-                    "type_str": "StatusEffectType_Stim_Cooldown"
+                    "type_str": "StatusEffectType_Stim_Combat_Drugs"
                 },
                 {
                     "idx": 29,
                     "hex_idx": "1D",
                     "type_num": 30,
-                    "type_str": "StatusEffectType_BurningHeavy"
+                    "type_str": "StatusEffectType_Stim_Cooldown"
                 },
                 {
                     "idx": 30,
                     "hex_idx": "1E",
                     "type_num": 31,
-                    "type_str": "StatusEffectType_RadiationLight"
+                    "type_str": "StatusEffectType_BurningHeavy"
                 },
                 {
                     "idx": 31,
                     "hex_idx": "1F",
                     "type_num": 32,
-                    "type_str": "StatusEffectType_RadiationHeavy"
+                    "type_str": "StatusEffectType_RadiationLight"
                 },
                 {
                     "idx": 32,
                     "hex_idx": "20",
                     "type_num": 33,
-                    "type_str": "StatusEffectType_Electric"
+                    "type_str": "StatusEffectType_RadiationHeavy"
                 },
                 {
                     "idx": 33,
                     "hex_idx": "21",
                     "type_num": 34,
-                    "type_str": "StatusEffectType_Hidden"
+                    "type_str": "StatusEffectType_Electric"
                 },
                 {
                     "idx": 34,
                     "hex_idx": "22",
                     "type_num": 35,
-                    "type_str": "StatusEffectType_Stun_Small"
+                    "type_str": "StatusEffectType_Hidden"
                 },
                 {
                     "idx": 35,
                     "hex_idx": "23",
                     "type_num": 36,
-                    "type_str": "StatusEffectType_Stun_Medium"
+                    "type_str": "StatusEffectType_Stun_Small"
                 },
                 {
                     "idx": 36,
                     "hex_idx": "24",
                     "type_num": 37,
-                    "type_str": "StatusEffectType_Stun_Large"
+                    "type_str": "StatusEffectType_Stun_Medium"
                 },
                 {
                     "idx": 37,
                     "hex_idx": "25",
                     "type_num": 38,
-                    "type_str": "StatusEffectType_Stun_Massive"
+                    "type_str": "StatusEffectType_Stun_Large"
                 },
                 {
                     "idx": 38,
                     "hex_idx": "26",
                     "type_num": 39,
-                    "type_str": "StatusEffectType_Stun_Illuminate"
+                    "type_str": "StatusEffectType_Stun_Massive"
                 },
                 {
                     "idx": 39,
                     "hex_idx": "27",
                     "type_num": 40,
-                    "type_str": "StatusEffectType_Gas"
+                    "type_str": "StatusEffectType_Stun_Illuminate"
                 },
                 {
                     "idx": 40,
                     "hex_idx": "28",
                     "type_num": 41,
-                    "type_str": "StatusEffectType_Gas_MK2"
+                    "type_str": "StatusEffectType_Gas"
                 },
                 {
                     "idx": 41,
                     "hex_idx": "29",
                     "type_num": 42,
-                    "type_str": "StatusEffectType_Gas_Confusion"
+                    "type_str": "StatusEffectType_Gas_MK2"
                 },
                 {
                     "idx": 42,
                     "hex_idx": "2A",
                     "type_num": 43,
-                    "type_str": "StatusEffectType_Gas_Confusion_MK2"
+                    "type_str": "StatusEffectType_Gas_Confusion"
                 },
                 {
                     "idx": 43,
                     "hex_idx": "2B",
                     "type_num": 44,
-                    "type_str": "StatusEffectType_Inverted_Aim_Assist"
+                    "type_str": "StatusEffectType_Gas_Confusion_MK2"
                 },
                 {
                     "idx": 44,
                     "hex_idx": "2C",
                     "type_num": 45,
-                    "type_str": "StatusEffectType_Flashlighted"
+                    "type_str": "StatusEffectType_Inverted_Aim_Assist"
                 },
                 {
                     "idx": 45,
                     "hex_idx": "2D",
                     "type_num": 46,
-                    "type_str": "StatusEffectType_Smoke_Covered"
+                    "type_str": "StatusEffectType_Flashlighted"
                 },
                 {
                     "idx": 46,
                     "hex_idx": "2E",
                     "type_num": 47,
-                    "type_str": "StatusEffectType_Backpack_Chemicals"
+                    "type_str": "StatusEffectType_Smoke_Covered"
                 },
                 {
                     "idx": 47,
                     "hex_idx": "2F",
                     "type_num": 48,
-                    "type_str": "StatusEffectType_Intense_Heat"
+                    "type_str": "StatusEffectType_Backpack_Chemicals"
                 },
                 {
                     "idx": 48,
                     "hex_idx": "30",
                     "type_num": 49,
-                    "type_str": "StatusEffectType_Extreme_Cold"
+                    "type_str": "StatusEffectType_Intense_Heat"
                 },
                 {
                     "idx": 49,
                     "hex_idx": "31",
                     "type_num": 50,
-                    "type_str": "StatusEffectType_Tremor"
+                    "type_str": "StatusEffectType_Extreme_Cold"
                 },
                 {
                     "idx": 50,
                     "hex_idx": "32",
                     "type_num": 51,
-                    "type_str": "StatusEffectType_Sandstorm"
+                    "type_str": "StatusEffectType_Tremor"
                 },
                 {
                     "idx": 51,
                     "hex_idx": "33",
                     "type_num": 52,
-                    "type_str": "StatusEffectType_Blizzard"
+                    "type_str": "StatusEffectType_Sandstorm"
                 },
                 {
                     "idx": 52,
                     "hex_idx": "34",
                     "type_num": 53,
-                    "type_str": "StatusEffectType_Acid_Storm"
+                    "type_str": "StatusEffectType_Blizzard"
                 },
                 {
                     "idx": 53,
                     "hex_idx": "35",
                     "type_num": 54,
-                    "type_str": "StatusEffectType_Thick_Fog"
+                    "type_str": "StatusEffectType_Acid_Storm"
                 },
                 {
                     "idx": 54,
                     "hex_idx": "36",
                     "type_num": 55,
-                    "type_str": "StatusEffectType_Protected"
+                    "type_str": "StatusEffectType_Thick_Fog"
                 },
                 {
                     "idx": 55,
                     "hex_idx": "37",
                     "type_num": 56,
-                    "type_str": "StatusEffectType_Protected_MK2"
+                    "type_str": "StatusEffectType_Protected"
                 },
                 {
                     "idx": 56,
                     "hex_idx": "38",
                     "type_num": 57,
-                    "type_str": "StatusEffectType_Dark_Fluid"
+                    "type_str": "StatusEffectType_Protected_MK2"
                 },
                 {
                     "idx": 57,
                     "hex_idx": "39",
                     "type_num": 58,
-                    "type_str": "StatusEffectType_Death_March"
+                    "type_str": "StatusEffectType_Dark_Fluid"
                 },
                 {
                     "idx": 58,
                     "hex_idx": "3A",
                     "type_num": 59,
-                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL1"
+                    "type_str": "StatusEffectType_Death_March"
                 },
                 {
                     "idx": 59,
                     "hex_idx": "3B",
                     "type_num": 60,
-                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL2"
+                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL1"
                 },
                 {
                     "idx": 60,
                     "hex_idx": "3C",
                     "type_num": 61,
-                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL3"
+                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL2"
                 },
                 {
                     "idx": 61,
                     "hex_idx": "3D",
                     "type_num": 62,
-                    "type_str": "StatusEffectType_Illuminate_Scrambler"
+                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL3"
                 },
                 {
                     "idx": 62,
                     "hex_idx": "3E",
                     "type_num": 63,
-                    "type_str": "StatusEffectType_Constitution"
+                    "type_str": "StatusEffectType_Illuminate_Scrambler"
                 },
                 {
                     "idx": 63,
                     "hex_idx": "3F",
                     "type_num": 64,
-                    "type_str": "StatusEffectType_Constitution_Booster_Armor_Resistance"
+                    "type_str": "StatusEffectType_Constitution"
                 },
                 {
                     "idx": 64,
                     "hex_idx": "40",
                     "type_num": 65,
-                    "type_str": "StatusEffectType_Post_Mortem_Explosion"
+                    "type_str": "StatusEffectType_Constitution_Booster_Armor_Resistance"
                 },
                 {
                     "idx": 65,
                     "hex_idx": "41",
                     "type_num": 66,
+                    "type_str": "StatusEffectType_Post_Mortem_Explosion"
+                },
+                {
+                    "idx": 66,
+                    "hex_idx": "42",
+                    "type_num": 67,
                     "type_str": "StatusEffectType_Footage_Recorded"
                 }
             ]
@@ -2948,6 +2983,28 @@
                             }
                         ],
                         "needs_to_hit_valid_actor": 0
+                    },
+                    {
+                        "type": "StatusEffectTemplateType_Flamethrower_MK2",
+                        "effects": [
+                            {
+                                "type": "StatusEffectType_BurningHeavy",
+                                "value_per_second": 1.0
+                            },
+                            {
+                                "type": "StatusEffectType_Fire",
+                                "value_per_second": 1.0
+                            },
+                            {
+                                "type": "StatusEffectType_None",
+                                "value_per_second": 1.0
+                            },
+                            {
+                                "type": "StatusEffectType_None",
+                                "value_per_second": 1.0
+                            }
+                        ],
+                        "needs_to_hit_valid_actor": 0
                     }
                 ]
             ],
@@ -3119,6 +3176,12 @@
                     "hex_idx": "1B",
                     "type_num": 28,
                     "type_str": "StatusEffectTemplateType_Dark_Fluid"
+                },
+                {
+                    "idx": 28,
+                    "hex_idx": "1C",
+                    "type_num": 29,
+                    "type_str": "StatusEffectTemplateType_Flamethrower_MK2"
                 }
             ]
         }
