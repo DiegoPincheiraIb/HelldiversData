@@ -33,7 +33,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -69,7 +69,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -105,7 +105,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -141,7 +141,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -177,7 +177,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -213,7 +213,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -249,7 +249,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -285,7 +285,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -321,7 +321,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -357,7 +357,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -393,7 +393,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -429,7 +429,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -465,7 +465,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -501,7 +501,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -537,7 +537,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -573,7 +573,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 1.0,
                     "unknown_84": 0
@@ -609,7 +609,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -645,7 +645,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -681,7 +681,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -717,7 +717,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -753,7 +753,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -789,7 +789,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -825,7 +825,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -861,7 +861,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -897,7 +897,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -933,7 +933,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -969,7 +969,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1005,7 +1005,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1041,7 +1041,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1077,7 +1077,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1113,7 +1113,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1149,7 +1149,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1185,7 +1185,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1221,7 +1221,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1257,7 +1257,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1293,7 +1293,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1330,7 +1330,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1367,7 +1367,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1404,7 +1404,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1440,7 +1440,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1476,7 +1476,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1512,7 +1512,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1548,7 +1548,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1585,7 +1585,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1622,7 +1622,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1659,7 +1659,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1696,7 +1696,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1733,7 +1733,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1769,7 +1769,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1805,7 +1805,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1841,7 +1841,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1878,7 +1878,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1915,7 +1915,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1952,7 +1952,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -1989,7 +1989,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2026,7 +2026,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2063,7 +2063,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2099,7 +2099,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2135,7 +2135,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2171,7 +2171,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2207,7 +2207,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2243,7 +2243,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2279,7 +2279,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2316,7 +2316,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2352,7 +2352,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2388,7 +2388,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2424,7 +2424,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2461,7 +2461,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2497,7 +2497,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2533,7 +2533,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2569,7 +2569,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2605,7 +2605,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2641,13 +2641,13 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 3,
                     "unknown_80": 0.0,
                     "unknown_84": 0
                 },
                 {
-                    "type": "EXPLOSION_TYPE_334",
+                    "type": "ExplosionType_HandGrenade_Stun_Sticky_MK2",
                     "damage_type": "DamageInfoType_Explosion_HandGrenade_Stun_Sticky",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 2.0,
@@ -2677,7 +2677,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 3,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2713,7 +2713,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2749,7 +2749,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2785,7 +2785,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2821,7 +2821,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2857,7 +2857,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2893,7 +2893,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2929,7 +2929,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -2965,7 +2965,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3001,7 +3001,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3037,7 +3037,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3073,7 +3073,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3109,7 +3109,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3145,7 +3145,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3181,7 +3181,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3217,7 +3217,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3253,7 +3253,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3289,7 +3289,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3325,7 +3325,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3361,7 +3361,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3397,7 +3397,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3433,7 +3433,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3469,7 +3469,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3505,7 +3505,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3541,7 +3541,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 1,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3577,7 +3577,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3613,7 +3613,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3649,7 +3649,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3685,7 +3685,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3721,7 +3721,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3757,7 +3757,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3793,7 +3793,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3829,7 +3829,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3865,7 +3865,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3901,7 +3901,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3937,7 +3937,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -3973,7 +3973,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4009,7 +4009,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4045,7 +4045,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4081,7 +4081,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4117,7 +4117,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4153,7 +4153,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4189,7 +4189,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4225,7 +4225,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4261,7 +4261,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 1,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4297,7 +4297,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 1,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4333,7 +4333,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 1,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4369,7 +4369,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 1,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4405,7 +4405,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4441,7 +4441,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4477,7 +4477,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4514,7 +4514,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4551,7 +4551,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4587,7 +4587,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4623,7 +4623,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4660,7 +4660,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4697,7 +4697,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4734,7 +4734,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4771,7 +4771,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4808,7 +4808,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4845,7 +4845,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4882,7 +4882,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4919,7 +4919,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4955,7 +4955,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -4991,7 +4991,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5027,7 +5027,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5063,7 +5063,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5099,7 +5099,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5135,7 +5135,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5171,7 +5171,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5207,7 +5207,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5243,7 +5243,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5279,7 +5279,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5315,7 +5315,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5351,7 +5351,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5387,7 +5387,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5423,7 +5423,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 1,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5459,7 +5459,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5495,7 +5495,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5531,7 +5531,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5567,7 +5567,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5603,7 +5603,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5639,7 +5639,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5675,7 +5675,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 1.0,
                     "unknown_84": 0
@@ -5711,7 +5711,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 1.0,
                     "unknown_84": 0
@@ -5747,7 +5747,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 1.0,
                     "unknown_84": 0
@@ -5783,7 +5783,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 1.0,
                     "unknown_84": 0
@@ -5819,7 +5819,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5855,7 +5855,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 1.0,
                     "unknown_84": 0
@@ -5891,7 +5891,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 1.0,
                     "unknown_84": 0
@@ -5927,7 +5927,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5963,7 +5963,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -5999,7 +5999,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 1.0,
                     "unknown_84": 0
@@ -6035,7 +6035,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 0,
                     "unknown_80": 1.0,
                     "unknown_84": 0
@@ -6071,7 +6071,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6107,7 +6107,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6143,7 +6143,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6179,7 +6179,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6215,7 +6215,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6251,7 +6251,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6287,7 +6287,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6323,7 +6323,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6359,7 +6359,7 @@
                     "is_huge_explosion": 1,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6395,7 +6395,7 @@
                     "is_huge_explosion": 1,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6431,7 +6431,7 @@
                     "is_huge_explosion": 1,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6467,7 +6467,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6503,7 +6503,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6539,7 +6539,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6575,7 +6575,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6611,7 +6611,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6647,7 +6647,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6683,7 +6683,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6720,7 +6720,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 1,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6757,7 +6757,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6794,7 +6794,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6831,7 +6831,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6867,7 +6867,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6903,7 +6903,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6939,7 +6939,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -6976,7 +6976,7 @@
                     "is_huge_explosion": 1,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7013,7 +7013,7 @@
                     "is_huge_explosion": 1,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7050,7 +7050,7 @@
                     "is_huge_explosion": 1,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7086,7 +7086,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7122,7 +7122,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7158,7 +7158,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7194,7 +7194,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7230,7 +7230,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7266,13 +7266,13 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
                 },
                 {
-                    "type": "EXPLOSION_TYPE_069",
+                    "type": "Explosion_WASP_Artillery",
                     "damage_type": "DamageInfoType_Explosion_WASP_Hornets",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 3.0,
@@ -7302,7 +7302,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7338,7 +7338,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7375,7 +7375,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7411,7 +7411,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7447,7 +7447,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7484,7 +7484,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7520,7 +7520,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7556,7 +7556,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7592,7 +7592,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7628,7 +7628,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7664,7 +7664,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7700,7 +7700,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7736,7 +7736,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7772,7 +7772,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7808,7 +7808,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7845,7 +7845,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7881,7 +7881,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7917,7 +7917,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7953,7 +7953,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -7989,7 +7989,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8025,7 +8025,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8061,7 +8061,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8097,7 +8097,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8133,7 +8133,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8169,7 +8169,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8205,7 +8205,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8242,7 +8242,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8278,7 +8278,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8314,7 +8314,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8350,7 +8350,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8386,7 +8386,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8422,7 +8422,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8458,7 +8458,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8494,7 +8494,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8530,7 +8530,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8566,7 +8566,7 @@
                     "is_huge_explosion": 1,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8602,7 +8602,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8638,7 +8638,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8674,7 +8674,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8710,7 +8710,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8746,7 +8746,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8782,7 +8782,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8818,7 +8818,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 1,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8854,7 +8854,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8890,7 +8890,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8927,7 +8927,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -8964,7 +8964,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9000,7 +9000,7 @@
                     "is_huge_explosion": 1,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9036,7 +9036,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9072,7 +9072,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9108,7 +9108,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9144,7 +9144,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9180,7 +9180,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9216,7 +9216,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9252,7 +9252,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9288,7 +9288,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9324,7 +9324,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9360,7 +9360,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9396,7 +9396,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9432,7 +9432,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9468,7 +9468,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9504,7 +9504,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9540,7 +9540,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9576,7 +9576,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9612,7 +9612,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9648,7 +9648,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9684,7 +9684,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9720,7 +9720,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9756,7 +9756,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9792,7 +9792,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9828,7 +9828,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9864,7 +9864,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9900,7 +9900,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9936,7 +9936,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -9972,7 +9972,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10008,7 +10008,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10044,7 +10044,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10080,7 +10080,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10116,7 +10116,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10152,7 +10152,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10188,7 +10188,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10224,7 +10224,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10260,7 +10260,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10296,7 +10296,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10332,7 +10332,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10368,7 +10368,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10404,7 +10404,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10440,7 +10440,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10476,7 +10476,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10512,7 +10512,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10548,7 +10548,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10584,7 +10584,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10620,7 +10620,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10656,7 +10656,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10692,7 +10692,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10728,7 +10728,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10764,7 +10764,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10800,7 +10800,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10837,7 +10837,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10874,7 +10874,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10910,7 +10910,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10946,7 +10946,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -10982,7 +10982,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11018,7 +11018,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11054,7 +11054,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11091,7 +11091,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11128,7 +11128,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11164,7 +11164,7 @@
                     "is_huge_explosion": 1,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11200,7 +11200,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11236,7 +11236,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11273,7 +11273,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11309,7 +11309,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11345,7 +11345,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11381,7 +11381,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11417,7 +11417,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11453,7 +11453,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11489,7 +11489,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11525,7 +11525,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11561,7 +11561,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11597,7 +11597,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11633,7 +11633,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11669,7 +11669,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11705,7 +11705,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11741,7 +11741,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11777,7 +11777,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11813,7 +11813,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11849,7 +11849,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11885,7 +11885,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11921,7 +11921,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11957,7 +11957,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -11993,7 +11993,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12029,7 +12029,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12065,7 +12065,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12102,7 +12102,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12139,14 +12139,14 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
                 },
                 {
-                    "type": "EXPLOSION_TYPE_175",
-                    "damage_type": "DMG_TYPE_176",
+                    "type": "ExplosionType_Armor_ExplosiveFinale",
+                    "damage_type": "DamageInfoType_Explosion_Armor_ExplosiveFinale",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 3.0,
                     "outer_radius": 7.0,
@@ -12176,7 +12176,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12212,7 +12212,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12248,7 +12248,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12284,7 +12284,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 14,
+                    "arctype_on_detonation": "ArcType_Grenade_Launcher_Stun_Arcs",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12320,7 +12320,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 6,
+                    "arctype_on_detonation": "ArcType_Explosion_Grenade_Arcs",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12356,7 +12356,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 6,
+                    "arctype_on_detonation": "ArcType_Explosion_Grenade_Arcs",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -12392,7 +12392,7 @@
                     "is_huge_explosion": 0,
                     "look_for_audio_source_hijack": 0,
                     "requires_raycast_confirmation": 0,
-                    "unknown_78": 0,
+                    "arctype_on_detonation": "ArcType_None",
                     "unknown_7C": 2,
                     "unknown_80": 0.0,
                     "unknown_84": 0
@@ -14419,7 +14419,7 @@
                     "idx": 336,
                     "hex_id": "150",
                     "type_num": 175,
-                    "type_str": "EXPLOSION_TYPE_175"
+                    "type_str": "ExplosionType_Armor_ExplosiveFinale"
                 },
                 {
                     "idx": 337,

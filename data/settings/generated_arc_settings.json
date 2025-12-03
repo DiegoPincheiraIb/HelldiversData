@@ -118,7 +118,7 @@
                     "unknown_64": 0
                 },
                 {
-                    "type": "ARC_WPN_TYPE_008",
+                    "type": "ArcType_ArcDog_K9",
                     "speed": 300.0,
                     "distance": 55.0,
                     "distance_at_max_angle_spread": 40.0,
@@ -127,7 +127,7 @@
                     "max_angle_spread_first_shot": 3.0,
                     "max_chain_length": 2,
                     "max_chain_split": 5,
-                    "damage_info_type": "DMG_TYPE_153",
+                    "damage_info_type": "DamageInfoType_Projectile_Arc_Guarddog",
                     "camera_shake_path": "0",
                     "particle_effect_path": "0",
                     "particle_linger_time": 0.25,
@@ -279,7 +279,7 @@
                     "unknown_64": 0
                 },
                 {
-                    "type": "ARC_WPN_TYPE_014",
+                    "type": "ArcType_Grenade_Launcher_Stun_Arcs",
                     "speed": 2000.0,
                     "distance": 10.0,
                     "distance_at_max_angle_spread": 1.0,
@@ -302,7 +302,7 @@
                     "unknown_64": 0
                 },
                 {
-                    "type": "ARC_WPN_TYPE_006",
+                    "type": "ArcType_Explosion_Grenade_Arcs",
                     "speed": 2000.0,
                     "distance": 10.0,
                     "distance_at_max_angle_spread": 6.0,
@@ -360,7 +360,7 @@
                     "idx": 5,
                     "hex_id": "5",
                     "type_num": 8,
-                    "type_str": "ARC_WPN_TYPE_008"
+                    "type_str": "ArcType_ArcDog_K9"
                 },
                 {
                     "idx": 6,
@@ -402,13 +402,13 @@
                     "idx": 12,
                     "hex_id": "C",
                     "type_num": 14,
-                    "type_str": "ARC_WPN_TYPE_014"
+                    "type_str": "ArcType_Grenade_Launcher_Stun_Arcs"
                 },
                 {
                     "idx": 13,
                     "hex_id": "D",
                     "type_num": 6,
-                    "type_str": "ARC_WPN_TYPE_006"
+                    "type_str": "ArcType_Explosion_Grenade_Arcs"
                 }
             ]
         }

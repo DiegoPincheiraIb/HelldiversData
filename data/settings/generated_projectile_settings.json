@@ -3877,7 +3877,7 @@
                     "projectile_unit_path": "11146770675064382806",
                     "explosion_threshold_angle": 90.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": 22,
+                    "explosion_type_on_impact": "ExplosionType_Cyborg_AssaultWalker_Projectile_LightRocket",
                     "explosion_proximity": 0.100000001,
                     "explosion_delay": 0.0,
                     "explosion_type_expire": "ExplosionType_None",
