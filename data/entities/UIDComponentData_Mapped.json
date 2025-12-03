@@ -1,0 +1,4206 @@
+{
+    "211331680192206384": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_40mm_HE",
+                "ptype": 241,
+                "ptype_data": {
+                    "name_cased": 1639593129,
+                    "name_upper": 3162259359,
+                    "short_name": 593084860,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 8.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 7.5,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 3.5,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_40mm_HE",
+                            "damage_type": 318
+                        },
+                        "expltype": 293,
+                        "expltype_name": "ExplosionType_Grenade_40mm_HE"
+                    },
+                    "name_cased_str": "40mm HE Grenade",
+                    "explosion_type_expire": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 8.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 7.5,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 3.5,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_40mm_HE",
+                            "damage_type": 318
+                        },
+                        "expltype": 293,
+                        "expltype_name": "ExplosionType_Grenade_40mm_HE"
+                    },
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_40mm_HE",
+                    "short_name_str": "HE",
+                    "name_upper_str": "40mm HE GRENADE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_GrenadeLauncher"
+    },
+    "17196401230144941076": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Plasma_Bolt_Medium",
+                "ptype": 122,
+                "ptype_data": {
+                    "name_cased": 3092989428,
+                    "name_upper": 1981652822,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 2.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 2.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Medium",
+                            "damage_type": 258
+                        },
+                        "expltype": 122,
+                        "expltype_name": "ExplosionType_Plasma_Bolt_Medium"
+                    },
+                    "name_cased_str": "Medium Plasma Bolt",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Plasma_Bolt",
+                    "name_upper_str": "MEDIUM PLASMA BOLT"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Scorcher"
+    },
+    "6453678319562593995": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Missile_66mm",
+                "ptype": 212,
+                "ptype_data": {
+                    "name_cased": 1699114725,
+                    "name_upper": 1769974695,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 4.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 2.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Missile_66mm",
+                            "damage_type": 330
+                        },
+                        "expltype": 117,
+                        "expltype_name": "ExplosionType_Missile_66mm"
+                    },
+                    "name_cased_str": "66mm Missile",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Missile_66mm",
+                    "name_upper_str": "66mm MISSILE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_CommandoRocketLauncher"
+    },
+    "2802369506329449110": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_85mm_AirburstCluster_FLAK",
+                "ptype": 267,
+                "ptype_data": {
+                    "name_cased": 1957494835,
+                    "name_upper": 3558706970,
+                    "short_name": 1420309294,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 7.0,
+                            "num_shrapnel_proj": 25,
+                            "outer_radius": 5.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "ProjectileType_AirburstCluster_Bomb",
+                                "ptype": 62,
+                                "ptype_data": {
+                                    "name_cased": 1928180472,
+                                    "name_upper": 2219258544,
+                                    "short_name": 4056765033,
+                                    "explosion_type_impact": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 8.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 6.0,
+                                            "shrapnel_projtype": 0,
+                                            "inner_radius": 4.0,
+                                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag",
+                                            "damage_type": 287
+                                        },
+                                        "expltype": 6,
+                                        "expltype_name": "ExplosionType_AirburstCluster_Bomb"
+                                    },
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "Cluster Bomb",
+                                    "explosion_type_expire": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 8.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 6.0,
+                                            "shrapnel_projtype": 0,
+                                            "inner_radius": 4.0,
+                                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag",
+                                            "damage_type": 287
+                                        },
+                                        "expltype": 6,
+                                        "expltype_name": "ExplosionType_AirburstCluster_Bomb"
+                                    },
+                                    "damage_info_type_name": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
+                                    "name_upper_str": "CLUSTER BOMB"
+                                }
+                            },
+                            "inner_radius": 3.0,
+                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
+                            "damage_type": 233
+                        },
+                        "expltype": 263,
+                        "expltype_name": "ExplosionType_AirburstCluster"
+                    },
+                    "name_cased_str": "20mm Flak Rounds",
+                    "explosion_type_expire": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 7.0,
+                            "num_shrapnel_proj": 25,
+                            "outer_radius": 5.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "ProjectileType_AirburstCluster_Bomb",
+                                "ptype": 62,
+                                "ptype_data": {
+                                    "name_cased": 1928180472,
+                                    "name_upper": 2219258544,
+                                    "short_name": 4056765033,
+                                    "explosion_type_impact": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 8.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 6.0,
+                                            "shrapnel_projtype": 0,
+                                            "inner_radius": 4.0,
+                                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag",
+                                            "damage_type": 287
+                                        },
+                                        "expltype": 6,
+                                        "expltype_name": "ExplosionType_AirburstCluster_Bomb"
+                                    },
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "Cluster Bomb",
+                                    "explosion_type_expire": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 8.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 6.0,
+                                            "shrapnel_projtype": 0,
+                                            "inner_radius": 4.0,
+                                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag",
+                                            "damage_type": 287
+                                        },
+                                        "expltype": 6,
+                                        "expltype_name": "ExplosionType_AirburstCluster_Bomb"
+                                    },
+                                    "damage_info_type_name": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
+                                    "name_upper_str": "CLUSTER BOMB"
+                                }
+                            },
+                            "inner_radius": 3.0,
+                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
+                            "damage_type": 233
+                        },
+                        "expltype": 263,
+                        "expltype_name": "ExplosionType_AirburstCluster"
+                    },
+                    "damage_info_type_name": "DamageInfoType_Explosion_Projectile_Grenade_85mm_DirectHit",
+                    "short_name_str": "FLAK",
+                    "name_upper_str": "20mm FLAK ROUNDS"
+                }
+            },
+            "wpn_projcte_type": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_85mm_AirburstCluster_CLUSTER",
+                "ptype": 78,
+                "ptype_data": {
+                    "name_cased": 2219258544,
+                    "name_upper": 2219258544,
+                    "short_name": 2219258544,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 7.0,
+                            "num_shrapnel_proj": 25,
+                            "outer_radius": 5.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "PROJ_TYPE_202",
+                                "ptype": 202,
+                                "ptype_data": {
+                                    "name_cased": 1928180472,
+                                    "name_upper": 2219258544,
+                                    "short_name": 4056765033,
+                                    "explosion_type_impact": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 8.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 6.0,
+                                            "shrapnel_projtype": 0,
+                                            "inner_radius": 4.0,
+                                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag",
+                                            "damage_type": 287
+                                        },
+                                        "expltype": 6,
+                                        "expltype_name": "ExplosionType_AirburstCluster_Bomb"
+                                    },
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "Cluster Bomb",
+                                    "explosion_type_expire": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 8.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 6.0,
+                                            "shrapnel_projtype": 0,
+                                            "inner_radius": 4.0,
+                                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag",
+                                            "damage_type": 287
+                                        },
+                                        "expltype": 6,
+                                        "expltype_name": "ExplosionType_AirburstCluster_Bomb"
+                                    },
+                                    "damage_info_type_name": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
+                                    "name_upper_str": "CLUSTER BOMB"
+                                }
+                            },
+                            "inner_radius": 3.0,
+                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
+                            "damage_type": 233
+                        },
+                        "expltype": 243,
+                        "expltype_name": "ExplosionType_AirburstCluster_MK2"
+                    },
+                    "name_cased_str": "CLUSTER BOMB",
+                    "explosion_type_expire": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 7.0,
+                            "num_shrapnel_proj": 25,
+                            "outer_radius": 5.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "PROJ_TYPE_202",
+                                "ptype": 202,
+                                "ptype_data": {
+                                    "name_cased": 1928180472,
+                                    "name_upper": 2219258544,
+                                    "short_name": 4056765033,
+                                    "explosion_type_impact": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 8.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 6.0,
+                                            "shrapnel_projtype": 0,
+                                            "inner_radius": 4.0,
+                                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag",
+                                            "damage_type": 287
+                                        },
+                                        "expltype": 6,
+                                        "expltype_name": "ExplosionType_AirburstCluster_Bomb"
+                                    },
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "Cluster Bomb",
+                                    "explosion_type_expire": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 8.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 6.0,
+                                            "shrapnel_projtype": 0,
+                                            "inner_radius": 4.0,
+                                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag",
+                                            "damage_type": 287
+                                        },
+                                        "expltype": 6,
+                                        "expltype_name": "ExplosionType_AirburstCluster_Bomb"
+                                    },
+                                    "damage_info_type_name": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
+                                    "name_upper_str": "CLUSTER BOMB"
+                                }
+                            },
+                            "inner_radius": 3.0,
+                            "damage_type_name": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
+                            "damage_type": 233
+                        },
+                        "expltype": 243,
+                        "expltype_name": "ExplosionType_AirburstCluster_MK2"
+                    },
+                    "damage_info_type_name": "DamageInfoType_Explosion_Projectile_Grenade_85mm_DirectHit",
+                    "short_name_str": "CLUSTER BOMB",
+                    "name_upper_str": "CLUSTER BOMB"
+                }
+            }
+        },
+        "name": "SupportWeaponType_AirburstRocketLauncher"
+    },
+    "6468799106264970105": {
+        "name": "SupportBackpackType_Jumppack"
+    },
+    "13558475039457634667": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_Pacifier",
+                "ptype": 80,
+                "ptype_data": {
+                    "name_cased": 3833165879,
+                    "name_upper": 1118055361,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_Pacifier"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_PacifierRifle"
+    },
+    "7742303829890335551": {
+        "name": "PickupType_RequisitionSlips"
+    },
+    "17250673437555536342": {
+        "name": "OrbitalBombardmentType_Orbital380mmBarrage"
+    },
+    "13777321776887997010": {
+        "name": "DeployableType_IncendiaryMinefield"
+    },
+    "6912088101323449320": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Battle_Rifle",
+                "ptype": 115,
+                "ptype_data": {
+                    "name_cased": 3339839144,
+                    "name_upper": 1070874442,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "8x60mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Battle_Rifle",
+                    "name_upper_str": "8x60mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Adjudicator"
+    },
+    "15470422196992643923": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_Stim",
+                "ptype": 272,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_StimPistol"
+    },
+    "14663462306863854060": {
+        "name": "OrbitalBombardmentType_OrbitalWalkingBarrage"
+    },
+    "14845617694460717074": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_Rico",
+                "ptype": 36,
+                "ptype_data": {
+                    "name_cased": 425050408,
+                    "name_upper": 1377184716,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_Rico"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Tenderizer"
+    },
+    "8540606443036588471": {
+        "name": "ThrowableType_ImpactGrenade"
+    },
+    "4111341420364086640": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cyborg_Rifle",
+                "ptype": 50,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_CyborgRifle"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BotEnemyType_FactoryStriderGatlingGun"
+    },
+    "15986416455258940649": {
+        "name": "SupportWeaponType_MiniMissileSilo"
+    },
+    "12041129896721693842": {
+        "name": "BotEnemyType_Commissar"
+    },
+    "12508512869271882154": {
+        "name": "PickupType_RareSample"
+    },
+    "11432560202897483622": {
+        "name": "PickupType_LarvaContainer"
+    },
+    "16451308563134815530": {
+        "name": "BotEnemyType_HulkScorcher"
+    },
+    "10514734670540770044": {
+        "name": "BotEnemyType_Devastator"
+    },
+    "18319281757224320923": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_Launcher_Stun",
+                "ptype": 192,
+                "ptype_data": {
+                    "name_cased": 4073392945,
+                    "name_upper": 341582370,
+                    "short_name": 3796757242,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 4.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 3.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Grenade_Launcher_Stun",
+                            "damage_type": 311
+                        },
+                        "expltype": 33,
+                        "expltype_name": "ExplosionType_Grenade_Launcher_Stun"
+                    },
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_40mm_HE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_DescalatorGrenadeLauncher"
+    },
+    "17623191861664038783": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Crossbow_Bolt_exp",
+                "ptype": 216,
+                "ptype_data": {
+                    "name_cased": 2949952785,
+                    "name_upper": 2715557765,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 7.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 6.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 3.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Crossbow_Bolt",
+                            "damage_type": 175
+                        },
+                        "expltype": 48,
+                        "expltype_name": "ExplosionType_Crossbow_Bolt"
+                    },
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Crossbow_Bolt"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_ExplodingCrossbow"
+    },
+    "6113742425058627513": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cannon_40mm_APHE",
+                "ptype": 101,
+                "ptype_data": {
+                    "name_cased": 2486949043,
+                    "name_upper": 3400629146,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 8.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 6.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Cannon_40mm_APHE",
+                            "damage_type": 317
+                        },
+                        "expltype": 185,
+                        "expltype_name": "ExplosionType_APHE_40mm"
+                    },
+                    "name_cased_str": "40mm APHE Cannon",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Cannon_40mm_APHE",
+                    "name_upper_str": "40mm APHE CANNON"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "DeployableType_AutoCannonSentry"
+    },
+    "5892418254001999486": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cyborg_Rifle",
+                "ptype": 50,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_CyborgRifle"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BotEnemyType_FactoryStriderLaserGun"
+    },
+    "5274502359162322681": {
+        "name": "PickupType_CommonSample"
+    },
+    "4046732776742447255": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Harpoon",
+                "ptype": 106,
+                "ptype_data": {
+                    "name_cased": 4148417044,
+                    "name_upper": 2852958637,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 7.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 5.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Harpoon",
+                            "damage_type": 53
+                        },
+                        "expltype": 77,
+                        "expltype_name": "ExplosionType_Harpoon_Gas"
+                    },
+                    "damage_info_type_name": "DamageInfoType_Projectile_Harpoon"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_Speargun"
+    },
+    "10828817397904429935": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cyborg_LightRocket",
+                "ptype": 213,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 3.1500000953674,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 1.6499999761581,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 0.64999997615814,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_CyborgLightRocket",
+                            "damage_type": 357
+                        },
+                        "expltype": 72,
+                        "expltype_name": "ExplosionType_Cyborg_Projectile_LightRocket"
+                    },
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_CyborgLightRocket"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BotEnemyType_RocketDevastator"
+    },
+    "4228803675738017635": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cyborg_Rifle",
+                "ptype": 50,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_CyborgRifle"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BotEnemyType_FactoryStriderGatlingGun"
+    },
+    "10660805200074987205": {
+        "name": "PrimaryWeaponType_NailspitterBreaker"
+    },
+    "14733648658679365221": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "Projectile_Missile_WASP_Hornets",
+                "ptype": 35,
+                "ptype_data": {
+                    "name_cased": 1833867619,
+                    "name_upper": 2759158684,
+                    "short_name": 2523245633,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 7.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 5.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.5,
+                            "damage_type_name": "DamageInfoType_Explosion_WASP_Hornets",
+                            "damage_type": 334
+                        },
+                        "expltype": 301,
+                        "expltype_name": "Explosion_WASP_Hornets"
+                    },
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_WASP_Hornets"
+                }
+            },
+            "wpn_projcte_type": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "PROJ_TYPE_282",
+                "ptype": 282,
+                "ptype_data": {
+                    "name_cased": 3409522164,
+                    "name_upper": 2195126970,
+                    "short_name": 2151290805,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 7.0,
+                            "num_shrapnel_proj": 7,
+                            "outer_radius": 5.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "Projectile_Missile_WASP_Hornets",
+                                "ptype": 35,
+                                "ptype_data": {
+                                    "name_cased": 1833867619,
+                                    "name_upper": 2759158684,
+                                    "short_name": 2523245633,
+                                    "explosion_type_impact": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 7.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 5.0,
+                                            "shrapnel_projtype": 0,
+                                            "inner_radius": 2.5,
+                                            "damage_type_name": "DamageInfoType_Explosion_WASP_Hornets",
+                                            "damage_type": 334
+                                        },
+                                        "expltype": 301,
+                                        "expltype_name": "Explosion_WASP_Hornets"
+                                    },
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "explosion_type_expire": 0,
+                                    "damage_info_type_name": "DamageInfoType_Projectile_WASP_Hornets"
+                                }
+                            },
+                            "inner_radius": 3.0,
+                            "damage_type_name": "DamageInfoType_Explosion_WASP_Hornets",
+                            "damage_type": 334
+                        },
+                        "expltype": 69,
+                        "expltype_name": "EXPLOSION_TYPE_069"
+                    },
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_40mm_HE"
+                }
+            }
+        },
+        "name": "SupportWeaponType_WASPLauncher"
+    },
+    "12220563120145251703": {
+        "name": "DeployableType_GasMinefield"
+    },
+    "12566139334605762628": {
+        "name": "BotEnemyType_Devastator"
+    },
+    "10844335154607830587": {
+        "name": "SupportBackpackType_BallisticShield"
+    },
+    "13722729806569931406": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_5x23mm_fmj",
+                "ptype": 290,
+                "ptype_data": {
+                    "name_cased": 4038656685,
+                    "name_upper": 3934494020,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_5x23mm_fmj"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_M7SSMG"
+    },
+    "1353568197974522460": {
+        "name": "SupportBackpackType_PersonalBubbleShield"
+    },
+    "10717884433990741653": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_SMG_Rhino",
+                "ptype": 104,
+                "ptype_data": {
+                    "name_cased": 1514994279,
+                    "name_upper": 661457705,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "12x25mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_SMG_Rhino",
+                    "name_upper_str": "12x25mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Reprimand"
+    },
+    "421324886246020354": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Plasma_Punisher_Projectile",
+                "ptype": 45,
+                "ptype_data": {
+                    "name_cased": 4251523721,
+                    "name_upper": 3783536724,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 4.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 3.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.2999999523163,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Plasma_Punisher",
+                            "damage_type": 263
+                        },
+                        "expltype": 236,
+                        "expltype_name": "ExplosionType_Plasma_Punisher"
+                    },
+                    "name_cased_str": "Large Plasma Bolt",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Plasma_Punisher",
+                    "name_upper_str": "LARGE PLASMA BOLT"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_PlasmaPunisher"
+    },
+    "1573296579562737333": {
+        "name": "SupportWeaponType_LightMachineGun"
+    },
+    "5601762105466289171": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_7p62x51mm_fmj",
+                "ptype": 100,
+                "ptype_data": {
+                    "name_cased": 792299657,
+                    "name_upper": 2312898929,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_7p62x51mm_fmj"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_AssaultRifleMA5C"
+    },
+    "3865797767236207742": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Laser_Pulse",
+                "ptype": 113,
+                "ptype_data": {
+                    "name_cased": 4024075326,
+                    "name_upper": 2574980224,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 6.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 3.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.5,
+                            "damage_type_name": "DamageInfoType_Explosion_Laser_Pulse",
+                            "damage_type": 326
+                        },
+                        "expltype": 53,
+                        "expltype_name": "ExplosionType_Laser_Pulse"
+                    },
+                    "name_cased_str": "Laser",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Laser_Pulse",
+                    "name_upper_str": "LASER"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_QuasarPulseCannon"
+    },
+    "3358853937828503136": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Railgun",
+                "ptype": 161,
+                "ptype_data": {
+                    "name_cased": 1110476060,
+                    "name_upper": 3597164050,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "Railgun Round",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Railgun",
+                    "name_upper_str": "RAILGUN ROUND"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_Railgun"
+    },
+    "11493422068836852751": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_85mm_HEAT",
+                "ptype": 131,
+                "ptype_data": {
+                    "name_cased": 2358467843,
+                    "name_upper": 4104815779,
+                    "short_name": 624817623,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 6.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 3.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.5,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HEAT",
+                            "damage_type": 323
+                        },
+                        "expltype": 197,
+                        "expltype_name": "ExplosionType_Grenade_85mm_HEAT"
+                    },
+                    "name_cased_str": "85mm HEAT Grenade",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_85mm_HEAT",
+                    "short_name_str": "HEAT",
+                    "name_upper_str": "85mm HEAT GRENADE"
+                }
+            },
+            "wpn_projcte_type": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_85mm_HE",
+                "ptype": 30,
+                "ptype_data": {
+                    "name_cased": 3406929005,
+                    "name_upper": 3584258719,
+                    "short_name": 1226894239,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 12.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 7.5,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 3.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HE",
+                            "damage_type": 351
+                        },
+                        "expltype": 239,
+                        "expltype_name": "ExplosionType_Grenade_85mm_HE"
+                    },
+                    "name_cased_str": "85mm High-Explosive Grenade",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_85mm_HE",
+                    "short_name_str": "HE",
+                    "name_upper_str": "85mm HIGH-EXPLOSIVE GRENADE"
+                }
+            }
+        },
+        "name": "SupportWeaponType_RecoillesRifle"
+    },
+    "3109983482551492476": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_Bushwhacker"
+    },
+    "9264801226655597011": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_75mm_HEAT",
+                "ptype": 112,
+                "ptype_data": {
+                    "name_cased": 188540169,
+                    "name_upper": 1271169426,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 6.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 3.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.5,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_75mm_HEAT",
+                            "damage_type": 324
+                        },
+                        "expltype": 304,
+                        "expltype_name": "ExplosionType_Grenade_75mm_HEAT"
+                    },
+                    "name_cased_str": "75mm HEAT Grenade",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_75mm_HEAT",
+                    "name_upper_str": "75mm HEAT GRENADE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_ExpendableAntiTank"
+    },
+    "9675404802175538082": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Laser_Long",
+                "ptype": 129,
+                "ptype_data": {
+                    "name_cased": 4024075326,
+                    "name_upper": 2574980224,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "Laser",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Laser_Long",
+                    "name_upper_str": "LASER"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Sickle"
+    },
+    "17983663411446975103": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_9x20mm_hp_MK2",
+                "ptype": 76,
+                "ptype_data": {
+                    "name_cased": 4085243531,
+                    "name_upper": 4169612205,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_9x20mm_hp_MK2"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_VariableShotgun"
+    },
+    "9291384900638350902": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rocket_15x100mm_std",
+                "ptype": 153,
+                "ptype_data": {
+                    "name_cased": 540790024,
+                    "name_upper": 506441583,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "15x100mm Standard Rocket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rocket_15x100mm_std",
+                    "name_upper_str": "15x100mm STANDARD ROCKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Dominator"
+    },
+    "2980234130573201393": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Laser_Long",
+                "ptype": 129,
+                "ptype_data": {
+                    "name_cased": 4024075326,
+                    "name_upper": 2574980224,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "Laser",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Laser_Long",
+                    "name_upper_str": "LASER"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_DoubleEdgeSickle"
+    },
+    "14840077516977962372": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_5p5x50mm_fmj",
+                "ptype": 237,
+                "ptype_data": {
+                    "name_cased": 575503280,
+                    "name_upper": 3312133772,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "5.5x50mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_5p5x50mm_fmj",
+                    "name_upper_str": "5.5x50mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_StA52"
+    },
+    "13198259103089806061": {
+        "name": "SupportBackpackType_GuardDogGas"
+    },
+    "10871626090290489728": {
+        "name": "SupportBackpackType_RecoillessRifleBackpack"
+    },
+    "6829725667368330959": {
+        "name": "SupportBackpackType_Hoverppack"
+    },
+    "13632525282499700070": {
+        "name": "PickupType_RareSample"
+    },
+    "8896268509512551590": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Constitution"
+    },
+    "1456507421651509424": {
+        "name": "ThrowableType_Dynamite"
+    },
+    "5573423824998200517": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_12p7x40mm_saphe",
+                "ptype": 264,
+                "ptype_data": {
+                    "name_cased": 2278371449,
+                    "name_upper": 1667906393,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_12p7x40mm_saphe"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_SOCOMPistol"
+    },
+    "10930013077329100956": {
+        "name": "PickupType_GrenadeStack"
+    },
+    "10871298989420119782": {
+        "name": "SupportWeaponType_ArcThrower"
+    },
+    "1051445694670701817": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_12p5x100mm_fmj",
+                "ptype": 67,
+                "ptype_data": {
+                    "name_cased": 3242636709,
+                    "name_upper": 422101497,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "12.5mm Standard Rifle Rounds",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_12p5x100mm_fmj",
+                    "name_upper_str": "12.5mm STANDARD RIFLE ROUNDS"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "DeployableType_HeavyMachineGunEmplacement"
+    },
+    "14942687850090605537": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_5p5x50mm_exp",
+                "ptype": 266,
+                "ptype_data": {
+                    "name_cased": 845341741,
+                    "name_upper": 2328689947,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "5.5x50mm Explosive",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_5p5x50mm_exp",
+                    "name_upper_str": "5.5x50mm EXPLOSIVE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_LiberatorConcussive"
+    },
+    "15304220425359002535": {
+        "name": "PickupType_CommonSample"
+    },
+    "5050852199397921576": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Shotgun_12g_buc",
+                "ptype": 155,
+                "ptype_data": {
+                    "name_cased": 1037303660,
+                    "name_upper": 2407297704,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "12g Buckshot",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Shotgun_12g_buc",
+                    "name_upper_str": "12g BUCKSHOT"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_StandardBreaker"
+    },
+    "7715225218085078398": {
+        "name": "ThrowableType_HighExplosiveGrenade"
+    },
+    "8074555013069095359": {
+        "name": "PickupType_CommonSample"
+    },
+    "2047310211000472840": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cyborg_Rifle",
+                "ptype": 50,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_CyborgRifle"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BotEnemyType_FactoryStriderGatlingGun"
+    },
+    "9869105320050739364": {
+        "name": "SupportWeaponType_Sterilizer"
+    },
+    "281046277510948131": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_9x70mm_fmj",
+                "ptype": 262,
+                "ptype_data": {
+                    "name_cased": 1738034047,
+                    "name_upper": 4182010729,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "9x70mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_9x70mm_fmj",
+                    "name_upper_str": "9x70mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_StandardDiligence"
+    },
+    "4021120973472933563": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_8x60mm_fmj",
+                "ptype": 128,
+                "ptype_data": {
+                    "name_cased": 3339839144,
+                    "name_upper": 1070874442,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "8x60mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_8x60mm_fmj",
+                    "name_upper_str": "8x60mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "DeployableType_MachineGunSentry"
+    },
+    "578623101395158887": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_12x25mm_stun",
+                "ptype": 135,
+                "ptype_data": {
+                    "name_cased": 1834364900,
+                    "name_upper": 4185180471,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_12x25mm_stun"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Pummeler"
+    },
+    "5510267968365085927": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_9x70mm_hv",
+                "ptype": 208,
+                "ptype_data": {
+                    "name_cased": 2756506409,
+                    "name_upper": 2694217352,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "9x70mm High Velocity",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_9x70mm_hv",
+                    "name_upper_str": "9x70mm HIGH VELOCITY"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_CounterSniperDiligence"
+    },
+    "13723659040410201638": {
+        "name": "BotEnemyType_Devastator"
+    },
+    "10438714418406872918": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Shotgun_8g_mag",
+                "ptype": 49,
+                "ptype_data": {
+                    "name_cased": 3127548814,
+                    "name_upper": 2169962031,
+                    "short_name": 3676528842,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "short_name_str": "BUCKSHOT",
+                    "damage_info_type_name": "DamageInfoType_Projectile_Shotgun_8g_mag"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_M90AShotgun"
+    },
+    "424716889947522210": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_Peacemaker"
+    },
+    "2714034314705433838": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Missile_Faf",
+                "ptype": 194,
+                "ptype_data": {
+                    "name_cased": 3841488347,
+                    "name_upper": 206775492,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 6.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 3.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.5,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Missile_Faf",
+                            "damage_type": 335
+                        },
+                        "expltype": 246,
+                        "expltype_name": "ExplosionType_FafMissile"
+                    },
+                    "name_cased_str": "Homing Ground Missile",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Missile_Faf",
+                    "name_upper_str": "HOMING GROUND MISSILE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_SpearLauncher"
+    },
+    "9526594500243002157": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_Coyote",
+                "ptype": 118,
+                "ptype_data": {
+                    "name_cased": 498165000,
+                    "name_upper": 820182844,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_Coyote"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Coyote"
+    },
+    "5634296840427219794": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_HaltShotgun"
+    },
+    "14954542309183038509": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_Warrant",
+                "ptype": 278,
+                "ptype_data": {
+                    "name_cased": 148357255,
+                    "name_upper": 2980005877,
+                    "short_name": 4044635637,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_Warrant"
+                }
+            },
+            "wpn_projcte_type": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "PROJ_TYPE_273",
+                "ptype": 273,
+                "ptype_data": {
+                    "name_cased": 148357255,
+                    "name_upper": 2980005877,
+                    "short_name": 3978283398,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_Warrant"
+                }
+            }
+        },
+        "name": "SecondaryWeaponType_Warrant"
+    },
+    "7323248696802770694": {
+        "name": "PrimaryWeaponType_BugbiterBreaker"
+    },
+    "17297258079668724512": {
+        "name": "DeployableType_AntiPersonnelMinefield"
+    },
+    "8783342891467425251": {
+        "name": "VehicleType_PatriotExosuit"
+    },
+    "15382378127438146468": {
+        "name": "BotEnemyType_Berserker"
+    },
+    "12164217308285983839": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cannon_20mm_APHET",
+                "ptype": 96,
+                "ptype_data": {
+                    "name_cased": 304247992,
+                    "name_upper": 3919538924,
+                    "short_name": 3601603271,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 5.5,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 4.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "ProjectileType_Shrapnel",
+                                "ptype": 174,
+                                "ptype_data": {
+                                    "name_cased": 1800791385,
+                                    "name_upper": 1730845486,
+                                    "short_name": 4056765033,
+                                    "explosion_type_impact": 0,
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "Shrapnel",
+                                    "explosion_type_expire": 0,
+                                    "damage_info_type_name": "DamageInfoType_Projectile_Shrapnel",
+                                    "name_upper_str": "SHRAPNEL"
+                                }
+                            },
+                            "inner_radius": 2.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Cannon_20mm_APHET",
+                            "damage_type": 314
+                        },
+                        "expltype": 327,
+                        "expltype_name": "ExplosionType_APHET_20mm"
+                    },
+                    "name_cased_str": "20mm APHET Rounds",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Cannon_20mm_APHET",
+                    "short_name_str": "APHET",
+                    "name_upper_str": "20mm APHET ROUNDS"
+                }
+            },
+            "wpn_projcte_type": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cannon_20mm_Flak",
+                "ptype": 245,
+                "ptype_data": {
+                    "name_cased": 1957494835,
+                    "name_upper": 3558706970,
+                    "short_name": 1420309294,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 8.0,
+                            "num_shrapnel_proj": 30,
+                            "outer_radius": 7.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "ProjectileType_Shrapnel",
+                                "ptype": 174,
+                                "ptype_data": {
+                                    "name_cased": 1800791385,
+                                    "name_upper": 1730845486,
+                                    "short_name": 4056765033,
+                                    "explosion_type_impact": 0,
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "Shrapnel",
+                                    "explosion_type_expire": 0,
+                                    "damage_info_type_name": "DamageInfoType_Projectile_Shrapnel",
+                                    "name_upper_str": "SHRAPNEL"
+                                }
+                            },
+                            "inner_radius": 2.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Cannon_20mm_Flak",
+                            "damage_type": 296
+                        },
+                        "expltype": 308,
+                        "expltype_name": "ExplosionType_Flak_20mm"
+                    },
+                    "name_cased_str": "20mm Flak Rounds",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Cannon_20mm_Flak",
+                    "short_name_str": "FLAK",
+                    "name_upper_str": "20mm FLAK ROUNDS"
+                }
+            }
+        },
+        "name": "SupportWeaponType_Autocannon"
+    },
+    "2190700087544369166": {
+        "name": "BotEnemyType_HulkObliterator"
+    },
+    "535319041333920260": {
+        "name": "PrimaryWeaponType_ArcShotgun"
+    },
+    "5972955417680186543": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_40mm_HEAT",
+                "ptype": 69,
+                "ptype_data": {
+                    "name_cased": 4130282705,
+                    "name_upper": 3647277445,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 8.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 6.5,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.25,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_40mm_HE",
+                            "damage_type": 318
+                        },
+                        "expltype": 158,
+                        "expltype_name": "ExplosionType_Grenade_40mm_HE_MK2"
+                    },
+                    "name_cased_str": "40mm HEAT Grenade",
+                    "explosion_type_expire": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 8.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 6.5,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.25,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_40mm_HE",
+                            "damage_type": 318
+                        },
+                        "expltype": 158,
+                        "expltype_name": "ExplosionType_Grenade_40mm_HE_MK2"
+                    },
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_40mm_HEAT",
+                    "name_upper_str": "40mm HEAT GRENADE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_GrenadePistol"
+    },
+    "530045626612387909": {
+        "name": "ThrowableType_PineappleGrenade"
+    },
+    "10861016308832836833": {
+        "name": "BotEnemyType_Hulk"
+    },
+    "4580928717960105129": {
+        "name": "SecondaryWeaponType_Crisper"
+    },
+    "15214248472323070124": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Cookout"
+    },
+    "4459198455771523223": {
+        "name": "PickupType_BlackBox"
+    },
+    "12653822188347841538": {
+        "name": "SupportBackpackType_GuardDogRover"
+    },
+    "16634382492500136054": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_LeverRifle_Deadeye",
+                "ptype": 257,
+                "ptype_data": {
+                    "name_cased": 3643329541,
+                    "name_upper": 3128377310,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_LeverRifle_Deadeye"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Deadeye"
+    },
+    "6234346553392955601": {
+        "name": "PickupType_ICBMLaunchCodes"
+    },
+    "3460488074252222302": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_PlasmaSniper",
+                "ptype": 133,
+                "ptype_data": {
+                    "name_cased": 3092989428,
+                    "name_upper": 1981652822,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 2.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 2.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.0,
+                            "damage_type_name": "DamageInfoType_Explosion_PlasmaSniper",
+                            "damage_type": 261
+                        },
+                        "expltype": 335,
+                        "expltype_name": "ExplosionType_PlasmaSniper"
+                    },
+                    "name_cased_str": "Medium Plasma Bolt",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_PlasmaSniper",
+                    "name_upper_str": "MEDIUM PLASMA BOLT"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_PlasmaSniper"
+    },
+    "12984499893943104780": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_5p5x50mm_fmj",
+                "ptype": 237,
+                "ptype_data": {
+                    "name_cased": 575503280,
+                    "name_upper": 3312133772,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "5.5x50mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_5p5x50mm_fmj",
+                    "name_upper_str": "5.5x50mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_LightMachineGun"
+    },
+    "5742363029208942635": {
+        "name": "PrimaryWeaponType_Torcher"
+    },
+    "2712008117028049500": {
+        "name": "DeployableType_AntiTankMinefield"
+    },
+    "8383906277678357886": {
+        "name": "DeployableType_TeslaTower"
+    },
+    "8731737688384722662": {
+        "name": "MeleeWeaponType_Machete"
+    },
+    "6766936627846269706": {
+        "name": "ThrowableType_SmokeGrenade"
+    },
+    "1892480894983787169": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_Magnum",
+                "ptype": 12,
+                "ptype_data": {
+                    "name_cased": 1514994279,
+                    "name_upper": 661457705,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "12x25mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_Magnum",
+                    "name_upper_str": "12x25mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_Verdict"
+    },
+    "17083241647592728848": {
+        "name": "DeployableType_TeamShield"
+    },
+    "12100643055971655455": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_5p5x50mm_fmj",
+                "ptype": 237,
+                "ptype_data": {
+                    "name_cased": 575503280,
+                    "name_upper": 3312133772,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "5.5x50mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_5p5x50mm_fmj",
+                    "name_upper_str": "5.5x50mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_LiberatorCarbine"
+    },
+    "1155202780614770422": {
+        "name": "BugEnemyType_BileWarrior"
+    },
+    "12219229778730713472": {
+        "name": "PickupType_SampleFlask"
+    },
+    "13340847352459495240": {
+        "name": "BotEnemyType_HeavyDevastator"
+    },
+    "8261922003134896957": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Scavenger_AcidBall",
+                "ptype": 296,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Scavenger_AcidBall"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BugEnemyType_BileSpitter"
+    },
+    "16121421951002036444": {
+        "name": "BugEnemyType_ScavengerV4"
+    },
+    "1117846648694268261": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_Amendment",
+                "ptype": 279,
+                "ptype_data": {
+                    "name_cased": 2896311735,
+                    "name_upper": 1289088543,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_Amendment"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Amendment"
+    },
+    "5725374950499373869": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Slugger"
+    },
+    "12279528435724053588": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Plasma_Bolt_Small",
+                "ptype": 147,
+                "ptype_data": {
+                    "name_cased": 2445569551,
+                    "name_upper": 3675628564,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 2.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 1.5,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 0.75,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Small",
+                            "damage_type": 257
+                        },
+                        "expltype": 288,
+                        "expltype_name": "ExplosionType_Plasma_Bolt_Small"
+                    },
+                    "name_cased_str": "Small Plasma Bolt",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Plasma_Bolt",
+                    "name_upper_str": "SMALL PLASMA BOLT"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_Loyalist"
+    },
+    "10573539759497526597": {
+        "name": "PickupType_CommonSample"
+    },
+    "12943291850073424771": {
+        "name": "PickupType_CommonSample"
+    },
+    "9927421484392399367": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_12p5x100mm_eit",
+                "ptype": 195,
+                "ptype_data": {
+                    "name_cased": 2736882039,
+                    "name_upper": 2922379565,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "12.5mm EIT Rounds",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_12p5x100mm_eit",
+                    "name_upper_str": "12.5mm EIT ROUNDS"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_AntiMaterielRifle"
+    },
+    "2404044106251363533": {
+        "name": "BotEnemyType_Commissar"
+    },
+    "5504262545937421089": {
+        "name": "PickupType_CommonSample"
+    },
+    "8039414067817307766": {
+        "name": "BugEnemyType_BileSpewerV3"
+    },
+    "18102809172282470538": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Plasma_Rifle_Charge",
+                "ptype": 255,
+                "ptype_data": {
+                    "name_cased": 4251523721,
+                    "name_upper": 3783536724,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 4.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 3.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.9000000953674,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Plasma_Rifle_Charge",
+                            "damage_type": 265
+                        },
+                        "expltype": 151,
+                        "expltype_name": "ExplosionType_Plasma_Rifle_Charge"
+                    },
+                    "name_cased_str": "Large Plasma Bolt",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Plasma_Rifle_Charge",
+                    "name_upper_str": "LARGE PLASMA BOLT"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Purifier"
+    },
+    "16068287307180393021": {
+        "name": "PickupType_RareSample"
+    },
+    "5771061903247604588": {
+        "name": "PickupType_CommonSample"
+    },
+    "9333151595628803334": {
+        "name": "PickupType_SuperCredits"
+    },
+    "1962385103464102102": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cannon_Eagle_23mm",
+                "ptype": 13,
+                "ptype_data": {
+                    "name_cased": 2708477764,
+                    "name_upper": 3818318720,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 6.5,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 5.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.5,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Cannon_Eagle_23mm",
+                            "damage_type": 312
+                        },
+                        "expltype": 42,
+                        "expltype_name": "ExplosionType_Cannon_23mm_strafe"
+                    },
+                    "name_cased_str": "23mm HE Cannon",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Cannon_Eagle_23mm",
+                    "name_upper_str": "23mm HE CANNON"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "OrbitalBombardmentType_GasStrike"
+    },
+    "7256596000532615782": {
+        "name": "PickupType_CommonSample"
+    },
+    "2877271129141764950": {
+        "name": "PrimaryWeaponType_Scythe"
+    },
+    "14249494547947571097": {
+        "name": "ThrowableType_ThermiteGrenade"
+    },
+    "11435027044679925718": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_UltimatumGrenadePistol",
+                "ptype": 85,
+                "ptype_data": {
+                    "name_cased": 3829521136,
+                    "name_upper": 498741318,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 25.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 12.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.0,
+                            "damage_type_name": "DamageInfoType_Explosion_UltimatumGrenadePistol",
+                            "damage_type": 237
+                        },
+                        "expltype": 276,
+                        "expltype_name": "ExplosionType_UltimatumGrenadePistol"
+                    },
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_UltimatumGrenadePistol"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_Ultimatum"
+    },
+    "3124708172057168516": {
+        "name": "PickupType_BugMutatedEgg"
+    },
+    "13741222368367787890": {
+        "name": "PickupType_CommonSample"
+    },
+    "2401215835282261016": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_12p5x100mm_bchp",
+                "ptype": 236,
+                "ptype_data": {
+                    "name_cased": 1993141852,
+                    "name_upper": 1967142512,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "12.5mm BCHP Rifle Rounds",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_12p5x100mm_bchp",
+                    "name_upper_str": "12.5mm BCHP RIFLE ROUNDS"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_HeavyMachineGun"
+    },
+    "16777584932715761236": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Plasma_Launcher_Charge_Small",
+                "ptype": 142,
+                "ptype_data": {
+                    "name_cased": 4251523721,
+                    "name_upper": 3783536724,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 4.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 3.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.2999999523163,
+                            "damage_type_name": "DamageInfoType_Explosion_Plasma_Launcher_Charge_Small",
+                            "damage_type": 47
+                        },
+                        "expltype": 180,
+                        "expltype_name": "ExplosionType_Plasma_Launcher_Charge_Small"
+                    },
+                    "name_cased_str": "Large Plasma Bolt",
+                    "explosion_type_expire": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 4.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 3.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 2.2999999523163,
+                            "damage_type_name": "DamageInfoType_Explosion_Plasma_Launcher_Charge_Small",
+                            "damage_type": 47
+                        },
+                        "expltype": 180,
+                        "expltype_name": "ExplosionType_Plasma_Launcher_Charge_Small"
+                    },
+                    "damage_info_type_name": "DamageInfoType_Projectile_Plasma_Launcher_Charge_Small",
+                    "name_upper_str": "LARGE PLASMA BOLT"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_EpochPlasmaLauncher"
+    },
+    "17259437333005147504": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_8x60mm_fmj",
+                "ptype": 128,
+                "ptype_data": {
+                    "name_cased": 3339839144,
+                    "name_upper": 1070874442,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "8x60mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_8x60mm_fmj",
+                    "name_upper_str": "8x60mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "DeployableType_GatlingSentry"
+    },
+    "14709257759554793401": {
+        "name": "VehicleType_FRV"
+    },
+    "11333649286886241306": {
+        "name": "PickupType_SuperSample"
+    },
+    "13918995818598980231": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Shotgun_12g_flm",
+                "ptype": 269,
+                "ptype_data": {
+                    "name_cased": 3317762411,
+                    "name_upper": 3870342324,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "12g Liberty Fire",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Shotgun_12g_flm",
+                    "name_upper_str": "12g LIBERTY FIRE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_IncendiaryBreaker"
+    },
+    "1403303179954968823": {
+        "name": "BotEnemyType_HulkBruiser"
+    },
+    "1476012537193590664": {
+        "name": "PickupType_Medal"
+    },
+    "16965724150372546684": {
+        "name": "ThrowableType_IncendiaryImpactGrenade"
+    },
+    "10177381595962512386": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_Senator"
+    },
+    "5450511615252257986": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_9x20mm_smj",
+                "ptype": 185,
+                "ptype_data": {
+                    "name_cased": 4121854553,
+                    "name_upper": 2276577553,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "9x20mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_9x20mm_smj",
+                    "name_upper_str": "9x20mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_StA11"
+    },
+    "3258790968645519416": {
+        "name": "ThrowableType_SeekerGrenade"
+    },
+    "5641428405267160100": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_12x25mm_fmj",
+                "ptype": 2,
+                "ptype_data": {
+                    "name_cased": 1514994279,
+                    "name_upper": 661457705,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "12x25mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_12x25mm_fmj",
+                    "name_upper_str": "12x25mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Defender"
+    },
+    "13650214626151558605": {
+        "name": "PickupType_CreditCard"
+    },
+    "316723890334202692": {
+        "name": "ThrowableType_IncendiaryGrenade"
+    },
+    "10768610637301609307": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Pistol_9x20mm_smj",
+                "ptype": 185,
+                "ptype_data": {
+                    "name_cased": 4121854553,
+                    "name_upper": 2276577553,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "9x20mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Pistol_9x20mm_smj",
+                    "name_upper_str": "9x20mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Knight"
+    },
+    "4885016034561106550": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_5p5x50mm_ap",
+                "ptype": 5,
+                "ptype_data": {
+                    "name_cased": 1535909110,
+                    "name_upper": 424697282,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "5.5x50mm Penetrator",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_5p5x50mm_ap",
+                    "name_upper_str": "5.5x50mm PENETRATOR"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_LiberatorPenetrator"
+    },
+    "16496326307674548889": {
+        "name": "PickupType_CommonSample"
+    },
+    "12877445900026273694": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_75mm_IE",
+                "ptype": 224,
+                "ptype_data": {
+                    "name_cased": 580371213,
+                    "name_upper": 3236201512,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 10.0,
+                            "num_shrapnel_proj": 20,
+                            "outer_radius": 8.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "ProjectileType_Grenade_85mm_IE_Cluster",
+                                "ptype": 193,
+                                "ptype_data": {
+                                    "name_cased": 1957494835,
+                                    "name_upper": 3558706970,
+                                    "short_name": 1420309294,
+                                    "explosion_type_impact": {
+                                        "_headers": [
+                                            "expltype",
+                                            "expltype_name",
+                                            "expltype_data"
+                                        ],
+                                        "expltype_data": {
+                                            "_headers": [
+                                                "damage_type",
+                                                "damage_type_name",
+                                                "num_shrapnel_proj",
+                                                "shrapnel_projtype"
+                                            ],
+                                            "stagger_radius": 5.0,
+                                            "num_shrapnel_proj": 0,
+                                            "outer_radius": 5.0,
+                                            "shrapnel_projtype": {
+                                                "_headers": [
+                                                    "ptype",
+                                                    "ptype_name",
+                                                    "ptype_data"
+                                                ],
+                                                "ptype_name": "ProjectileType_Grenade_85mm_IE_Cluster",
+                                                "ptype": 193,
+                                                "ptype_data": {
+                                                    "name_cased": 1957494835,
+                                                    "name_upper": 3558706970,
+                                                    "short_name": 1420309294,
+                                                    "explosion_type_impact": "loop error",
+                                                    "_headers": [
+                                                        "name_upper",
+                                                        "name_upper_str",
+                                                        "name_cased",
+                                                        "name_cased_str",
+                                                        "short_name",
+                                                        "short_name_str",
+                                                        "damage_info_type",
+                                                        "damage_info_type_name",
+                                                        "explosion_type_impact",
+                                                        "explosion_type_expire"
+                                                    ],
+                                                    "name_cased_str": "20mm Flak Rounds",
+                                                    "explosion_type_expire": 0,
+                                                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_85mm_IE_Cluster",
+                                                    "short_name_str": "FLAK",
+                                                    "name_upper_str": "20mm FLAK ROUNDS"
+                                                }
+                                            },
+                                            "inner_radius": 1.6000000238419,
+                                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_85mm_IE_Cluster",
+                                            "damage_type": 232
+                                        },
+                                        "expltype": 21,
+                                        "expltype_name": "ExplosionType_Grenade_85mm_IE_Cluster"
+                                    },
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "20mm Flak Rounds",
+                                    "explosion_type_expire": 0,
+                                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_85mm_IE_Cluster",
+                                    "short_name_str": "FLAK",
+                                    "name_upper_str": "20mm FLAK ROUNDS"
+                                }
+                            },
+                            "inner_radius": 1.6000000238419,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_75mm_IE",
+                            "damage_type": 268
+                        },
+                        "expltype": 257,
+                        "expltype_name": "ExplosionType_Grenade_75mm_IE"
+                    },
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_75mm_IE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_ExpendableNapalmLauncher"
+    },
+    "17622196031515135370": {
+        "name": "PickupType_ICBMLaunchCodes"
+    },
+    "14038927220542196401": {
+        "name": "VehicleType_EmancipatorExosuit"
+    },
+    "8864800879179811976": {
+        "name": "SecondaryWeaponType_Dagger"
+    },
+    "3397257356679758881": {
+        "name": "OrbitalBombardmentType_GatlingBarrage"
+    },
+    "11631307996670093680": {
+        "name": "OrbitalBombardmentType_OrbitalNapalmBarrage"
+    },
+    "10845250369047350884": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_5p5x50mm_fmj",
+                "ptype": 237,
+                "ptype_data": {
+                    "name_cased": 575503280,
+                    "name_upper": 3312133772,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "5.5x50mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_5p5x50mm_fmj",
+                    "name_upper_str": "5.5x50mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_StandardLiberator"
+    },
+    "3259427501513118129": {
+        "name": "OrbitalBombardmentType_Orbital120mmBarrage"
+    },
+    "9219146911950674287": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_8x60mm_fmj",
+                "ptype": 128,
+                "ptype_data": {
+                    "name_cased": 3339839144,
+                    "name_upper": 1070874442,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "8x60mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_8x60mm_fmj",
+                    "name_upper_str": "8x60mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "DeployableType_GatlingSentry"
+    },
+    "15821755148612569419": {
+        "name": "ThrowableType_ArcGrenade"
+    },
+    "36176771630602099": {
+        "name": "ThrowableType_StunGrenade"
+    },
+    "17848709375785648310": {
+        "name": "ThrowableType_ThrowingKnife"
+    },
+    "6116178405309884875": {
+        "name": "BotEnemyType_Berserker"
+    },
+    "15369542005276747891": {
+        "name": "SupportWeaponType_LaserCannon"
+    },
+    "14278331370456096813": {
+        "name": "BotEnemyType_Devastator"
+    },
+    "1279722939363854678": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rifle_8x60mm_fmj",
+                "ptype": 128,
+                "ptype_data": {
+                    "name_cased": 3339839144,
+                    "name_upper": 1070874442,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "8x60mm Full Metal Jacket",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rifle_8x60mm_fmj",
+                    "name_upper_str": "8x60mm FULL METAL JACKET"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_MachineGun"
+    },
+    "5542218890398374779": {
+        "name": "ThrowableType_FragGrenade"
+    },
+    "284602740380634958": {
+        "name": "ThrowableType_PyrotechGrenade"
+    },
+    "11398074038506794973": {
+        "name": "BugEnemyType_BileTitan"
+    },
+    "12827722989328478091": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_Mortar_40mm_Staticfield",
+                "ptype": 132,
+                "ptype_data": {
+                    "name_cased": 1650235156,
+                    "name_upper": 1039435686,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 3.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 2.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Prop_Medium",
+                            "damage_type": 305
+                        },
+                        "expltype": 118,
+                        "expltype_name": "ExplosionType_StaticField_Sentry"
+                    },
+                    "explosion_type_expire": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 12.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 10.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_OrbitalStun",
+                            "damage_type": 378
+                        },
+                        "expltype": 143,
+                        "expltype_name": "ExplosionType_Grenade_Mortar_40mm_Staticfield"
+                    },
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_40mm_HE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "DeployableType_EMSMortarSentry"
+    },
+    "3939129929398354246": {
+        "name": "BugEnemyType_BileSpewerV1"
+    },
+    "14748816422034837943": {
+        "name": "BugEnemyType_BileSpewerV4"
+    },
+    "10371974906799355538": {
+        "name": "BugEnemyType_ScavengerV1"
+    },
+    "11135777548304851724": {
+        "name": "BugEnemyType_ScavengerV2"
+    },
+    "8536986223483970266": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Bug_Artillery",
+                "ptype": 292,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 14.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 8.0,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 1.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_BugArtillery",
+                            "damage_type": 392
+                        },
+                        "expltype": 5,
+                        "expltype_name": "ExplosionType_Bug_Artillery"
+                    },
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Bug_Artillery"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BugEnemyType_BileSpewerV2"
+    },
+    "4587284938949573643": {
+        "name": "ThrowableType_UrchinThermiteGrenade"
+    },
+    "5903841343181520462": {
+        "name": "BugEnemyType_ScavengerV3"
+    },
+    "294590291936179579": {
+        "name": "ThrowableType_GasGrenade"
+    },
+    "17756861745706792858": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cyborg_LightRocket",
+                "ptype": 213,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 3.1500000953674,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 1.6499999761581,
+                            "shrapnel_projtype": 0,
+                            "inner_radius": 0.64999997615814,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_CyborgLightRocket",
+                            "damage_type": 357
+                        },
+                        "expltype": 72,
+                        "expltype_name": "ExplosionType_Cyborg_Projectile_LightRocket"
+                    },
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_CyborgLightRocket"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BotEnemyType_RocketDevastator"
+    },
+    "13012964727571811944": {
+        "name": "SupportBackpackType_Warppack"
+    },
+    "4749824949454633632": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Punisher"
+    },
+    "3660840294738278623": {
+        "name": "BotEnemyType_HulkBruiser"
+    },
+    "6826025955225526457": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Shotgun_12g_bir",
+                "ptype": 150,
+                "ptype_data": {
+                    "name_cased": 4189160103,
+                    "name_upper": 3500789039,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "name_cased_str": "12g Birdshot",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Shotgun_12g_bir",
+                    "name_upper_str": "12g BIRDSHOT"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_SprayAndPrayBreaker"
+    },
+    "5881843148917714292": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Grenade_Mortar_40mm_HE",
+                "ptype": 294,
+                "ptype_data": {
+                    "name_cased": 2679866361,
+                    "name_upper": 900451699,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 13.0,
+                            "num_shrapnel_proj": 0,
+                            "outer_radius": 9.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "ProjectileType_Shrapnel",
+                                "ptype": 174,
+                                "ptype_data": {
+                                    "name_cased": 1800791385,
+                                    "name_upper": 1730845486,
+                                    "short_name": 4056765033,
+                                    "explosion_type_impact": 0,
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "Shrapnel",
+                                    "explosion_type_expire": 0,
+                                    "damage_info_type_name": "DamageInfoType_Projectile_Shrapnel",
+                                    "name_upper_str": "SHRAPNEL"
+                                }
+                            },
+                            "inner_radius": 3.0,
+                            "damage_type_name": "DamageInfoType_Explosion_Projectile_Grenade_Mortar_40mm_HE",
+                            "damage_type": 321
+                        },
+                        "expltype": 292,
+                        "expltype_name": "ExplosionType_Grenade_Mortar_40mm_HE"
+                    },
+                    "name_cased_str": "40mm HE Mortar",
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_Grenade_40mm_HE",
+                    "name_upper_str": "40mm HE MORTAR"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "DeployableType_MortarSentry"
+    },
+    "7672538193198738711": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cyborg_Rifle",
+                "ptype": 50,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_CyborgRifle"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BotEnemyType_FactoryStriderGatlingGun"
+    },
+    "15239773297738004195": {
+        "name": "BotEnemyType_FactoryStrider"
+    },
+    "4155583896232633279": {
+        "name": "SupportWeaponType_Flamethrower"
+    },
+    "14347356236094671771": {
+        "name": "PickupType_BotConfidentialData"
+    },
+    "17921415124075533547": {
+        "name": "BotEnemyType_HeavyDevastator"
+    },
+    "13164006426448262783": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Rocket_JarPhoenix_20mm",
+                "ptype": 32,
+                "ptype_data": {
+                    "name_cased": 2281763433,
+                    "name_upper": 157117576,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 8.0,
+                            "num_shrapnel_proj": 30,
+                            "outer_radius": 7.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "ProjectileType_Shrapnel",
+                                "ptype": 174,
+                                "ptype_data": {
+                                    "name_cased": 1800791385,
+                                    "name_upper": 1730845486,
+                                    "short_name": 4056765033,
+                                    "explosion_type_impact": 0,
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "Shrapnel",
+                                    "explosion_type_expire": 0,
+                                    "damage_info_type_name": "DamageInfoType_Projectile_Shrapnel",
+                                    "name_upper_str": "SHRAPNEL"
+                                }
+                            },
+                            "inner_radius": 4.0,
+                            "damage_type_name": "DamageInfoType_Explosion_JarPhoenix_20mm",
+                            "damage_type": 297
+                        },
+                        "expltype": 125,
+                        "expltype_name": "ExplosionType_JarPhoenix_20mm"
+                    },
+                    "name_cased_str": "15x100mm High Explosive",
+                    "explosion_type_expire": {
+                        "_headers": [
+                            "expltype",
+                            "expltype_name",
+                            "expltype_data"
+                        ],
+                        "expltype_data": {
+                            "_headers": [
+                                "damage_type",
+                                "damage_type_name",
+                                "num_shrapnel_proj",
+                                "shrapnel_projtype"
+                            ],
+                            "stagger_radius": 8.0,
+                            "num_shrapnel_proj": 30,
+                            "outer_radius": 7.0,
+                            "shrapnel_projtype": {
+                                "_headers": [
+                                    "ptype",
+                                    "ptype_name",
+                                    "ptype_data"
+                                ],
+                                "ptype_name": "ProjectileType_Shrapnel",
+                                "ptype": 174,
+                                "ptype_data": {
+                                    "name_cased": 1800791385,
+                                    "name_upper": 1730845486,
+                                    "short_name": 4056765033,
+                                    "explosion_type_impact": 0,
+                                    "_headers": [
+                                        "name_upper",
+                                        "name_upper_str",
+                                        "name_cased",
+                                        "name_cased_str",
+                                        "short_name",
+                                        "short_name_str",
+                                        "damage_info_type",
+                                        "damage_info_type_name",
+                                        "explosion_type_impact",
+                                        "explosion_type_expire"
+                                    ],
+                                    "name_cased_str": "Shrapnel",
+                                    "explosion_type_expire": 0,
+                                    "damage_info_type_name": "DamageInfoType_Projectile_Shrapnel",
+                                    "name_upper_str": "SHRAPNEL"
+                                }
+                            },
+                            "inner_radius": 4.0,
+                            "damage_type_name": "DamageInfoType_Explosion_JarPhoenix_20mm",
+                            "damage_type": 297
+                        },
+                        "expltype": 125,
+                        "expltype_name": "ExplosionType_JarPhoenix_20mm"
+                    },
+                    "damage_info_type_name": "DamageInfoType_Projectile_Rocket_15x100mm_exp",
+                    "name_upper_str": "15x100mm HIGH EXPLOSIVE"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "PrimaryWeaponType_Eruptor"
+    },
+    "12008441084326179745": {
+        "name": "BotEnemyType_Berserker"
+    },
+    "4469039597602705386": {
+        "name": "BotEnemyType_HulkScorcher"
+    },
+    "18198461672611034237": {
+        "name": "BotEnemyType_Devastator"
+    },
+    "3852172782311805734": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "SecondaryWeaponType_Redeemer"
+    },
+    "5244756512985933074": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": {
+                "_headers": [
+                    "ptype",
+                    "ptype_name",
+                    "ptype_data"
+                ],
+                "ptype_name": "ProjectileType_Cyborg_Rifle",
+                "ptype": 50,
+                "ptype_data": {
+                    "name_cased": 0,
+                    "name_upper": 0,
+                    "short_name": 4056765033,
+                    "explosion_type_impact": 0,
+                    "explosion_type_expire": 0,
+                    "damage_info_type_name": "DamageInfoType_Projectile_CyborgRifle"
+                }
+            },
+            "wpn_projcte_type": 0
+        },
+        "name": "BotEnemyType_FactoryStriderGatlingGun"
+    },
+    "5910727434981086692": {
+        "info": {
+            "_headers": [
+                "ptype",
+                "wpn_projcte_type"
+            ],
+            "ptype": 0,
+            "wpn_projcte_type": 0
+        },
+        "name": "SupportWeaponType_BreakActionShotgun"
+    }
+}
