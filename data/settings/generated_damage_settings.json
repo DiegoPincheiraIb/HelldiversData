@@ -10307,7 +10307,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_305",
+                    "type": "DamageInfoType_Explosion_SeekerGrenade_Impact",
                     "damage": [
                         500,
                         500
@@ -12162,7 +12162,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_359",
+                    "type": "DamageInfoType_Explosion_Illuminate_AdeptCircle",
                     "damage": [
                         300,
                         300
@@ -20931,7 +20931,7 @@
                     "idx": 294,
                     "hex_idx": "126",
                     "type_num": 305,
-                    "type_str": "DMG_TYPE_305"
+                    "type_str": "DamageInfoType_Explosion_SeekerGrenade_Impact"
                 },
                 {
                     "idx": 295,
