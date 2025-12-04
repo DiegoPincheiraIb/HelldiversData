@@ -13632,7 +13632,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_225",
+                    "type": "DamageInfoType_Explosion_Illuminate_Leviathan_Cannon",
                     "damage": [
                         150,
                         150
@@ -21501,7 +21501,7 @@
                     "idx": 389,
                     "hex_idx": "185",
                     "type_num": 225,
-                    "type_str": "DMG_TYPE_225"
+                    "type_str": "DamageInfoType_Explosion_Illuminate_Leviathan_Cannon"
                 },
                 {
                     "idx": 390,

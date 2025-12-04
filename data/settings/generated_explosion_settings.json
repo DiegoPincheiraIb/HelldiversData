@@ -9835,8 +9835,8 @@
                     "unknown_84": 0
                 },
                 {
-                    "type": "EXPLOSION_TYPE_327",
-                    "damage_type": "DMG_TYPE_225",
+                    "type": "ExplosionType_Illuminate_Leviathan_Cannon",
+                    "damage_type": "DamageInfoType_Explosion_Illuminate_Leviathan_Cannon",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 1.200000048,
                     "outer_radius": 2.700000048,
@@ -14468,7 +14468,7 @@
                     "idx": 272,
                     "hex_idx": "110",
                     "type_num": 327,
-                    "type_str": "EXPLOSION_TYPE_327"
+                    "type_str": "ExplosionType_Illuminate_Leviathan_Cannon"
                 },
                 {
                     "idx": 273,
