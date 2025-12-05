@@ -140,6 +140,9 @@
     "8110598756017148880": {
         "name": "PrimaryWeaponType_Suppressor"
     },
+    "12201875276601049603": {
+        "name": "PrimaryWeaponType_OneTwo_Rifle"
+    },
     "424716889947522210":{
         "name": "SecondaryWeaponType_Peacemaker"
     },
@@ -306,7 +309,10 @@
         "name": "SupportBackpackType_GuardDogRover"
     },
     "13198259103089806061": {
-        "name": "SupportBackpackType_GuardDogGas"
+        "name": "SupportBackpackType_DogBreathDrone"
+    },
+    "11155000903228636302": {
+        "name": "SupportBackpackType_PortableHellbomb"
     },
     "17297258079668724512": {
         "name": "DeployableType_AntiPersonnelMinefield"

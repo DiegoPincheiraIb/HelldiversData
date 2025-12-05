@@ -5256,7 +5256,7 @@
             },
             {
                 "unique_id": "11155000903228636302",
-                "uid_name": "11155000903228636302",
+                "uid_name": "SupportBackpackType_PortableHellbomb",
                 "loc_name": 2306470396,
                 "loc_name_plural": 0,
                 "loc_name_upper": 861327809,
@@ -5409,7 +5409,7 @@
             },
             {
                 "unique_id": "16756305030629006721",
-                "uid_name": "16756305030629006721",
+                "uid_name": "SupportBackpackType_LiberatorDogDrone",
                 "loc_name": 3939201276,
                 "loc_name_plural": 0,
                 "loc_name_upper": 1615718868,
@@ -11377,7 +11377,7 @@
             {
                 "idx": 309,
                 "uid": "11155000903228636302",
-                "type": "11155000903228636302"
+                "type": "SupportBackpackType_PortableHellbomb"
             },
             {
                 "idx": 310,
@@ -11422,7 +11422,7 @@
             {
                 "idx": 318,
                 "uid": "16756305030629006721",
-                "type": "16756305030629006721"
+                "type": "SupportBackpackType_LiberatorDogDrone"
             },
             {
                 "idx": 319,
