@@ -621,7 +621,7 @@
                     "projectile_unit_path": "8207018122859164470",
                     "explosion_threshold_angle": 90.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "EXPLOSION_TYPE_062",
+                    "explosion_type_on_impact": "ExplosionType_OrbitalSmoke",
                     "explosion_proximity": 0.0,
                     "explosion_delay": 0.5,
                     "explosion_type_expire": "ExplosionType_None",
