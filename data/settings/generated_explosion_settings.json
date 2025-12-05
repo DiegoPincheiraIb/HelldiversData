@@ -5286,7 +5286,7 @@
                     "unknown_84": 0
                 },
                 {
-                    "type": "EXPLOSION_TYPE_062",
+                    "type": "ExplosionType_OrbitalSmoke",
                     "damage_type": "DamageType_None",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 8.0,
@@ -13712,7 +13712,7 @@
                     "idx": 146,
                     "hex_idx": "92",
                     "type_num": 62,
-                    "type_str": "EXPLOSION_TYPE_062"
+                    "type_str": "ExplosionType_OrbitalSmoke"
                 },
                 {
                     "idx": 147,

@@ -62,7 +62,7 @@
         "ExplosionType_IncendiaryMine",
         "ExplosionType_Snowball_Stun",
         "ExplosionType_Orbital_Napalm_Cheap",
-        "EXPLOSION_TYPE_062",
+        "ExplosionType_OrbitalSmoke",
         "EXPLOSION_TYPE_063",
         "ExplosionType_HeavyShrapnel_MK2",
         "ExplosionType_Dynamite_Explosive",
