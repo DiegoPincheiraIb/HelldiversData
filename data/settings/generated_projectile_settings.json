@@ -1187,7 +1187,7 @@
                     }
                 },
                 {
-                    "type": "PROJ_TYPE_037",
+                    "type": "ProjectileType_Bug_BileSpewer",
                     "name_upper": 0,
                     "name_cased": 0,
                     "short_name": 4056765033,
@@ -3111,7 +3111,7 @@
                     }
                 },
                 {
-                    "type": "PROJ_TYPE_275",
+                    "type": "ProjectileType_Cyborg_FusionCarbine_MK1",
                     "name_upper": 0,
                     "name_cased": 0,
                     "short_name": 4056765033,
@@ -7107,7 +7107,7 @@
                     }
                 },
                 {
-                    "type": "PROJ_TYPE_236",
+                    "type": "ProjectileType_IlluminateStingray",
                     "name_upper": 0,
                     "name_cased": 0,
                     "short_name": 4056765033,
@@ -7121,7 +7121,7 @@
                     "simulation_steps": 1,
                     "life_time": 2.0,
                     "life_time_randomness": 0.0,
-                    "damage_info_type": "DMG_TYPE_238",
+                    "damage_info_type": "DamageInfoType_Projectile_IlluminateStingray",
                     "penetration_slowdown": 0.25,
                     "particle_thruster_effect_path": "0",
                     "low_ammo_particle_thruster_effect_path": "0",
@@ -7133,7 +7133,7 @@
                     "projectile_unit_path": "0",
                     "explosion_threshold_angle": 80.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "EXPLOSION_TYPE_289",
+                    "explosion_type_on_impact": "ExplosionType_IlluminateStingray",
                     "explosion_proximity": 0.0,
                     "explosion_delay": 0.0,
                     "explosion_type_expire": "ExplosionType_None",
@@ -16209,7 +16209,7 @@
                     }
                 },
                 {
-                    "type": "PROJ_TYPE_116",
+                    "type": "ProjectileType_9x70mm_SelfPropelled",
                     "name_upper": 357349411,
                     "name_cased": 1386177237,
                     "short_name": 4056765033,
@@ -16223,7 +16223,7 @@
                     "simulation_steps": 1,
                     "life_time": 0.0,
                     "life_time_randomness": 0.0,
-                    "damage_info_type": "DMG_TYPE_125",
+                    "damage_info_type": "DamageInfoType_9x70mm_SelfPropelled",
                     "penetration_slowdown": 0.25,
                     "particle_thruster_effect_path": "7125953194633755548",
                     "low_ammo_particle_thruster_effect_path": "4557633415823676875",
@@ -19761,7 +19761,7 @@
                     }
                 },
                 {
-                    "type": "PROJ_TYPE_277",
+                    "type": "ProjectileType_Shotgun_DoubleFreedom",
                     "name_upper": 3781719823,
                     "name_cased": 4272818345,
                     "short_name": 2292066402,
@@ -19775,7 +19775,7 @@
                     "simulation_steps": 1,
                     "life_time": 0.0,
                     "life_time_randomness": 0.0,
-                    "damage_info_type": "DMG_TYPE_136",
+                    "damage_info_type": "DamageInfoType_Projectile_DoubleFreedom",
                     "penetration_slowdown": 0.25,
                     "particle_thruster_effect_path": "14272562107873368950",
                     "low_ammo_particle_thruster_effect_path": "0",
@@ -22748,7 +22748,7 @@
                     "idx": 16,
                     "hex_idx": "10",
                     "type_num": 37,
-                    "type_str": "PROJ_TYPE_037"
+                    "type_str": "ProjectileType_Bug_BileSpewer"
                 },
                 {
                     "idx": 17,
@@ -22904,7 +22904,7 @@
                     "idx": 42,
                     "hex_idx": "2A",
                     "type_num": 275,
-                    "type_str": "PROJ_TYPE_275"
+                    "type_str": "ProjectileType_Cyborg_FusionCarbine_MK1"
                 },
                 {
                     "idx": 43,
@@ -23228,7 +23228,7 @@
                     "idx": 96,
                     "hex_idx": "60",
                     "type_num": 236,
-                    "type_str": "PROJ_TYPE_236"
+                    "type_str": "ProjectileType_IlluminateStingray"
                 },
                 {
                     "idx": 97,
@@ -23966,7 +23966,7 @@
                     "idx": 219,
                     "hex_idx": "DB",
                     "type_num": 116,
-                    "type_str": "PROJ_TYPE_116"
+                    "type_str": "ProjectileType_9x70mm_SelfPropelled"
                 },
                 {
                     "idx": 220,
@@ -24254,7 +24254,7 @@
                     "idx": 267,
                     "hex_idx": "10B",
                     "type_num": 277,
-                    "type_str": "PROJ_TYPE_277"
+                    "type_str": "ProjectileType_Shotgun_DoubleFreedom"
                 },
                 {
                     "idx": 268,

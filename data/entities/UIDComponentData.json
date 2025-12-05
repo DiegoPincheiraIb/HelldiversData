@@ -578,6 +578,9 @@
     "14748816422034837943": {
         "name": "BugEnemyType_BileSpewerV4"
     },
+    "12700624828350087151": {
+        "name": "BugEnemyType_BileSpewerV5"
+    },
     "12300518439027380185": {
         "name": "BugEnemyType_Pouncer"
     },
@@ -662,9 +665,6 @@
     "2190700087544369166": {
         "name": "BotEnemyType_HulkObliterator"
     },
-    "12700624828350087151": {
-        "name": "BotEnemyType_HulkIncineratorFiregrenade"
-    },
     "15239773297738004195": {
         "name": "BotEnemyType_FactoryStrider"
     },
@@ -739,6 +739,18 @@
     },
     "9471740285315897155": {
         "name": "BotEnemyType_WarStriderRightGun"
+    },
+    "12421182327299345565": {
+        "name": "IlluminateEnemyType_Watcher"
+    },
+    "7483912604024319283": {
+        "name": "IlluminateEnemyType_Fleshmob"
+    },
+    "1864924857437116746": {
+        "name": "IlluminateEnemyType_Stingray"
+    },
+    "10313622237292913323": {
+        "name": "IlluminateEnemyType_StingrayHeavyFusionRepeater"
     },
     "11654668915819557853": {
         "name": "SuperEarthType_SAMLauncher"

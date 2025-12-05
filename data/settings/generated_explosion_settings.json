@@ -10231,8 +10231,8 @@
                     "unknown_84": 0
                 },
                 {
-                    "type": "EXPLOSION_TYPE_289",
-                    "damage_type": "DMG_TYPE_381",
+                    "type": "ExplosionType_IlluminateStingray",
+                    "damage_type": "DamageInfoType_Explosion_IlluminateStingray",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 2.0,
                     "outer_radius": 3.5,
@@ -14534,7 +14534,7 @@
                     "idx": 283,
                     "hex_idx": "11B",
                     "type_num": 289,
-                    "type_str": "EXPLOSION_TYPE_289"
+                    "type_str": "ExplosionType_IlluminateStingray"
                 },
                 {
                     "idx": 284,

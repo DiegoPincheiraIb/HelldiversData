@@ -1032,7 +1032,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_238",
+                    "type": "DamageInfoType_Projectile_IlluminateStingray",
                     "damage": [
                         50,
                         50
@@ -4427,7 +4427,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_125",
+                    "type": "DamageInfoType_9x70mm_SelfPropelled",
                     "damage": [
                         112,
                         11
@@ -4812,7 +4812,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_136",
+                    "type": "DamageInfoType_Projectile_DoubleFreedom",
                     "damage": [
                         70,
                         35
@@ -12967,7 +12967,7 @@
                     ]
                 },
                 {
-                    "type": "DMG_TYPE_381",
+                    "type": "DamageInfoType_Explosion_IlluminateStingray",
                     "damage": [
                         125,
                         125
@@ -19341,7 +19341,7 @@
                     "idx": 29,
                     "hex_idx": "1D",
                     "type_num": 238,
-                    "type_str": "DMG_TYPE_238"
+                    "type_str": "DamageInfoType_Projectile_IlluminateStingray"
                 },
                 {
                     "idx": 30,
@@ -19923,7 +19923,7 @@
                     "idx": 126,
                     "hex_idx": "7E",
                     "type_num": 125,
-                    "type_str": "DMG_TYPE_125"
+                    "type_str": "DamageInfoType_9x70mm_SelfPropelled"
                 },
                 {
                     "idx": 127,
@@ -19989,7 +19989,7 @@
                     "idx": 137,
                     "hex_idx": "89",
                     "type_num": 136,
-                    "type_str": "DMG_TYPE_136"
+                    "type_str": "DamageInfoType_Projectile_DoubleFreedom"
                 },
                 {
                     "idx": 138,
@@ -21387,7 +21387,7 @@
                     "idx": 370,
                     "hex_idx": "172",
                     "type_num": 381,
-                    "type_str": "DMG_TYPE_381"
+                    "type_str": "DamageInfoType_Explosion_IlluminateStingray"
                 },
                 {
                     "idx": 371,

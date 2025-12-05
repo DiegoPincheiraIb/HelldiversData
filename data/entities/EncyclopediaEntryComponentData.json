@@ -496,7 +496,7 @@
             },
             {
                 "unique_id": "12700624828350087151",
-                "uid_name": "BotEnemyType_HulkIncineratorFiregrenade",
+                "uid_name": "BugEnemyType_BileSpewerV5",
                 "loc_name": 717622970,
                 "loc_name_plural": 2572786553,
                 "loc_name_upper": 3302818592,
@@ -9977,7 +9977,7 @@
             {
                 "idx": 29,
                 "uid": "12700624828350087151",
-                "type": "BotEnemyType_HulkIncineratorFiregrenade"
+                "type": "BugEnemyType_BileSpewerV5"
             },
             {
                 "idx": 30,
