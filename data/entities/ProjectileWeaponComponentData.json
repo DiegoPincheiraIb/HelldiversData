@@ -5235,7 +5235,7 @@
             },
             {
                 "unique_id": "645713022044093730",
-                "uid_name": "645713022044093730",
+                "uid_name": "VehicleType_PatriotExosuit_RightArmGun",
                 "projectile_type": "ProjectileType_Rifle_8x60mm_fmj",
                 "rounds_per_minute": {
                     "x": 0.0,
@@ -13955,7 +13955,7 @@
             },
             {
                 "unique_id": "16570517418531528145",
-                "uid_name": "16570517418531528145",
+                "uid_name": "VehicleType_EmancipatorExosuit_LeftArmGun",
                 "projectile_type": "ProjectileType_Cannon_30mm_APHE",
                 "rounds_per_minute": {
                     "x": 0.0,
