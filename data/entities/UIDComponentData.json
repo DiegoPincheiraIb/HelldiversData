@@ -215,9 +215,6 @@
     "2401215835282261016": {
         "name": "SupportWeaponType_HeavyMachineGun"
     },
-    "602390376167162446": {
-        "name": "SupportWeaponType_HeavyMachineGunDerelict"
-    },
     "14772015414747343144": {
         "name": "SupportWeaponType_HeavyMachineGunDerelict"
     },
@@ -314,6 +311,9 @@
     "11155000903228636302": {
         "name": "SupportBackpackType_PortableHellbomb"
     },
+    "14314828040919828387": {
+        "name": "DeployableType_Hellbomb"
+    },
     "17297258079668724512": {
         "name": "DeployableType_AntiPersonnelMinefield"
     },
@@ -331,6 +331,9 @@
     },
     "8383906277678357886": {
         "name": "DeployableType_TeslaTower"
+    },
+    "2114795373903595840": {
+        "name": "DeployableType_GrenadierBattlement"
     },
     "1051445694670701817": {
         "name": "DeployableType_HeavyMachineGunEmplacement"
@@ -353,6 +356,18 @@
     "3965302274531977670": {
         "name": "DeployableType_RocketSentry"
     },
+    "17259437333005147504": {
+        "name": "DeployableType_GatlingSentry"
+    },
+    "6113742425058627513": {
+        "name": "DeployableType_AutoCannonSentry"
+    },
+    "9371080132553746520": {
+        "name": "DeployableType_FlamethrowerSentry"
+    },
+    "6198940140191066280": {
+        "name": "DeployableType_LaserSentry"
+    },
     "12269323780666160625": {
         "name": "DeployableType_GatlingSentry"
     },
@@ -362,8 +377,8 @@
     "6337264778388549835": {
         "name": "DeployableType_GatlingSentry"
     },
-    "9371080132553746520": {
-        "name": "DeployableType_FlamethrowerSentry"
+    "9219146911950674287": {
+        "name": "DeployableType_GatlingSentry"
     },
     "10930013077329100956": {
         "name": "PickupType_GrenadeStack"
@@ -458,8 +473,47 @@
     "11631307996670093680": {
         "name": "OrbitalBombardmentType_OrbitalNapalmBarrage"
     },
-    "1962385103464102102": {
+    "17020640004553544635": {
+        "name": "OrbitalBombardmentType_OrbitalLaser"
+    },
+    "12399142748360190921": {
+        "name": "OrbitalBombardmentType_OrbitalRailcannon"
+    },
+    "14454233564159978284": {
+        "name": "OrbitalBombardmentType_PrecisionStrike"
+    },
+    "8480614394778878677": {
+        "name": "OrbitalBombardmentType_AirburstStrike"
+    },
+    "428906543397164902": {
         "name": "OrbitalBombardmentType_GasStrike"
+    },
+    "6193421986545774326": {
+        "name": "OrbitalBombardmentType_StunStrike"
+    },
+    "15741945895218221769": {
+        "name": "OrbitalBombardmentType_SmokeStrike"
+    },
+    "2568747792294183916": {
+        "name": "EagleBombardmentType_StrafingRun"
+    },
+    "16450357640400839941": {
+        "name": "EagleBombardmentType_500KGBomb"
+    },
+    "4140939466573601321": {
+        "name": "EagleBombardmentType_110mmRocketPods"
+    },
+    "3359716870288230953": {
+        "name": "EagleBombardmentType_EagleAirstrike"
+    },
+    "2862976050209719244": {
+        "name": "EagleBombardmentType_NapalmAirstrike"
+    },
+    "11335415903596859741": {
+        "name": "EagleBombardmentType_ClusterBombs"
+    },
+    "1962385103464102102": {
+        "name": "EagleBombardmentType_SmokeAirstrike"
     },
     "12101561451675752456": {
         "name": "MeleeWeaponType_Unk1"
@@ -485,14 +539,8 @@
     "8731737688384722662": {
         "name": "MeleeWeaponType_Machete"
     },
-    "17259437333005147504": {
-        "name": "DeployableType_GatlingSentry"
-    },
-    "9219146911950674287": {
-        "name": "DeployableType_GatlingSentry"
-    },
-    "6113742425058627513": {
-        "name": "DeployableType_AutoCannonSentry"
+    "13784670920243131812": {
+        "name": "MeleeWeaponType_Unk2"
     },
     "8783342891467425251": {
         "name": "VehicleType_PatriotExosuit"
@@ -506,8 +554,17 @@
     "14038927220542196401": {
         "name": "VehicleType_EmancipatorExosuit"
     },
+    "16570517418531528145": {
+        "name": "VehicleType_EmancipatorExosuit_LeftArmGun"
+    },
+    "18417602992972518459": {
+        "name": "VehicleType_EmancipatorExosuit_RightArmGun"
+    },
     "14709257759554793401": {
         "name": "VehicleType_FRV"
+    },
+    "602390376167162446": {
+        "name": "VehicleType_FRV_HeavyMachineGun"
     },
     "1456507421651509424":{
         "name": "ThrowableType_Dynamite"

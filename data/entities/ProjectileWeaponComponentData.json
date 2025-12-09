@@ -5126,7 +5126,7 @@
             },
             {
                 "unique_id": "9388736439472594613",
-                "uid_name": "9388736439472594613",
+                "uid_name": "VehicleType_PatriotExosuit_LeftArmGun",
                 "projectile_type": "ProjectileType_Missile_Combat_Walker",
                 "rounds_per_minute": {
                     "x": 0.0,
@@ -14282,7 +14282,7 @@
             },
             {
                 "unique_id": "18417602992972518459",
-                "uid_name": "18417602992972518459",
+                "uid_name": "VehicleType_EmancipatorExosuit_RightArmGun",
                 "projectile_type": "ProjectileType_Cannon_30mm_APHE",
                 "rounds_per_minute": {
                     "x": 0.0,
@@ -21477,7 +21477,7 @@
             {
                 "unique_id": "14733648658679365221",
                 "uid_name": "SupportWeaponType_WASPLauncher",
-                "projectile_type": "Projectile_Missile_WASP_Hornets",
+                "projectile_type": "ProjectileType_Missile_WASP_Hornets",
                 "rounds_per_minute": {
                     "x": 0.0,
                     "y": 500.0,
@@ -21576,7 +21576,7 @@
                 "casing_eject_disabled_on_fire": 0,
                 "burst_fire_rate": 0.0,
                 "weapon_function_muzzle_velocity": 150.0,
-                "weapon_function_projectile_type": "ProjectileType_Missile_WASP_Burst",
+                "weapon_function_projectile_type": "ProjectileType_Missile_WASP_Artillery",
                 "unknown_16C": 0,
                 "unknown_170": 2313272979,
                 "unknown_174": 362262386,
@@ -23111,7 +23111,7 @@
             },
             {
                 "unique_id": "2114795373903595840",
-                "uid_name": "2114795373903595840",
+                "uid_name": "DeployableType_GrenadierBattlement",
                 "projectile_type": "ProjectileType_Grenade_40mm_HE",
                 "rounds_per_minute": {
                     "x": 0.0,
@@ -23220,7 +23220,7 @@
             },
             {
                 "unique_id": "602390376167162446",
-                "uid_name": "SupportWeaponType_HeavyMachineGunDerelict",
+                "uid_name": "SupportWeaponType_HeavyMachineGun_FRV",
                 "projectile_type": "ProjectileType_Rifle_12p5x100mm_bchp",
                 "rounds_per_minute": {
                     "x": 450.0,
@@ -24003,12 +24003,12 @@
             {
                 "idx": 47,
                 "uid": "9388736439472594613",
-                "type": "9388736439472594613"
+                "type": "VehicleType_PatriotExosuit_LeftArmGun"
             },
             {
                 "idx": 48,
                 "uid": "645713022044093730",
-                "type": "645713022044093730"
+                "type": "VehicleType_PatriotExosuit_RightArmGun"
             },
             {
                 "idx": 49,
@@ -24408,7 +24408,7 @@
             {
                 "idx": 128,
                 "uid": "16570517418531528145",
-                "type": "16570517418531528145"
+                "type": "VehicleType_EmancipatorExosuit_LeftArmGun"
             },
             {
                 "idx": 129,
@@ -24423,7 +24423,7 @@
             {
                 "idx": 131,
                 "uid": "18417602992972518459",
-                "type": "18417602992972518459"
+                "type": "VehicleType_EmancipatorExosuit_RightArmGun"
             },
             {
                 "idx": 132,
@@ -24828,12 +24828,12 @@
             {
                 "idx": 212,
                 "uid": "2114795373903595840",
-                "type": "2114795373903595840"
+                "type": "DeployableType_GrenadierBattlement"
             },
             {
                 "idx": 213,
                 "uid": "602390376167162446",
-                "type": "SupportWeaponType_HeavyMachineGunDerelict"
+                "type": "SupportWeaponType_HeavyMachineGun_FRV"
             },
             {
                 "idx": 214,

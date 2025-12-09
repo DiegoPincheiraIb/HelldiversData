@@ -936,7 +936,7 @@
                             "damage_type": 317
                         },
                         "expltype": 185,
-                        "expltype_name": "ExplosionType_APHE_40mm"
+                        "expltype_name": "ExplosionType_Cannon_40mm_APHE"
                     },
                     "name_cased_str": "40mm APHE Cannon",
                     "explosion_type_expire": 0,
@@ -1120,7 +1120,7 @@
                     "ptype_name",
                     "ptype_data"
                 ],
-                "ptype_name": "Projectile_Missile_WASP_Hornets",
+                "ptype_name": "ProjectileType_Missile_WASP_Hornets",
                 "ptype": 35,
                 "ptype_data": {
                     "name_cased": 1833867619,
@@ -1148,7 +1148,7 @@
                             "damage_type": 334
                         },
                         "expltype": 301,
-                        "expltype_name": "Explosion_WASP_Hornets"
+                        "expltype_name": "ExplosionType_WASP_Hornets"
                     },
                     "explosion_type_expire": 0,
                     "damage_info_type_name": "DamageInfoType_Projectile_WASP_Hornets"
@@ -1188,7 +1188,7 @@
                                     "ptype_name",
                                     "ptype_data"
                                 ],
-                                "ptype_name": "Projectile_Missile_WASP_Hornets",
+                                "ptype_name": "ProjectileType_Missile_WASP_Hornets",
                                 "ptype": 35,
                                 "ptype_data": {
                                     "name_cased": 1833867619,
@@ -1216,7 +1216,7 @@
                                             "damage_type": 334
                                         },
                                         "expltype": 301,
-                                        "expltype_name": "Explosion_WASP_Hornets"
+                                        "expltype_name": "ExplosionType_WASP_Hornets"
                                     },
                                     "_headers": [
                                         "name_upper",
@@ -2336,7 +2336,7 @@
                             "damage_type": 314
                         },
                         "expltype": 327,
-                        "expltype_name": "ExplosionType_APHET_20mm"
+                        "expltype_name": "ExplosionType_Cannon_20mm_APHET"
                     },
                     "name_cased_str": "20mm APHET Rounds",
                     "explosion_type_expire": 0,
@@ -2409,7 +2409,7 @@
                             "damage_type": 296
                         },
                         "expltype": 308,
-                        "expltype_name": "ExplosionType_Flak_20mm"
+                        "expltype_name": "ExplosionType_Cannon_20mm_Flak"
                     },
                     "name_cased_str": "20mm Flak Rounds",
                     "explosion_type_expire": 0,

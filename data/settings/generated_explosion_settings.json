@@ -4088,7 +4088,7 @@
                     "unknown_84": 0
                 },
                 {
-                    "type": "ExplosionType_Flak_20mm",
+                    "type": "ExplosionType_Cannon_20mm_Flak",
                     "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_Flak",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 2.0,
@@ -4160,7 +4160,7 @@
                     "unknown_84": 0
                 },
                 {
-                    "type": "ExplosionType_APHET_20mm",
+                    "type": "ExplosionType_Cannon_20mm_APHET",
                     "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_APHET",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 2.0,
@@ -4448,7 +4448,7 @@
                     "unknown_84": 0
                 },
                 {
-                    "type": "ExplosionType_APHE_30mm",
+                    "type": "ExplosionType_Cannon_30mm_APHE",
                     "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_30mm_APHE",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 1.5,
@@ -4520,7 +4520,7 @@
                     "unknown_84": 0
                 },
                 {
-                    "type": "ExplosionType_APHE_40mm",
+                    "type": "ExplosionType_Cannon_40mm_APHE",
                     "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_40mm_APHE",
                     "fallback_damage_loc_name": 0,
                     "inner_radius": 2.0,
@@ -8986,7 +8986,7 @@
                     "surface_impact_type": "SURFACE_IMPACT_000",
                     "hit_effect_damage_type": "HitEffectDamageType_None",
                     "num_shrapnel_projectiles": 25,
-                    "shrapnel_projectile_type": "PROJ_TYPE_205",
+                    "shrapnel_projectile_type": "ProjectileType_AirburstCluster_ClusterShrapnel",
                     "noise_template": "NOISE_TYPE_015",
                     "wind_effect_template": "WIND_TYPE_001",
                     "fire_template": "FireTemplate_None",
@@ -13514,7 +13514,7 @@
                     "idx": 113,
                     "hex_idx": "71",
                     "type_num": 318,
-                    "type_str": "ExplosionType_Flak_20mm"
+                    "type_str": "ExplosionType_Cannon_20mm_Flak"
                 },
                 {
                     "idx": 114,
@@ -13526,7 +13526,7 @@
                     "idx": 115,
                     "hex_idx": "73",
                     "type_num": 338,
-                    "type_str": "ExplosionType_APHET_20mm"
+                    "type_str": "ExplosionType_Cannon_20mm_APHET"
                 },
                 {
                     "idx": 116,
@@ -13574,7 +13574,7 @@
                     "idx": 123,
                     "hex_idx": "7B",
                     "type_num": 193,
-                    "type_str": "ExplosionType_APHE_30mm"
+                    "type_str": "ExplosionType_Cannon_30mm_APHE"
                 },
                 {
                     "idx": 124,
@@ -13586,7 +13586,7 @@
                     "idx": 125,
                     "hex_idx": "7D",
                     "type_num": 192,
-                    "type_str": "ExplosionType_APHE_40mm"
+                    "type_str": "ExplosionType_Cannon_40mm_APHE"
                 },
                 {
                     "idx": 126,

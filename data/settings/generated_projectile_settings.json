@@ -2027,7 +2027,7 @@
                     "projectile_unit_path": "0",
                     "explosion_threshold_angle": 60.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "ExplosionType_APHET_20mm",
+                    "explosion_type_on_impact": "ExplosionType_Cannon_20mm_APHET",
                     "explosion_proximity": 0.0,
                     "explosion_delay": 0.0,
                     "explosion_type_expire": "ExplosionType_None",
@@ -2101,7 +2101,7 @@
                     "projectile_unit_path": "12019415332010288487",
                     "explosion_threshold_angle": 90.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "ExplosionType_Flak_20mm",
+                    "explosion_type_on_impact": "ExplosionType_Cannon_20mm_Flak",
                     "explosion_proximity": 3.0,
                     "explosion_delay": 0.0,
                     "explosion_type_expire": "ExplosionType_None",
@@ -2323,7 +2323,7 @@
                     "projectile_unit_path": "0",
                     "explosion_threshold_angle": 80.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "ExplosionType_APHE_30mm",
+                    "explosion_type_on_impact": "ExplosionType_Cannon_30mm_APHE",
                     "explosion_proximity": 0.0,
                     "explosion_delay": 0.0,
                     "explosion_type_expire": "ExplosionType_None",
@@ -2471,7 +2471,7 @@
                     "projectile_unit_path": "0",
                     "explosion_threshold_angle": 80.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "ExplosionType_APHE_40mm",
+                    "explosion_type_on_impact": "ExplosionType_Cannon_40mm_APHE",
                     "explosion_proximity": 0.0,
                     "explosion_delay": 0.0,
                     "explosion_type_expire": "ExplosionType_None",
@@ -5878,7 +5878,7 @@
                     "explosion_type_on_impact": "ExplosionType_StaticField_Sentry",
                     "explosion_proximity": 0.0,
                     "explosion_delay": 0.5,
-                    "explosion_type_expire": "ExplosionType_StaticField_Sentry",
+                    "explosion_type_expire": "ExplosionType_Grenade_Mortar_40mm_Staticfield",
                     "arming_distance": 0.0,
                     "decal_size": 0.100000001,
                     "surface_impact_type": "SURFACE_IMPACT_TYPE_004",
@@ -6737,7 +6737,7 @@
                     }
                 },
                 {
-                    "type": "PROJ_TYPE_205",
+                    "type": "ProjectileType_AirburstCluster_ClusterShrapnel",
                     "name_upper": 2219258544,
                     "name_cased": 1928180472,
                     "short_name": 4056765033,
@@ -8317,7 +8317,7 @@
                     "projectile_unit_path": "0",
                     "explosion_threshold_angle": 80.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "Explosion_WASP_Hornets",
+                    "explosion_type_on_impact": "ExplosionType_WASP_Hornets",
                     "explosion_proximity": 0.0,
                     "explosion_delay": 0.0,
                     "explosion_type_expire": "ExplosionType_None",
@@ -8365,7 +8365,7 @@
                     }
                 },
                 {
-                    "type": "ProjectileType_Missile_WASP_Burst",
+                    "type": "ProjectileType_Missile_WASP_Artillery",
                     "name_upper": 2195126970,
                     "name_cased": 3409522164,
                     "short_name": 2151290805,
@@ -8391,7 +8391,7 @@
                     "projectile_unit_path": "0",
                     "explosion_threshold_angle": 90.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "EXPLOSION_TYPE_070",
+                    "explosion_type_on_impact": "ExplosionType_WASP_Artillery",
                     "explosion_proximity": 12.0,
                     "explosion_delay": 0.0,
                     "explosion_type_expire": "ExplosionType_None",
@@ -16827,10 +16827,10 @@
                     "projectile_unit_path": "0",
                     "explosion_threshold_angle": 80.0,
                     "can_expire_after_impact": 1,
-                    "explosion_type_on_impact": "ExplosionType_Flak_20mm",
+                    "explosion_type_on_impact": "ExplosionType_Cannon_20mm_Flak",
                     "explosion_proximity": 0.0,
                     "explosion_delay": 0.0,
-                    "explosion_type_expire": "ExplosionType_Flak_20mm",
+                    "explosion_type_expire": "ExplosionType_Cannon_20mm_Flak",
                     "arming_distance": 0.100000001,
                     "decal_size": 0.100000001,
                     "surface_impact_type": "SURFACE_IMPACT_TYPE_004",
@@ -23198,7 +23198,7 @@
                     "idx": 91,
                     "hex_idx": "5B",
                     "type_num": 205,
-                    "type_str": "PROJ_TYPE_205"
+                    "type_str": "ProjectileType_AirburstCluster_ClusterShrapnel"
                 },
                 {
                     "idx": 92,
@@ -23324,13 +23324,13 @@
                     "idx": 112,
                     "hex_idx": "70",
                     "type_num": 35,
-                    "type_str": "Projectile_Missile_WASP_Hornets"
+                    "type_str": "ProjectileType_Missile_WASP_Hornets"
                 },
                 {
                     "idx": 113,
                     "hex_idx": "71",
                     "type_num": 288,
-                    "type_str": "ProjectileType_Missile_WASP_Burst"
+                    "type_str": "ProjectileType_Missile_WASP_Artillery"
                 },
                 {
                     "idx": 114,
