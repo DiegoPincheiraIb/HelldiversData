@@ -113,7 +113,7 @@
             {
                 "unique_id": "12700624828350087151",
                 "uid_name": "12700624828350087151",
-                "projectile_type": "PROJ_TYPE_037",
+                "projectile_type": "ProjectileType_Bug_BileSpewer",
                 "rounds_per_minute": {
                     "x": 400.0,
                     "y": 600.0,
