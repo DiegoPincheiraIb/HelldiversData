@@ -14,32 +14,26 @@
     "4885016034561106550": {
         "name": "PrimaryWeaponType_LiberatorPenetrator"
     },
-    "9291384900638350902": {
-        "name": "PrimaryWeaponType_Dominator"
-    },
     "14840077516977962372": {
         "name": "PrimaryWeaponType_StA52"
-    },
-    "10438714418406872918": {
-        "name": "PrimaryWeaponType_M90AShotgun"
-    },
-    "13722729806569931406": {
-        "name": "PrimaryWeaponType_M7SSMG"
     },
     "5601762105466289171": {
         "name": "PrimaryWeaponType_AssaultRifleMA5C"
     },
-    "17983663411446975103": {
-        "name": "PrimaryWeaponType_VariableShotgun"
-    },
-    "5742363029208942635": {
-        "name": "PrimaryWeaponType_Torcher"
-    },
     "9675404802175538082": {
         "name": "PrimaryWeaponType_Sickle"
     },
+    "2877271129141764950": {
+        "name": "PrimaryWeaponType_Scythe"
+    },
+    "3199457897835937068": {
+        "name": "PrimaryWeaponType_Scythe"
+    },
     "2980234130573201393": {
         "name": "PrimaryWeaponType_DoubleEdgeSickle"
+    },
+    "4361428863637469552": {
+        "name": "PrimaryWeaponType_Trident"
     },
     "6912088101323449320": {
         "name": "PrimaryWeaponType_Adjudicator"
@@ -74,12 +68,6 @@
     "10768610637301609307": {
         "name": "PrimaryWeaponType_Knight"
     },
-    "2877271129141764950": {
-        "name": "PrimaryWeaponType_Scythe"
-    },
-    "3199457897835937068": {
-        "name": "PrimaryWeaponType_Scythe"
-    },
     "9526594500243002157": {
         "name": "PrimaryWeaponType_Coyote"
     },
@@ -94,6 +82,15 @@
     },
     "5450511615252257986":{
         "name": "PrimaryWeaponType_StA11"
+    },
+    "9957594915860537321":{
+        "name": "PrimaryWeaponType_Stoker"
+    },
+    "11037037794164389181":{
+        "name": "PrimaryWeaponType_Stoker_Underbarrel"
+    },
+    "13722729806569931406": {
+        "name": "PrimaryWeaponType_M7SSMG"
     },
     "4749824949454633632":{
         "name": "PrimaryWeaponType_Punisher"
@@ -110,6 +107,15 @@
     "5634296840427219794":{
         "name": "PrimaryWeaponType_HaltShotgun"
     },
+    "15911719089517557690":{
+        "name": "PrimaryWeaponType_SweeperShotgun"
+    },
+    "10438714418406872918": {
+        "name": "PrimaryWeaponType_M90AShotgun"
+    },
+    "8221051007693717489": {
+        "name": "PrimaryWeaponType_DoubleFreedomShotgun"
+    },
     "5050852199397921576":{
         "name": "PrimaryWeaponType_StandardBreaker"
     },
@@ -121,7 +127,7 @@
     },
     "7323248696802770694":{
         "name": "PrimaryWeaponType_BugbiterBreaker"
-    },    
+    },
     "13558475039457634667":{
         "name": "PrimaryWeaponType_PacifierRifle"
     },
@@ -145,6 +151,18 @@
     },
     "12201875276601049603": {
         "name": "PrimaryWeaponType_OneTwo_Rifle"
+    },
+    "201944147320653301": {
+        "name": "PrimaryWeaponType_OneTwo_GrenadeUnderbarrel"
+    },
+    "9291384900638350902": {
+        "name": "PrimaryWeaponType_Dominator"
+    },
+    "17983663411446975103": {
+        "name": "PrimaryWeaponType_VariableShotgun"
+    },
+    "5742363029208942635": {
+        "name": "PrimaryWeaponType_Torcher"
     },
     "424716889947522210":{
         "name": "SecondaryWeaponType_Peacemaker"
@@ -191,6 +209,9 @@
     "830958149412624616": {
         "name": "SecondaryWeaponType_ReEducator"
     },
+    "14375697644675127823": {
+        "name": "SecondaryWeaponType_VetoPistol"
+    },
     "9927421484392399367": {
         "name": "SupportWeaponType_AntiMaterielRifle"
     },
@@ -227,14 +248,11 @@
     "11493422068836852751": {
         "name": "SupportWeaponType_RecoillesRifle"
     },
-    "9264801226655597011": {
-        "name": "SupportWeaponType_ExpendableAntiTank"
-    },
-    "6453678319562593995": {
-        "name": "SupportWeaponType_CommandoRocketLauncher"
-    },
     "11201896471107657063": {
         "name": "SupportWeaponType_C4Explosives"
+    },
+    "5905641205788913469": {
+        "name": "SupportWeaponType_C4Detonator"
     },
     "3358853937828503136": {
         "name": "SupportWeaponType_Railgun"
@@ -266,11 +284,20 @@
     "16777584932715761236": {
         "name": "SupportWeaponType_EpochPlasmaLauncher"
     },
+    "9264801226655597011": {
+        "name": "SupportWeaponType_ExpendableAntiTank"
+    },
+    "6453678319562593995": {
+        "name": "SupportWeaponType_CommandoRocketLauncher"
+    },
     "15986416455258940649": {
         "name": "SupportWeaponType_MiniMissileSilo"
     },
     "12877445900026273694": {
         "name": "SupportWeaponType_ExpendableNapalmLauncher"
+    },
+    "8509380141312129223": {
+        "name": "SupportWeaponType_Leveller"
     },
     "12984499893943104780": {
         "name": "SupportWeaponType_LightMachineGun"
@@ -287,14 +314,38 @@
     "4874456896233937276": {
         "name": "SupportWeaponType_Maxigun"
     },
+    "8694225878611593109": {
+        "name": "SupportWeaponType_Cremator"
+    },
+    "9854668298113416351": {
+        "name": "SupportWeaponType_BFGrenadeLauncher"
+    },
+    "12750169196543686872": {
+        "name": "SupportWeaponType_OneTrueFlag"
+    },
+    "16743928489815142323": {
+        "name": "SupportWeaponType_DerelictEntrenchmentTool"
+    },
+    "6863144698475545939": {
+        "name": "SupportWeaponType_BreachingHammer"
+    },
+    "13784670920243131812": {
+        "name": "SupportWeaponType_DefoliationTool"
+    },
     "391216982669554238": {
         "name": "SupportBackpackType_MaxigunBackpack"
+    },
+    "13495904577777136893": {
+        "name": "SupportBackpackType_BFGrenadeLauncherBackpack"
+    },
+    "4894036464529596640": {
+        "name": "SupportBackpackType_CrematorBackpack"
     },
     "6468799106264970105": {
         "name": "SupportBackpackType_Jumppack"
     },
     "6829725667368330959": {
-        "name": "SupportBackpackType_Hoverppack"
+        "name": "SupportBackpackType_Hoverpack"
     },
     "13012964727571811944": {
         "name": "SupportBackpackType_Warppack"
@@ -319,6 +370,9 @@
     },
     "11552626079949819071": {
         "name": "SupportBackpackType_ArcDrone"
+    },
+    "3464783698532994381": {
+        "name": "SupportBackpackType_FlameDrone"
     },
     "11155000903228636302": {
         "name": "SupportBackpackType_PortableHellbomb"
@@ -364,6 +418,9 @@
     },
     "5881843148917714292": {
         "name": "DeployableType_MortarSentry"
+    },
+    "2998286011813792148": {
+        "name": "DeployableType_GasMortarSentry"
     },
     "3965302274531977670": {
         "name": "DeployableType_RocketSentry"
@@ -545,7 +602,7 @@
     "16408494556715988068": {
         "name": "MeleeWeaponType_StunLance"
     },
-    "16743928489815142323": {
+    "9088112410931658315": {
         "name": "MeleeWeaponType_EntrenchmentTool"
     },
     "18219495801425257306": {
@@ -554,17 +611,11 @@
     "5966635890313573271": {
         "name": "MeleeWeaponType_RiotBaton"
     },
-    "12750169196543686872": {
-        "name": "MeleeWeaponType_OneTrueFlag"
-    },
     "8467154841892407376": {
         "name": "MeleeWeaponType_Tomahawk"
     },
     "8731737688384722662": {
         "name": "MeleeWeaponType_Machete"
-    },
-    "13784670920243131812": {
-        "name": "MeleeWeaponType_DefoliationTool"
     },
     "8783342891467425251": {
         "name": "VehicleType_PatriotExosuit"
@@ -590,11 +641,17 @@
     "602390376167162446": {
         "name": "VehicleType_FRV_HeavyMachineGun"
     },
+    "1605323339894850998": {
+        "name": "VehicleType_Bastion"
+    },
+    "2279372913009370562": {
+        "name": "VehicleType_Bastion_Cannon"
+    },
+    "4872787481713797082": {
+        "name": "VehicleType_Bastion_MountedHMG"
+    },
     "1456507421651509424":{
         "name": "ThrowableType_Dynamite"
-    },
-    "6766936627846269706": {
-        "name": "ThrowableType_SmokeGrenade"
     },
     "15821755148612569419": {
         "name": "ThrowableType_ArcGrenade"
@@ -629,6 +686,9 @@
     "5542218890398374779": {
         "name": "ThrowableType_FragGrenade"
     },
+    "5058456942810545460": {
+        "name": "ThrowableType_GigaGrenade"
+    },
     "14249494547947571097": {
         "name": "ThrowableType_ThermiteGrenade"
     },
@@ -637,6 +697,15 @@
     },
     "4587284938949573643": {
         "name": "ThrowableType_UrchinThermiteGrenade"
+    },
+    "6766936627846269706": {
+        "name": "ThrowableType_SmokeGrenade"
+    },
+    "15760376640790925767": {
+        "name": "ThrowableType_Smokescreen"
+    },
+    "1989119436006646583": {
+        "name": "ThrowableType_PocketShield"
     },
     "11398074038506794973": {
         "name": "BugEnemyType_BileTitan"
@@ -1001,6 +1070,30 @@
     "9471740285315897155": {
         "name": "BotEnemyType_WarStriderRightGun"
     },
+    "8388657151297660569": {
+        "name": "BotEnemyType_CyborgRadical"
+    },
+    "14677717390494571578": {
+        "name": "BotEnemyType_CyborgRadical"
+    },
+    "11351366836276126990": {
+        "name": "BotEnemyType_CyborgAgitator"
+    },
+    "720026069039790444": {
+        "name": "BotEnemyType_CyborgAgitator"
+    },
+    "13557003672051169255": {
+        "name": "BotEnemyType_CyborgVoxEngine"
+    },
+    "6997370577610279074": {
+        "name": "BotEnemyType_CyborgVoxEngineCannonTurret"
+    },
+    "3849984664539165667": {
+        "name": "BotEnemyType_CyborgVoxEngineGatlingGun"
+    },
+    "17476252816949674262": {
+        "name": "BotEnemyType_CyborgVoxEngineGatlingGun"
+    },
     "8710323923067153479": {
         "name": "IlluminateEnemyType_Voteless"
     },
@@ -1048,6 +1141,15 @@
     },
     "10313622237292913323": {
         "name": "IlluminateEnemyType_StingrayHeavyFusionRepeater"
+    },
+    "2358135177943625061": {
+        "name": "IlluminateEnemyType_Veracitor"
+    },
+    "4989955592422339343": {
+        "name": "IlluminateEnemyType_Gatekeeper"
+    },
+    "3809994927963057822": {
+        "name": "IlluminateEnemyType_Obtruder"
     },
     "8422338628769435505": {
         "name": "IlluminateEnemyType_Warpship"
