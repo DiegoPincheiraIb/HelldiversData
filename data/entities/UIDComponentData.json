@@ -305,6 +305,9 @@
     "15369542005276747891": {
         "name": "SupportWeaponType_LaserCannon"
     },
+    "3973443609256024694": {
+        "name": "SupportWeaponType_TacticalVideoCamera"
+    },
     "5910727434981086692": {
         "name": "SupportWeaponType_BreakActionShotgun"
     },
@@ -340,6 +343,9 @@
     },
     "4894036464529596640": {
         "name": "SupportBackpackType_CrematorBackpack"
+    },
+    "518600486455451088": {
+        "name": "SupportBackpackType_DarkFluidJumppack"
     },
     "6468799106264970105": {
         "name": "SupportBackpackType_Jumppack"
@@ -451,6 +457,18 @@
     },
     "901379433810974099": {
         "name": "DeployableType_GrenadierBattlement"
+    },
+    "1903375976943875074": {
+        "name": "PickupType_StimulantBox"
+    },
+    "205424700876044767": {
+        "name": "PickupType_StimulantBox"
+    },
+    "4291111060798646696": {
+        "name": "PickupType_StimulantBox"
+    },
+    "13027308828300900709": {
+        "name": "PickupType_StimulantBox"
     },
     "10930013077329100956": {
         "name": "PickupType_GrenadeStack"
@@ -649,6 +667,9 @@
     },
     "4872787481713797082": {
         "name": "VehicleType_Bastion_MountedHMG"
+    },
+    "10985104894119086333": {
+        "name": "VehicleType_GATER_Turret"
     },
     "1456507421651509424":{
         "name": "ThrowableType_Dynamite"
