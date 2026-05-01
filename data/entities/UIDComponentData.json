@@ -290,14 +290,15 @@
     "6453678319562593995": {
         "name": "SupportWeaponType_CommandoRocketLauncher"
     },
-    "15986416455258940649": {
-        "name": "SupportWeaponType_MiniMissileSilo"
-    },
     "12877445900026273694": {
         "name": "SupportWeaponType_ExpendableNapalmLauncher"
     },
     "8509380141312129223": {
         "name": "SupportWeaponType_Leveller"
+    },
+    },
+    "15986416455258940649": {
+        "name": "SupportWeaponType_MiniMissileSilo"
     },
     "12984499893943104780": {
         "name": "SupportWeaponType_LightMachineGun"
@@ -383,20 +384,38 @@
     "11155000903228636302": {
         "name": "SupportBackpackType_PortableHellbomb"
     },
+    "744753118896166941": {
+        "name": "SupportBackpackType_MedicBackpack"
+    },
+    "5690760409550920280": {
+        "name": "SupportBackpackType_SupplyBackpack"
+    },
     "14314828040919828387": {
         "name": "DeployableType_Hellbomb"
     },
     "17297258079668724512": {
         "name": "DeployableType_AntiPersonnelMinefield"
     },
+    "17188493825552378619": {
+        "name": "DeployableType_AntiPersonnelMine"
+    },
     "2712008117028049500": {
         "name": "DeployableType_AntiTankMinefield"
+    },
+    "226457403917573050": {
+        "name": "DeployableType_AntiTankMine"
     },
     "13777321776887997010": {
         "name": "DeployableType_IncendiaryMinefield"
     },
+    "16472578507204645895": {
+        "name": "DeployableType_IncendiaryMine"
+    },
     "12220563120145251703": {
         "name": "DeployableType_GasMinefield"
+    },
+    "7579602584120852463": {
+        "name": "DeployableType_GasMine"
     },
     "17083241647592728848": {
         "name": "DeployableType_TeamShield"
@@ -653,6 +672,10 @@
     "18417602992972518459": {
         "name": "VehicleType_EmancipatorExosuit_RightArmGun"
     },
+    },
+    "16847153723028833967": {
+        "name": "VehicleType_SuperEarth_FRV"
+    },
     "14709257759554793401": {
         "name": "VehicleType_FRV"
     },
@@ -668,8 +691,14 @@
     "4872787481713797082": {
         "name": "VehicleType_Bastion_MountedHMG"
     },
+    "4773808446773069045": {
+        "name": "VehicleType_GATER"
+    },
     "10985104894119086333": {
         "name": "VehicleType_GATER_Turret"
+    },
+    "9839990240943553653": {
+        "name": "VehicleType_CargoTruck"
     },
     "1456507421651509424":{
         "name": "ThrowableType_Dynamite"
@@ -727,6 +756,21 @@
     },
     "1989119436006646583": {
         "name": "ThrowableType_PocketShield"
+    },
+    "11675163230052555240": {
+        "name": "ThrowableType_LureMine"
+    },
+    "10168990792011931162": {
+        "name": "ThrowableType_UnknownStickyGrenade"
+    },
+    "14770371728907552577": {
+        "name": "ThrowableType_Snowball"
+    },
+    "1653832383613497969": {
+        "name": "ThrowableType_StrategemBall"
+    },
+    "6918199871803715620": {
+        "name": "ThrowableType_DemocraticRattle"
     },
     "11398074038506794973": {
         "name": "BugEnemyType_BileTitan"
@@ -907,6 +951,12 @@
     },
     "11481777918278298912": {
         "name": "BotEnemyType_Trooper?"
+    },
+    "13988996217395781253": {
+        "name": "BotEnemyType_HighExplosiveGrenade"
+    },
+    "14532928027407155276": {
+        "name": "BotEnemyType_HighExplosiveGrenade"
     },
     "7258218216136199873": {
         "name": "BotEnemyType_Raider"
@@ -1114,6 +1164,9 @@
     },
     "17476252816949674262": {
         "name": "BotEnemyType_CyborgVoxEngineGatlingGun"
+    },
+    "15610193170761224894": {
+        "name": "BotEnemyType_FusionBattery"
     },
     "8710323923067153479": {
         "name": "IlluminateEnemyType_Voteless"

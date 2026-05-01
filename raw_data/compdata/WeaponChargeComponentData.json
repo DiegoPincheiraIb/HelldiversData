@@ -1,0 +1,584 @@
+{
+    "WeaponChargeComponentData": {
+        "items": [
+            {
+                "unique_id": "3772542677720106756",
+                "uid_name": "3772542677720106756",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 1.5,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 3.0,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 4.5,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 0.699999988,
+                    "speed_multiplier_overcharge": 1.399999976,
+                    "damage_multiplier_min": 1.0,
+                    "damage_multiplier_overcharge": 1.0,
+                    "penetration_multiplier_min": 1.0,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 1.0,
+                    "distance_multiplier_overcharge": 2.0,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 0,
+                "charge_stop_sound_id": 0,
+                "ready_to_fire_sound_id": 0,
+                "danger_overcharge_sound_id": 0,
+                "charge_mesh": 0,
+                "charge_material": 0,
+                "charge_variable": 3379599616,
+                "charge_up_muzzle_flash": "14140686769813675838",
+                "charge_up_muzzle_flash_loop": "15394504651290531889",
+                "charge_anim_id": 0,
+                "charge_end_anim_id": 0,
+                "charge_rate_anim_id": 0,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 0,
+                "overcharge_explosion_type": "EXPLOSION_TYPE_247",
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
+            },
+            {
+                "unique_id": "17664382055250362923",
+                "uid_name": "17664382055250362923",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 1.5,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 3.0,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 4.5,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 0.699999988,
+                    "speed_multiplier_overcharge": 1.399999976,
+                    "damage_multiplier_min": 1.0,
+                    "damage_multiplier_overcharge": 1.0,
+                    "penetration_multiplier_min": 1.0,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 1.0,
+                    "distance_multiplier_overcharge": 2.0,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 0,
+                "charge_stop_sound_id": 0,
+                "ready_to_fire_sound_id": 0,
+                "danger_overcharge_sound_id": 0,
+                "charge_mesh": 0,
+                "charge_material": 0,
+                "charge_variable": 3379599616,
+                "charge_up_muzzle_flash": "14140686769813675838",
+                "charge_up_muzzle_flash_loop": "15394504651290531889",
+                "charge_anim_id": 0,
+                "charge_end_anim_id": 0,
+                "charge_rate_anim_id": 0,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 0,
+                "overcharge_explosion_type": "EXPLOSION_TYPE_247",
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
+            },
+            {
+                "unique_id": "3460488074252222302",
+                "uid_name": "3460488074252222302",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 0.449999988,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 0.5,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 0.899999976,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 0.699999988,
+                    "speed_multiplier_overcharge": 1.0,
+                    "damage_multiplier_min": 1.0,
+                    "damage_multiplier_overcharge": 2.5,
+                    "penetration_multiplier_min": 1.0,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 0.699999988,
+                    "distance_multiplier_overcharge": 1.399999976,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 2496547220,
+                "charge_stop_sound_id": 4026870396,
+                "ready_to_fire_sound_id": 2643672476,
+                "danger_overcharge_sound_id": 3972604218,
+                "charge_mesh": 0,
+                "charge_material": 4075618851,
+                "charge_variable": 3379599616,
+                "charge_up_muzzle_flash": "9428621885183004596",
+                "charge_up_muzzle_flash_loop": "2325255826028161283",
+                "charge_anim_id": 0,
+                "charge_end_anim_id": 0,
+                "charge_rate_anim_id": 0,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 2,
+                "delay_between_extra_projectiles": 0.119999997,
+                "dry_fire_audio_event": 1837771762,
+                "overcharge_explosion_type": "EXPLOSION_TYPE_302",
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
+            },
+            {
+                "unique_id": "2616888780303759269",
+                "uid_name": "2616888780303759269",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 1.0,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 2.0,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 3.0,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 0.699999988,
+                    "speed_multiplier_overcharge": 1.0,
+                    "damage_multiplier_min": 1.0,
+                    "damage_multiplier_overcharge": 2.200000048,
+                    "penetration_multiplier_min": 0.699999988,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 0.699999988,
+                    "distance_multiplier_overcharge": 1.399999976,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 1364443767,
+                "charge_stop_sound_id": 3225180793,
+                "ready_to_fire_sound_id": 217870560,
+                "danger_overcharge_sound_id": 3972604218,
+                "charge_mesh": 0,
+                "charge_material": 0,
+                "charge_variable": 0,
+                "charge_up_muzzle_flash": "0",
+                "charge_up_muzzle_flash_loop": "0",
+                "charge_anim_id": 0,
+                "charge_end_anim_id": 0,
+                "charge_rate_anim_id": 0,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 1,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 0,
+                "overcharge_explosion_type": "EXPLOSION_TYPE_247",
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
+            },
+            {
+                "unique_id": "18102809172282470538",
+                "uid_name": "18102809172282470538",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 0.01,
+                        "projectile_type": "PROJ_TYPE_122",
+                        "muzzle_flash_effect": "10055084526880791407",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 1.0,
+                        "projectile_type": "PROJ_TYPE_276",
+                        "muzzle_flash_effect": "8143194268241733506",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 1.0,
+                        "projectile_type": "PROJ_TYPE_276",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 1.0,
+                    "speed_multiplier_overcharge": 1.0,
+                    "damage_multiplier_min": 0.5,
+                    "damage_multiplier_overcharge": 1.0,
+                    "penetration_multiplier_min": 1.0,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 0.699999988,
+                    "distance_multiplier_overcharge": 1.399999976,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 2924963139,
+                "charge_stop_sound_id": 2980208916,
+                "ready_to_fire_sound_id": 2109193558,
+                "danger_overcharge_sound_id": 648648688,
+                "charge_mesh": 0,
+                "charge_material": 0,
+                "charge_variable": 0,
+                "charge_up_muzzle_flash": "9428621885183004596",
+                "charge_up_muzzle_flash_loop": "2325255826028161283",
+                "charge_anim_id": 0,
+                "charge_end_anim_id": 0,
+                "charge_rate_anim_id": 0,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 1837771762,
+                "overcharge_explosion_type": "EXPLOSION_TYPE_247",
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
+            },
+            {
+                "unique_id": "12279528435724053588",
+                "uid_name": "12279528435724053588",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 0.01,
+                        "projectile_type": "PROJ_TYPE_065",
+                        "muzzle_flash_effect": "10055084526880791407",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 0.75,
+                        "projectile_type": "PROJ_TYPE_317",
+                        "muzzle_flash_effect": "8143194268241733506",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 3.0,
+                        "projectile_type": "PROJ_TYPE_317",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 1.0,
+                    "speed_multiplier_overcharge": 1.0,
+                    "damage_multiplier_min": 0.5,
+                    "damage_multiplier_overcharge": 1.0,
+                    "penetration_multiplier_min": 0.550000012,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 0.699999988,
+                    "distance_multiplier_overcharge": 1.399999976,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 2460993554,
+                "charge_stop_sound_id": 100308039,
+                "ready_to_fire_sound_id": 3222300288,
+                "danger_overcharge_sound_id": 0,
+                "charge_mesh": 0,
+                "charge_material": 0,
+                "charge_variable": 0,
+                "charge_up_muzzle_flash": "9428621885183004596",
+                "charge_up_muzzle_flash_loop": "2325255826028161283",
+                "charge_anim_id": 0,
+                "charge_end_anim_id": 0,
+                "charge_rate_anim_id": 0,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 1837771762,
+                "overcharge_explosion_type": "EXPLOSION_TYPE_247",
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
+            },
+            {
+                "unique_id": "10871298989420119782",
+                "uid_name": "10871298989420119782",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 1.0,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 1.100000024,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 1.200000048,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 0.699999988,
+                    "speed_multiplier_overcharge": 1.399999976,
+                    "damage_multiplier_min": 1.0,
+                    "damage_multiplier_overcharge": 1.0,
+                    "penetration_multiplier_min": 1.0,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 1.0,
+                    "distance_multiplier_overcharge": 1.0,
+                    "extra_arc_splits_min": 0.0,
+                    "extra_arc_splits_overcharge": 0.0,
+                    "extra_arc_chains_min": 0.0,
+                    "extra_arc_chains_overcharge": 0.0
+                },
+                "charge_start_sound_id": 1948764546,
+                "charge_stop_sound_id": 3315766729,
+                "ready_to_fire_sound_id": 0,
+                "danger_overcharge_sound_id": 0,
+                "charge_mesh": 0,
+                "charge_material": 3939295745,
+                "charge_variable": 3379599616,
+                "charge_up_muzzle_flash": "14140686769813675838",
+                "charge_up_muzzle_flash_loop": "15394504651290531889",
+                "charge_anim_id": 450287375,
+                "charge_end_anim_id": 698547094,
+                "charge_rate_anim_id": 1743663529,
+                "spin_speed_anim_id": 1100284942,
+                "auto_fire_in_safety": 0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 0,
+                "overcharge_explosion_type": "EXPLOSION_TYPE_247",
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
+            },
+            {
+                "unique_id": "16777584932715761236",
+                "uid_name": "16777584932715761236",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 1.0,
+                        "projectile_type": "PROJ_TYPE_155",
+                        "muzzle_flash_effect": "10055084526880791407",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 2.5,
+                        "projectile_type": "PROJ_TYPE_181",
+                        "muzzle_flash_effect": "8143194268241733506",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 2.599999905,
+                        "projectile_type": "PROJ_TYPE_181",
+                        "muzzle_flash_effect": "8143194268241733506",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 1.0,
+                    "speed_multiplier_overcharge": 1.0,
+                    "damage_multiplier_min": 1.0,
+                    "damage_multiplier_overcharge": 2.0,
+                    "penetration_multiplier_min": 1.0,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 0.699999988,
+                    "distance_multiplier_overcharge": 1.399999976,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 2923333349,
+                "charge_stop_sound_id": 4226901298,
+                "ready_to_fire_sound_id": 3911236321,
+                "danger_overcharge_sound_id": 3312421269,
+                "charge_mesh": 4221645464,
+                "charge_material": 2113163872,
+                "charge_variable": 3379599616,
+                "charge_up_muzzle_flash": "6876023898898999203",
+                "charge_up_muzzle_flash_loop": "18442382753590032466",
+                "charge_anim_id": 450287375,
+                "charge_end_anim_id": 698547094,
+                "charge_rate_anim_id": 450287375,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 0,
+                "unknown_B9": 0,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 1837771762,
+                "overcharge_explosion_type": "EXPLOSION_TYPE_298",
+                "unknown_CC": 2,
+                "unknown_D0": 3.25
+            },
+            {
+                "unique_id": "3358853937828503136",
+                "uid_name": "3358853937828503136",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 0.449999988,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 0.5,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 3.0,
+                        "projectile_type": "PROJ_TYPE_000",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 0.699999988,
+                    "speed_multiplier_overcharge": 1.0,
+                    "damage_multiplier_min": 1.0,
+                    "damage_multiplier_overcharge": 2.5,
+                    "penetration_multiplier_min": 1.0,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 0.699999988,
+                    "distance_multiplier_overcharge": 1.399999976,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 1364443767,
+                "charge_stop_sound_id": 3225180793,
+                "ready_to_fire_sound_id": 217870560,
+                "danger_overcharge_sound_id": 3972604218,
+                "charge_mesh": 4221645464,
+                "charge_material": 2113163872,
+                "charge_variable": 3379599616,
+                "charge_up_muzzle_flash": "3468653937030545541",
+                "charge_up_muzzle_flash_loop": "1103807549605234752",
+                "charge_anim_id": 0,
+                "charge_end_anim_id": 0,
+                "charge_rate_anim_id": 0,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 1837771762,
+                "overcharge_explosion_type": "EXPLOSION_TYPE_302",
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "3772542677720106756",
+                "type": "3772542677720106756"
+            },
+            {
+                "idx": 1,
+                "uid": "17664382055250362923",
+                "type": "17664382055250362923"
+            },
+            {
+                "idx": 2,
+                "uid": "3460488074252222302",
+                "type": "3460488074252222302"
+            },
+            {
+                "idx": 3,
+                "uid": "2616888780303759269",
+                "type": "2616888780303759269"
+            },
+            {
+                "idx": 4,
+                "uid": "18102809172282470538",
+                "type": "18102809172282470538"
+            },
+            {
+                "idx": 5,
+                "uid": "12279528435724053588",
+                "type": "12279528435724053588"
+            },
+            {
+                "idx": 6,
+                "uid": "10871298989420119782",
+                "type": "10871298989420119782"
+            },
+            {
+                "idx": 7,
+                "uid": "16777584932715761236",
+                "type": "16777584932715761236"
+            },
+            {
+                "idx": 8,
+                "uid": "3358853937828503136",
+                "type": "3358853937828503136"
+            }
+        ]
+    }
+}
