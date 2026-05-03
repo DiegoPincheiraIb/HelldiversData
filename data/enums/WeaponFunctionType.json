@@ -8,5 +8,9 @@
     "WeaponFunctionType_LaserGuide",
     "WeaponFunctionType_MuzzleVelocity",
     "WeaponFunctionType_ProgrammableAmmo",
-    "WeaponFunctionType_LaserPrism"
+    "WeaponFunctionType_LaserPrism",
+    "WEAPON_FUNCTION_010",
+    "WeaponFunctionType_DeployOrDetonate",
+    "WeaponFunctionType_UnderbarrelMagazine",
+    "WEAPON_FUNCTION_013"
 ]}

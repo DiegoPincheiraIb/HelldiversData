@@ -6,8 +6,8 @@
         "StatusEffectType_Deaf",
         "StatusEffectType_Confusion",
         "StatusEffectType_Fire",
-        "StatusEffectType_Lava",
         "StatusEffectType_Fire_Panic",
+        "StatusEffectType_Lava",
         "StatusEffectType_Slowed",
         "StatusEffectType_Rooted",
         "StatusEffectType_Acid_Splash",
@@ -31,6 +31,7 @@
         "StatusEffectType_Stim_Pistol_Heal",
         "StatusEffectType_Stim_Combat_Drugs",
         "StatusEffectType_Stim_Cooldown",
+        "StatusEffectType_BurningLight",
         "StatusEffectType_BurningHeavy",
         "StatusEffectType_RadiationLight",
         "StatusEffectType_RadiationHeavy",
@@ -56,8 +57,8 @@
         "StatusEffectType_Blizzard",
         "StatusEffectType_Acid_Storm",
         "StatusEffectType_Thick_Fog",
+        "StatusEffectType_Weather_Insulated",
         "StatusEffectType_Protected",
-        "StatusEffectType_Protected_MK2",
         "StatusEffectType_Dark_Fluid",
         "StatusEffectType_Death_March",
         "StatusEffectType_Hotshot_Laser_Rifle_RL1",
@@ -68,6 +69,7 @@
         "StatusEffectType_Constitution_Booster_Armor_Resistance",
         "StatusEffectType_Post_Mortem_Explosion",
         "StatusEffectType_Footage_Recorded",
+        "StatusEffectType_FlamerSlowed",
         "StatusEffectType_Count"
     ]
 }
