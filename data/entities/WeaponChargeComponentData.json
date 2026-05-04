@@ -2,6 +2,65 @@
     "WeaponChargeComponentData": {
         "items": [
             {
+                "unique_id": "3772542677720106756",
+                "uid_name": "3772542677720106756",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 1.5,
+                        "projectile_type": "ProjectileType_None",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 3.0,
+                        "projectile_type": "ProjectileType_None",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 4.5,
+                        "projectile_type": "ProjectileType_None",
+                        "muzzle_flash_effect": "0",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 0.699999988,
+                    "speed_multiplier_overcharge": 1.399999976,
+                    "damage_multiplier_min": 1.0,
+                    "damage_multiplier_overcharge": 1.0,
+                    "penetration_multiplier_min": 1.0,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 1.0,
+                    "distance_multiplier_overcharge": 2.0,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 0,
+                "charge_stop_sound_id": 0,
+                "ready_to_fire_sound_id": 0,
+                "danger_overcharge_sound_id": 0,
+                "charge_mesh": 0,
+                "charge_material": 0,
+                "charge_variable": 3379599616,
+                "charge_up_muzzle_flash": "14140686769813675838",
+                "charge_up_muzzle_flash_loop": "15394504651290531889",
+                "charge_anim_id": 0,
+                "charge_end_anim_id": 0,
+                "charge_rate_anim_id": 0,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 0,
+                "overcharge_explosion_type": "ExplosionType_DefaultOvercharge",
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
+            },
+            {
                 "unique_id": "17664382055250362923",
                 "uid_name": "17664382055250362923",
                 "charge_state_settings": [
@@ -52,16 +111,13 @@
                 "charge_rate_anim_id": 0,
                 "spin_speed_anim_id": 0,
                 "auto_fire_in_safety": 0,
-                "unknown_b9": 1,
-                "unknown_ba": 0,
-                "unknown_bb": 0,
-                "amount_extra_projectiles": 0,
-                "delay_extra_projectiles": 0.0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
                 "dry_fire_audio_event": 0,
                 "overcharge_explosion_type": "ExplosionType_DefaultOvercharge",
-                "unknown_cc": 2,
-                "unknown_d0": 0,
-                "unknown_d4": 0
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
             },
             {
                 "unique_id": "3460488074252222302",
@@ -114,16 +170,13 @@
                 "charge_rate_anim_id": 0,
                 "spin_speed_anim_id": 0,
                 "auto_fire_in_safety": 0,
-                "unknown_b9": 1,
-                "unknown_ba": 0,
-                "unknown_bb": 0,
-                "amount_extra_projectiles": 2,
-                "delay_extra_projectiles": 0.119999997,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 2,
+                "delay_between_extra_projectiles": 0.119999997,
                 "dry_fire_audio_event": 1837771762,
                 "overcharge_explosion_type": "ExplosionType_RailgunOvercharge",
-                "unknown_cc": 2,
-                "unknown_d0": 0,
-                "unknown_d4": 0
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
             },
             {
                 "unique_id": "2616888780303759269",
@@ -176,16 +229,13 @@
                 "charge_rate_anim_id": 0,
                 "spin_speed_anim_id": 0,
                 "auto_fire_in_safety": 1,
-                "unknown_b9": 1,
-                "unknown_ba": 0,
-                "unknown_bb": 0,
-                "amount_extra_projectiles": 0,
-                "delay_extra_projectiles": 0.0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
                 "dry_fire_audio_event": 0,
                 "overcharge_explosion_type": "ExplosionType_DefaultOvercharge",
-                "unknown_cc": 2,
-                "unknown_d0": 0,
-                "unknown_d4": 0
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
             },
             {
                 "unique_id": "18102809172282470538",
@@ -238,16 +288,13 @@
                 "charge_rate_anim_id": 0,
                 "spin_speed_anim_id": 0,
                 "auto_fire_in_safety": 0,
-                "unknown_b9": 1,
-                "unknown_ba": 0,
-                "unknown_bb": 0,
-                "amount_extra_projectiles": 0,
-                "delay_extra_projectiles": 0.0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
                 "dry_fire_audio_event": 1837771762,
                 "overcharge_explosion_type": "ExplosionType_DefaultOvercharge",
-                "unknown_cc": 2,
-                "unknown_d0": 0,
-                "unknown_d4": 0
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
             },
             {
                 "unique_id": "12279528435724053588",
@@ -260,7 +307,7 @@
                         "fire_single_audio": "0"
                     },
                     {
-                        "charge_time": 1.0,
+                        "charge_time": 0.75,
                         "projectile_type": "ProjectileType_Plasma_Pistol_Charge",
                         "muzzle_flash_effect": "8143194268241733506",
                         "fire_single_audio": "0"
@@ -300,16 +347,13 @@
                 "charge_rate_anim_id": 0,
                 "spin_speed_anim_id": 0,
                 "auto_fire_in_safety": 0,
-                "unknown_b9": 1,
-                "unknown_ba": 0,
-                "unknown_bb": 0,
-                "amount_extra_projectiles": 0,
-                "delay_extra_projectiles": 0.0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
                 "dry_fire_audio_event": 1837771762,
                 "overcharge_explosion_type": "ExplosionType_DefaultOvercharge",
-                "unknown_cc": 2,
-                "unknown_d0": 0,
-                "unknown_d4": 0
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
             },
             {
                 "unique_id": "10871298989420119782",
@@ -362,16 +406,13 @@
                 "charge_rate_anim_id": 1743663529,
                 "spin_speed_anim_id": 1100284942,
                 "auto_fire_in_safety": 0,
-                "unknown_b9": 1,
-                "unknown_ba": 0,
-                "unknown_bb": 0,
-                "amount_extra_projectiles": 0,
-                "delay_extra_projectiles": 0.0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
                 "dry_fire_audio_event": 0,
                 "overcharge_explosion_type": "ExplosionType_DefaultOvercharge",
-                "unknown_cc": 2,
-                "unknown_d0": 0,
-                "unknown_d4": 0
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
             },
             {
                 "unique_id": "16777584932715761236",
@@ -384,13 +425,13 @@
                         "fire_single_audio": "0"
                     },
                     {
-                        "charge_time": 2.0,
-                        "projectile_type": "ProjectileType_Plasma_Launcher_Charge_Small",
-                        "muzzle_flash_effect": "3848563064529616651",
+                        "charge_time": 2.5,
+                        "projectile_type": "ProjectileType_Plasma_Launcher_Charge",
+                        "muzzle_flash_effect": "8143194268241733506",
                         "fire_single_audio": "0"
                     },
                     {
-                        "charge_time": 2.5,
+                        "charge_time": 2.599999905,
                         "projectile_type": "ProjectileType_Plasma_Launcher_Charge",
                         "muzzle_flash_effect": "8143194268241733506",
                         "fire_single_audio": "0"
@@ -424,16 +465,13 @@
                 "charge_rate_anim_id": 450287375,
                 "spin_speed_anim_id": 0,
                 "auto_fire_in_safety": 0,
-                "unknown_b9": 0,
-                "unknown_ba": 0,
-                "unknown_bb": 0,
-                "amount_extra_projectiles": 0,
-                "delay_extra_projectiles": 0.0,
+                "unknown_B9": 0,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
                 "dry_fire_audio_event": 1837771762,
                 "overcharge_explosion_type": "ExplosionType_Plasma_Launcher_Overcharge",
-                "unknown_cc": 2,
-                "unknown_d0": 1077936128,
-                "unknown_d4": 0
+                "unknown_CC": 2,
+                "unknown_D0": 3.25
             },
             {
                 "unique_id": "3358853937828503136",
@@ -486,56 +524,58 @@
                 "charge_rate_anim_id": 0,
                 "spin_speed_anim_id": 0,
                 "auto_fire_in_safety": 0,
-                "unknown_b9": 1,
-                "unknown_ba": 0,
-                "unknown_bb": 0,
-                "amount_extra_projectiles": 0,
-                "delay_extra_projectiles": 0.0,
+                "unknown_B9": 1,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
                 "dry_fire_audio_event": 1837771762,
                 "overcharge_explosion_type": "ExplosionType_RailgunOvercharge",
-                "unknown_cc": 2,
-                "unknown_d0": 0,
-                "unknown_d4": 0
+                "unknown_CC": 2,
+                "unknown_D0": 0.0
             }
         ],
         "index_list": [
             {
                 "idx": 0,
+                "uid": "3772542677720106756",
+                "type": "3772542677720106756"
+            },
+            {
+                "idx": 1,
                 "uid": "17664382055250362923",
                 "type": "17664382055250362923"
             },
             {
-                "idx": 1,
+                "idx": 2,
                 "uid": "3460488074252222302",
                 "type": "PrimaryWeaponType_PlasmaSniper"
             },
             {
-                "idx": 2,
+                "idx": 3,
                 "uid": "2616888780303759269",
                 "type": "2616888780303759269"
             },
             {
-                "idx": 3,
+                "idx": 4,
                 "uid": "18102809172282470538",
                 "type": "PrimaryWeaponType_Purifier"
             },
             {
-                "idx": 4,
+                "idx": 5,
                 "uid": "12279528435724053588",
                 "type": "SecondaryWeaponType_Loyalist"
             },
             {
-                "idx": 5,
+                "idx": 6,
                 "uid": "10871298989420119782",
                 "type": "SupportWeaponType_ArcThrower"
             },
             {
-                "idx": 6,
+                "idx": 7,
                 "uid": "16777584932715761236",
                 "type": "SupportWeaponType_EpochPlasmaLauncher"
             },
             {
-                "idx": 7,
+                "idx": 8,
                 "uid": "3358853937828503136",
                 "type": "SupportWeaponType_Railgun"
             }

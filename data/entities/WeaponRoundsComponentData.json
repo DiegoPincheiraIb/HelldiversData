@@ -267,6 +267,112 @@
                 "magazine_anim_variable": 1258484571
             },
             {
+                "unique_id": "15911719089517557690",
+                "uid_name": "PrimaryWeaponType_SweeperShotgun",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "ProjectileType_Shotgun_8g_hp",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 7.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 70,
+                "ammo_refill": 70,
+                "ammo": 46,
+                "reload_amount": 1,
+                "reload_thresholds": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "chambered": 1,
+                "magazine_switch_audio": 0,
+                "magazine_0_weapon_anim": 0,
+                "magazine_0_wielder_anim": 0,
+                "magazine_1_weapon_anim": 0,
+                "magazine_1_wielder_anim": 0,
+                "magazine_anim_variable": 0
+            },
+            {
+                "unique_id": "8221051007693717489",
+                "uid_name": "PrimaryWeaponType_DoubleFreedomShotgun",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "ProjectileType_Shotgun_8g_mag_MK2",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 2.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 40,
+                "ammo_refill": 40,
+                "ammo": 22,
+                "reload_amount": 1,
+                "reload_thresholds": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "chambered": 0,
+                "magazine_switch_audio": 0,
+                "magazine_0_weapon_anim": 0,
+                "magazine_0_wielder_anim": 0,
+                "magazine_1_weapon_anim": 0,
+                "magazine_1_wielder_anim": 0,
+                "magazine_anim_variable": 0
+            },
+            {
                 "unique_id": "10438714418406872918",
                 "uid_name": "PrimaryWeaponType_M90AShotgun",
                 "ammo_infos": {
@@ -418,6 +524,112 @@
                     "y": 0.0
                 },
                 "chambered": 0,
+                "magazine_switch_audio": 0,
+                "magazine_0_weapon_anim": 0,
+                "magazine_0_wielder_anim": 0,
+                "magazine_1_weapon_anim": 0,
+                "magazine_1_wielder_anim": 0,
+                "magazine_anim_variable": 0
+            },
+            {
+                "unique_id": "201944147320653301",
+                "uid_name": "PrimaryWeaponType_OneTwo_GrenadeUnderbarrel",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "ProjectileType_Grenade_40mm_HE_Pistol",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 1.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 3,
+                "ammo_refill": 3,
+                "ammo": 2,
+                "reload_amount": 1,
+                "reload_thresholds": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "chambered": 1,
+                "magazine_switch_audio": 0,
+                "magazine_0_weapon_anim": 0,
+                "magazine_0_wielder_anim": 0,
+                "magazine_1_weapon_anim": 0,
+                "magazine_1_wielder_anim": 0,
+                "magazine_anim_variable": 0
+            },
+            {
+                "unique_id": "5905641205788913469",
+                "uid_name": "SupportWeaponType_C4Detonator",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "PROJ_TYPE_053",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 1.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 0,
+                "ammo_refill": 1,
+                "ammo": 0,
+                "reload_amount": 1,
+                "reload_thresholds": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "chambered": 1,
                 "magazine_switch_audio": 0,
                 "magazine_0_weapon_anim": 0,
                 "magazine_0_wielder_anim": 0,
@@ -614,7 +826,7 @@
                     }
                 },
                 "ammo_types": {
-                    "primary_projectile_type": "ProjectileType_Grenade_40mm_HEAT",
+                    "primary_projectile_type": "ProjectileType_Grenade_40mm_HE_Pistol",
                     "alternate_projectile_type": "ProjectileType_None"
                 },
                 "magazine_capacity": {
@@ -630,6 +842,59 @@
                     "y": 0.0
                 },
                 "chambered": 1,
+                "magazine_switch_audio": 0,
+                "magazine_0_weapon_anim": 0,
+                "magazine_0_wielder_anim": 0,
+                "magazine_1_weapon_anim": 0,
+                "magazine_1_wielder_anim": 0,
+                "magazine_anim_variable": 0
+            },
+            {
+                "unique_id": "14375697644675127823",
+                "uid_name": "SecondaryWeaponType_VetoPistol",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "ProjectileType_Pistol_12x50mm_jet",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 12.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 90,
+                "ammo_refill": 90,
+                "ammo": 52,
+                "reload_amount": 6,
+                "reload_thresholds": {
+                    "x": 7.0,
+                    "y": 0.0
+                },
+                "chambered": 0,
                 "magazine_switch_audio": 0,
                 "magazine_0_weapon_anim": 0,
                 "magazine_0_wielder_anim": 0,
@@ -825,51 +1090,76 @@
             },
             {
                 "idx": 5,
+                "uid": "15911719089517557690",
+                "type": "PrimaryWeaponType_SweeperShotgun"
+            },
+            {
+                "idx": 6,
+                "uid": "8221051007693717489",
+                "type": "PrimaryWeaponType_DoubleFreedomShotgun"
+            },
+            {
+                "idx": 7,
                 "uid": "10438714418406872918",
                 "type": "PrimaryWeaponType_M90AShotgun"
             },
             {
-                "idx": 6,
+                "idx": 8,
                 "uid": "15470422196992643923",
                 "type": "SecondaryWeaponType_StimPistol"
             },
             {
-                "idx": 7,
+                "idx": 9,
                 "uid": "5910727434981086692",
                 "type": "SupportWeaponType_BreakActionShotgun"
             },
             {
-                "idx": 8,
+                "idx": 10,
+                "uid": "201944147320653301",
+                "type": "PrimaryWeaponType_OneTwo_GrenadeUnderbarrel"
+            },
+            {
+                "idx": 11,
+                "uid": "5905641205788913469",
+                "type": "SupportWeaponType_C4Detonator"
+            },
+            {
+                "idx": 12,
                 "uid": "8896268509512551590",
                 "type": "PrimaryWeaponType_Constitution"
             },
             {
-                "idx": 9,
+                "idx": 13,
                 "uid": "16634382492500136054",
                 "type": "PrimaryWeaponType_Deadeye"
             },
             {
-                "idx": 10,
+                "idx": 14,
                 "uid": "3109983482551492476",
                 "type": "SecondaryWeaponType_Bushwhacker"
             },
             {
-                "idx": 11,
+                "idx": 15,
                 "uid": "5972955417680186543",
                 "type": "SecondaryWeaponType_GrenadePistol"
             },
             {
-                "idx": 12,
+                "idx": 16,
+                "uid": "14375697644675127823",
+                "type": "SecondaryWeaponType_VetoPistol"
+            },
+            {
+                "idx": 17,
                 "uid": "10177381595962512386",
                 "type": "SecondaryWeaponType_Senator"
             },
             {
-                "idx": 13,
+                "idx": 18,
                 "uid": "12164217308285983839",
                 "type": "SupportWeaponType_Autocannon"
             },
             {
-                "idx": 14,
+                "idx": 19,
                 "uid": "18319281757224320923",
                 "type": "SupportWeaponType_DescalatorGrenadeLauncher"
             }

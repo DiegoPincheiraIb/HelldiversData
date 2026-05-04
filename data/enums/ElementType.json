@@ -5,6 +5,7 @@
     "ElementType_Acid",
     "ElementType_Bleed",
     "ElementType_Gas",
-    "ElementType_006",
+    "ElementType_IlluminatePlasma",
+    "ELEMENT_TYPE_007",
     "ElementType_Count"
 ]}

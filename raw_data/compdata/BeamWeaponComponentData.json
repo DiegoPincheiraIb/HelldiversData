@@ -1,0 +1,928 @@
+{
+    "BeamWeaponComponentData": {
+        "items": [
+            {
+                "unique_id": "613393768869121221",
+                "uid_name": "613393768869121221",
+                "beam_type": "BEAM_TYPE_013",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 0,
+                "fire_loop_stop_audio_event": 0,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "8859811321112716539",
+                "noise_timer": 0.25,
+                "fire_source_node": 747556395,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "1461651812919345568",
+                "uid_name": "1461651812919345568",
+                "beam_type": "BEAM_TYPE_025",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 0,
+                "fire_loop_stop_audio_event": 0,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "1972006519445982030",
+                "noise_timer": 0.25,
+                "fire_source_node": 747556395,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "3641453212932526628",
+                "uid_name": "3641453212932526628",
+                "beam_type": "BEAM_TYPE_011",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 1337735903,
+                "fire_loop_stop_audio_event": 828944125,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "9107034086869126613",
+                "noise_timer": 0.25,
+                "fire_source_node": 1243096897,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "614861366208420748",
+                "uid_name": "614861366208420748",
+                "beam_type": "BEAM_TYPE_002",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 0.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 1337735903,
+                "fire_loop_stop_audio_event": 828944125,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "2610715712599480522",
+                "noise_timer": 0.25,
+                "fire_source_node": 2601604451,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "5144175457539518005",
+                "uid_name": "5144175457539518005",
+                "beam_type": "BEAM_TYPE_004",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 0,
+                "fire_loop_stop_audio_event": 0,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "9107034086869126613",
+                "noise_timer": 0.25,
+                "fire_source_node": 1243096897,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "3115424944814506132",
+                "uid_name": "3115424944814506132",
+                "beam_type": "BEAM_TYPE_008",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 3708388414,
+                "fire_loop_stop_audio_event": 409737216,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "15870481001909367221",
+                "noise_timer": 0.25,
+                "fire_source_node": 2601604451,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "14314053197173495724",
+                "uid_name": "14314053197173495724",
+                "beam_type": "BEAM_TYPE_011",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 0,
+                "fire_loop_stop_audio_event": 0,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "9107034086869126613",
+                "noise_timer": 0.25,
+                "fire_source_node": 1243096897,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "5635164431422178553",
+                "uid_name": "5635164431422178553",
+                "beam_type": "BEAM_TYPE_019",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 0,
+                "fire_loop_stop_audio_event": 0,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "8859811321112716539",
+                "noise_timer": 0.25,
+                "fire_source_node": 747556395,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "6198940140191066280",
+                "uid_name": "6198940140191066280",
+                "beam_type": "BEAM_TYPE_009",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 2192302417,
+                "fire_loop_stop_audio_event": 3443717383,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "9107034086869126613",
+                "noise_timer": 0.25,
+                "fire_source_node": 747556395,
+                "dry_fire_audio_event": 1972314068,
+                "dry_fire_repeat_audio_event": 619824322,
+                "on_fire_started_wielder_anim_event": 2631304082,
+                "on_fire_stopped_wielder_anim_event": 489713550,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "1837707428311856638",
+                "uid_name": "1837707428311856638",
+                "beam_type": "BEAM_TYPE_021",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 1337735903,
+                "fire_loop_stop_audio_event": 828944125,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "9107034086869126613",
+                "noise_timer": 0.25,
+                "fire_source_node": 2601604451,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "16763036627779227620",
+                "uid_name": "16763036627779227620",
+                "beam_type": "BEAM_TYPE_020",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 2492921472,
+                "fire_loop_stop_audio_event": 196103212,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "9107034086869126613",
+                "noise_timer": 0.25,
+                "fire_source_node": 1243096897,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "17408108687437120663",
+                "uid_name": "17408108687437120663",
+                "beam_type": "BEAM_TYPE_019",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 0,
+                "fire_loop_stop_audio_event": 0,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "8859811321112716539",
+                "noise_timer": 0.25,
+                "fire_source_node": 747556395,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "8848249281094032864",
+                "uid_name": "8848249281094032864",
+                "beam_type": "BEAM_TYPE_019",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 0,
+                "fire_loop_stop_audio_event": 0,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "8859811321112716539",
+                "noise_timer": 0.25,
+                "fire_source_node": 747556395,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "3973443609256024694",
+                "uid_name": "3973443609256024694",
+                "beam_type": "BEAM_TYPE_003",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 3440814238,
+                "fire_loop_stop_audio_event": 2553182014,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "0",
+                "noise_timer": 0.25,
+                "fire_source_node": 2601604451,
+                "dry_fire_audio_event": 1972314068,
+                "dry_fire_repeat_audio_event": 619824322,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "3199457897835937068",
+                "uid_name": "3199457897835937068",
+                "beam_type": "BEAM_TYPE_022",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 0.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 2117740806,
+                "fire_loop_stop_audio_event": 3927165688,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "11385957211273278469",
+                "noise_timer": 0.25,
+                "fire_source_node": 2601604451,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "2877271129141764950",
+                "uid_name": "2877271129141764950",
+                "beam_type": "BEAM_TYPE_007",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 3708388414,
+                "fire_loop_stop_audio_event": 409737216,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "11385957211273278469",
+                "noise_timer": 0.25,
+                "fire_source_node": 2601604451,
+                "dry_fire_audio_event": 1972314068,
+                "dry_fire_repeat_audio_event": 619824322,
+                "on_fire_started_wielder_anim_event": 1694094985,
+                "on_fire_stopped_wielder_anim_event": 1786122532,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "4361428863637469552",
+                "uid_name": "4361428863637469552",
+                "beam_type": "BEAM_TYPE_005",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 0,
+                "fire_loop_stop_audio_event": 0,
+                "fire_single_audio_event": 914815718,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "11385957211273278469",
+                "noise_timer": 0.25,
+                "fire_source_node": 2601604451,
+                "dry_fire_audio_event": 1972314068,
+                "dry_fire_repeat_audio_event": 619824322,
+                "on_fire_started_wielder_anim_event": 1694094985,
+                "on_fire_stopped_wielder_anim_event": 1786122532,
+                "fire_rounds": 1,
+                "rpm": 300,
+                "beam_count": 2
+            },
+            {
+                "unique_id": "5731472083741485993",
+                "uid_name": "5731472083741485993",
+                "beam_type": "BEAM_TYPE_012",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 3708388414,
+                "fire_loop_stop_audio_event": 409737216,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "0",
+                "noise_timer": 0.25,
+                "fire_source_node": 1464994495,
+                "dry_fire_audio_event": 0,
+                "dry_fire_repeat_audio_event": 0,
+                "on_fire_started_wielder_anim_event": 0,
+                "on_fire_stopped_wielder_anim_event": 0,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "8864800879179811976",
+                "uid_name": "8864800879179811976",
+                "beam_type": "BEAM_TYPE_010",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 1573814625,
+                "fire_loop_stop_audio_event": 3935454263,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "2200167325228221039",
+                "noise_timer": 0.25,
+                "fire_source_node": 2601604451,
+                "dry_fire_audio_event": 779413565,
+                "dry_fire_repeat_audio_event": 4027796040,
+                "on_fire_started_wielder_anim_event": 182456922,
+                "on_fire_stopped_wielder_anim_event": 2458244727,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            },
+            {
+                "unique_id": "15369542005276747891",
+                "uid_name": "15369542005276747891",
+                "beam_type": "BEAM_TYPE_001",
+                "beam_prisms": {
+                    "light_beam_type": "BEAM_TYPE_000",
+                    "light_heat_generation_mul": 1.0,
+                    "heavy_beam_type": "BEAM_TYPE_000",
+                    "heavy_heat_generation_mul": 1.0
+                },
+                "scope_crosshair": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "focal_distances": {
+                    "x": 50.0,
+                    "y": 100.0,
+                    "z": 200.0
+                },
+                "firenode_pose_limit": 180.0,
+                "use_midi_event_system": 0,
+                "midi_timing_randomisation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "midi_stop_delay": 0.0,
+                "fire_loop_start_audio_event": 1337735903,
+                "fire_loop_stop_audio_event": 828944125,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "muzzle_flash": "9107034086869126613",
+                "noise_timer": 0.25,
+                "fire_source_node": 2601604451,
+                "dry_fire_audio_event": 1972314068,
+                "dry_fire_repeat_audio_event": 619824322,
+                "on_fire_started_wielder_anim_event": 2631304082,
+                "on_fire_stopped_wielder_anim_event": 489713550,
+                "fire_rounds": 0,
+                "rpm": 60,
+                "beam_count": 1
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "613393768869121221",
+                "type": "613393768869121221"
+            },
+            {
+                "idx": 1,
+                "uid": "1461651812919345568",
+                "type": "1461651812919345568"
+            },
+            {
+                "idx": 2,
+                "uid": "3641453212932526628",
+                "type": "3641453212932526628"
+            },
+            {
+                "idx": 3,
+                "uid": "614861366208420748",
+                "type": "614861366208420748"
+            },
+            {
+                "idx": 4,
+                "uid": "5144175457539518005",
+                "type": "5144175457539518005"
+            },
+            {
+                "idx": 5,
+                "uid": "3115424944814506132",
+                "type": "3115424944814506132"
+            },
+            {
+                "idx": 6,
+                "uid": "14314053197173495724",
+                "type": "14314053197173495724"
+            },
+            {
+                "idx": 7,
+                "uid": "5635164431422178553",
+                "type": "5635164431422178553"
+            },
+            {
+                "idx": 8,
+                "uid": "6198940140191066280",
+                "type": "6198940140191066280"
+            },
+            {
+                "idx": 9,
+                "uid": "1837707428311856638",
+                "type": "1837707428311856638"
+            },
+            {
+                "idx": 10,
+                "uid": "16763036627779227620",
+                "type": "16763036627779227620"
+            },
+            {
+                "idx": 11,
+                "uid": "17408108687437120663",
+                "type": "17408108687437120663"
+            },
+            {
+                "idx": 12,
+                "uid": "8848249281094032864",
+                "type": "8848249281094032864"
+            },
+            {
+                "idx": 13,
+                "uid": "3973443609256024694",
+                "type": "3973443609256024694"
+            },
+            {
+                "idx": 14,
+                "uid": "3199457897835937068",
+                "type": "3199457897835937068"
+            },
+            {
+                "idx": 15,
+                "uid": "2877271129141764950",
+                "type": "2877271129141764950"
+            },
+            {
+                "idx": 16,
+                "uid": "4361428863637469552",
+                "type": "4361428863637469552"
+            },
+            {
+                "idx": 17,
+                "uid": "5731472083741485993",
+                "type": "5731472083741485993"
+            },
+            {
+                "idx": 18,
+                "uid": "8864800879179811976",
+                "type": "8864800879179811976"
+            },
+            {
+                "idx": 19,
+                "uid": "15369542005276747891",
+                "type": "15369542005276747891"
+            }
+        ]
+    }
+}

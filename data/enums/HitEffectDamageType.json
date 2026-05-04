@@ -13,5 +13,9 @@
     "HitEffectDamageType_SlashingLarge",
     "HitEffectDamageType_VehicleStep",
     "HitEffectDamageType_PiercingSmallStim",
+    "HIT_EFFECT_DAMAGE_TYPE_014",
+    "HitEffectDamageType_Dart",
+    "HIT_EFFECT_DAMAGE_TYPE_016",
+    "HitEffectDamageType_VideoCamera",
     "HitEffectDamageType_Count"
 ]}

@@ -1,11 +1,38 @@
 {
-  "518600486455451088": {
-    "recharge_time": 8
-  },
-  "6468799106264970105": {
-    "recharge_time": 15
-  },
-  "6829725667368330959": {
-    "recharge_time": 11.5
-  }
+    "RechargeComponentData": {
+        "items": [
+            {
+                "unique_id": "6829725667368330959",
+                "uid_name": "SupportBackpackType_Hoverpack",
+                "recharge_time": 11.5
+            },
+            {
+                "unique_id": "6468799106264970105",
+                "uid_name": "SupportBackpackType_Jumppack",
+                "recharge_time": 15.0
+            },
+            {
+                "unique_id": "518600486455451088",
+                "uid_name": "SupportBackpackType_DarkFluidJumppack",
+                "recharge_time": 8.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "6829725667368330959",
+                "type": "SupportBackpackType_Hoverpack"
+            },
+            {
+                "idx": 1,
+                "uid": "6468799106264970105",
+                "type": "SupportBackpackType_Jumppack"
+            },
+            {
+                "idx": 2,
+                "uid": "518600486455451088",
+                "type": "SupportBackpackType_DarkFluidJumppack"
+            }
+        ]
+    }
 }
