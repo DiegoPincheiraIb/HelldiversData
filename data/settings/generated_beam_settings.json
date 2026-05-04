@@ -157,7 +157,7 @@
                     "unknown_5C": 0
                 },
                 {
-                    "type": "BEAM_TYPE_009",
+                    "type": "BeamType_LaserSentry",
                     "radius": 0.0,
                     "length": 200.0,
                     "damage_info_type": "DamageInfoType_DPS_BeamLarge",
@@ -289,10 +289,10 @@
                     "unknown_5C": 0
                 },
                 {
-                    "type": "BEAM_TYPE_013",
+                    "type": "BeamType_GazerEye",
                     "radius": 0.0,
                     "length": 1000.0,
-                    "damage_info_type": "DMG_TYPE_492",
+                    "damage_info_type": "DamageInfoType_DPS_GazerEye",
                     "focal_shoulder_width": 0.0,
                     "decal_size": 0.150000006,
                     "surface_impact_type": "SURFACE_IMPACT_TYPE_027",
@@ -314,7 +314,7 @@
                     "type": "BEAM_TYPE_019",
                     "radius": 0.0,
                     "length": 1000.0,
-                    "damage_info_type": "DMG_TYPE_491",
+                    "damage_info_type": "DMG_TYPE_502",
                     "focal_shoulder_width": 0.0,
                     "decal_size": 0.150000006,
                     "surface_impact_type": "SURFACE_IMPACT_TYPE_027",
@@ -336,7 +336,7 @@
                     "type": "BEAM_TYPE_025",
                     "radius": 0.0,
                     "length": 1000.0,
-                    "damage_info_type": "DMG_TYPE_493",
+                    "damage_info_type": "DMG_TYPE_504",
                     "focal_shoulder_width": 0.0,
                     "decal_size": 0.25,
                     "surface_impact_type": "SURFACE_IMPACT_TYPE_027",
@@ -358,7 +358,7 @@
                     "type": "BEAM_TYPE_023",
                     "radius": 0.0,
                     "length": 1000.0,
-                    "damage_info_type": "DMG_TYPE_495",
+                    "damage_info_type": "DMG_TYPE_506",
                     "focal_shoulder_width": 0.0,
                     "decal_size": 0.150000006,
                     "surface_impact_type": "SURFACE_IMPACT_TYPE_000",
@@ -380,7 +380,7 @@
                     "type": "BEAM_TYPE_018",
                     "radius": 0.0,
                     "length": 1000.0,
-                    "damage_info_type": "DMG_TYPE_495",
+                    "damage_info_type": "DMG_TYPE_506",
                     "focal_shoulder_width": 0.0,
                     "decal_size": 0.150000006,
                     "surface_impact_type": "SURFACE_IMPACT_TYPE_000",
@@ -402,7 +402,7 @@
                     "type": "BEAM_TYPE_016",
                     "radius": 0.0,
                     "length": 1000.0,
-                    "damage_info_type": "DMG_TYPE_495",
+                    "damage_info_type": "DMG_TYPE_506",
                     "focal_shoulder_width": 0.0,
                     "decal_size": 0.150000006,
                     "surface_impact_type": "SURFACE_IMPACT_TYPE_000",
@@ -424,7 +424,7 @@
                     "type": "BEAM_TYPE_020",
                     "radius": 0.0,
                     "length": 1000.0,
-                    "damage_info_type": "DMG_TYPE_494",
+                    "damage_info_type": "DMG_TYPE_505",
                     "focal_shoulder_width": 0.0,
                     "decal_size": 0.150000006,
                     "surface_impact_type": "SURFACE_IMPACT_TYPE_027",
@@ -481,7 +481,7 @@
                     "overlap_beam_query": 2435390391,
                     "effect_damage_type": "HitEffectDamageType_BeamLarge",
                     "unknown_4C": 0.5,
-                    "unknown_50": 319,
+                    "unknown_50": 322,
                     "unknown_54": 1,
                     "unknown_58": 5,
                     "unknown_5C": 0
@@ -622,7 +622,7 @@
                     "idx": 7,
                     "hex_id": "7",
                     "type_num": 9,
-                    "type_str": "BEAM_TYPE_009"
+                    "type_str": "BeamType_LaserSentry"
                 },
                 {
                     "idx": 8,
@@ -658,7 +658,7 @@
                     "idx": 13,
                     "hex_id": "D",
                     "type_num": 13,
-                    "type_str": "BEAM_TYPE_013"
+                    "type_str": "BeamType_GazerEye"
                 },
                 {
                     "idx": 14,

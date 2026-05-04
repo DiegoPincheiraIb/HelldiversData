@@ -139,8 +139,8 @@
                     "audio_event_master_only": 0,
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
-                    "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_added": 4224911188,
+                    "notify_event_on_removed": 47623951
                 },
                 {
                     "type": "StatusEffectType_Lava",
@@ -1548,34 +1548,6 @@
                     "notify_event_on_removed": 0
                 },
                 {
-                    "type": "StatusEffectType_Thick_Fog",
-                    "debug_name": "Thick_Fog",
-                    "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
-                    "shading_environment": "0",
-                    "shading_environment_fade_time": 0.0,
-                    "strength": 0.400000006,
-                    "duration": 1.0,
-                    "damage_info_type": "DamageInfoType_None",
-                    "damage_ignore_avatar_armor": 0,
-                    "particle_effect_path": "0",
-                    "script_event_start": 0,
-                    "script_event_stop": 0,
-                    "audio_event_start": 0,
-                    "audio_event_stop": 0,
-                    "audio_event_enter": 0,
-                    "audio_event_exit": 0,
-                    "animation_event_start": 0,
-                    "animation_event_stop": 0,
-                    "difficult_terrain_amount": 0.0,
-                    "unique_effect": 0,
-                    "no_susceptibility_required": 1,
-                    "audio_event_master_only": 0,
-                    "block_sprint": 0,
-                    "modified_stats_multipliers": [],
-                    "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
-                },
-                {
                     "type": "StatusEffectType_Weather_Insulated",
                     "debug_name": "Weather_Insulated",
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
@@ -1943,6 +1915,34 @@
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
                     "notify_event_on_removed": 0
+                },
+                {
+                    "type": "StatusEffectType_Gloom",
+                    "debug_name": "Gloom",
+                    "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
+                    "shading_environment": "9531806250974619533",
+                    "shading_environment_fade_time": 1.5,
+                    "strength": 4.0,
+                    "duration": 6.0,
+                    "damage_info_type": "DamageInfoType_DPS_Gas",
+                    "damage_ignore_avatar_armor": 0,
+                    "particle_effect_path": "0",
+                    "script_event_start": 0,
+                    "script_event_stop": 0,
+                    "audio_event_start": 3351259345,
+                    "audio_event_stop": 502397462,
+                    "audio_event_enter": 0,
+                    "audio_event_exit": 0,
+                    "animation_event_start": 0,
+                    "animation_event_stop": 0,
+                    "difficult_terrain_amount": 0.0,
+                    "unique_effect": 0,
+                    "no_susceptibility_required": 0,
+                    "audio_event_master_only": 0,
+                    "block_sprint": 0,
+                    "modified_stats_multipliers": [],
+                    "notify_event_on_added": 2415833742,
+                    "notify_event_on_removed": 4083836255
                 }
             ],
             "index_list": [
@@ -2280,85 +2280,85 @@
                     "idx": 55,
                     "hex_id": "37",
                     "type_num": 56,
-                    "type_str": "StatusEffectType_Thick_Fog"
+                    "type_str": "StatusEffectType_Weather_Insulated"
                 },
                 {
                     "idx": 56,
                     "hex_id": "38",
                     "type_num": 57,
-                    "type_str": "StatusEffectType_Weather_Insulated"
+                    "type_str": "StatusEffectType_Protected"
                 },
                 {
                     "idx": 57,
                     "hex_id": "39",
                     "type_num": 58,
-                    "type_str": "StatusEffectType_Protected"
+                    "type_str": "StatusEffectType_Dark_Fluid"
                 },
                 {
                     "idx": 58,
                     "hex_id": "3A",
                     "type_num": 59,
-                    "type_str": "StatusEffectType_Dark_Fluid"
+                    "type_str": "StatusEffectType_Death_March"
                 },
                 {
                     "idx": 59,
                     "hex_id": "3B",
                     "type_num": 60,
-                    "type_str": "StatusEffectType_Death_March"
+                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL1"
                 },
                 {
                     "idx": 60,
                     "hex_id": "3C",
                     "type_num": 61,
-                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL1"
+                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL2"
                 },
                 {
                     "idx": 61,
                     "hex_id": "3D",
                     "type_num": 62,
-                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL2"
+                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL3"
                 },
                 {
                     "idx": 62,
                     "hex_id": "3E",
                     "type_num": 63,
-                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL3"
+                    "type_str": "StatusEffectType_Illuminate_Scrambler"
                 },
                 {
                     "idx": 63,
                     "hex_id": "3F",
                     "type_num": 64,
-                    "type_str": "StatusEffectType_Illuminate_Scrambler"
+                    "type_str": "StatusEffectType_Constitution"
                 },
                 {
                     "idx": 64,
                     "hex_id": "40",
                     "type_num": 65,
-                    "type_str": "StatusEffectType_Constitution"
+                    "type_str": "StatusEffectType_Constitution_Booster_Armor_Resistance"
                 },
                 {
                     "idx": 65,
                     "hex_id": "41",
                     "type_num": 66,
-                    "type_str": "StatusEffectType_Constitution_Booster_Armor_Resistance"
+                    "type_str": "StatusEffectType_Post_Mortem_Explosion"
                 },
                 {
                     "idx": 66,
                     "hex_id": "42",
                     "type_num": 67,
-                    "type_str": "StatusEffectType_Post_Mortem_Explosion"
+                    "type_str": "StatusEffectType_Footage_Recorded"
                 },
                 {
                     "idx": 67,
                     "hex_id": "43",
                     "type_num": 68,
-                    "type_str": "StatusEffectType_Footage_Recorded"
+                    "type_str": "StatusEffectType_FlamerSlowed"
                 },
                 {
                     "idx": 68,
                     "hex_id": "44",
                     "type_num": 69,
-                    "type_str": "StatusEffectType_FlamerSlowed"
+                    "type_str": "StatusEffectType_Gloom"
                 }
             ]
         }
@@ -2895,28 +2895,6 @@
                     "needs_to_hit_valid_actor": 0
                 },
                 {
-                    "type": "StatusEffectTemplateType_Thick_Fog",
-                    "effects": [
-                        {
-                            "type": "StatusEffectType_Thick_Fog",
-                            "value_per_second": 1.0
-                        },
-                        {
-                            "type": "StatusEffectType_None",
-                            "value_per_second": 1.0
-                        },
-                        {
-                            "type": "StatusEffectType_None",
-                            "value_per_second": 1.0
-                        },
-                        {
-                            "type": "StatusEffectType_None",
-                            "value_per_second": 1.0
-                        }
-                    ],
-                    "needs_to_hit_valid_actor": 0
-                },
-                {
                     "type": "StatusEffectTemplateType_Protected",
                     "effects": [
                         {
@@ -2991,6 +2969,28 @@
                         },
                         {
                             "type": "StatusEffectType_Fire",
+                            "value_per_second": 1.0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value_per_second": 1.0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
+                            "value_per_second": 1.0
+                        }
+                    ],
+                    "needs_to_hit_valid_actor": 0
+                },
+                {
+                    "type": "StatusEffectTemplateType_Gloom",
+                    "effects": [
+                        {
+                            "type": "StatusEffectType_Gloom",
+                            "value_per_second": 3.0
+                        },
+                        {
+                            "type": "StatusEffectType_None",
                             "value_per_second": 1.0
                         },
                         {
@@ -3154,31 +3154,31 @@
                     "idx": 24,
                     "hex_id": "18",
                     "type_num": 25,
-                    "type_str": "StatusEffectTemplateType_Thick_Fog"
+                    "type_str": "StatusEffectTemplateType_Protected"
                 },
                 {
                     "idx": 25,
                     "hex_id": "19",
                     "type_num": 26,
-                    "type_str": "StatusEffectTemplateType_Protected"
+                    "type_str": "StatusEffectTemplateType_Protected_MK2"
                 },
                 {
                     "idx": 26,
                     "hex_id": "1A",
                     "type_num": 27,
-                    "type_str": "StatusEffectTemplateType_Protected_MK2"
+                    "type_str": "StatusEffectTemplateType_Dark_Fluid"
                 },
                 {
                     "idx": 27,
                     "hex_id": "1B",
                     "type_num": 28,
-                    "type_str": "StatusEffectTemplateType_Dark_Fluid"
+                    "type_str": "StatusEffectTemplateType_Flamethrower_MK2"
                 },
                 {
                     "idx": 28,
                     "hex_id": "1C",
                     "type_num": 29,
-                    "type_str": "StatusEffectTemplateType_Flamethrower_MK2"
+                    "type_str": "StatusEffectTemplateType_Gloom"
                 }
             ]
         }

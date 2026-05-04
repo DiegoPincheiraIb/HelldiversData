@@ -25,11 +25,11 @@
         "StatusEffectTemplateType_Snowstorm",
         "StatusEffectTemplateType_Blizzard",
         "StatusEffectTemplateType_Acid_Storm",
-        "StatusEffectTemplateType_Thick_Fog",
         "StatusEffectTemplateType_Protected",
         "StatusEffectTemplateType_Protected_MK2",
         "StatusEffectTemplateType_Dark_Fluid",
         "StatusEffectTemplateType_Flamethrower_MK2",
+        "StatusEffectTemplateType_Gloom",
         "StatusEffectTemplateType_Count"
     ]
 }
