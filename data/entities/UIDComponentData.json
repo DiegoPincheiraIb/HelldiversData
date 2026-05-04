@@ -92,6 +92,9 @@
     "13722729806569931406": {
         "name": "PrimaryWeaponType_M7SSMG"
     },
+    "1760530725124205338": {
+        "name": "PrimaryWeaponType_Gallant"
+    },
     "4749824949454633632":{
         "name": "PrimaryWeaponType_Punisher"
     },
@@ -212,6 +215,9 @@
     "14375697644675127823": {
         "name": "SecondaryWeaponType_VetoPistol"
     },
+    "1501339492476700580": {
+        "name": "SecondaryWeaponType_MissilePistol"
+    },
     "9927421484392399367": {
         "name": "SupportWeaponType_AntiMaterielRifle"
     },
@@ -296,6 +302,8 @@
     "8509380141312129223": {
         "name": "SupportWeaponType_Leveller"
     },
+    "12784766379234794359": {
+        "name": "SupportWeaponType_ExpendableMachineGun"
     },
     "15986416455258940649": {
         "name": "SupportWeaponType_MiniMissileSilo"
@@ -672,6 +680,23 @@
     "18417602992972518459": {
         "name": "VehicleType_EmancipatorExosuit_RightArmGun"
     },
+    "3880965223585101348": {
+        "name": "VehicleType_BreakthroughExoSuit"
+    },
+    "7298250363396168598": {
+        "name": "VehicleType_BreakthroughExoSuit_Shield"
+    },
+    "16091922826775401662": {
+        "name": "VehicleType_BreakthroughExoSuit_FlakCannon"
+    },
+    "8872978533108711529": {
+        "name": "VehicleType_LumbererExoSuit"
+    },
+    "519812688473392934": {
+        "name": "VehicleType_LumbererExoSuit_Flamethrower"
+    },
+    "1713005226859818540": {
+        "name": "VehicleType_LumbererExoSuit_AntiTankCannon"
     },
     "16847153723028833967": {
         "name": "VehicleType_SuperEarth_FRV"
@@ -900,6 +925,9 @@
     },
     "17672347716099392046": {
         "name": "BugEnemyType_Stalker"
+    },
+    "17223114646267339927": {
+        "name": "BugEnemyType_SporeBileTitan"
     },
     "2236760086372418784": {
         "name": "BugEnemyType_SporeBurstHunter"
@@ -1192,6 +1220,12 @@
     "13371360225075696125": {
         "name": "IlluminateEnemyType_OverseerQuantumStaff"
     },
+    "11276719322983912231": {
+        "name": "IlluminateEnemyType_OverseerQuantumStaff"
+    },
+    "4314131110692356005": {
+        "name": "IlluminateEnemyType_OverseerQuantumStaff"
+    },
     "6938491555126425632": {
         "name": "IlluminateEnemyType_ElevatedOverseer"
     },
@@ -1287,5 +1321,8 @@
     },
     "16927169355845479754": {
         "name": "SuperEarthType_OilExtractor"
+    },
+    "2918844402145947936": {
+        "name": "GameHazardType_VolcanoEruption"
     }
 }
