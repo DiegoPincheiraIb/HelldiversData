@@ -56,7 +56,6 @@
         "StatusEffectType_Sandstorm",
         "StatusEffectType_Blizzard",
         "StatusEffectType_Acid_Storm",
-        "StatusEffectType_Thick_Fog",
         "StatusEffectType_Weather_Insulated",
         "StatusEffectType_Protected",
         "StatusEffectType_Dark_Fluid",
@@ -70,6 +69,7 @@
         "StatusEffectType_Post_Mortem_Explosion",
         "StatusEffectType_Footage_Recorded",
         "StatusEffectType_FlamerSlowed",
+        "StatusEffectType_Gloom",
         "StatusEffectType_Count"
     ]
 }
