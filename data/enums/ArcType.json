@@ -16,6 +16,7 @@
         "ArcType_TeslaTurret",
         "ArcType_ArcThrower_MK4",
         "ArcType_Grenade_Launcher_Stun_Arcs",
+        "ARC_TYPE_016",
         "ArcType_Count"
     ]
 }

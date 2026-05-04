@@ -51,7 +51,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -458,7 +458,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -865,7 +865,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -1272,7 +1272,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -1679,7 +1679,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -2086,7 +2086,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -2493,7 +2493,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -2900,7 +2900,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -3307,7 +3307,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -3714,7 +3714,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -4121,7 +4121,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -4528,7 +4528,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -4935,7 +4935,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -5342,7 +5342,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -5749,7 +5749,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -6156,7 +6156,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -6563,7 +6563,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -6970,7 +6970,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -7377,7 +7377,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -7784,7 +7784,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -8191,7 +8191,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -8598,7 +8598,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -9005,7 +9005,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -9412,7 +9412,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -9819,7 +9819,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -10226,7 +10226,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -10633,7 +10633,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -11040,7 +11040,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -11447,7 +11447,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -11854,7 +11854,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -12261,7 +12261,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -12668,7 +12668,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -13075,7 +13075,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -13482,7 +13482,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -13889,7 +13889,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -14296,7 +14296,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -14703,7 +14703,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -15110,7 +15110,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -15517,7 +15517,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -15924,7 +15924,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -16331,7 +16331,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -16738,7 +16738,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -17145,7 +17145,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -17552,7 +17552,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -17959,7 +17959,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -18366,7 +18366,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -18773,7 +18773,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -19180,7 +19180,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -19587,7 +19587,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -19994,7 +19994,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -20401,7 +20401,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -20808,7 +20808,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -21215,7 +21215,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -21622,7 +21622,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -22029,7 +22029,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -22436,7 +22436,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -22843,7 +22843,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -23250,7 +23250,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -23657,7 +23657,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -24064,7 +24064,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -24471,7 +24471,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -24878,7 +24878,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -25285,7 +25285,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -25692,7 +25692,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -26099,7 +26099,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -26506,7 +26506,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -26913,7 +26913,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -27320,7 +27320,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -27727,7 +27727,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -28134,7 +28134,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -28541,7 +28541,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -28948,7 +28948,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -29355,7 +29355,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -29762,7 +29762,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -30169,7 +30169,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -30576,7 +30576,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -30983,7 +30983,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 0.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -31390,7 +31390,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 5,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -31797,7 +31797,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -32204,7 +32204,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -32611,7 +32611,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -33018,7 +33018,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -33425,7 +33425,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -33832,7 +33832,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -34239,7 +34239,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -34646,7 +34646,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -35053,7 +35053,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -35460,7 +35460,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -35867,7 +35867,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -36274,7 +36274,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -36681,7 +36681,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -37088,7 +37088,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -37495,7 +37495,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -37902,7 +37902,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -38309,7 +38309,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -38716,7 +38716,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -39123,7 +39123,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -39530,7 +39530,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -39937,7 +39937,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -40344,7 +40344,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -40751,7 +40751,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -41158,7 +41158,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -41565,7 +41565,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -41972,7 +41972,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -42379,7 +42379,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -42786,7 +42786,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -43193,7 +43193,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_009",
+                "noise_template": "NOISE_TYPE_009",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -43600,7 +43600,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_015",
+                "noise_template": "NOISE_TYPE_015",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -44007,7 +44007,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -44414,7 +44414,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_015",
+                "noise_template": "NOISE_TYPE_015",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -44821,7 +44821,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -45228,7 +45228,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -45635,7 +45635,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_015",
+                "noise_template": "NOISE_TYPE_015",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -46042,7 +46042,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -46449,7 +46449,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_015",
+                "noise_template": "NOISE_TYPE_015",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -46856,7 +46856,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -47263,7 +47263,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -47670,7 +47670,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -48077,7 +48077,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -48484,7 +48484,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -48891,7 +48891,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -49298,7 +49298,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -49705,7 +49705,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -50112,7 +50112,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -50519,7 +50519,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -50926,7 +50926,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -51333,7 +51333,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -51740,7 +51740,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -52147,7 +52147,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 6,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -52554,7 +52554,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -52961,7 +52961,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -53368,7 +53368,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -53775,7 +53775,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -54182,7 +54182,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -54589,7 +54589,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -54996,7 +54996,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -55403,7 +55403,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -55810,7 +55810,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -56217,7 +56217,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -56624,7 +56624,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -57031,7 +57031,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -57438,7 +57438,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -57845,7 +57845,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -58252,7 +58252,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -58659,7 +58659,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -59066,7 +59066,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -59473,7 +59473,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -59880,7 +59880,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -60287,7 +60287,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -60694,7 +60694,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -61101,7 +61101,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -61508,7 +61508,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -61915,7 +61915,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -62322,7 +62322,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -62729,7 +62729,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -63136,7 +63136,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -63543,7 +63543,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -63950,7 +63950,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -64357,7 +64357,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -64764,7 +64764,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -65171,7 +65171,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -65578,7 +65578,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -65985,7 +65985,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -66392,7 +66392,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -66799,7 +66799,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -67206,7 +67206,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -67613,7 +67613,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -68020,7 +68020,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -68427,7 +68427,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_010",
+                "noise_template": "NOISE_TYPE_010",
                 "visibility_modifier": 0.5,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -68834,7 +68834,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -69241,7 +69241,7 @@
                     "z": 3.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -69648,7 +69648,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 7,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -70055,7 +70055,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -70462,7 +70462,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -70869,7 +70869,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -71276,7 +71276,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -71683,7 +71683,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -72090,7 +72090,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -72497,7 +72497,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -72904,7 +72904,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -73311,7 +73311,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -73718,7 +73718,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -74125,7 +74125,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -74532,7 +74532,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -74939,7 +74939,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -75346,7 +75346,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -75753,7 +75753,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -76160,7 +76160,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -76567,7 +76567,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -76974,7 +76974,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -77381,7 +77381,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -77788,7 +77788,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -78195,7 +78195,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -78602,7 +78602,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 4,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -79009,7 +79009,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -79416,7 +79416,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -79823,7 +79823,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -80230,7 +80230,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -80637,7 +80637,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -81044,7 +81044,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -81451,7 +81451,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -81858,7 +81858,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -82265,7 +82265,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -82672,7 +82672,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -83079,7 +83079,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -83486,7 +83486,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -83893,7 +83893,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -84300,7 +84300,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -84707,7 +84707,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -85114,7 +85114,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -85521,7 +85521,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -85928,7 +85928,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -86335,7 +86335,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -86742,7 +86742,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -87149,7 +87149,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -87556,7 +87556,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -87963,7 +87963,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -88370,7 +88370,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -88777,7 +88777,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -89184,7 +89184,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -89591,7 +89591,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -89998,7 +89998,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -90405,7 +90405,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -90812,7 +90812,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -91219,7 +91219,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -91626,7 +91626,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_015",
+                "noise_template": "NOISE_TYPE_015",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -92033,7 +92033,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -92440,7 +92440,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -92847,7 +92847,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -93254,7 +93254,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -93661,7 +93661,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -94068,7 +94068,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -94475,7 +94475,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -94882,7 +94882,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -95289,7 +95289,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -95696,7 +95696,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -96103,7 +96103,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -96510,7 +96510,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -96917,7 +96917,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -97324,7 +97324,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -97731,7 +97731,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -98138,7 +98138,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -98545,7 +98545,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -98952,7 +98952,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -99359,7 +99359,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -99766,7 +99766,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -100173,7 +100173,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -100580,7 +100580,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -100987,7 +100987,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -101394,7 +101394,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -101801,7 +101801,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -102208,7 +102208,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -102615,7 +102615,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -103022,7 +103022,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -103429,7 +103429,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -103836,7 +103836,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -104243,7 +104243,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -104650,7 +104650,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_010",
+                "noise_template": "NOISE_TYPE_010",
                 "visibility_modifier": 0.5,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -105057,7 +105057,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -105464,7 +105464,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -105871,7 +105871,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -106278,7 +106278,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -106685,7 +106685,7 @@
                     "z": 2.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -107092,7 +107092,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -107499,7 +107499,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -107906,7 +107906,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -108313,7 +108313,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -108720,7 +108720,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -109127,7 +109127,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -109534,7 +109534,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -109941,7 +109941,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -110348,7 +110348,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -110755,7 +110755,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -111162,7 +111162,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -111569,7 +111569,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_010",
+                "noise_template": "NOISE_TYPE_010",
                 "visibility_modifier": 0.5,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -111976,7 +111976,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -112383,7 +112383,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 2,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -112790,7 +112790,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -113197,7 +113197,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -113604,7 +113604,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -114011,7 +114011,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -114418,7 +114418,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -114825,7 +114825,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -115232,7 +115232,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -115639,7 +115639,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -116046,7 +116046,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -116453,7 +116453,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -116860,7 +116860,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -117267,7 +117267,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -117674,7 +117674,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -118081,7 +118081,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -118488,7 +118488,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -118895,7 +118895,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_010",
+                "noise_template": "NOISE_TYPE_010",
                 "visibility_modifier": 0.5,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -119302,7 +119302,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_005",
@@ -119709,7 +119709,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -120116,7 +120116,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_009",
+                "noise_template": "NOISE_TYPE_009",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -120523,7 +120523,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_014",
+                "noise_template": "NOISE_TYPE_014",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_005",
@@ -120930,7 +120930,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -121337,7 +121337,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -121744,7 +121744,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -122151,7 +122151,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_009",
+                "noise_template": "NOISE_TYPE_009",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -122558,7 +122558,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_009",
+                "noise_template": "NOISE_TYPE_009",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -122965,7 +122965,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -123372,7 +123372,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -123779,7 +123779,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -124186,7 +124186,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -124593,7 +124593,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -125000,7 +125000,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_014",
+                "noise_template": "NOISE_TYPE_014",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -125407,7 +125407,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -125814,7 +125814,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -126221,7 +126221,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -126628,7 +126628,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -127035,7 +127035,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -127442,7 +127442,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_009",
+                "noise_template": "NOISE_TYPE_009",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -127849,7 +127849,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -128256,7 +128256,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -128663,7 +128663,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -129070,7 +129070,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_006",
@@ -129477,7 +129477,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_014",
+                "noise_template": "NOISE_TYPE_014",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_005",
@@ -129884,7 +129884,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_009",
+                "noise_template": "NOISE_TYPE_009",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -130291,7 +130291,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_000",
+                "noise_template": "NOISE_TYPE_000",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -130698,7 +130698,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_008",
+                "noise_template": "NOISE_TYPE_008",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 1,
                 "primary_fire_mode": "FIRE_MODE_002",
@@ -131105,7 +131105,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -131512,7 +131512,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_003",
@@ -131919,7 +131919,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_006",
+                "noise_template": "NOISE_TYPE_006",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -132326,7 +132326,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -132733,7 +132733,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -133140,7 +133140,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -133547,7 +133547,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",
@@ -133954,7 +133954,7 @@
                     "z": 1.0
                 },
                 "scope_sway": 1.0,
-                "noise_template": "NOISE_TEMPLATE_007",
+                "noise_template": "NOISE_TYPE_007",
                 "visibility_modifier": 1.0,
                 "num_burst_rounds": 3,
                 "primary_fire_mode": "FIRE_MODE_001",

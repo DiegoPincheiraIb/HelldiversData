@@ -5,7 +5,7 @@
                 "unique_id": "12668691934073286373",
                 "uid_name": "12668691934073286373",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -98,22 +98,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -138,7 +138,7 @@
                 "unique_id": "14904393873176182481",
                 "uid_name": "14904393873176182481",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 0.100000001,
@@ -231,22 +231,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -271,7 +271,7 @@
                 "unique_id": "6336865981244592821",
                 "uid_name": "6336865981244592821",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -364,22 +364,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -404,7 +404,7 @@
                 "unique_id": "4785987130142662424",
                 "uid_name": "4785987130142662424",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -497,22 +497,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -537,7 +537,7 @@
                 "unique_id": "16349808124409970659",
                 "uid_name": "16349808124409970659",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -630,22 +630,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -670,7 +670,7 @@
                 "unique_id": "13348889789877682713",
                 "uid_name": "13348889789877682713",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -763,22 +763,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -803,7 +803,7 @@
                 "unique_id": "3725568494500552428",
                 "uid_name": "3725568494500552428",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -896,22 +896,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -936,7 +936,7 @@
                 "unique_id": "11146770675064382806",
                 "uid_name": "11146770675064382806",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -1029,22 +1029,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -1069,7 +1069,7 @@
                 "unique_id": "9471740285315897155",
                 "uid_name": "9471740285315897155",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -1162,22 +1162,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -1202,7 +1202,7 @@
                 "unique_id": "14770371728907552577",
                 "uid_name": "14770371728907552577",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -1295,22 +1295,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -1335,7 +1335,7 @@
                 "unique_id": "4092536715104205912",
                 "uid_name": "4092536715104205912",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 1.0,
                 "removal_delay": 1.0,
@@ -1428,22 +1428,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -1468,7 +1468,7 @@
                 "unique_id": "6918199871803715620",
                 "uid_name": "6918199871803715620",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -1561,22 +1561,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -1601,7 +1601,7 @@
                 "unique_id": "15821755148612569419",
                 "uid_name": "15821755148612569419",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 0.0,
@@ -1694,22 +1694,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -1734,7 +1734,7 @@
                 "unique_id": "5058456942810545460",
                 "uid_name": "5058456942810545460",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -1827,22 +1827,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -1867,7 +1867,7 @@
                 "unique_id": "17188493825552378619",
                 "uid_name": "17188493825552378619",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.002,
                 "removal_delay": 1.0,
@@ -1960,22 +1960,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -2000,7 +2000,7 @@
                 "unique_id": "2303622299803843892",
                 "uid_name": "2303622299803843892",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -2093,22 +2093,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -2133,7 +2133,7 @@
                 "unique_id": "7579602584120852463",
                 "uid_name": "7579602584120852463",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.002,
                 "removal_delay": 1.0,
@@ -2226,22 +2226,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -2266,7 +2266,7 @@
                 "unique_id": "14492505679777682035",
                 "uid_name": "14492505679777682035",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.900000095,
                 "removal_delay": 1.0,
@@ -2359,22 +2359,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -2399,7 +2399,7 @@
                 "unique_id": "8540606443036588471",
                 "uid_name": "8540606443036588471",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -2492,22 +2492,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -2532,7 +2532,7 @@
                 "unique_id": "15760376640790925767",
                 "uid_name": "15760376640790925767",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -2625,22 +2625,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -2665,7 +2665,7 @@
                 "unique_id": "16965724150372546684",
                 "uid_name": "16965724150372546684",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -2758,22 +2758,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -2798,7 +2798,7 @@
                 "unique_id": "16472578507204645895",
                 "uid_name": "16472578507204645895",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.002,
                 "removal_delay": 1.0,
@@ -2891,22 +2891,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -2931,7 +2931,7 @@
                 "unique_id": "15986416455258940649",
                 "uid_name": "15986416455258940649",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -3024,22 +3024,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -3064,7 +3064,7 @@
                 "unique_id": "1370630171320516696",
                 "uid_name": "1370630171320516696",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -3157,22 +3157,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -3197,7 +3197,7 @@
                 "unique_id": "15774580357443829330",
                 "uid_name": "15774580357443829330",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.0,
                 "removal_delay": 1.0,
@@ -3290,22 +3290,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -3330,7 +3330,7 @@
                 "unique_id": "1848370919570982244",
                 "uid_name": "1848370919570982244",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_004",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_004",
                 "arming_delay": 1.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 0.0,
@@ -3423,22 +3423,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -3463,7 +3463,7 @@
                 "unique_id": "3251783147077776986",
                 "uid_name": "3251783147077776986",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_004",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_004",
                 "arming_delay": 1.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 0.0,
@@ -3556,22 +3556,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -3596,7 +3596,7 @@
                 "unique_id": "14472034394699577313",
                 "uid_name": "14472034394699577313",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_004",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_004",
                 "arming_delay": 1.5,
                 "explosion_delay": 0.0,
                 "removal_delay": 0.0,
@@ -3689,22 +3689,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -3729,7 +3729,7 @@
                 "unique_id": "7805837845056947640",
                 "uid_name": "7805837845056947640",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -3822,22 +3822,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -3862,7 +3862,7 @@
                 "unique_id": "7792160494773917597",
                 "uid_name": "7792160494773917597",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 1.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -3955,22 +3955,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -3995,7 +3995,7 @@
                 "unique_id": "11832841299833001266",
                 "uid_name": "11832841299833001266",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 1.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 0.0,
@@ -4088,22 +4088,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -4128,7 +4128,7 @@
                 "unique_id": "12647561124444982920",
                 "uid_name": "12647561124444982920",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -4221,22 +4221,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -4261,7 +4261,7 @@
                 "unique_id": "9674649994301135605",
                 "uid_name": "9674649994301135605",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_004",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_004",
                 "arming_delay": 1.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 0.0,
@@ -4354,22 +4354,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -4394,7 +4394,7 @@
                 "unique_id": "5511947193358072593",
                 "uid_name": "5511947193358072593",
                 "mode": "EXPL_MODE_001",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -4487,22 +4487,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -4527,7 +4527,7 @@
                 "unique_id": "18301184306373976528",
                 "uid_name": "18301184306373976528",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -4620,22 +4620,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -4660,7 +4660,7 @@
                 "unique_id": "8427145098997310521",
                 "uid_name": "8427145098997310521",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -4753,22 +4753,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -4793,7 +4793,7 @@
                 "unique_id": "12525242792979901983",
                 "uid_name": "12525242792979901983",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -4886,22 +4886,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -4926,7 +4926,7 @@
                 "unique_id": "14532928027407155276",
                 "uid_name": "14532928027407155276",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 6.0,
                 "removal_delay": 1.0,
@@ -5019,22 +5019,22 @@
                 "armed_sound": 2478681457,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -5059,7 +5059,7 @@
                 "unique_id": "10256545209826294564",
                 "uid_name": "10256545209826294564",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.25,
                 "explosion_delay": 2.0,
                 "removal_delay": 1.0,
@@ -5152,22 +5152,22 @@
                 "armed_sound": 3508417189,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -5192,7 +5192,7 @@
                 "unique_id": "7102424959117264971",
                 "uid_name": "7102424959117264971",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 5.0,
                 "removal_delay": 1.0,
@@ -5285,22 +5285,22 @@
                 "armed_sound": 3572304498,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -5325,7 +5325,7 @@
                 "unique_id": "12034151873994640633",
                 "uid_name": "12034151873994640633",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.900000095,
                 "removal_delay": 1.0,
@@ -5418,22 +5418,22 @@
                 "armed_sound": 3057486599,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -5458,7 +5458,7 @@
                 "unique_id": "5283907452281504031",
                 "uid_name": "5283907452281504031",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 5.0,
                 "removal_delay": 1.0,
@@ -5551,22 +5551,22 @@
                 "armed_sound": 3572304498,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -5591,7 +5591,7 @@
                 "unique_id": "14095844455824707166",
                 "uid_name": "14095844455824707166",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 4.0,
                 "removal_delay": 1.0,
@@ -5684,22 +5684,22 @@
                 "armed_sound": 280696266,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -5724,7 +5724,7 @@
                 "unique_id": "11146468741807915285",
                 "uid_name": "11146468741807915285",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -5817,22 +5817,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -5857,7 +5857,7 @@
                 "unique_id": "11201896471107657063",
                 "uid_name": "11201896471107657063",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.900000095,
                 "removal_delay": 1.0,
@@ -5950,22 +5950,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -5990,7 +5990,7 @@
                 "unique_id": "530045626612387909",
                 "uid_name": "530045626612387909",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.400000095,
                 "removal_delay": 1.0,
@@ -6083,22 +6083,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -6123,7 +6123,7 @@
                 "unique_id": "1456507421651509424",
                 "uid_name": "1456507421651509424",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 5.0,
                 "removal_delay": 1.0,
@@ -6216,22 +6216,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -6256,7 +6256,7 @@
                 "unique_id": "1989119436006646583",
                 "uid_name": "1989119436006646583",
                 "mode": "EXPL_MODE_003",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 20.0,
                 "removal_delay": 1.0,
@@ -6349,22 +6349,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -6389,7 +6389,7 @@
                 "unique_id": "36176771630602099",
                 "uid_name": "36176771630602099",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 1.799999952,
                 "removal_delay": 1.0,
@@ -6482,22 +6482,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -6522,7 +6522,7 @@
                 "unique_id": "5542218890398374779",
                 "uid_name": "5542218890398374779",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.400000095,
                 "removal_delay": 1.0,
@@ -6615,22 +6615,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -6655,7 +6655,7 @@
                 "unique_id": "294590291936179579",
                 "uid_name": "294590291936179579",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.900000095,
                 "removal_delay": 1.0,
@@ -6748,22 +6748,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -6788,7 +6788,7 @@
                 "unique_id": "7715225218085078398",
                 "uid_name": "7715225218085078398",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.5,
                 "removal_delay": 1.0,
@@ -6881,22 +6881,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -6921,7 +6921,7 @@
                 "unique_id": "316723890334202692",
                 "uid_name": "316723890334202692",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.900000095,
                 "removal_delay": 1.0,
@@ -7014,22 +7014,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -7054,7 +7054,7 @@
                 "unique_id": "10168990792011931162",
                 "uid_name": "10168990792011931162",
                 "mode": "EXPL_MODE_004",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 3.0,
                 "explosion_delay": 20.002000809,
                 "removal_delay": 1.0,
@@ -7147,22 +7147,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -7187,7 +7187,7 @@
                 "unique_id": "11675163230052555240",
                 "uid_name": "11675163230052555240",
                 "mode": "EXPL_MODE_004",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.400000006,
                 "removal_delay": 1.0,
@@ -7280,22 +7280,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -7320,7 +7320,7 @@
                 "unique_id": "3258790968645519416",
                 "uid_name": "3258790968645519416",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 0.0,
                 "removal_delay": 1.0,
@@ -7413,22 +7413,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -7453,7 +7453,7 @@
                 "unique_id": "6766936627846269706",
                 "uid_name": "6766936627846269706",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.400000095,
                 "removal_delay": 1.0,
@@ -7546,22 +7546,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -7586,7 +7586,7 @@
                 "unique_id": "14249494547947571097",
                 "uid_name": "14249494547947571097",
                 "mode": "EXPL_MODE_003",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.25,
                 "explosion_delay": 2.900000095,
                 "removal_delay": 6.75,
@@ -7679,22 +7679,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_005",
+                                "type": "STATUS_EFFECT_TYPE_005",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_012",
+                                "type": "STATUS_EFFECT_TYPE_012",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -7719,7 +7719,7 @@
                 "unique_id": "4587284938949573643",
                 "uid_name": "4587284938949573643",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.900000095,
                 "removal_delay": 0.0,
@@ -7812,22 +7812,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -7852,7 +7852,7 @@
                 "unique_id": "284602740380634958",
                 "uid_name": "284602740380634958",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 2.900000095,
                 "removal_delay": 0.0,
@@ -7945,22 +7945,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -7985,7 +7985,7 @@
                 "unique_id": "13988996217395781253",
                 "uid_name": "13988996217395781253",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 5.0,
                 "removal_delay": 1.0,
@@ -8078,22 +8078,22 @@
                 "armed_sound": 2013489360,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -8118,7 +8118,7 @@
                 "unique_id": "14311811701081201939",
                 "uid_name": "14311811701081201939",
                 "mode": "EXPL_MODE_000",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 4.0,
                 "removal_delay": 1.0,
@@ -8211,22 +8211,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],
@@ -8251,7 +8251,7 @@
                 "unique_id": "15610193170761224894",
                 "uid_name": "15610193170761224894",
                 "mode": "EXPL_MODE_002",
-                "collision_raycast_filter": "RAYCAST_TYPE_000",
+                "collision_raycast_filter": "RAYCAST_TEMPLATE_000",
                 "arming_delay": 0.0,
                 "explosion_delay": 3.0,
                 "removal_delay": 1.0,
@@ -8344,22 +8344,22 @@
                 "armed_sound": 0,
                 "status_effect_template": {
                     "effect_template": {
-                        "type": "STATUS_EFFECT_TEMPLATE_000",
+                        "type": "STATUS_VOLUME_TYPE_000",
                         "effects": [
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             },
                             {
-                                "type": "STATUS_EFFECT_000",
+                                "type": "STATUS_EFFECT_TYPE_000",
                                 "value": 1.0
                             }
                         ],

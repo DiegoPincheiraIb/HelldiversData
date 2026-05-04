@@ -87,6 +87,23 @@
                 "icon": "0"
             },
             {
+                "unique_id": "8976894502087196225",
+                "uid_name": "8976894502087196225",
+                "loc_name": 1923650587,
+                "loc_name_plural": 1923650587,
+                "loc_name_upper": 1923650587,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
                 "unique_id": "4770136952149103182",
                 "uid_name": "4770136952149103182",
                 "loc_name": 644365486,
@@ -632,13 +649,30 @@
             },
             {
                 "unique_id": "9137331974793918131",
-                "uid_name": "9137331974793918131",
+                "uid_name": "BotEnemyType_Trooper",
                 "loc_name": 4039692928,
                 "loc_name_plural": 1251671830,
                 "loc_name_upper": 4138482718,
                 "loc_name_short": 0,
                 "loc_name_short_upper": 0,
                 "description": 2316917043,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "11351366836276126990",
+                "uid_name": "BotEnemyType_CyborgAgitator",
+                "loc_name": 1371180916,
+                "loc_name_plural": 339482685,
+                "loc_name_upper": 1966237401,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3906616163,
                 "description_upper": 0,
                 "description_short": 0,
                 "description_short_upper": 0,
@@ -843,6 +877,40 @@
                 "loc_name_short": 0,
                 "loc_name_short_upper": 0,
                 "description": 427490069,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "6069394649090569172",
+                "uid_name": "6069394649090569172",
+                "loc_name": 837267852,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 2902297340,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "7437729317726677416",
+                "uid_name": "7437729317726677416",
+                "loc_name": 837267852,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 2902297340,
                 "description_upper": 0,
                 "description_short": 0,
                 "description_short_upper": 0,
@@ -1226,6 +1294,23 @@
                 "icon": "0"
             },
             {
+                "unique_id": "13557003672051169255",
+                "uid_name": "BotEnemyType_CyborgVoxEngine",
+                "loc_name": 4066406510,
+                "loc_name_plural": 755328709,
+                "loc_name_upper": 1368779007,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 1664599591,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
                 "unique_id": "15239773297738004195",
                 "uid_name": "BotEnemyType_FactoryStrider",
                 "loc_name": 1153658728,
@@ -1261,7 +1346,7 @@
             },
             {
                 "unique_id": "17875655752828743943",
-                "uid_name": "17875655752828743943",
+                "uid_name": "BotEnemyType_ScoutStrider",
                 "loc_name": 20706814,
                 "loc_name_plural": 149196,
                 "loc_name_upper": 3261365930,
@@ -1329,7 +1414,7 @@
             },
             {
                 "unique_id": "13027308828300900709",
-                "uid_name": "13027308828300900709",
+                "uid_name": "PickupType_StimulantBox",
                 "loc_name": 0,
                 "loc_name_plural": 0,
                 "loc_name_upper": 304564667,
@@ -1448,7 +1533,7 @@
             },
             {
                 "unique_id": "6918199871803715620",
-                "uid_name": "6918199871803715620",
+                "uid_name": "ThrowableType_DemocraticRattle",
                 "loc_name": 3290960910,
                 "loc_name_plural": 0,
                 "loc_name_upper": 925501750,
@@ -1479,6 +1564,23 @@
                 "fluff": 578282385,
                 "unk_2C": 0,
                 "icon": "974237906218979607"
+            },
+            {
+                "unique_id": "5058456942810545460",
+                "uid_name": "ThrowableType_GigaGrenade",
+                "loc_name": 938882557,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2365825441,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3876158673,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 745002750,
+                "fluff": 1482400847,
+                "unk_2C": 0,
+                "icon": "11870092312069329314"
             },
             {
                 "unique_id": "2303622299803843892",
@@ -1516,7 +1618,7 @@
             },
             {
                 "unique_id": "15760376640790925767",
-                "uid_name": "15760376640790925767",
+                "uid_name": "ThrowableType_Smokescreen",
                 "loc_name": 3740465736,
                 "loc_name_plural": 0,
                 "loc_name_upper": 1585416923,
@@ -1584,7 +1686,7 @@
             },
             {
                 "unique_id": "4291111060798646696",
-                "uid_name": "4291111060798646696",
+                "uid_name": "PickupType_StimulantBox",
                 "loc_name": 0,
                 "loc_name_plural": 0,
                 "loc_name_upper": 304564667,
@@ -1635,7 +1737,7 @@
             },
             {
                 "unique_id": "2568747792294183916",
-                "uid_name": "2568747792294183916",
+                "uid_name": "EagleBombardmentType_StrafingRun",
                 "loc_name": 0,
                 "loc_name_plural": 0,
                 "loc_name_upper": 1959642724,
@@ -1669,7 +1771,7 @@
             },
             {
                 "unique_id": "4773808446773069045",
-                "uid_name": "4773808446773069045",
+                "uid_name": "VehicleType_GATER",
                 "loc_name": 3023900891,
                 "loc_name_plural": 0,
                 "loc_name_upper": 3023900891,
@@ -1683,6 +1785,40 @@
                 "fluff": 0,
                 "unk_2C": 0,
                 "icon": "0"
+            },
+            {
+                "unique_id": "1605323339894850998",
+                "uid_name": "VehicleType_Bastion",
+                "loc_name": 686081100,
+                "loc_name_plural": 0,
+                "loc_name_upper": 1916631053,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3696388150,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 1777030275,
+                "fluff": 2708929517,
+                "unk_2C": 0,
+                "icon": "6456246885423350148"
+            },
+            {
+                "unique_id": "14481784348804167734",
+                "uid_name": "14481784348804167734",
+                "loc_name": 354671336,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 354671336,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "3700224135735441545"
             },
             {
                 "unique_id": "16785366656768074861",
@@ -1710,6 +1846,40 @@
                 "loc_name_short": 0,
                 "loc_name_short_upper": 0,
                 "description": 279960568,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "2358135177943625061",
+                "uid_name": "IlluminateEnemyType_Veracitor",
+                "loc_name": 3776682558,
+                "loc_name_plural": 3042667112,
+                "loc_name_upper": 1927613493,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3937709715,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "4989955592422339343",
+                "uid_name": "IlluminateEnemyType_Gatekeeper",
+                "loc_name": 1870840792,
+                "loc_name_plural": 2443576485,
+                "loc_name_upper": 3757148964,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 2628971470,
                 "description_upper": 0,
                 "description_short": 0,
                 "description_short_upper": 0,
@@ -1792,6 +1962,23 @@
                 "loc_name": 886803190,
                 "loc_name_plural": 462878521,
                 "loc_name_upper": 3628262152,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "3809994927963057822",
+                "uid_name": "IlluminateEnemyType_Obtruder",
+                "loc_name": 3621116014,
+                "loc_name_plural": 4114505470,
+                "loc_name_upper": 193486143,
                 "loc_name_short": 0,
                 "loc_name_short_upper": 0,
                 "description": 0,
@@ -1940,6 +2127,40 @@
                 "icon": "0"
             },
             {
+                "unique_id": "13944299464752454872",
+                "uid_name": "13944299464752454872",
+                "loc_name": 3157786484,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 205445318,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "4408996938478059842",
+                "uid_name": "4408996938478059842",
+                "loc_name": 1831948100,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3872961055,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
                 "unique_id": "934982603467911041",
                 "uid_name": "934982603467911041",
                 "loc_name": 3157786484,
@@ -1991,6 +2212,23 @@
                 "icon": "0"
             },
             {
+                "unique_id": "1837586638104944508",
+                "uid_name": "1837586638104944508",
+                "loc_name": 1831948100,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3872961055,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
                 "unique_id": "8944438942042386667",
                 "uid_name": "8944438942042386667",
                 "loc_name": 1542334916,
@@ -2009,7 +2247,7 @@
             },
             {
                 "unique_id": "11276719322983912231",
-                "uid_name": "11276719322983912231",
+                "uid_name": "IlluminateEnemyType_OverseerQuantumStaff",
                 "loc_name": 3800712056,
                 "loc_name_plural": 0,
                 "loc_name_upper": 0,
@@ -2026,7 +2264,7 @@
             },
             {
                 "unique_id": "4314131110692356005",
-                "uid_name": "4314131110692356005",
+                "uid_name": "IlluminateEnemyType_OverseerQuantumStaff",
                 "loc_name": 3800712056,
                 "loc_name_plural": 0,
                 "loc_name_upper": 0,
@@ -2145,7 +2383,7 @@
             },
             {
                 "unique_id": "10313622237292913323",
-                "uid_name": "10313622237292913323",
+                "uid_name": "IlluminateEnemyType_StingrayHeavyFusionRepeater",
                 "loc_name": 1577978291,
                 "loc_name_plural": 0,
                 "loc_name_upper": 0,
@@ -2230,7 +2468,7 @@
             },
             {
                 "unique_id": "9839990240943553653",
-                "uid_name": "9839990240943553653",
+                "uid_name": "VehicleType_CargoTruck",
                 "loc_name": 581608860,
                 "loc_name_plural": 0,
                 "loc_name_upper": 62312315,
@@ -2281,7 +2519,7 @@
             },
             {
                 "unique_id": "7120969853994206156",
-                "uid_name": "7120969853994206156",
+                "uid_name": "SuperEarthType_RelayTower",
                 "loc_name": 1549126177,
                 "loc_name_plural": 0,
                 "loc_name_upper": 0,
@@ -3334,23 +3572,6 @@
                 "icon": "0"
             },
             {
-                "unique_id": "2162579744966936371",
-                "uid_name": "BugEnemyType_ShriekerNest",
-                "loc_name": 3496786382,
-                "loc_name_plural": 3209402160,
-                "loc_name_upper": 3608538404,
-                "loc_name_short": 0,
-                "loc_name_short_upper": 0,
-                "description": 0,
-                "description_upper": 0,
-                "description_short": 0,
-                "description_short_upper": 0,
-                "prefix": 0,
-                "fluff": 0,
-                "unk_2C": 0,
-                "icon": "0"
-            },
-            {
                 "unique_id": "13650214626151558605",
                 "uid_name": "PickupType_CreditCard",
                 "loc_name": 2660521207,
@@ -3828,7 +4049,7 @@
             },
             {
                 "unique_id": "17344047887226579155",
-                "uid_name": "BugEnemyType_Shrieker",
+                "uid_name": "17344047887226579155",
                 "loc_name": 793026793,
                 "loc_name_plural": 1963526343,
                 "loc_name_upper": 2469966431,
@@ -4066,7 +4287,7 @@
             },
             {
                 "unique_id": "8883573249939290241",
-                "uid_name": "8883573249939290241",
+                "uid_name": "BotEnemyType_Trooper",
                 "loc_name": 4039692928,
                 "loc_name_plural": 1251671830,
                 "loc_name_upper": 4138482718,
@@ -4117,7 +4338,7 @@
             },
             {
                 "unique_id": "711481103094352835",
-                "uid_name": "BotEnemyType_Trooper",
+                "uid_name": "BotEnemyType_Trooper?",
                 "loc_name": 4039692928,
                 "loc_name_plural": 1251671830,
                 "loc_name_upper": 4138482718,
@@ -4253,7 +4474,7 @@
             },
             {
                 "unique_id": "3517035000518974420",
-                "uid_name": "BotEnemyType_HeavyDevastator",
+                "uid_name": "3517035000518974420",
                 "loc_name": 2319746535,
                 "loc_name_plural": 4277211858,
                 "loc_name_upper": 3895550358,
@@ -4396,6 +4617,57 @@
                 "loc_name_short": 0,
                 "loc_name_short_upper": 0,
                 "description": 39579773,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "720026069039790444",
+                "uid_name": "BotEnemyType_CyborgAgitator",
+                "loc_name": 1371180916,
+                "loc_name_plural": 339482685,
+                "loc_name_upper": 1966237401,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3906616163,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "8388657151297660569",
+                "uid_name": "BotEnemyType_CyborgRadical",
+                "loc_name": 23741406,
+                "loc_name_plural": 2893465092,
+                "loc_name_upper": 996634095,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 998356692,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "14677717390494571578",
+                "uid_name": "BotEnemyType_CyborgRadical",
+                "loc_name": 23741406,
+                "loc_name_plural": 2893465092,
+                "loc_name_upper": 996634095,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 998356692,
                 "description_upper": 0,
                 "description_short": 0,
                 "description_short_upper": 0,
@@ -4712,7 +4984,7 @@
             },
             {
                 "unique_id": "14532928027407155276",
-                "uid_name": "14532928027407155276",
+                "uid_name": "BotEnemyType_HighExplosiveGrenade",
                 "loc_name": 0,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2549383367,
@@ -4750,6 +5022,40 @@
                 "loc_name": 0,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2549383367,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "5283907452281504031",
+                "uid_name": "5283907452281504031",
+                "loc_name": 0,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2549383367,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "14095844455824707166",
+                "uid_name": "14095844455824707166",
+                "loc_name": 0,
+                "loc_name_plural": 0,
+                "loc_name_upper": 1499917639,
                 "loc_name_short": 0,
                 "loc_name_short_upper": 0,
                 "description": 0,
@@ -4864,6 +5170,23 @@
                 "icon": "0"
             },
             {
+                "unique_id": "6997370577610279074",
+                "uid_name": "BotEnemyType_CyborgVoxEngineCannonTurret",
+                "loc_name": 4066406510,
+                "loc_name_plural": 1780938436,
+                "loc_name_upper": 1368779007,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3241491607,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
                 "unique_id": "5892418254001999486",
                 "uid_name": "BotEnemyType_FactoryStriderLaserGun",
                 "loc_name": 837267852,
@@ -4957,6 +5280,40 @@
                 "loc_name_short": 0,
                 "loc_name_short_upper": 0,
                 "description": 2902297340,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "17476252816949674262",
+                "uid_name": "BotEnemyType_CyborgVoxEngineGatlingGun",
+                "loc_name": 4066406510,
+                "loc_name_plural": 0,
+                "loc_name_upper": 1368779007,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3961762192,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "3849984664539165667",
+                "uid_name": "BotEnemyType_CyborgVoxEngineGatlingGun",
+                "loc_name": 4066406510,
+                "loc_name_plural": 0,
+                "loc_name_upper": 1368779007,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3961762192,
                 "description_upper": 0,
                 "description_short": 0,
                 "description_short_upper": 0,
@@ -5154,7 +5511,7 @@
             },
             {
                 "unique_id": "5690760409550920280",
-                "uid_name": "5690760409550920280",
+                "uid_name": "SupportBackpackType_SupplyBackpack",
                 "loc_name": 2260948921,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2410151153,
@@ -5255,6 +5612,23 @@
                 "icon": "1635184673918660405"
             },
             {
+                "unique_id": "13495904577777136893",
+                "uid_name": "SupportBackpackType_BFGrenadeLauncherBackpack",
+                "loc_name": 1312594489,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2796024923,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 2200366814,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "1635184673918660405"
+            },
+            {
                 "unique_id": "11155000903228636302",
                 "uid_name": "SupportBackpackType_PortableHellbomb",
                 "loc_name": 2306470396,
@@ -5290,7 +5664,7 @@
             },
             {
                 "unique_id": "3033447149328295793",
-                "uid_name": "SupportBackpackType_C4Backpack",
+                "uid_name": "3033447149328295793",
                 "loc_name": 2772570910,
                 "loc_name_plural": 0,
                 "loc_name_upper": 4226754563,
@@ -5341,7 +5715,7 @@
             },
             {
                 "unique_id": "3464783698532994381",
-                "uid_name": "3464783698532994381",
+                "uid_name": "SupportBackpackType_FlameDrone",
                 "loc_name": 2184600406,
                 "loc_name_plural": 0,
                 "loc_name_upper": 3321311549,
@@ -5409,7 +5783,7 @@
             },
             {
                 "unique_id": "16756305030629006721",
-                "uid_name": "SupportBackpackType_LiberatorDogDrone",
+                "uid_name": "16756305030629006721",
                 "loc_name": 3939201276,
                 "loc_name_plural": 0,
                 "loc_name_upper": 1615718868,
@@ -5527,8 +5901,25 @@
                 "icon": "1635184673918660405"
             },
             {
+                "unique_id": "4894036464529596640",
+                "uid_name": "SupportBackpackType_CrematorBackpack",
+                "loc_name": 711961656,
+                "loc_name_plural": 0,
+                "loc_name_upper": 1752350267,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 2200366814,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "1635184673918660405"
+            },
+            {
                 "unique_id": "6829725667368330959",
-                "uid_name": "SupportBackpackType_Hoverppack",
+                "uid_name": "SupportBackpackType_Hoverpack",
                 "loc_name": 2768994609,
                 "loc_name_plural": 0,
                 "loc_name_upper": 3727877127,
@@ -5562,7 +5953,7 @@
             },
             {
                 "unique_id": "744753118896166941",
-                "uid_name": "744753118896166941",
+                "uid_name": "SupportBackpackType_MedicBackpack",
                 "loc_name": 2927578997,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2927578997,
@@ -5629,6 +6020,23 @@
                 "icon": "1635184673918660405"
             },
             {
+                "unique_id": "6863144698475545939",
+                "uid_name": "SupportWeaponType_BreachingHammer",
+                "loc_name": 4009668453,
+                "loc_name_plural": 0,
+                "loc_name_upper": 3139950515,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 2030754614,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 3919561454,
+                "fluff": 2551537472,
+                "unk_2C": 0,
+                "icon": "16282120139804604464"
+            },
+            {
                 "unique_id": "16408494556715988068",
                 "uid_name": "MeleeWeaponType_StunLance",
                 "loc_name": 3109890851,
@@ -5647,6 +6055,23 @@
             },
             {
                 "unique_id": "16743928489815142323",
+                "uid_name": "SupportWeaponType_DerelictEntrenchmentTool",
+                "loc_name": 3348610193,
+                "loc_name_plural": 0,
+                "loc_name_upper": 994866672,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 2466410356,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 1658092087,
+                "fluff": 1081759201,
+                "unk_2C": 0,
+                "icon": "6686209949339190185"
+            },
+            {
+                "unique_id": "9088112410931658315",
                 "uid_name": "MeleeWeaponType_EntrenchmentTool",
                 "loc_name": 3348610193,
                 "loc_name_plural": 0,
@@ -5782,8 +6207,25 @@
                 "icon": "9418182017783011483"
             },
             {
+                "unique_id": "15911719089517557690",
+                "uid_name": "PrimaryWeaponType_SweeperShotgun",
+                "loc_name": 3833272338,
+                "loc_name_plural": 0,
+                "loc_name_upper": 4272670043,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3518847546,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 1292558029,
+                "fluff": 1015928344,
+                "unk_2C": 0,
+                "icon": "12105249360085382689"
+            },
+            {
                 "unique_id": "8221051007693717489",
-                "uid_name": "8221051007693717489",
+                "uid_name": "PrimaryWeaponType_DoubleFreedomShotgun",
                 "loc_name": 2580626798,
                 "loc_name_plural": 0,
                 "loc_name_upper": 3159679973,
@@ -5831,6 +6273,23 @@
                 "fluff": 373357431,
                 "unk_2C": 0,
                 "icon": "4017944532234331323"
+            },
+            {
+                "unique_id": "9957594915860537321",
+                "uid_name": "PrimaryWeaponType_Stoker",
+                "loc_name": 1039991308,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2058817503,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 713817588,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 2563245393,
+                "fluff": 1535376161,
+                "unk_2C": 0,
+                "icon": "10354639403604981030"
             },
             {
                 "unique_id": "5450511615252257986",
@@ -6020,6 +6479,23 @@
                 "icon": "13146956741506742703"
             },
             {
+                "unique_id": "1989119436006646583",
+                "uid_name": "ThrowableType_PocketShield",
+                "loc_name": 3633567300,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2082964483,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3513035794,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 1706307746,
+                "fluff": 3912390773,
+                "unk_2C": 0,
+                "icon": "10754556191105382156"
+            },
+            {
                 "unique_id": "36176771630602099",
                 "uid_name": "ThrowableType_StunGrenade",
                 "loc_name": 3807486766,
@@ -6106,7 +6582,7 @@
             },
             {
                 "unique_id": "10168990792011931162",
-                "uid_name": "10168990792011931162",
+                "uid_name": "ThrowableType_UnknownStickyGrenade",
                 "loc_name": 4254163337,
                 "loc_name_plural": 0,
                 "loc_name_upper": 566344066,
@@ -6123,7 +6599,7 @@
             },
             {
                 "unique_id": "11675163230052555240",
-                "uid_name": "11675163230052555240",
+                "uid_name": "ThrowableType_LureMine",
                 "loc_name": 3821806431,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2545384143,
@@ -6276,7 +6752,7 @@
             },
             {
                 "unique_id": "901379433810974099",
-                "uid_name": "901379433810974099",
+                "uid_name": "DeployableType_GrenadierBattlement",
                 "loc_name": 3625143144,
                 "loc_name_plural": 0,
                 "loc_name_upper": 1044194585,
@@ -6462,6 +6938,23 @@
                 "icon": "0"
             },
             {
+                "unique_id": "2998286011813792148",
+                "uid_name": "DeployableType_GasMortarSentry",
+                "loc_name": 1683917631,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2478785269,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 1868841169,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 457150574,
+                "fluff": 2596766835,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
                 "unique_id": "12827722989328478091",
                 "uid_name": "DeployableType_EMSMortarSentry",
                 "loc_name": 3735593908,
@@ -6616,7 +7109,7 @@
             },
             {
                 "unique_id": "3359716870288230953",
-                "uid_name": "3359716870288230953",
+                "uid_name": "EagleBombardmentType_EagleAirstrike",
                 "loc_name": 0,
                 "loc_name_plural": 0,
                 "loc_name_upper": 1959642724,
@@ -6752,7 +7245,7 @@
             },
             {
                 "unique_id": "16847153723028833967",
-                "uid_name": "16847153723028833967",
+                "uid_name": "VehicleType_SuperEarth_FRV",
                 "loc_name": 196776936,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2041442475,
@@ -6853,8 +7346,42 @@
                 "icon": "0"
             },
             {
+                "unique_id": "17171643259159907678",
+                "uid_name": "17171643259159907678",
+                "loc_name": 1831948100,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3872961055,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "2987070632088620378",
+                "uid_name": "2987070632088620378",
+                "loc_name": 1831948100,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3872961055,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
                 "unique_id": "13988996217395781253",
-                "uid_name": "13988996217395781253",
+                "uid_name": "BotEnemyType_HighExplosiveGrenade",
                 "loc_name": 0,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2549383367,
@@ -6939,10 +7466,27 @@
             },
             {
                 "unique_id": "205424700876044767",
-                "uid_name": "205424700876044767",
+                "uid_name": "PickupType_StimulantBox",
                 "loc_name": 0,
                 "loc_name_plural": 0,
                 "loc_name_upper": 304564667,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "8533893840996222255",
+                "uid_name": "8533893840996222255",
+                "loc_name": 4234884333,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
                 "loc_name_short": 0,
                 "loc_name_short_upper": 0,
                 "description": 0,
@@ -7024,7 +7568,7 @@
             },
             {
                 "unique_id": "518600486455451088",
-                "uid_name": "518600486455451088",
+                "uid_name": "SupportBackpackType_DarkFluidJumppack",
                 "loc_name": 3054644200,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2200366814,
@@ -7092,7 +7636,7 @@
             },
             {
                 "unique_id": "15610193170761224894",
-                "uid_name": "15610193170761224894",
+                "uid_name": "BotEnemyType_FusionBattery",
                 "loc_name": 280534572,
                 "loc_name_plural": 0,
                 "loc_name_upper": 280534572,
@@ -7772,7 +8316,7 @@
             },
             {
                 "unique_id": "3973443609256024694",
-                "uid_name": "3973443609256024694",
+                "uid_name": "SupportWeaponType_TacticalVideoCamera",
                 "loc_name": 1827401525,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2071327434,
@@ -7789,7 +8333,7 @@
             },
             {
                 "unique_id": "993334325267157491",
-                "uid_name": "993334325267157491",
+                "uid_name": "PickupType_PlatinumBar",
                 "loc_name": 2492072473,
                 "loc_name_plural": 0,
                 "loc_name_upper": 2492072473,
@@ -7871,6 +8415,23 @@
                 "fluff": 0,
                 "unk_2C": 0,
                 "icon": "0"
+            },
+            {
+                "unique_id": "3946815129443875283",
+                "uid_name": "3946815129443875283",
+                "loc_name": 714952129,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2029045988,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "4209541691494651233"
             },
             {
                 "unique_id": "3259411408732039565",
@@ -7956,23 +8517,6 @@
                 "fluff": 0,
                 "unk_2C": 0,
                 "icon": "4209541691494651233"
-            },
-            {
-                "unique_id": "1446747808591037605",
-                "uid_name": "1446747808591037605",
-                "loc_name": 4234884333,
-                "loc_name_plural": 0,
-                "loc_name_upper": 0,
-                "loc_name_short": 0,
-                "loc_name_short_upper": 0,
-                "description": 0,
-                "description_upper": 0,
-                "description_short": 0,
-                "description_short_upper": 0,
-                "prefix": 0,
-                "fluff": 0,
-                "unk_2C": 0,
-                "icon": "0"
             },
             {
                 "unique_id": "17414823409392638359",
@@ -8112,7 +8656,7 @@
             },
             {
                 "unique_id": "11481777918278298912",
-                "uid_name": "BotEnemyType_Trooper",
+                "uid_name": "BotEnemyType_Trooper?",
                 "loc_name": 4039692928,
                 "loc_name_plural": 1251671830,
                 "loc_name_upper": 4138482718,
@@ -8163,7 +8707,7 @@
             },
             {
                 "unique_id": "5905641205788913469",
-                "uid_name": "5905641205788913469",
+                "uid_name": "SupportWeaponType_C4Detonator",
                 "loc_name": 2772570910,
                 "loc_name_plural": 0,
                 "loc_name_upper": 4226754563,
@@ -8231,7 +8775,7 @@
             },
             {
                 "unique_id": "13784670920243131812",
-                "uid_name": "MeleeWeaponType_DefoliationTool",
+                "uid_name": "SupportWeaponType_DefoliationTool",
                 "loc_name": 3689697660,
                 "loc_name_plural": 0,
                 "loc_name_upper": 4000631345,
@@ -8265,7 +8809,7 @@
             },
             {
                 "unique_id": "12750169196543686872",
-                "uid_name": "MeleeWeaponType_OneTrueFlag",
+                "uid_name": "SupportWeaponType_OneTrueFlag",
                 "loc_name": 1764323819,
                 "loc_name_plural": 0,
                 "loc_name_upper": 3861046095,
@@ -8401,7 +8945,7 @@
             },
             {
                 "unique_id": "12201875276601049603",
-                "uid_name": "12201875276601049603",
+                "uid_name": "PrimaryWeaponType_OneTwo_Rifle",
                 "loc_name": 3098378895,
                 "loc_name_plural": 0,
                 "loc_name_upper": 645907184,
@@ -8757,6 +9301,23 @@
                 "icon": "8257935906142884797"
             },
             {
+                "unique_id": "4361428863637469552",
+                "uid_name": "PrimaryWeaponType_Trident",
+                "loc_name": 2350507039,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2990487434,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 2649333397,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 3821814115,
+                "fluff": 2082976852,
+                "unk_2C": 0,
+                "icon": "1192134302562639169"
+            },
+            {
                 "unique_id": "16634382492500136054",
                 "uid_name": "PrimaryWeaponType_Deadeye",
                 "loc_name": 554425711,
@@ -9063,6 +9624,23 @@
                 "icon": "3241641735292306713"
             },
             {
+                "unique_id": "14375697644675127823",
+                "uid_name": "SecondaryWeaponType_VetoPistol",
+                "loc_name": 4168280481,
+                "loc_name_plural": 0,
+                "loc_name_upper": 739758268,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 166648085,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 865067904,
+                "fluff": 3612939160,
+                "unk_2C": 0,
+                "icon": "14130655337639673154"
+            },
+            {
                 "unique_id": "11435027044679925718",
                 "uid_name": "SecondaryWeaponType_Ultimatum",
                 "loc_name": 1331549189,
@@ -9182,6 +9760,23 @@
                 "icon": "5201399449659694912"
             },
             {
+                "unique_id": "9854668298113416351",
+                "uid_name": "SupportWeaponType_BFGrenadeLauncher",
+                "loc_name": 2606087619,
+                "loc_name_plural": 0,
+                "loc_name_upper": 3796576739,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 1611333158,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 647945653,
+                "fluff": 3519728273,
+                "unk_2C": 0,
+                "icon": "14937641644116000338"
+            },
+            {
                 "unique_id": "9869105320050739364",
                 "uid_name": "SupportWeaponType_Sterilizer",
                 "loc_name": 1223276667,
@@ -9197,6 +9792,23 @@
                 "fluff": 0,
                 "unk_2C": 0,
                 "icon": "10006716702544636990"
+            },
+            {
+                "unique_id": "8509380141312129223",
+                "uid_name": "SupportWeaponType_Leveller",
+                "loc_name": 3257725864,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2486763325,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 141003101,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 1032314023,
+                "fluff": 2510088886,
+                "unk_2C": 0,
+                "icon": "1569657711121993890"
             },
             {
                 "unique_id": "12877445900026273694",
@@ -9316,6 +9928,23 @@
                 "fluff": 3242797025,
                 "unk_2C": 0,
                 "icon": "10186172527909689000"
+            },
+            {
+                "unique_id": "8694225878611593109",
+                "uid_name": "SupportWeaponType_Cremator",
+                "loc_name": 563225959,
+                "loc_name_plural": 0,
+                "loc_name_upper": 3705134773,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 3988593673,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 2625476061,
+                "fluff": 3026472440,
+                "unk_2C": 0,
+                "icon": "1637290217541816197"
             },
             {
                 "unique_id": "2401215835282261016",
@@ -9574,7 +10203,7 @@
             },
             {
                 "unique_id": "602390376167162446",
-                "uid_name": "SupportWeaponType_HeavyMachineGunDerelict",
+                "uid_name": "VehicleType_FRV_HeavyMachineGun",
                 "loc_name": 2050119908,
                 "loc_name_plural": 0,
                 "loc_name_upper": 1688248653,
@@ -9675,6 +10304,40 @@
                 "icon": "7238755149266103945"
             },
             {
+                "unique_id": "15262335819002232765",
+                "uid_name": "15262335819002232765",
+                "loc_name": 4234884333,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "1088183950891271627",
+                "uid_name": "1088183950891271627",
+                "loc_name": 714952129,
+                "loc_name_plural": 0,
+                "loc_name_upper": 2029045988,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "4209541691494651233"
+            },
+            {
                 "unique_id": "4510702625533881224",
                 "uid_name": "4510702625533881224",
                 "loc_name": 714952129,
@@ -9694,6 +10357,23 @@
             {
                 "unique_id": "1645988921014818404",
                 "uid_name": "1645988921014818404",
+                "loc_name": 4234884333,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "12862254747830756992",
+                "uid_name": "12862254747830756992",
                 "loc_name": 4234884333,
                 "loc_name_plural": 0,
                 "loc_name_upper": 0,
@@ -9743,8 +10423,59 @@
                 "icon": "0"
             },
             {
+                "unique_id": "119489506822364511",
+                "uid_name": "119489506822364511",
+                "loc_name": 4234884333,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "6491023247109210713",
+                "uid_name": "6491023247109210713",
+                "loc_name": 4234884333,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
                 "unique_id": "3777467844477933828",
                 "uid_name": "3777467844477933828",
+                "loc_name": 4234884333,
+                "loc_name_plural": 0,
+                "loc_name_upper": 0,
+                "loc_name_short": 0,
+                "loc_name_short_upper": 0,
+                "description": 0,
+                "description_upper": 0,
+                "description_short": 0,
+                "description_short_upper": 0,
+                "prefix": 0,
+                "fluff": 0,
+                "unk_2C": 0,
+                "icon": "0"
+            },
+            {
+                "unique_id": "13628020144656989491",
+                "uid_name": "13628020144656989491",
                 "loc_name": 4234884333,
                 "loc_name_plural": 0,
                 "loc_name_upper": 0,
@@ -9856,2866 +10587,3081 @@
             },
             {
                 "idx": 5,
+                "uid": "8976894502087196225",
+                "type": "8976894502087196225"
+            },
+            {
+                "idx": 6,
                 "uid": "4770136952149103182",
                 "type": "4770136952149103182"
             },
             {
-                "idx": 6,
+                "idx": 7,
                 "uid": "17346053465930021216",
                 "type": "17346053465930021216"
             },
             {
-                "idx": 7,
+                "idx": 8,
                 "uid": "3578086008623815565",
                 "type": "3578086008623815565"
             },
             {
-                "idx": 8,
+                "idx": 9,
                 "uid": "4954274805556844652",
                 "type": "IlluminateEnemyType_Warpship"
             },
             {
-                "idx": 9,
+                "idx": 10,
                 "uid": "143640464486532219",
                 "type": "IlluminateEnemyType_Warpship"
             },
             {
-                "idx": 10,
+                "idx": 11,
                 "uid": "613393768869121221",
                 "type": "IlluminateEnemyType_GazerEye"
             },
             {
-                "idx": 11,
+                "idx": 12,
                 "uid": "1461651812919345568",
                 "type": "1461651812919345568"
             },
             {
-                "idx": 12,
+                "idx": 13,
                 "uid": "4142614004567995477",
                 "type": "4142614004567995477"
             },
             {
-                "idx": 13,
+                "idx": 14,
                 "uid": "3939129929398354246",
                 "type": "BugEnemyType_BileSpewerV1"
             },
             {
-                "idx": 14,
+                "idx": 15,
                 "uid": "1909471264691872944",
                 "type": "BugEnemyType_Charger"
             },
             {
-                "idx": 15,
+                "idx": 16,
                 "uid": "772289455772672652",
                 "type": "BugEnemyType_RuptureCharger"
             },
             {
-                "idx": 16,
+                "idx": 17,
                 "uid": "10811815200209238698",
                 "type": "BugEnemyType_Dragonroach"
             },
             {
-                "idx": 17,
+                "idx": 18,
                 "uid": "15304878361562187723",
                 "type": "BugEnemyType_HiveLord"
             },
             {
-                "idx": 18,
+                "idx": 19,
                 "uid": "15659331049401757247",
                 "type": "BugEnemyType_WeakHunter"
             },
             {
-                "idx": 19,
+                "idx": 20,
                 "uid": "15922730753540746811",
                 "type": "BugEnemyType_Impaler"
             },
             {
-                "idx": 20,
+                "idx": 21,
                 "uid": "7435299642389799754",
                 "type": "BugEnemyType_Impaler"
             },
             {
-                "idx": 21,
+                "idx": 22,
                 "uid": "10371974906799355538",
                 "type": "BugEnemyType_ScavengerV1"
             },
             {
-                "idx": 22,
+                "idx": 23,
                 "uid": "7208293264043292125",
                 "type": "BugEnemyType_Shrieker"
             },
             {
-                "idx": 23,
+                "idx": 24,
                 "uid": "17672347716099392046",
                 "type": "BugEnemyType_Stalker"
             },
             {
-                "idx": 24,
+                "idx": 25,
                 "uid": "11398074038506794973",
                 "type": "BugEnemyType_BileTitan"
             },
             {
-                "idx": 25,
+                "idx": 26,
                 "uid": "16919711124802745493",
                 "type": "BugEnemyType_Warrior"
             },
             {
-                "idx": 26,
+                "idx": 27,
                 "uid": "3641453212932526628",
                 "type": "3641453212932526628"
             },
             {
-                "idx": 27,
+                "idx": 28,
                 "uid": "8536986223483970266",
                 "type": "BugEnemyType_BileSpewerV2"
             },
             {
-                "idx": 28,
+                "idx": 29,
                 "uid": "8039414067817307766",
                 "type": "BugEnemyType_BileSpewerV3"
             },
             {
-                "idx": 29,
+                "idx": 30,
                 "uid": "12700624828350087151",
                 "type": "BugEnemyType_BileSpewerV5"
             },
             {
-                "idx": 30,
+                "idx": 31,
                 "uid": "2816271437774253565",
                 "type": "2816271437774253565"
             },
             {
-                "idx": 31,
+                "idx": 32,
                 "uid": "8568490042777875483",
                 "type": "8568490042777875483"
             },
             {
-                "idx": 32,
+                "idx": 33,
                 "uid": "11408638851753260108",
                 "type": "11408638851753260108"
             },
             {
-                "idx": 33,
+                "idx": 34,
                 "uid": "4359334844095165257",
                 "type": "4359334844095165257"
             },
             {
-                "idx": 34,
+                "idx": 35,
                 "uid": "2129528212146849390",
                 "type": "BugEnemyType_HunterBileSpray"
             },
             {
-                "idx": 35,
+                "idx": 36,
                 "uid": "12008441084326179745",
                 "type": "BotEnemyType_Berserker"
             },
             {
-                "idx": 36,
+                "idx": 37,
                 "uid": "6116178405309884875",
                 "type": "BotEnemyType_Berserker"
             },
             {
-                "idx": 37,
+                "idx": 38,
                 "uid": "9137331974793918131",
-                "type": "9137331974793918131"
+                "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 38,
+                "idx": 39,
+                "uid": "11351366836276126990",
+                "type": "BotEnemyType_CyborgAgitator"
+            },
+            {
+                "idx": 40,
                 "uid": "10861016308832836833",
                 "type": "BotEnemyType_Hulk"
             },
             {
-                "idx": 39,
+                "idx": 41,
                 "uid": "12566139334605762628",
                 "type": "BotEnemyType_Devastator"
             },
             {
-                "idx": 40,
+                "idx": 42,
                 "uid": "14278331370456096813",
                 "type": "BotEnemyType_Devastator"
             },
             {
-                "idx": 41,
+                "idx": 43,
                 "uid": "11526593618038326815",
                 "type": "11526593618038326815"
             },
             {
-                "idx": 42,
+                "idx": 44,
                 "uid": "11047871594297831536",
                 "type": "11047871594297831536"
             },
             {
-                "idx": 43,
+                "idx": 45,
                 "uid": "14685780296579739413",
                 "type": "14685780296579739413"
             },
             {
-                "idx": 44,
+                "idx": 46,
                 "uid": "5308568084704517582",
                 "type": "5308568084704517582"
             },
             {
-                "idx": 45,
+                "idx": 47,
                 "uid": "7546486305997975964",
                 "type": "7546486305997975964"
             },
             {
-                "idx": 46,
+                "idx": 48,
                 "uid": "5812733699487619844",
                 "type": "5812733699487619844"
             },
             {
-                "idx": 47,
+                "idx": 49,
                 "uid": "10320682320039145374",
                 "type": "10320682320039145374"
             },
             {
-                "idx": 48,
+                "idx": 50,
                 "uid": "13597248039561415123",
                 "type": "13597248039561415123"
             },
             {
-                "idx": 49,
+                "idx": 51,
                 "uid": "4503914635682663809",
                 "type": "4503914635682663809"
             },
             {
-                "idx": 50,
+                "idx": 52,
+                "uid": "6069394649090569172",
+                "type": "6069394649090569172"
+            },
+            {
+                "idx": 53,
+                "uid": "7437729317726677416",
+                "type": "7437729317726677416"
+            },
+            {
+                "idx": 54,
                 "uid": "14780545738251228467",
                 "type": "14780545738251228467"
             },
             {
-                "idx": 51,
+                "idx": 55,
                 "uid": "5575761375102281771",
                 "type": "5575761375102281771"
             },
             {
-                "idx": 52,
+                "idx": 56,
                 "uid": "6582409209889722787",
                 "type": "6582409209889722787"
             },
             {
-                "idx": 53,
+                "idx": 57,
                 "uid": "614861366208420748",
                 "type": "614861366208420748"
             },
             {
-                "idx": 54,
+                "idx": 58,
                 "uid": "14427145521595639927",
                 "type": "14427145521595639927"
             },
             {
-                "idx": 55,
+                "idx": 59,
                 "uid": "3374156467310513484",
                 "type": "3374156467310513484"
             },
             {
-                "idx": 56,
+                "idx": 60,
                 "uid": "2101746773249017941",
                 "type": "2101746773249017941"
             },
             {
-                "idx": 57,
+                "idx": 61,
                 "uid": "16120089938690525143",
                 "type": "16120089938690525143"
             },
             {
-                "idx": 58,
+                "idx": 62,
                 "uid": "507720195356997881",
                 "type": "507720195356997881"
             },
             {
-                "idx": 59,
+                "idx": 63,
                 "uid": "10892987900330561893",
                 "type": "10892987900330561893"
             },
             {
-                "idx": 60,
+                "idx": 64,
                 "uid": "1585898554922009358",
                 "type": "1585898554922009358"
             },
             {
-                "idx": 61,
+                "idx": 65,
                 "uid": "3907162354404645355",
                 "type": "3907162354404645355"
             },
             {
-                "idx": 62,
+                "idx": 66,
                 "uid": "12587270281642273949",
                 "type": "BotEnemyType_AAEmplacement"
             },
             {
-                "idx": 63,
+                "idx": 67,
                 "uid": "18400802241877839954",
                 "type": "BotEnemyType_MortarEmplacement"
             },
             {
-                "idx": 64,
+                "idx": 68,
                 "uid": "12383542358383909066",
                 "type": "BotEnemyType_CannonTurret"
             },
             {
-                "idx": 65,
+                "idx": 69,
                 "uid": "9471740285315897155",
                 "type": "BotEnemyType_WarStriderRightGun"
             },
             {
-                "idx": 66,
+                "idx": 70,
                 "uid": "14105761812163438622",
                 "type": "14105761812163438622"
             },
             {
-                "idx": 67,
+                "idx": 71,
                 "uid": "3270354809248583475",
                 "type": "3270354809248583475"
             },
             {
-                "idx": 68,
+                "idx": 72,
                 "uid": "5244756512985933074",
                 "type": "BotEnemyType_FactoryStriderGatlingGun"
             },
             {
-                "idx": 69,
+                "idx": 73,
                 "uid": "17246256129031935938",
                 "type": "BotEnemyType_WarStrider"
             },
             {
-                "idx": 70,
+                "idx": 74,
                 "uid": "15821153730695962661",
                 "type": "15821153730695962661"
             },
             {
-                "idx": 71,
+                "idx": 75,
                 "uid": "2895453262415111841",
                 "type": "BotEnemyType_Gunship"
             },
             {
-                "idx": 72,
+                "idx": 76,
+                "uid": "13557003672051169255",
+                "type": "BotEnemyType_CyborgVoxEngine"
+            },
+            {
+                "idx": 77,
                 "uid": "15239773297738004195",
                 "type": "BotEnemyType_FactoryStrider"
             },
             {
-                "idx": 73,
+                "idx": 78,
                 "uid": "3583430772214091149",
                 "type": "3583430772214091149"
             },
             {
-                "idx": 74,
+                "idx": 79,
                 "uid": "17875655752828743943",
-                "type": "17875655752828743943"
+                "type": "BotEnemyType_ScoutStrider"
             },
             {
-                "idx": 75,
+                "idx": 80,
                 "uid": "8776671053425669033",
                 "type": "8776671053425669033"
             },
             {
-                "idx": 76,
+                "idx": 81,
                 "uid": "14704299532448510191",
                 "type": "14704299532448510191"
             },
             {
-                "idx": 77,
+                "idx": 82,
                 "uid": "10930013077329100956",
                 "type": "PickupType_GrenadeStack"
             },
             {
-                "idx": 78,
+                "idx": 83,
                 "uid": "13027308828300900709",
-                "type": "13027308828300900709"
+                "type": "PickupType_StimulantBox"
             },
             {
-                "idx": 79,
+                "idx": 84,
                 "uid": "9738700126984703622",
                 "type": "9738700126984703622"
             },
             {
-                "idx": 80,
+                "idx": 85,
                 "uid": "3888029160815609798",
                 "type": "3888029160815609798"
             },
             {
-                "idx": 81,
+                "idx": 86,
                 "uid": "4092536715104205912",
                 "type": "4092536715104205912"
             },
             {
-                "idx": 82,
+                "idx": 87,
                 "uid": "2055722625976668762",
                 "type": "2055722625976668762"
             },
             {
-                "idx": 83,
+                "idx": 88,
                 "uid": "12219229778730713472",
                 "type": "PickupType_SampleFlask"
             },
             {
-                "idx": 84,
+                "idx": 89,
                 "uid": "8451228818735071650",
                 "type": "8451228818735071650"
             },
             {
-                "idx": 85,
+                "idx": 90,
                 "uid": "6918199871803715620",
-                "type": "6918199871803715620"
+                "type": "ThrowableType_DemocraticRattle"
             },
             {
-                "idx": 86,
+                "idx": 91,
                 "uid": "15821755148612569419",
                 "type": "ThrowableType_ArcGrenade"
             },
             {
-                "idx": 87,
+                "idx": 92,
+                "uid": "5058456942810545460",
+                "type": "ThrowableType_GigaGrenade"
+            },
+            {
+                "idx": 93,
                 "uid": "2303622299803843892",
                 "type": "2303622299803843892"
             },
             {
-                "idx": 88,
+                "idx": 94,
                 "uid": "8540606443036588471",
                 "type": "ThrowableType_ImpactGrenade"
             },
             {
-                "idx": 89,
+                "idx": 95,
                 "uid": "15760376640790925767",
-                "type": "15760376640790925767"
+                "type": "ThrowableType_Smokescreen"
             },
             {
-                "idx": 90,
+                "idx": 96,
                 "uid": "16965724150372546684",
                 "type": "ThrowableType_IncendiaryImpactGrenade"
             },
             {
-                "idx": 91,
+                "idx": 97,
                 "uid": "5265154447371684424",
                 "type": "5265154447371684424"
             },
             {
-                "idx": 92,
+                "idx": 98,
                 "uid": "12198302824036005241",
                 "type": "12198302824036005241"
             },
             {
-                "idx": 93,
+                "idx": 99,
                 "uid": "4291111060798646696",
-                "type": "4291111060798646696"
+                "type": "PickupType_StimulantBox"
             },
             {
-                "idx": 94,
+                "idx": 100,
                 "uid": "15986416455258940649",
                 "type": "SupportWeaponType_MiniMissileSilo"
             },
             {
-                "idx": 95,
+                "idx": 101,
                 "uid": "8783342891467425251",
                 "type": "VehicleType_PatriotExosuit"
             },
             {
-                "idx": 96,
+                "idx": 102,
                 "uid": "2568747792294183916",
-                "type": "2568747792294183916"
+                "type": "EagleBombardmentType_StrafingRun"
             },
             {
-                "idx": 97,
+                "idx": 103,
                 "uid": "14709257759554793401",
                 "type": "VehicleType_FRV"
             },
             {
-                "idx": 98,
+                "idx": 104,
                 "uid": "4773808446773069045",
-                "type": "4773808446773069045"
+                "type": "VehicleType_GATER"
             },
             {
-                "idx": 99,
+                "idx": 105,
+                "uid": "1605323339894850998",
+                "type": "VehicleType_Bastion"
+            },
+            {
+                "idx": 106,
+                "uid": "14481784348804167734",
+                "type": "14481784348804167734"
+            },
+            {
+                "idx": 107,
                 "uid": "16785366656768074861",
                 "type": "IlluminateEnemyType_CrescentOverseer"
             },
             {
-                "idx": 100,
+                "idx": 108,
                 "uid": "8710323923067153479",
                 "type": "IlluminateEnemyType_Voteless"
             },
             {
-                "idx": 101,
+                "idx": 109,
+                "uid": "2358135177943625061",
+                "type": "IlluminateEnemyType_Veracitor"
+            },
+            {
+                "idx": 110,
+                "uid": "4989955592422339343",
+                "type": "IlluminateEnemyType_Gatekeeper"
+            },
+            {
+                "idx": 111,
                 "uid": "15726775732878460914",
                 "type": "IlluminateEnemyType_Overseer"
             },
             {
-                "idx": 102,
+                "idx": 112,
                 "uid": "13887409129757878736",
                 "type": "13887409129757878736"
             },
             {
-                "idx": 103,
+                "idx": 113,
                 "uid": "6938491555126425632",
                 "type": "IlluminateEnemyType_ElevatedOverseer"
             },
             {
-                "idx": 104,
+                "idx": 114,
                 "uid": "7483912604024319283",
                 "type": "IlluminateEnemyType_Fleshmob"
             },
             {
-                "idx": 105,
+                "idx": 115,
                 "uid": "12421182327299345565",
                 "type": "IlluminateEnemyType_Watcher"
             },
             {
-                "idx": 106,
+                "idx": 116,
+                "uid": "3809994927963057822",
+                "type": "IlluminateEnemyType_Obtruder"
+            },
+            {
+                "idx": 117,
                 "uid": "10835289456440565066",
                 "type": "IlluminateEnemyType_Harvester"
             },
             {
-                "idx": 107,
+                "idx": 118,
                 "uid": "2001439659095864946",
                 "type": "IlluminateEnemyType_OverseerQuantumStaff"
             },
             {
-                "idx": 108,
+                "idx": 119,
                 "uid": "5144175457539518005",
                 "type": "5144175457539518005"
             },
             {
-                "idx": 109,
+                "idx": 120,
                 "uid": "8093921451952391158",
                 "type": "8093921451952391158"
             },
             {
-                "idx": 110,
+                "idx": 121,
                 "uid": "2388896656612615925",
                 "type": "2388896656612615925"
             },
             {
-                "idx": 111,
+                "idx": 122,
                 "uid": "15490996401429190081",
                 "type": "15490996401429190081"
             },
             {
-                "idx": 112,
+                "idx": 123,
                 "uid": "3772542677720106756",
                 "type": "3772542677720106756"
             },
             {
-                "idx": 113,
+                "idx": 124,
                 "uid": "13371360225075696125",
                 "type": "IlluminateEnemyType_OverseerQuantumStaff"
             },
             {
-                "idx": 114,
+                "idx": 125,
+                "uid": "13944299464752454872",
+                "type": "13944299464752454872"
+            },
+            {
+                "idx": 126,
+                "uid": "4408996938478059842",
+                "type": "4408996938478059842"
+            },
+            {
+                "idx": 127,
                 "uid": "934982603467911041",
                 "type": "934982603467911041"
             },
             {
-                "idx": 115,
+                "idx": 128,
                 "uid": "3115424944814506132",
                 "type": "3115424944814506132"
             },
             {
-                "idx": 116,
+                "idx": 129,
                 "uid": "17664382055250362923",
                 "type": "17664382055250362923"
             },
             {
-                "idx": 117,
+                "idx": 130,
+                "uid": "1837586638104944508",
+                "type": "1837586638104944508"
+            },
+            {
+                "idx": 131,
                 "uid": "8944438942042386667",
                 "type": "8944438942042386667"
             },
             {
-                "idx": 118,
+                "idx": 132,
                 "uid": "11276719322983912231",
-                "type": "11276719322983912231"
+                "type": "IlluminateEnemyType_OverseerQuantumStaff"
             },
             {
-                "idx": 119,
+                "idx": 133,
                 "uid": "4314131110692356005",
-                "type": "4314131110692356005"
+                "type": "IlluminateEnemyType_OverseerQuantumStaff"
             },
             {
-                "idx": 120,
+                "idx": 134,
                 "uid": "14314053197173495724",
                 "type": "14314053197173495724"
             },
             {
-                "idx": 121,
+                "idx": 135,
                 "uid": "14665382813931951604",
                 "type": "14665382813931951604"
             },
             {
-                "idx": 122,
+                "idx": 136,
                 "uid": "10214051119573296464",
                 "type": "10214051119573296464"
             },
             {
-                "idx": 123,
+                "idx": 137,
                 "uid": "3101227300789072443",
                 "type": "3101227300789072443"
             },
             {
-                "idx": 124,
+                "idx": 138,
                 "uid": "10813441349072784898",
                 "type": "10813441349072784898"
             },
             {
-                "idx": 125,
+                "idx": 139,
                 "uid": "952558497108237637",
                 "type": "IlluminateEnemyType_LightningSpire"
             },
             {
-                "idx": 126,
+                "idx": 140,
                 "uid": "10313622237292913323",
-                "type": "10313622237292913323"
+                "type": "IlluminateEnemyType_StingrayHeavyFusionRepeater"
             },
             {
-                "idx": 127,
+                "idx": 141,
                 "uid": "1864924857437116746",
                 "type": "IlluminateEnemyType_Stingray"
             },
             {
-                "idx": 128,
+                "idx": 142,
                 "uid": "8422338628769435505",
                 "type": "IlluminateEnemyType_Warpship"
             },
             {
-                "idx": 129,
+                "idx": 143,
                 "uid": "17450606859370033415",
                 "type": "IlluminateEnemyType_Leviathan"
             },
             {
-                "idx": 130,
+                "idx": 144,
                 "uid": "7904040333519397101",
                 "type": "7904040333519397101"
             },
             {
-                "idx": 131,
+                "idx": 145,
                 "uid": "9839990240943553653",
-                "type": "9839990240943553653"
+                "type": "VehicleType_CargoTruck"
             },
             {
-                "idx": 132,
+                "idx": 146,
                 "uid": "16085819457051082660",
                 "type": "SuperEarthType_HiveBreakerDrill"
             },
             {
-                "idx": 133,
+                "idx": 147,
                 "uid": "8096066089414940474",
                 "type": "8096066089414940474"
             },
             {
-                "idx": 134,
+                "idx": 148,
                 "uid": "7120969853994206156",
-                "type": "7120969853994206156"
+                "type": "SuperEarthType_RelayTower"
             },
             {
-                "idx": 135,
+                "idx": 149,
                 "uid": "17622196031515135370",
                 "type": "PickupType_ICBMLaunchCodes"
             },
             {
-                "idx": 136,
+                "idx": 150,
                 "uid": "8663164604167534893",
                 "type": "SuperEarthType_NuclearMissile"
             },
             {
-                "idx": 137,
+                "idx": 151,
                 "uid": "4789698883114413229",
                 "type": "SuperEarthType_NuclearMissile"
             },
             {
-                "idx": 138,
+                "idx": 152,
                 "uid": "8980660665287109532",
                 "type": "8980660665287109532"
             },
             {
-                "idx": 139,
+                "idx": 153,
                 "uid": "1577001701089971290",
                 "type": "1577001701089971290"
             },
             {
-                "idx": 140,
+                "idx": 154,
                 "uid": "16927169355845479754",
                 "type": "SuperEarthType_OilExtractor"
             },
             {
-                "idx": 141,
+                "idx": 155,
                 "uid": "11654668915819557853",
                 "type": "SuperEarthType_SAMLauncher"
             },
             {
-                "idx": 142,
+                "idx": 156,
                 "uid": "4616777209957967593",
                 "type": "4616777209957967593"
             },
             {
-                "idx": 143,
+                "idx": 157,
                 "uid": "7810054165681946755",
                 "type": "SuperEarthType_None"
             },
             {
-                "idx": 144,
+                "idx": 158,
                 "uid": "15602970412943297293",
                 "type": "15602970412943297293"
             },
             {
-                "idx": 145,
+                "idx": 159,
                 "uid": "12591967327744659534",
                 "type": "12591967327744659534"
             },
             {
-                "idx": 146,
+                "idx": 160,
                 "uid": "12154768248238632812",
                 "type": "12154768248238632812"
             },
             {
-                "idx": 147,
+                "idx": 161,
                 "uid": "15586954129831248040",
                 "type": "15586954129831248040"
             },
             {
-                "idx": 148,
+                "idx": 162,
                 "uid": "6279750092088033715",
                 "type": "6279750092088033715"
             },
             {
-                "idx": 149,
+                "idx": 163,
                 "uid": "3085775354050256750",
                 "type": "IlluminateEnemyType_Warpship"
             },
             {
-                "idx": 150,
+                "idx": 164,
                 "uid": "13473041482812368650",
                 "type": "IlluminateEnemyType_Overship"
             },
             {
-                "idx": 151,
+                "idx": 165,
                 "uid": "13141153824331979820",
                 "type": "13141153824331979820"
             },
             {
-                "idx": 152,
+                "idx": 166,
                 "uid": "4191988217743057032",
                 "type": "4191988217743057032"
             },
             {
-                "idx": 153,
+                "idx": 167,
                 "uid": "12666120718945160643",
                 "type": "BugEnemyType_InfestedTower"
             },
             {
-                "idx": 154,
+                "idx": 168,
                 "uid": "13558922670169218566",
                 "type": "13558922670169218566"
             },
             {
-                "idx": 155,
+                "idx": 169,
                 "uid": "10942957064970873712",
                 "type": "10942957064970873712"
             },
             {
-                "idx": 156,
+                "idx": 170,
                 "uid": "9872437428268460875",
                 "type": "9872437428268460875"
             },
             {
-                "idx": 157,
+                "idx": 171,
                 "uid": "15449222908953809681",
                 "type": "15449222908953809681"
             },
             {
-                "idx": 158,
+                "idx": 172,
                 "uid": "672872697911391764",
                 "type": "672872697911391764"
             },
             {
-                "idx": 159,
+                "idx": 173,
                 "uid": "11193918233387225593",
                 "type": "11193918233387225593"
             },
             {
-                "idx": 160,
+                "idx": 174,
                 "uid": "5149481135433687355",
                 "type": "5149481135433687355"
             },
             {
-                "idx": 161,
+                "idx": 175,
                 "uid": "10102056965302435169",
                 "type": "10102056965302435169"
             },
             {
-                "idx": 162,
+                "idx": 176,
                 "uid": "9100766894272830527",
                 "type": "9100766894272830527"
             },
             {
-                "idx": 163,
+                "idx": 177,
                 "uid": "13159942169661045483",
                 "type": "13159942169661045483"
             },
             {
-                "idx": 164,
+                "idx": 178,
                 "uid": "11350815606295074697",
                 "type": "11350815606295074697"
             },
             {
-                "idx": 165,
+                "idx": 179,
                 "uid": "1127579667861114802",
                 "type": "1127579667861114802"
             },
             {
-                "idx": 166,
+                "idx": 180,
                 "uid": "11750748021023067901",
                 "type": "11750748021023067901"
             },
             {
-                "idx": 167,
+                "idx": 181,
                 "uid": "3124708172057168516",
                 "type": "PickupType_BugMutatedEgg"
             },
             {
-                "idx": 168,
+                "idx": 182,
                 "uid": "15304220425359002535",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 169,
+                "idx": 183,
                 "uid": "8544792714086142645",
                 "type": "8544792714086142645"
             },
             {
-                "idx": 170,
+                "idx": 184,
                 "uid": "5771061903247604588",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 171,
+                "idx": 185,
                 "uid": "5861687265757701821",
                 "type": "5861687265757701821"
             },
             {
-                "idx": 172,
+                "idx": 186,
                 "uid": "2507395399702661992",
                 "type": "2507395399702661992"
             },
             {
-                "idx": 173,
+                "idx": 187,
                 "uid": "11648480632094885955",
                 "type": "11648480632094885955"
             },
             {
-                "idx": 174,
+                "idx": 188,
                 "uid": "5744599939368375614",
                 "type": "5744599939368375614"
             },
             {
-                "idx": 175,
+                "idx": 189,
                 "uid": "16496326307674548889",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 176,
+                "idx": 190,
                 "uid": "14773080917319959198",
                 "type": "14773080917319959198"
             },
             {
-                "idx": 177,
+                "idx": 191,
                 "uid": "13741222368367787890",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 178,
+                "idx": 192,
                 "uid": "14347356236094671771",
                 "type": "PickupType_BotConfidentialData"
             },
             {
-                "idx": 179,
+                "idx": 193,
                 "uid": "18301184306373976528",
                 "type": "18301184306373976528"
             },
             {
-                "idx": 180,
+                "idx": 194,
                 "uid": "11691712792438096287",
                 "type": "11691712792438096287"
             },
             {
-                "idx": 181,
+                "idx": 195,
                 "uid": "9333151595628803334",
                 "type": "PickupType_SuperCredits"
             },
             {
-                "idx": 182,
+                "idx": 196,
                 "uid": "3468100940980596463",
                 "type": "3468100940980596463"
             },
             {
-                "idx": 183,
+                "idx": 197,
                 "uid": "1476012537193590664",
                 "type": "PickupType_Medal"
             },
             {
-                "idx": 184,
+                "idx": 198,
                 "uid": "7742303829890335551",
                 "type": "PickupType_RequisitionSlips"
             },
             {
-                "idx": 185,
+                "idx": 199,
                 "uid": "12943291850073424771",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 186,
+                "idx": 200,
                 "uid": "7256596000532615782",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 187,
+                "idx": 201,
                 "uid": "13632525282499700070",
                 "type": "PickupType_RareSample"
             },
             {
-                "idx": 188,
+                "idx": 202,
                 "uid": "12508512869271882154",
                 "type": "PickupType_RareSample"
             },
             {
-                "idx": 189,
+                "idx": 203,
                 "uid": "16068287307180393021",
                 "type": "PickupType_RareSample"
             },
             {
-                "idx": 190,
+                "idx": 204,
                 "uid": "11333649286886241306",
                 "type": "PickupType_SuperSample"
             },
             {
-                "idx": 191,
+                "idx": 205,
                 "uid": "8074555013069095359",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 192,
+                "idx": 206,
                 "uid": "8427145098997310521",
                 "type": "8427145098997310521"
             },
             {
-                "idx": 193,
+                "idx": 207,
                 "uid": "13030869719813342633",
                 "type": "13030869719813342633"
             },
             {
-                "idx": 194,
+                "idx": 208,
                 "uid": "9369996777284288084",
                 "type": "9369996777284288084"
             },
             {
-                "idx": 195,
+                "idx": 209,
                 "uid": "9724339804752659124",
                 "type": "9724339804752659124"
             },
             {
-                "idx": 196,
-                "uid": "2162579744966936371",
-                "type": "BugEnemyType_ShriekerNest"
-            },
-            {
-                "idx": 197,
+                "idx": 210,
                 "uid": "13650214626151558605",
                 "type": "PickupType_CreditCard"
             },
             {
-                "idx": 198,
+                "idx": 211,
                 "uid": "12525242792979901983",
                 "type": "12525242792979901983"
             },
             {
-                "idx": 199,
+                "idx": 212,
                 "uid": "7532632187257416932",
                 "type": "BugEnemyType_BugHole"
             },
             {
-                "idx": 200,
+                "idx": 213,
                 "uid": "6699176282901212749",
                 "type": "6699176282901212749"
             },
             {
-                "idx": 201,
+                "idx": 214,
                 "uid": "17252127909105838489",
                 "type": "17252127909105838489"
             },
             {
-                "idx": 202,
+                "idx": 215,
                 "uid": "14923473746413089367",
                 "type": "14923473746413089367"
             },
             {
-                "idx": 203,
+                "idx": 216,
                 "uid": "2976556536743111746",
                 "type": "2976556536743111746"
             },
             {
-                "idx": 204,
+                "idx": 217,
                 "uid": "3494241250398732730",
                 "type": "3494241250398732730"
             },
             {
-                "idx": 205,
+                "idx": 218,
                 "uid": "5504262545937421089",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 206,
+                "idx": 219,
                 "uid": "5274502359162322681",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 207,
+                "idx": 220,
                 "uid": "10573539759497526597",
                 "type": "PickupType_CommonSample"
             },
             {
-                "idx": 208,
+                "idx": 221,
                 "uid": "5691626237303103123",
                 "type": "5691626237303103123"
             },
             {
-                "idx": 209,
+                "idx": 222,
                 "uid": "9473798407121267184",
                 "type": "9473798407121267184"
             },
             {
-                "idx": 210,
+                "idx": 223,
                 "uid": "14748816422034837943",
                 "type": "BugEnemyType_BileSpewerV4"
             },
             {
-                "idx": 211,
+                "idx": 224,
                 "uid": "11781875241940413332",
                 "type": "BugEnemyType_RuptureSpewer"
             },
             {
-                "idx": 212,
+                "idx": 225,
                 "uid": "14731312854664874139",
                 "type": "BugEnemyType_NursingSpewer"
             },
             {
-                "idx": 213,
+                "idx": 226,
                 "uid": "6927066342767148424",
                 "type": "BugEnemyType_NursingSpewer"
             },
             {
-                "idx": 214,
+                "idx": 227,
                 "uid": "7719208875390099550",
                 "type": "BugEnemyType_SporeCharger"
             },
             {
-                "idx": 215,
+                "idx": 228,
                 "uid": "4251221953861716889",
                 "type": "BugEnemyType_ChargerBehemoth"
             },
             {
-                "idx": 216,
+                "idx": 229,
                 "uid": "4399458158766252490",
                 "type": "BugEnemyType_WeakHunter"
             },
             {
-                "idx": 217,
+                "idx": 230,
                 "uid": "6676641717166653626",
                 "type": "BugEnemyType_Hunter"
             },
             {
-                "idx": 218,
+                "idx": 231,
                 "uid": "9814471339792705014",
                 "type": "BugEnemyType_PredatorHunter"
             },
             {
-                "idx": 219,
+                "idx": 232,
                 "uid": "15125779956101896786",
                 "type": "BugEnemyType_PredatorStalker"
             },
             {
-                "idx": 220,
+                "idx": 233,
                 "uid": "5903841343181520462",
                 "type": "BugEnemyType_ScavengerV3"
             },
             {
-                "idx": 221,
+                "idx": 234,
                 "uid": "16121421951002036444",
                 "type": "BugEnemyType_ScavengerV4"
             },
             {
-                "idx": 222,
+                "idx": 235,
                 "uid": "11135777548304851724",
                 "type": "BugEnemyType_ScavengerV2"
             },
             {
-                "idx": 223,
+                "idx": 236,
                 "uid": "12300518439027380185",
                 "type": "BugEnemyType_Pouncer"
             },
             {
-                "idx": 224,
+                "idx": 237,
                 "uid": "8261922003134896957",
                 "type": "BugEnemyType_BileSpitter"
             },
             {
-                "idx": 225,
+                "idx": 238,
                 "uid": "17344047887226579155",
-                "type": "BugEnemyType_Shrieker"
+                "type": "17344047887226579155"
             },
             {
-                "idx": 226,
+                "idx": 239,
                 "uid": "13707236614338800569",
                 "type": "BugEnemyType_Warrior"
             },
             {
-                "idx": 227,
+                "idx": 240,
                 "uid": "5663271064929335883",
                 "type": "BugEnemyType_Warrior"
             },
             {
-                "idx": 228,
+                "idx": 241,
                 "uid": "3626558530581732572",
                 "type": "BugEnemyType_Warrior"
             },
             {
-                "idx": 229,
+                "idx": 242,
                 "uid": "12873251592757102566",
                 "type": "BugEnemyType_Warrior"
             },
             {
-                "idx": 230,
+                "idx": 243,
                 "uid": "1155202780614770422",
                 "type": "BugEnemyType_BileWarrior"
             },
             {
-                "idx": 231,
+                "idx": 244,
                 "uid": "15358116161893188517",
                 "type": "BugEnemyType_BroodCommander"
             },
             {
-                "idx": 232,
+                "idx": 245,
                 "uid": "17842374123104475103",
                 "type": "BugEnemyType_AlphaCommander"
             },
             {
-                "idx": 233,
+                "idx": 246,
                 "uid": "11768477327318910982",
                 "type": "BugEnemyType_RuptureWarrior"
             },
             {
-                "idx": 234,
+                "idx": 247,
                 "uid": "11669807341511884260",
                 "type": "BugEnemyType_HiveGuard"
             },
             {
-                "idx": 235,
+                "idx": 248,
                 "uid": "5953193886108619556",
                 "type": "BugEnemyType_NursingSpewerBileSpray"
             },
             {
-                "idx": 236,
+                "idx": 249,
                 "uid": "13104279481307701677",
                 "type": "BotEnemyType_Berserker"
             },
             {
-                "idx": 237,
+                "idx": 250,
                 "uid": "15382378127438146468",
                 "type": "BotEnemyType_Berserker"
             },
             {
-                "idx": 238,
+                "idx": 251,
                 "uid": "12706617161845284909",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 239,
+                "idx": 252,
                 "uid": "8883573249939290241",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 240,
+                "idx": 253,
                 "uid": "12562787704342269592",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 241,
+                "idx": 254,
                 "uid": "9414910092732904122",
                 "type": "BotEnemyType_PyroTrooper"
             },
             {
-                "idx": 242,
+                "idx": 255,
                 "uid": "711481103094352835",
-                "type": "BotEnemyType_Trooper"
+                "type": "BotEnemyType_Trooper?"
             },
             {
-                "idx": 243,
+                "idx": 256,
                 "uid": "619301928082185734",
                 "type": "BotEnemyType_MGRaider"
             },
             {
-                "idx": 244,
+                "idx": 257,
                 "uid": "5909160229139284606",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 245,
+                "idx": 258,
                 "uid": "12614471755071195045",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 246,
+                "idx": 259,
                 "uid": "9614788353289254415",
                 "type": "BotEnemyType_AssaultRaider"
             },
             {
-                "idx": 247,
+                "idx": 260,
                 "uid": "13037131039069521275",
                 "type": "BotEnemyType_MGRaider"
             },
             {
-                "idx": 248,
+                "idx": 261,
                 "uid": "11841423120880866036",
                 "type": "BotEnemyType_MGRaider"
             },
             {
-                "idx": 249,
+                "idx": 262,
                 "uid": "15621795958426619957",
                 "type": "BotEnemyType_Brawler"
             },
             {
-                "idx": 250,
+                "idx": 263,
                 "uid": "3517035000518974420",
-                "type": "BotEnemyType_HeavyDevastator"
+                "type": "3517035000518974420"
             },
             {
-                "idx": 251,
+                "idx": 264,
                 "uid": "18129582262547983427",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 252,
+                "idx": 265,
                 "uid": "2701456486977900736",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 253,
+                "idx": 266,
                 "uid": "4618830856548850870",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 254,
+                "idx": 267,
                 "uid": "7258218216136199873",
                 "type": "BotEnemyType_Raider"
             },
             {
-                "idx": 255,
+                "idx": 268,
                 "uid": "767968035755763",
                 "type": "BotEnemyType_Marauder"
             },
             {
-                "idx": 256,
+                "idx": 269,
                 "uid": "12041129896721693842",
                 "type": "BotEnemyType_Commissar"
             },
             {
-                "idx": 257,
+                "idx": 270,
                 "uid": "2404044106251363533",
                 "type": "BotEnemyType_Commissar"
             },
             {
-                "idx": 258,
+                "idx": 271,
                 "uid": "1971339432693544677",
                 "type": "BotEnemyType_Commissar"
             },
             {
-                "idx": 259,
+                "idx": 272,
+                "uid": "720026069039790444",
+                "type": "BotEnemyType_CyborgAgitator"
+            },
+            {
+                "idx": 273,
+                "uid": "8388657151297660569",
+                "type": "BotEnemyType_CyborgRadical"
+            },
+            {
+                "idx": 274,
+                "uid": "14677717390494571578",
+                "type": "BotEnemyType_CyborgRadical"
+            },
+            {
+                "idx": 275,
                 "uid": "2190700087544369166",
                 "type": "BotEnemyType_HulkObliterator"
             },
             {
-                "idx": 260,
+                "idx": 276,
                 "uid": "4469039597602705386",
                 "type": "BotEnemyType_HulkScorcher"
             },
             {
-                "idx": 261,
+                "idx": 277,
                 "uid": "16451308563134815530",
                 "type": "BotEnemyType_HulkScorcher"
             },
             {
-                "idx": 262,
+                "idx": 278,
                 "uid": "7902461295840507538",
                 "type": "BotEnemyType_HulkFirebomber"
             },
             {
-                "idx": 263,
+                "idx": 279,
                 "uid": "1772093692883358428",
                 "type": "BotEnemyType_HulkScorcher"
             },
             {
-                "idx": 264,
+                "idx": 280,
                 "uid": "1403303179954968823",
                 "type": "BotEnemyType_HulkBruiser"
             },
             {
-                "idx": 265,
+                "idx": 281,
                 "uid": "3660840294738278623",
                 "type": "BotEnemyType_HulkBruiser"
             },
             {
-                "idx": 266,
+                "idx": 282,
                 "uid": "6336231432473988509",
                 "type": "BotEnemyType_Devastator"
             },
             {
-                "idx": 267,
+                "idx": 283,
                 "uid": "18198461672611034237",
                 "type": "BotEnemyType_Devastator"
             },
             {
-                "idx": 268,
+                "idx": 284,
                 "uid": "13723659040410201638",
                 "type": "BotEnemyType_Devastator"
             },
             {
-                "idx": 269,
+                "idx": 285,
                 "uid": "13340847352459495240",
                 "type": "BotEnemyType_HeavyDevastator"
             },
             {
-                "idx": 270,
+                "idx": 286,
                 "uid": "17921415124075533547",
                 "type": "BotEnemyType_HeavyDevastator"
             },
             {
-                "idx": 271,
+                "idx": 287,
                 "uid": "6391373595476922945",
                 "type": "BotEnemyType_IncendiaryMGDevastator"
             },
             {
-                "idx": 272,
+                "idx": 288,
                 "uid": "10514734670540770044",
                 "type": "BotEnemyType_Devastator"
             },
             {
-                "idx": 273,
+                "idx": 289,
                 "uid": "10828817397904429935",
                 "type": "BotEnemyType_RocketDevastator"
             },
             {
-                "idx": 274,
+                "idx": 290,
                 "uid": "17756861745706792858",
                 "type": "BotEnemyType_RocketDevastator"
             },
             {
-                "idx": 275,
+                "idx": 291,
                 "uid": "14536718756304552612",
                 "type": "BotEnemyType_RocketDevastator"
             },
             {
-                "idx": 276,
+                "idx": 292,
                 "uid": "16155873629479015795",
                 "type": "BotEnemyType_ConflagrationDevastator"
             },
             {
-                "idx": 277,
+                "idx": 293,
                 "uid": "14532928027407155276",
-                "type": "14532928027407155276"
+                "type": "BotEnemyType_HighExplosiveGrenade"
             },
             {
-                "idx": 278,
+                "idx": 294,
                 "uid": "10256545209826294564",
                 "type": "10256545209826294564"
             },
             {
-                "idx": 279,
+                "idx": 295,
                 "uid": "7102424959117264971",
                 "type": "7102424959117264971"
             },
             {
-                "idx": 280,
+                "idx": 296,
+                "uid": "5283907452281504031",
+                "type": "5283907452281504031"
+            },
+            {
+                "idx": 297,
+                "uid": "14095844455824707166",
+                "type": "14095844455824707166"
+            },
+            {
+                "idx": 298,
                 "uid": "13278526841390790437",
                 "type": "13278526841390790437"
             },
             {
-                "idx": 281,
+                "idx": 299,
                 "uid": "9965870354970800749",
                 "type": "9965870354970800749"
             },
             {
-                "idx": 282,
+                "idx": 300,
                 "uid": "15128209789296733508",
                 "type": "15128209789296733508"
             },
             {
-                "idx": 283,
+                "idx": 301,
                 "uid": "12010080171608982104",
                 "type": "12010080171608982104"
             },
             {
-                "idx": 284,
+                "idx": 302,
                 "uid": "987422936637912356",
                 "type": "987422936637912356"
             },
             {
-                "idx": 285,
+                "idx": 303,
                 "uid": "9528799688439966563",
                 "type": "BotEnemyType_CannonTurret"
             },
             {
-                "idx": 286,
+                "idx": 304,
+                "uid": "6997370577610279074",
+                "type": "BotEnemyType_CyborgVoxEngineCannonTurret"
+            },
+            {
+                "idx": 305,
                 "uid": "5892418254001999486",
                 "type": "BotEnemyType_FactoryStriderLaserGun"
             },
             {
-                "idx": 287,
+                "idx": 306,
                 "uid": "5289274991058480552",
                 "type": "5289274991058480552"
             },
             {
-                "idx": 288,
+                "idx": 307,
                 "uid": "10355039786464021751",
                 "type": "10355039786464021751"
             },
             {
-                "idx": 289,
+                "idx": 308,
                 "uid": "3239012324354685117",
                 "type": "BotEnemyType_CannonTurret"
             },
             {
-                "idx": 290,
+                "idx": 309,
                 "uid": "6707034374626068020",
                 "type": "6707034374626068020"
             },
             {
-                "idx": 291,
+                "idx": 310,
                 "uid": "11146468741807915285",
                 "type": "BotEnemyType_WarStriderLeftGun"
             },
             {
-                "idx": 292,
+                "idx": 311,
+                "uid": "17476252816949674262",
+                "type": "BotEnemyType_CyborgVoxEngineGatlingGun"
+            },
+            {
+                "idx": 312,
+                "uid": "3849984664539165667",
+                "type": "BotEnemyType_CyborgVoxEngineGatlingGun"
+            },
+            {
+                "idx": 313,
                 "uid": "2047310211000472840",
                 "type": "BotEnemyType_FactoryStriderGatlingGun"
             },
             {
-                "idx": 293,
+                "idx": 314,
                 "uid": "7672538193198738711",
                 "type": "BotEnemyType_FactoryStriderGatlingGun"
             },
             {
-                "idx": 294,
+                "idx": 315,
                 "uid": "4111341420364086640",
                 "type": "BotEnemyType_FactoryStriderGatlingGun"
             },
             {
-                "idx": 295,
+                "idx": 316,
                 "uid": "4228803675738017635",
                 "type": "BotEnemyType_FactoryStriderGatlingGun"
             },
             {
-                "idx": 296,
+                "idx": 317,
                 "uid": "10958708641660631096",
                 "type": "BotEnemyType_Dropship"
             },
             {
-                "idx": 297,
+                "idx": 318,
                 "uid": "3527126521288270458",
                 "type": "3527126521288270458"
             },
             {
-                "idx": 298,
+                "idx": 319,
                 "uid": "14286719829563111324",
                 "type": "BotEnemyType_ShredderTank"
             },
             {
-                "idx": 299,
+                "idx": 320,
                 "uid": "6041739005686103399",
                 "type": "BotEnemyType_AnnihilatorTank"
             },
             {
-                "idx": 300,
+                "idx": 321,
                 "uid": "7196537832909981064",
                 "type": "BotEnemyType_BarragerTank"
             },
             {
-                "idx": 301,
+                "idx": 322,
                 "uid": "10409770290790592053",
                 "type": "BotEnemyType_ReinforcedScoutStrider"
             },
             {
-                "idx": 302,
+                "idx": 323,
                 "uid": "16671435828232852140",
                 "type": "16671435828232852140"
             },
             {
-                "idx": 303,
+                "idx": 324,
                 "uid": "5690760409550920280",
-                "type": "5690760409550920280"
+                "type": "SupportBackpackType_SupplyBackpack"
             },
             {
-                "idx": 304,
+                "idx": 325,
                 "uid": "16576307969206587212",
                 "type": "16576307969206587212"
             },
             {
-                "idx": 305,
+                "idx": 326,
                 "uid": "2791632565401924213",
                 "type": "2791632565401924213"
             },
             {
-                "idx": 306,
+                "idx": 327,
                 "uid": "10844335154607830587",
                 "type": "SupportBackpackType_BallisticShield"
             },
             {
-                "idx": 307,
+                "idx": 328,
                 "uid": "17709977744562302112",
                 "type": "17709977744562302112"
             },
             {
-                "idx": 308,
+                "idx": 329,
                 "uid": "6889076721164976792",
                 "type": "6889076721164976792"
             },
             {
-                "idx": 309,
+                "idx": 330,
+                "uid": "13495904577777136893",
+                "type": "SupportBackpackType_BFGrenadeLauncherBackpack"
+            },
+            {
+                "idx": 331,
                 "uid": "11155000903228636302",
                 "type": "SupportBackpackType_PortableHellbomb"
             },
             {
-                "idx": 310,
+                "idx": 332,
                 "uid": "11201896471107657063",
                 "type": "SupportWeaponType_C4Explosives"
             },
             {
-                "idx": 311,
+                "idx": 333,
                 "uid": "3033447149328295793",
-                "type": "SupportBackpackType_C4Backpack"
+                "type": "3033447149328295793"
             },
             {
-                "idx": 312,
+                "idx": 334,
                 "uid": "11882632134944470026",
                 "type": "11882632134944470026"
             },
             {
-                "idx": 313,
+                "idx": 335,
                 "uid": "13012964727571811944",
                 "type": "SupportBackpackType_Warppack"
             },
             {
-                "idx": 314,
+                "idx": 336,
                 "uid": "3464783698532994381",
-                "type": "3464783698532994381"
+                "type": "SupportBackpackType_FlameDrone"
             },
             {
-                "idx": 315,
+                "idx": 337,
                 "uid": "13834130950471716570",
                 "type": "13834130950471716570"
             },
             {
-                "idx": 316,
+                "idx": 338,
                 "uid": "16125342225783174778",
                 "type": "16125342225783174778"
             },
             {
-                "idx": 317,
+                "idx": 339,
                 "uid": "2692796710804508396",
                 "type": "2692796710804508396"
             },
             {
-                "idx": 318,
+                "idx": 340,
                 "uid": "16756305030629006721",
-                "type": "SupportBackpackType_LiberatorDogDrone"
+                "type": "16756305030629006721"
             },
             {
-                "idx": 319,
+                "idx": 341,
                 "uid": "12653822188347841538",
                 "type": "SupportBackpackType_GuardDogRover"
             },
             {
-                "idx": 320,
+                "idx": 342,
                 "uid": "1353568197974522460",
                 "type": "SupportBackpackType_PersonalBubbleShield"
             },
             {
-                "idx": 321,
+                "idx": 343,
                 "uid": "10287068634025973658",
                 "type": "10287068634025973658"
             },
             {
-                "idx": 322,
+                "idx": 344,
                 "uid": "3870192466842195264",
                 "type": "3870192466842195264"
             },
             {
-                "idx": 323,
+                "idx": 345,
                 "uid": "13330286337704337139",
                 "type": "13330286337704337139"
             },
             {
-                "idx": 324,
+                "idx": 346,
                 "uid": "14019044913798069754",
                 "type": "14019044913798069754"
             },
             {
-                "idx": 325,
-                "uid": "6829725667368330959",
-                "type": "SupportBackpackType_Hoverppack"
+                "idx": 347,
+                "uid": "4894036464529596640",
+                "type": "SupportBackpackType_CrematorBackpack"
             },
             {
-                "idx": 326,
+                "idx": 348,
+                "uid": "6829725667368330959",
+                "type": "SupportBackpackType_Hoverpack"
+            },
+            {
+                "idx": 349,
                 "uid": "6468799106264970105",
                 "type": "SupportBackpackType_Jumppack"
             },
             {
-                "idx": 327,
+                "idx": 350,
                 "uid": "744753118896166941",
-                "type": "744753118896166941"
+                "type": "SupportBackpackType_MedicBackpack"
             },
             {
-                "idx": 328,
+                "idx": 351,
                 "uid": "391216982669554238",
                 "type": "SupportBackpackType_MaxigunBackpack"
             },
             {
-                "idx": 329,
+                "idx": 352,
                 "uid": "10871626090290489728",
                 "type": "SupportBackpackType_RecoillessRifleBackpack"
             },
             {
-                "idx": 330,
+                "idx": 353,
                 "uid": "1945762457460294290",
                 "type": "1945762457460294290"
             },
             {
-                "idx": 331,
+                "idx": 354,
+                "uid": "6863144698475545939",
+                "type": "SupportWeaponType_BreachingHammer"
+            },
+            {
+                "idx": 355,
                 "uid": "16408494556715988068",
                 "type": "MeleeWeaponType_StunLance"
             },
             {
-                "idx": 332,
+                "idx": 356,
                 "uid": "16743928489815142323",
+                "type": "SupportWeaponType_DerelictEntrenchmentTool"
+            },
+            {
+                "idx": 357,
+                "uid": "9088112410931658315",
                 "type": "MeleeWeaponType_EntrenchmentTool"
             },
             {
-                "idx": 333,
+                "idx": 358,
                 "uid": "6160539022825437465",
                 "type": "6160539022825437465"
             },
             {
-                "idx": 334,
+                "idx": 359,
                 "uid": "4749824949454633632",
                 "type": "PrimaryWeaponType_Punisher"
             },
             {
-                "idx": 335,
+                "idx": 360,
                 "uid": "13601459612566041022",
                 "type": "PrimaryWeaponType_PunisherFireOfLiberty"
             },
             {
-                "idx": 336,
+                "idx": 361,
                 "uid": "5725374950499373869",
                 "type": "PrimaryWeaponType_Slugger"
             },
             {
-                "idx": 337,
+                "idx": 362,
                 "uid": "5634296840427219794",
                 "type": "PrimaryWeaponType_HaltShotgun"
             },
             {
-                "idx": 338,
+                "idx": 363,
                 "uid": "15214248472323070124",
                 "type": "PrimaryWeaponType_Cookout"
             },
             {
-                "idx": 339,
+                "idx": 364,
                 "uid": "421324886246020354",
                 "type": "PrimaryWeaponType_PlasmaPunisher"
             },
             {
-                "idx": 340,
-                "uid": "8221051007693717489",
-                "type": "8221051007693717489"
+                "idx": 365,
+                "uid": "15911719089517557690",
+                "type": "PrimaryWeaponType_SweeperShotgun"
             },
             {
-                "idx": 341,
+                "idx": 366,
+                "uid": "8221051007693717489",
+                "type": "PrimaryWeaponType_DoubleFreedomShotgun"
+            },
+            {
+                "idx": 367,
                 "uid": "10438714418406872918",
                 "type": "PrimaryWeaponType_M90AShotgun"
             },
             {
-                "idx": 342,
+                "idx": 368,
                 "uid": "10768610637301609307",
                 "type": "PrimaryWeaponType_Knight"
             },
             {
-                "idx": 343,
+                "idx": 369,
+                "uid": "9957594915860537321",
+                "type": "PrimaryWeaponType_Stoker"
+            },
+            {
+                "idx": 370,
                 "uid": "5450511615252257986",
                 "type": "PrimaryWeaponType_StA11"
             },
             {
-                "idx": 344,
+                "idx": 371,
                 "uid": "13722729806569931406",
                 "type": "PrimaryWeaponType_M7SSMG"
             },
             {
-                "idx": 345,
+                "idx": 372,
                 "uid": "10717884433990741653",
                 "type": "PrimaryWeaponType_Reprimand"
             },
             {
-                "idx": 346,
+                "idx": 373,
                 "uid": "3460488074252222302",
                 "type": "PrimaryWeaponType_PlasmaSniper"
             },
             {
-                "idx": 347,
+                "idx": 374,
                 "uid": "17983663411446975103",
                 "type": "PrimaryWeaponType_VariableShotgun"
             },
             {
-                "idx": 348,
+                "idx": 375,
                 "uid": "14954542309183038509",
                 "type": "SecondaryWeaponType_Warrant"
             },
             {
-                "idx": 349,
+                "idx": 376,
                 "uid": "424716889947522210",
                 "type": "SecondaryWeaponType_Peacemaker"
             },
             {
-                "idx": 350,
+                "idx": 377,
                 "uid": "15470422196992643923",
                 "type": "SecondaryWeaponType_StimPistol"
             },
             {
-                "idx": 351,
+                "idx": 378,
                 "uid": "11468381642862999653",
                 "type": "11468381642862999653"
             },
             {
-                "idx": 352,
+                "idx": 379,
                 "uid": "530045626612387909",
                 "type": "ThrowableType_PineappleGrenade"
             },
             {
-                "idx": 353,
+                "idx": 380,
                 "uid": "1456507421651509424",
                 "type": "ThrowableType_Dynamite"
             },
             {
-                "idx": 354,
+                "idx": 381,
+                "uid": "1989119436006646583",
+                "type": "ThrowableType_PocketShield"
+            },
+            {
+                "idx": 382,
                 "uid": "36176771630602099",
                 "type": "ThrowableType_StunGrenade"
             },
             {
-                "idx": 355,
+                "idx": 383,
                 "uid": "5542218890398374779",
                 "type": "ThrowableType_FragGrenade"
             },
             {
-                "idx": 356,
+                "idx": 384,
                 "uid": "294590291936179579",
                 "type": "ThrowableType_GasGrenade"
             },
             {
-                "idx": 357,
+                "idx": 385,
                 "uid": "7715225218085078398",
                 "type": "ThrowableType_HighExplosiveGrenade"
             },
             {
-                "idx": 358,
+                "idx": 386,
                 "uid": "316723890334202692",
                 "type": "ThrowableType_IncendiaryGrenade"
             },
             {
-                "idx": 359,
+                "idx": 387,
                 "uid": "10168990792011931162",
-                "type": "10168990792011931162"
+                "type": "ThrowableType_UnknownStickyGrenade"
             },
             {
-                "idx": 360,
+                "idx": 388,
                 "uid": "11675163230052555240",
-                "type": "11675163230052555240"
+                "type": "ThrowableType_LureMine"
             },
             {
-                "idx": 361,
+                "idx": 389,
                 "uid": "3258790968645519416",
                 "type": "ThrowableType_SeekerGrenade"
             },
             {
-                "idx": 362,
+                "idx": 390,
                 "uid": "6766936627846269706",
                 "type": "ThrowableType_SmokeGrenade"
             },
             {
-                "idx": 363,
+                "idx": 391,
                 "uid": "14249494547947571097",
                 "type": "ThrowableType_ThermiteGrenade"
             },
             {
-                "idx": 364,
+                "idx": 392,
                 "uid": "4587284938949573643",
                 "type": "ThrowableType_UrchinThermiteGrenade"
             },
             {
-                "idx": 365,
+                "idx": 393,
                 "uid": "17848709375785648310",
                 "type": "ThrowableType_ThrowingKnife"
             },
             {
-                "idx": 366,
+                "idx": 394,
                 "uid": "284602740380634958",
                 "type": "ThrowableType_PyrotechGrenade"
             },
             {
-                "idx": 367,
+                "idx": 395,
                 "uid": "3103483601875813497",
                 "type": "DeployableType_AutoCannonEmplacement"
             },
             {
-                "idx": 368,
+                "idx": 396,
                 "uid": "17083241647592728848",
                 "type": "DeployableType_TeamShield"
             },
             {
-                "idx": 369,
+                "idx": 397,
                 "uid": "901379433810974099",
-                "type": "901379433810974099"
+                "type": "DeployableType_GrenadierBattlement"
             },
             {
-                "idx": 370,
+                "idx": 398,
                 "uid": "9371080132553746520",
                 "type": "DeployableType_FlamethrowerSentry"
             },
             {
-                "idx": 371,
+                "idx": 399,
                 "uid": "6198940140191066280",
                 "type": "DeployableType_LaserSentry"
             },
             {
-                "idx": 372,
+                "idx": 400,
                 "uid": "12269323780666160625",
                 "type": "DeployableType_GatlingSentry"
             },
             {
-                "idx": 373,
+                "idx": 401,
                 "uid": "1051445694670701817",
                 "type": "DeployableType_HeavyMachineGunEmplacement"
             },
             {
-                "idx": 374,
+                "idx": 402,
                 "uid": "12209482505501190673",
                 "type": "DeployableType_HeavyMachineGunEmplacementDerelict"
             },
             {
-                "idx": 375,
+                "idx": 403,
                 "uid": "17297258079668724512",
                 "type": "DeployableType_AntiPersonnelMinefield"
             },
             {
-                "idx": 376,
+                "idx": 404,
                 "uid": "12220563120145251703",
                 "type": "DeployableType_GasMinefield"
             },
             {
-                "idx": 377,
+                "idx": 405,
                 "uid": "13777321776887997010",
                 "type": "DeployableType_IncendiaryMinefield"
             },
             {
-                "idx": 378,
+                "idx": 406,
                 "uid": "2712008117028049500",
                 "type": "DeployableType_AntiTankMinefield"
             },
             {
-                "idx": 379,
+                "idx": 407,
                 "uid": "5881843148917714292",
                 "type": "DeployableType_MortarSentry"
             },
             {
-                "idx": 380,
+                "idx": 408,
+                "uid": "2998286011813792148",
+                "type": "DeployableType_GasMortarSentry"
+            },
+            {
+                "idx": 409,
                 "uid": "12827722989328478091",
                 "type": "DeployableType_EMSMortarSentry"
             },
             {
-                "idx": 381,
+                "idx": 410,
                 "uid": "9670353792785147784",
                 "type": "9670353792785147784"
             },
             {
-                "idx": 382,
+                "idx": 411,
                 "uid": "3965302274531977670",
                 "type": "DeployableType_RocketSentry"
             },
             {
-                "idx": 383,
+                "idx": 412,
                 "uid": "8383906277678357886",
                 "type": "DeployableType_TeslaTower"
             },
             {
-                "idx": 384,
+                "idx": 413,
                 "uid": "17259437333005147504",
                 "type": "DeployableType_GatlingSentry"
             },
             {
-                "idx": 385,
+                "idx": 414,
                 "uid": "9219146911950674287",
                 "type": "DeployableType_GatlingSentry"
             },
             {
-                "idx": 386,
+                "idx": 415,
                 "uid": "6337264778388549835",
                 "type": "DeployableType_GatlingSentry"
             },
             {
-                "idx": 387,
+                "idx": 416,
                 "uid": "4021120973472933563",
                 "type": "DeployableType_MachineGunSentry"
             },
             {
-                "idx": 388,
+                "idx": 417,
                 "uid": "14038927220542196401",
                 "type": "VehicleType_EmancipatorExosuit"
             },
             {
-                "idx": 389,
+                "idx": 418,
                 "uid": "3359716870288230953",
-                "type": "3359716870288230953"
+                "type": "EagleBombardmentType_EagleAirstrike"
             },
             {
-                "idx": 390,
+                "idx": 419,
                 "uid": "1962385103464102102",
                 "type": "EagleBombardmentType_SmokeAirstrike"
             },
             {
-                "idx": 391,
+                "idx": 420,
                 "uid": "16450357640400839941",
                 "type": "EagleBombardmentType_500KGBomb"
             },
             {
-                "idx": 392,
+                "idx": 421,
                 "uid": "11335415903596859741",
                 "type": "EagleBombardmentType_ClusterBombs"
             },
             {
-                "idx": 393,
+                "idx": 422,
                 "uid": "851455025217071569",
                 "type": "851455025217071569"
             },
             {
-                "idx": 394,
+                "idx": 423,
                 "uid": "16121648674137865605",
                 "type": "16121648674137865605"
             },
             {
-                "idx": 395,
+                "idx": 424,
                 "uid": "2862976050209719244",
                 "type": "EagleBombardmentType_NapalmAirstrike"
             },
             {
-                "idx": 396,
+                "idx": 425,
                 "uid": "4140939466573601321",
                 "type": "EagleBombardmentType_110mmRocketPods"
             },
             {
-                "idx": 397,
+                "idx": 426,
                 "uid": "16847153723028833967",
-                "type": "16847153723028833967"
+                "type": "VehicleType_SuperEarth_FRV"
             },
             {
-                "idx": 398,
+                "idx": 427,
                 "uid": "782675882315451933",
                 "type": "IlluminateEnemyType_Voteless"
             },
             {
-                "idx": 399,
+                "idx": 428,
                 "uid": "4919490090942595835",
                 "type": "IlluminateEnemyType_Voteless"
             },
             {
-                "idx": 400,
+                "idx": 429,
                 "uid": "17393195075174683200",
                 "type": "IlluminateEnemyType_Overseer"
             },
             {
-                "idx": 401,
+                "idx": 430,
                 "uid": "641481206831155133",
                 "type": "641481206831155133"
             },
             {
-                "idx": 402,
+                "idx": 431,
                 "uid": "15438282343866021807",
                 "type": "IlluminateEnemyType_Harvester"
             },
             {
-                "idx": 403,
-                "uid": "13988996217395781253",
-                "type": "13988996217395781253"
+                "idx": 432,
+                "uid": "17171643259159907678",
+                "type": "17171643259159907678"
             },
             {
-                "idx": 404,
+                "idx": 433,
+                "uid": "2987070632088620378",
+                "type": "2987070632088620378"
+            },
+            {
+                "idx": 434,
+                "uid": "13988996217395781253",
+                "type": "BotEnemyType_HighExplosiveGrenade"
+            },
+            {
+                "idx": 435,
                 "uid": "16763036627779227620",
                 "type": "16763036627779227620"
             },
             {
-                "idx": 405,
+                "idx": 436,
                 "uid": "5910727434981086692",
                 "type": "SupportWeaponType_BreakActionShotgun"
             },
             {
-                "idx": 406,
+                "idx": 437,
                 "uid": "14311811701081201939",
                 "type": "14311811701081201939"
             },
             {
-                "idx": 407,
+                "idx": 438,
                 "uid": "344970826846105488",
                 "type": "DeployableType_GatlingSentry"
             },
             {
-                "idx": 408,
+                "idx": 439,
                 "uid": "205424700876044767",
-                "type": "205424700876044767"
+                "type": "PickupType_StimulantBox"
             },
             {
-                "idx": 409,
+                "idx": 440,
+                "uid": "8533893840996222255",
+                "type": "8533893840996222255"
+            },
+            {
+                "idx": 441,
                 "uid": "3572349364299675891",
                 "type": "3572349364299675891"
             },
             {
-                "idx": 410,
+                "idx": 442,
                 "uid": "11572589917031421603",
                 "type": "11572589917031421603"
             },
             {
-                "idx": 411,
+                "idx": 443,
                 "uid": "5084997687310749502",
                 "type": "5084997687310749502"
             },
             {
-                "idx": 412,
+                "idx": 444,
                 "uid": "11432560202897483622",
                 "type": "PickupType_LarvaContainer"
             },
             {
-                "idx": 413,
+                "idx": 445,
                 "uid": "518600486455451088",
-                "type": "518600486455451088"
+                "type": "SupportBackpackType_DarkFluidJumppack"
             },
             {
-                "idx": 414,
+                "idx": 446,
                 "uid": "5045569506776674512",
                 "type": "5045569506776674512"
             },
             {
-                "idx": 415,
+                "idx": 447,
                 "uid": "4459198455771523223",
                 "type": "PickupType_BlackBox"
             },
             {
-                "idx": 416,
+                "idx": 448,
                 "uid": "10376328634656085665",
                 "type": "10376328634656085665"
             },
             {
-                "idx": 417,
+                "idx": 449,
                 "uid": "15610193170761224894",
-                "type": "15610193170761224894"
+                "type": "BotEnemyType_FusionBattery"
             },
             {
-                "idx": 418,
+                "idx": 450,
                 "uid": "17587738009391187453",
                 "type": "17587738009391187453"
             },
             {
-                "idx": 419,
+                "idx": 451,
                 "uid": "3743261888606184850",
                 "type": "3743261888606184850"
             },
             {
-                "idx": 420,
+                "idx": 452,
                 "uid": "14628646008515670247",
                 "type": "14628646008515670247"
             },
             {
-                "idx": 421,
+                "idx": 453,
                 "uid": "6234346553392955601",
                 "type": "PickupType_ICBMLaunchCodes"
             },
             {
-                "idx": 422,
+                "idx": 454,
                 "uid": "13864011471993598988",
                 "type": "13864011471993598988"
             },
             {
-                "idx": 423,
+                "idx": 455,
                 "uid": "9099653686517942657",
                 "type": "9099653686517942657"
             },
             {
-                "idx": 424,
+                "idx": 456,
                 "uid": "5349838937890643512",
                 "type": "5349838937890643512"
             },
             {
-                "idx": 425,
+                "idx": 457,
                 "uid": "10004644392982580508",
                 "type": "PickupType_BlackBox"
             },
             {
-                "idx": 426,
+                "idx": 458,
                 "uid": "13243328182127076169",
                 "type": "13243328182127076169"
             },
             {
-                "idx": 427,
+                "idx": 459,
                 "uid": "17902981416659057430",
                 "type": "17902981416659057430"
             },
             {
-                "idx": 428,
+                "idx": 460,
                 "uid": "5867714920953300654",
                 "type": "5867714920953300654"
             },
             {
-                "idx": 429,
+                "idx": 461,
                 "uid": "2721785515915949283",
                 "type": "2721785515915949283"
             },
             {
-                "idx": 430,
+                "idx": 462,
                 "uid": "10981985825793238656",
                 "type": "10981985825793238656"
             },
             {
-                "idx": 431,
+                "idx": 463,
                 "uid": "11666871103883414186",
                 "type": "11666871103883414186"
             },
             {
-                "idx": 432,
+                "idx": 464,
                 "uid": "16434537386038201618",
                 "type": "16434537386038201618"
             },
             {
-                "idx": 433,
+                "idx": 465,
                 "uid": "11126812272816398245",
                 "type": "11126812272816398245"
             },
             {
-                "idx": 434,
+                "idx": 466,
                 "uid": "13464541428490103295",
                 "type": "13464541428490103295"
             },
             {
-                "idx": 435,
+                "idx": 467,
                 "uid": "7513611035105172383",
                 "type": "7513611035105172383"
             },
             {
-                "idx": 436,
+                "idx": 468,
                 "uid": "6104182949920241541",
                 "type": "6104182949920241541"
             },
             {
-                "idx": 437,
+                "idx": 469,
                 "uid": "16067018012531155075",
                 "type": "16067018012531155075"
             },
             {
-                "idx": 438,
+                "idx": 470,
                 "uid": "3123276832726192677",
                 "type": "3123276832726192677"
             },
             {
-                "idx": 439,
+                "idx": 471,
                 "uid": "11202044778487390708",
                 "type": "11202044778487390708"
             },
             {
-                "idx": 440,
+                "idx": 472,
                 "uid": "4190780991503244826",
                 "type": "4190780991503244826"
             },
             {
-                "idx": 441,
+                "idx": 473,
                 "uid": "6064682638603804494",
                 "type": "6064682638603804494"
             },
             {
-                "idx": 442,
+                "idx": 474,
                 "uid": "11329506424240616277",
                 "type": "11329506424240616277"
             },
             {
-                "idx": 443,
+                "idx": 475,
                 "uid": "15594628034710908636",
                 "type": "15594628034710908636"
             },
             {
-                "idx": 444,
+                "idx": 476,
                 "uid": "15376684313133811097",
                 "type": "15376684313133811097"
             },
             {
-                "idx": 445,
+                "idx": 477,
                 "uid": "13438997273276941449",
                 "type": "13438997273276941449"
             },
             {
-                "idx": 446,
+                "idx": 478,
                 "uid": "12049411073751888981",
                 "type": "12049411073751888981"
             },
             {
-                "idx": 447,
+                "idx": 479,
                 "uid": "4470277688789891167",
                 "type": "4470277688789891167"
             },
             {
-                "idx": 448,
+                "idx": 480,
                 "uid": "1374362502002005721",
                 "type": "SuperEarthType_SAMLauncher"
             },
             {
-                "idx": 449,
+                "idx": 481,
                 "uid": "17421195960715507203",
                 "type": "17421195960715507203"
             },
             {
-                "idx": 450,
+                "idx": 482,
                 "uid": "13847484889080110003",
                 "type": "SuperEarthType_SEAF_Gun_EMP"
             },
             {
-                "idx": 451,
+                "idx": 483,
                 "uid": "15859727822481861892",
                 "type": "SuperEarthType_SEAF_Gun_Explosive"
             },
             {
-                "idx": 452,
+                "idx": 484,
                 "uid": "7745884044284159061",
                 "type": "SuperEarthType_SEAF_Gun_High_Yield_Explosive"
             },
             {
-                "idx": 453,
+                "idx": 485,
                 "uid": "16185879173872143133",
                 "type": "SuperEarthType_SEAF_Gun_Mini_Nuke"
             },
             {
-                "idx": 454,
+                "idx": 486,
                 "uid": "16482681913442925439",
                 "type": "SuperEarthType_SEAF_Gun_Napalm"
             },
             {
-                "idx": 455,
+                "idx": 487,
                 "uid": "17696993194780227077",
                 "type": "SuperEarthType_SEAF_Gun_Smoke"
             },
             {
-                "idx": 456,
+                "idx": 488,
                 "uid": "14046951553415398260",
                 "type": "14046951553415398260"
             },
             {
-                "idx": 457,
+                "idx": 489,
                 "uid": "3973443609256024694",
-                "type": "3973443609256024694"
+                "type": "SupportWeaponType_TacticalVideoCamera"
             },
             {
-                "idx": 458,
+                "idx": 490,
                 "uid": "993334325267157491",
                 "type": "PickupType_PlatinumBar"
             },
             {
-                "idx": 459,
+                "idx": 491,
                 "uid": "17206948040897225595",
                 "type": "17206948040897225595"
             },
             {
-                "idx": 460,
+                "idx": 492,
                 "uid": "11389144440041661089",
                 "type": "PickupType_SSSD_HardDrive"
             },
             {
-                "idx": 461,
+                "idx": 493,
                 "uid": "4894393506576860267",
                 "type": "4894393506576860267"
             },
             {
-                "idx": 462,
+                "idx": 494,
                 "uid": "11100638659050451003",
                 "type": "11100638659050451003"
             },
             {
-                "idx": 463,
+                "idx": 495,
+                "uid": "3946815129443875283",
+                "type": "3946815129443875283"
+            },
+            {
+                "idx": 496,
                 "uid": "3259411408732039565",
                 "type": "3259411408732039565"
             },
             {
-                "idx": 464,
+                "idx": 497,
                 "uid": "10339505652348491976",
                 "type": "10339505652348491976"
             },
             {
-                "idx": 465,
+                "idx": 498,
                 "uid": "8513143019672670299",
                 "type": "8513143019672670299"
             },
             {
-                "idx": 466,
+                "idx": 499,
                 "uid": "3616880406816074209",
                 "type": "3616880406816074209"
             },
             {
-                "idx": 467,
+                "idx": 500,
                 "uid": "13142476912332493378",
                 "type": "13142476912332493378"
             },
             {
-                "idx": 468,
-                "uid": "1446747808591037605",
-                "type": "1446747808591037605"
-            },
-            {
-                "idx": 469,
+                "idx": 501,
                 "uid": "17414823409392638359",
                 "type": "17414823409392638359"
             },
             {
-                "idx": 470,
+                "idx": 502,
                 "uid": "1890195336495982327",
                 "type": "1890195336495982327"
             },
             {
-                "idx": 471,
+                "idx": 503,
                 "uid": "17837615728688239629",
                 "type": "17837615728688239629"
             },
             {
-                "idx": 472,
+                "idx": 504,
                 "uid": "3948687847710625144",
                 "type": "3948687847710625144"
             },
             {
-                "idx": 473,
+                "idx": 505,
                 "uid": "11555060082231454796",
                 "type": "BugEnemyType_ChargerBehemoth"
             },
             {
-                "idx": 474,
+                "idx": 506,
                 "uid": "2236760086372418784",
                 "type": "BugEnemyType_SporeBurstHunter"
             },
             {
-                "idx": 475,
+                "idx": 507,
                 "uid": "15822911520269726977",
                 "type": "BugEnemyType_SporeBurstScavenger"
             },
             {
-                "idx": 476,
+                "idx": 508,
                 "uid": "8251756929257574076",
                 "type": "BugEnemyType_SporeBurstWarrior"
             },
             {
-                "idx": 477,
+                "idx": 509,
                 "uid": "11481777918278298912",
-                "type": "BotEnemyType_Trooper"
+                "type": "BotEnemyType_Trooper?"
             },
             {
-                "idx": 478,
+                "idx": 510,
                 "uid": "16610351617142216522",
                 "type": "BotEnemyType_Raider"
             },
             {
-                "idx": 479,
+                "idx": 511,
                 "uid": "3031503431338798614",
                 "type": "BotEnemyType_RocketRaider"
             },
             {
-                "idx": 480,
+                "idx": 512,
                 "uid": "5905641205788913469",
-                "type": "5905641205788913469"
+                "type": "SupportWeaponType_C4Detonator"
             },
             {
-                "idx": 481,
+                "idx": 513,
                 "uid": "3199457897835937068",
                 "type": "PrimaryWeaponType_Scythe"
             },
             {
-                "idx": 482,
+                "idx": 514,
                 "uid": "11552626079949819071",
                 "type": "SupportBackpackType_ArcDrone"
             },
             {
-                "idx": 483,
+                "idx": 515,
                 "uid": "18219495801425257306",
                 "type": "MeleeWeaponType_Saber"
             },
             {
-                "idx": 484,
+                "idx": 516,
                 "uid": "13784670920243131812",
-                "type": "MeleeWeaponType_DefoliationTool"
+                "type": "SupportWeaponType_DefoliationTool"
             },
             {
-                "idx": 485,
+                "idx": 517,
                 "uid": "5966635890313573271",
                 "type": "MeleeWeaponType_RiotBaton"
             },
             {
-                "idx": 486,
+                "idx": 518,
                 "uid": "12750169196543686872",
-                "type": "MeleeWeaponType_OneTrueFlag"
+                "type": "SupportWeaponType_OneTrueFlag"
             },
             {
-                "idx": 487,
+                "idx": 519,
                 "uid": "8467154841892407376",
                 "type": "MeleeWeaponType_Tomahawk"
             },
             {
-                "idx": 488,
+                "idx": 520,
                 "uid": "8731737688384722662",
                 "type": "MeleeWeaponType_Machete"
             },
             {
-                "idx": 489,
+                "idx": 521,
                 "uid": "3371451580584923919",
                 "type": "3371451580584923919"
             },
             {
-                "idx": 490,
+                "idx": 522,
                 "uid": "535319041333920260",
                 "type": "PrimaryWeaponType_ArcShotgun"
             },
             {
-                "idx": 491,
+                "idx": 523,
                 "uid": "10845250369047350884",
                 "type": "PrimaryWeaponType_StandardLiberator"
             },
             {
-                "idx": 492,
+                "idx": 524,
                 "uid": "4885016034561106550",
                 "type": "PrimaryWeaponType_LiberatorPenetrator"
             },
             {
-                "idx": 493,
+                "idx": 525,
                 "uid": "14942687850090605537",
                 "type": "PrimaryWeaponType_LiberatorConcussive"
             },
             {
-                "idx": 494,
+                "idx": 526,
                 "uid": "12201875276601049603",
-                "type": "12201875276601049603"
+                "type": "PrimaryWeaponType_OneTwo_Rifle"
             },
             {
-                "idx": 495,
+                "idx": 527,
                 "uid": "14840077516977962372",
                 "type": "PrimaryWeaponType_StA52"
             },
             {
-                "idx": 496,
+                "idx": 528,
                 "uid": "13558475039457634667",
                 "type": "PrimaryWeaponType_PacifierRifle"
             },
             {
-                "idx": 497,
+                "idx": 529,
                 "uid": "9526594500243002157",
                 "type": "PrimaryWeaponType_Coyote"
             },
             {
-                "idx": 498,
+                "idx": 530,
                 "uid": "5601762105466289171",
                 "type": "PrimaryWeaponType_AssaultRifleMA5C"
             },
             {
-                "idx": 499,
+                "idx": 531,
                 "uid": "12100643055971655455",
                 "type": "PrimaryWeaponType_LiberatorCarbine"
             },
             {
-                "idx": 500,
+                "idx": 532,
                 "uid": "14845617694460717074",
                 "type": "PrimaryWeaponType_Tenderizer"
             },
             {
-                "idx": 501,
+                "idx": 533,
                 "uid": "8110598756017148880",
                 "type": "PrimaryWeaponType_Suppressor"
             },
             {
-                "idx": 502,
+                "idx": 534,
                 "uid": "5050852199397921576",
                 "type": "PrimaryWeaponType_StandardBreaker"
             },
             {
-                "idx": 503,
+                "idx": 535,
                 "uid": "6826025955225526457",
                 "type": "PrimaryWeaponType_SprayAndPrayBreaker"
             },
             {
-                "idx": 504,
+                "idx": 536,
                 "uid": "13918995818598980231",
                 "type": "PrimaryWeaponType_IncendiaryBreaker"
             },
             {
-                "idx": 505,
+                "idx": 537,
                 "uid": "6912088101323449320",
                 "type": "PrimaryWeaponType_Adjudicator"
             },
             {
-                "idx": 506,
+                "idx": 538,
                 "uid": "1117846648694268261",
                 "type": "PrimaryWeaponType_Amendment"
             },
             {
-                "idx": 507,
+                "idx": 539,
                 "uid": "8896268509512551590",
                 "type": "PrimaryWeaponType_Constitution"
             },
             {
-                "idx": 508,
+                "idx": 540,
                 "uid": "17623191861664038783",
                 "type": "PrimaryWeaponType_ExplodingCrossbow"
             },
             {
-                "idx": 509,
+                "idx": 541,
                 "uid": "5742363029208942635",
                 "type": "PrimaryWeaponType_Torcher"
             },
             {
-                "idx": 510,
+                "idx": 542,
                 "uid": "9291384900638350902",
                 "type": "PrimaryWeaponType_Dominator"
             },
             {
-                "idx": 511,
+                "idx": 543,
                 "uid": "13164006426448262783",
                 "type": "PrimaryWeaponType_Eruptor"
             },
             {
-                "idx": 512,
+                "idx": 544,
                 "uid": "2877271129141764950",
                 "type": "PrimaryWeaponType_Scythe"
             },
             {
-                "idx": 513,
+                "idx": 545,
                 "uid": "9675404802175538082",
                 "type": "PrimaryWeaponType_Sickle"
             },
             {
-                "idx": 514,
+                "idx": 546,
                 "uid": "2980234130573201393",
                 "type": "PrimaryWeaponType_DoubleEdgeSickle"
             },
             {
-                "idx": 515,
+                "idx": 547,
+                "uid": "4361428863637469552",
+                "type": "PrimaryWeaponType_Trident"
+            },
+            {
+                "idx": 548,
                 "uid": "16634382492500136054",
                 "type": "PrimaryWeaponType_Deadeye"
             },
             {
-                "idx": 516,
+                "idx": 549,
                 "uid": "12008625947668001407",
                 "type": "SupportWeaponType_LightMachineGunDerelict"
             },
             {
-                "idx": 517,
+                "idx": 550,
                 "uid": "17308323378831780460",
                 "type": "PrimaryWeaponType_Censor"
             },
             {
-                "idx": 518,
+                "idx": 551,
                 "uid": "281046277510948131",
                 "type": "SupportWeaponType_StandardDiligence"
             },
             {
-                "idx": 519,
+                "idx": 552,
                 "uid": "5510267968365085927",
                 "type": "PrimaryWeaponType_CounterSniperDiligence"
             },
             {
-                "idx": 520,
+                "idx": 553,
                 "uid": "5641428405267160100",
                 "type": "PrimaryWeaponType_Defender"
             },
             {
-                "idx": 521,
+                "idx": 554,
                 "uid": "578623101395158887",
                 "type": "PrimaryWeaponType_Pummeler"
             },
             {
-                "idx": 522,
+                "idx": 555,
                 "uid": "5731472083741485993",
                 "type": "5731472083741485993"
             },
             {
-                "idx": 523,
+                "idx": 556,
                 "uid": "17196401230144941076",
                 "type": "PrimaryWeaponType_Scorcher"
             },
             {
-                "idx": 524,
+                "idx": 557,
                 "uid": "18102809172282470538",
                 "type": "PrimaryWeaponType_Purifier"
             },
             {
-                "idx": 525,
+                "idx": 558,
                 "uid": "3109983482551492476",
                 "type": "SecondaryWeaponType_Bushwhacker"
             },
             {
-                "idx": 526,
+                "idx": 559,
                 "uid": "3852172782311805734",
                 "type": "SecondaryWeaponType_Redeemer"
             },
             {
-                "idx": 527,
+                "idx": 560,
                 "uid": "830958149412624616",
                 "type": "SecondaryWeaponType_ReEducator"
             },
             {
-                "idx": 528,
+                "idx": 561,
                 "uid": "4714430103453754419",
                 "type": "SecondaryWeaponType_LaserRevolver"
             },
             {
-                "idx": 529,
+                "idx": 562,
                 "uid": "4580928717960105129",
                 "type": "SecondaryWeaponType_Crisper"
             },
             {
-                "idx": 530,
+                "idx": 563,
                 "uid": "5972955417680186543",
                 "type": "SecondaryWeaponType_GrenadePistol"
             },
             {
-                "idx": 531,
+                "idx": 564,
                 "uid": "8864800879179811976",
                 "type": "SecondaryWeaponType_Dagger"
             },
             {
-                "idx": 532,
+                "idx": 565,
                 "uid": "1892480894983787169",
                 "type": "SecondaryWeaponType_Verdict"
             },
             {
-                "idx": 533,
+                "idx": 566,
+                "uid": "14375697644675127823",
+                "type": "SecondaryWeaponType_VetoPistol"
+            },
+            {
+                "idx": 567,
                 "uid": "11435027044679925718",
                 "type": "SecondaryWeaponType_Ultimatum"
             },
             {
-                "idx": 534,
+                "idx": 568,
                 "uid": "5573423824998200517",
                 "type": "SecondaryWeaponType_SOCOMPistol"
             },
             {
-                "idx": 535,
+                "idx": 569,
                 "uid": "12279528435724053588",
                 "type": "SecondaryWeaponType_Loyalist"
             },
             {
-                "idx": 536,
+                "idx": 570,
                 "uid": "10177381595962512386",
                 "type": "SecondaryWeaponType_Senator"
             },
             {
-                "idx": 537,
+                "idx": 571,
                 "uid": "2802369506329449110",
                 "type": "SupportWeaponType_AirburstRocketLauncher"
             },
             {
-                "idx": 538,
+                "idx": 572,
                 "uid": "10871298989420119782",
                 "type": "SupportWeaponType_ArcThrower"
             },
             {
-                "idx": 539,
+                "idx": 573,
                 "uid": "12164217308285983839",
                 "type": "SupportWeaponType_Autocannon"
             },
             {
-                "idx": 540,
+                "idx": 574,
+                "uid": "9854668298113416351",
+                "type": "SupportWeaponType_BFGrenadeLauncher"
+            },
+            {
+                "idx": 575,
                 "uid": "9869105320050739364",
                 "type": "SupportWeaponType_Sterilizer"
             },
             {
-                "idx": 541,
+                "idx": 576,
+                "uid": "8509380141312129223",
+                "type": "SupportWeaponType_Leveller"
+            },
+            {
+                "idx": 577,
                 "uid": "12877445900026273694",
                 "type": "SupportWeaponType_ExpendableNapalmLauncher"
             },
             {
-                "idx": 542,
+                "idx": 578,
                 "uid": "2714034314705433838",
                 "type": "SupportWeaponType_SpearLauncher"
             },
             {
-                "idx": 543,
+                "idx": 579,
                 "uid": "14733648658679365221",
                 "type": "SupportWeaponType_WASPLauncher"
             },
             {
-                "idx": 544,
+                "idx": 580,
                 "uid": "4155583896232633279",
                 "type": "SupportWeaponType_Flamethrower"
             },
             {
-                "idx": 545,
+                "idx": 581,
                 "uid": "211331680192206384",
                 "type": "SupportWeaponType_GrenadeLauncher"
             },
             {
-                "idx": 546,
+                "idx": 582,
                 "uid": "18319281757224320923",
                 "type": "SupportWeaponType_DescalatorGrenadeLauncher"
             },
             {
-                "idx": 547,
+                "idx": 583,
                 "uid": "4046732776742447255",
                 "type": "SupportWeaponType_Speargun"
             },
             {
-                "idx": 548,
+                "idx": 584,
+                "uid": "8694225878611593109",
+                "type": "SupportWeaponType_Cremator"
+            },
+            {
+                "idx": 585,
                 "uid": "2401215835282261016",
                 "type": "SupportWeaponType_HeavyMachineGun"
             },
             {
-                "idx": 549,
+                "idx": 586,
                 "uid": "15369542005276747891",
                 "type": "SupportWeaponType_LaserCannon"
             },
             {
-                "idx": 550,
+                "idx": 587,
                 "uid": "6453678319562593995",
                 "type": "SupportWeaponType_CommandoRocketLauncher"
             },
             {
-                "idx": 551,
+                "idx": 588,
                 "uid": "3865797767236207742",
                 "type": "SupportWeaponType_QuasarPulseCannon"
             },
             {
-                "idx": 552,
+                "idx": 589,
                 "uid": "9264801226655597011",
                 "type": "SupportWeaponType_ExpendableAntiTank"
             },
             {
-                "idx": 553,
+                "idx": 590,
                 "uid": "1279722939363854678",
                 "type": "SupportWeaponType_MachineGun"
             },
             {
-                "idx": 554,
+                "idx": 591,
                 "uid": "4874456896233937276",
                 "type": "SupportWeaponType_Maxigun"
             },
             {
-                "idx": 555,
+                "idx": 592,
                 "uid": "18163938711866866090",
                 "type": "18163938711866866090"
             },
             {
-                "idx": 556,
+                "idx": 593,
                 "uid": "16777584932715761236",
                 "type": "SupportWeaponType_EpochPlasmaLauncher"
             },
             {
-                "idx": 557,
+                "idx": 594,
                 "uid": "3358853937828503136",
                 "type": "SupportWeaponType_Railgun"
             },
             {
-                "idx": 558,
+                "idx": 595,
                 "uid": "11493422068836852751",
                 "type": "SupportWeaponType_RecoillesRifle"
             },
             {
-                "idx": 559,
+                "idx": 596,
                 "uid": "10266352102081711787",
                 "type": "10266352102081711787"
             },
             {
-                "idx": 560,
+                "idx": 597,
                 "uid": "9927421484392399367",
                 "type": "SupportWeaponType_AntiMaterielRifle"
             },
             {
-                "idx": 561,
+                "idx": 598,
                 "uid": "6113742425058627513",
                 "type": "DeployableType_AutoCannonSentry"
             },
             {
-                "idx": 562,
+                "idx": 599,
                 "uid": "2114795373903595840",
                 "type": "DeployableType_GrenadierBattlementGrenadeLauncher"
             },
             {
-                "idx": 563,
+                "idx": 600,
                 "uid": "602390376167162446",
-                "type": "SupportWeaponType_HeavyMachineGunDerelict"
+                "type": "VehicleType_FRV_HeavyMachineGun"
             },
             {
-                "idx": 564,
+                "idx": 601,
                 "uid": "14772015414747343144",
                 "type": "SupportWeaponType_HeavyMachineGunDerelict"
             },
             {
-                "idx": 565,
+                "idx": 602,
                 "uid": "12984499893943104780",
                 "type": "SupportWeaponType_LightMachineGun"
             },
             {
-                "idx": 566,
+                "idx": 603,
                 "uid": "13357795631455978434",
                 "type": "SupportWeaponType_LightMachineGunDerelict"
             },
             {
-                "idx": 567,
+                "idx": 604,
                 "uid": "15365965494753326077",
                 "type": "SupportWeaponType_LightMachineGunDerelict"
             },
             {
-                "idx": 568,
+                "idx": 605,
                 "uid": "8971696097026260232",
                 "type": "8971696097026260232"
             },
             {
-                "idx": 569,
+                "idx": 606,
+                "uid": "15262335819002232765",
+                "type": "15262335819002232765"
+            },
+            {
+                "idx": 607,
+                "uid": "1088183950891271627",
+                "type": "1088183950891271627"
+            },
+            {
+                "idx": 608,
                 "uid": "4510702625533881224",
                 "type": "4510702625533881224"
             },
             {
-                "idx": 570,
+                "idx": 609,
                 "uid": "1645988921014818404",
                 "type": "1645988921014818404"
             },
             {
-                "idx": 571,
+                "idx": 610,
+                "uid": "12862254747830756992",
+                "type": "12862254747830756992"
+            },
+            {
+                "idx": 611,
                 "uid": "10897067899328555568",
                 "type": "10897067899328555568"
             },
             {
-                "idx": 572,
+                "idx": 612,
                 "uid": "1594932588367012453",
                 "type": "1594932588367012453"
             },
             {
-                "idx": 573,
+                "idx": 613,
+                "uid": "119489506822364511",
+                "type": "119489506822364511"
+            },
+            {
+                "idx": 614,
+                "uid": "6491023247109210713",
+                "type": "6491023247109210713"
+            },
+            {
+                "idx": 615,
                 "uid": "3777467844477933828",
                 "type": "3777467844477933828"
             },
             {
-                "idx": 574,
+                "idx": 616,
+                "uid": "13628020144656989491",
+                "type": "13628020144656989491"
+            },
+            {
+                "idx": 617,
                 "uid": "12992758703951315707",
                 "type": "12992758703951315707"
             },
             {
-                "idx": 575,
+                "idx": 618,
                 "uid": "10465095819242630732",
                 "type": "10465095819242630732"
             },
             {
-                "idx": 576,
+                "idx": 619,
                 "uid": "5968714472655382176",
                 "type": "5968714472655382176"
             },
             {
-                "idx": 577,
+                "idx": 620,
                 "uid": "7547940876509756291",
                 "type": "7547940876509756291"
             }

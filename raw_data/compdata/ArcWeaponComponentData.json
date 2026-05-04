@@ -3,6 +3,7 @@
         "items": [
             {
                 "unique_id": "3772542677720106756",
+                "uid_name": "3772542677720106756",
                 "arc_type": "ARC_TYPE_012",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,
@@ -22,6 +23,7 @@
             },
             {
                 "unique_id": "17664382055250362923",
+                "uid_name": "17664382055250362923",
                 "arc_type": "ARC_TYPE_004",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,
@@ -41,6 +43,7 @@
             },
             {
                 "unique_id": "10214051119573296464",
+                "uid_name": "10214051119573296464",
                 "arc_type": "ARC_TYPE_001",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,
@@ -60,6 +63,7 @@
             },
             {
                 "unique_id": "3101227300789072443",
+                "uid_name": "3101227300789072443",
                 "arc_type": "ARC_TYPE_009",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,
@@ -79,6 +83,7 @@
             },
             {
                 "unique_id": "952558497108237637",
+                "uid_name": "952558497108237637",
                 "arc_type": "ARC_TYPE_005",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,
@@ -98,6 +103,7 @@
             },
             {
                 "unique_id": "17082991540257404781",
+                "uid_name": "17082991540257404781",
                 "arc_type": "ARC_TYPE_016",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,
@@ -117,6 +123,7 @@
             },
             {
                 "unique_id": "8383906277678357886",
+                "uid_name": "8383906277678357886",
                 "arc_type": "ARC_TYPE_013",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,
@@ -136,6 +143,7 @@
             },
             {
                 "unique_id": "11552626079949819071",
+                "uid_name": "11552626079949819071",
                 "arc_type": "ARC_TYPE_008",
                 "rounds_per_minute": 12.0,
                 "infinite_ammo": 1,
@@ -155,6 +163,7 @@
             },
             {
                 "unique_id": "535319041333920260",
+                "uid_name": "535319041333920260",
                 "arc_type": "ARC_TYPE_003",
                 "rounds_per_minute": 45.0,
                 "infinite_ammo": 1,
@@ -174,6 +183,7 @@
             },
             {
                 "unique_id": "10871298989420119782",
+                "uid_name": "10871298989420119782",
                 "arc_type": "ARC_TYPE_007",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,

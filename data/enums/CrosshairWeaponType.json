@@ -4,6 +4,7 @@
     "CrosshairWeaponType_CrosshairAlways",
     "CrosshairWeaponType_CrosshairDamageIndicatorOnly",
     "CrosshairWeaponType_AssaultRifle",
+    "CrosshairWeaponType_HaloRifle",
     "CrosshairWeaponType_PumpShotgun",
     "CrosshairWeaponType_AutoShotgun",
     "CrosshairWeaponType_Pistol",
@@ -18,5 +19,6 @@
     "CrosshairWeaponType_Throwable",
     "CrosshairWeaponType_Physgun",
     "CrosshairWeaponType_None",
+    "CrosshairWeaponType_TacticalVideoCamera",
     "CrosshairWeaponType_Count"
 ]}

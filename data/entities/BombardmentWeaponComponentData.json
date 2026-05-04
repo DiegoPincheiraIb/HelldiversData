@@ -24,13 +24,13 @@
                 "fire_from_ship": 0,
                 "projectile_types": [
                     "PROJ_TYPE_157",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -77,13 +77,13 @@
                 "fire_from_ship": 0,
                 "projectile_types": [
                     "PROJ_TYPE_157",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -129,14 +129,14 @@
                 },
                 "fire_from_ship": 0,
                 "projectile_types": [
-                    "PROJ_TYPE_075",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Cannon_380mm_HE",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -185,11 +185,11 @@
                     "PROJ_TYPE_079",
                     "PROJ_TYPE_087",
                     "PROJ_TYPE_087",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -235,14 +235,14 @@
                 },
                 "fire_from_ship": 0,
                 "projectile_types": [
-                    "PROJ_TYPE_081",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_World_Meteor",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -288,14 +288,14 @@
                 },
                 "fire_from_ship": 0,
                 "projectile_types": [
-                    "PROJ_TYPE_294",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_World_VolcanoStrike",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.100000001,
                 "muzzle_flash": "7036949873247378259",
@@ -341,14 +341,14 @@
                 },
                 "fire_from_ship": 0,
                 "projectile_types": [
-                    "PROJ_TYPE_116",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Illuminate_ShootingStar",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -374,7 +374,7 @@
             },
             {
                 "unique_id": "17250673437555536342",
-                "uid_name": "17250673437555536342",
+                "uid_name": "OrbitalBombardmentType_Orbital380mmBarrage",
                 "initial_delay": 0.0,
                 "num_bombs": 3,
                 "bomb_interval": 1.5,
@@ -394,14 +394,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_075",
-                    "PROJ_TYPE_249",
-                    "PROJ_TYPE_249",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Cannon_380mm_HE",
+                    "ProjectileType_Orbital_Cannon_380mm_HE_Cheap",
+                    "ProjectileType_Orbital_Cannon_380mm_HE_Cheap",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -427,7 +427,7 @@
             },
             {
                 "unique_id": "428906543397164902",
-                "uid_name": "428906543397164902",
+                "uid_name": "OrbitalBombardmentType_GasStrike",
                 "initial_delay": 0.0,
                 "num_bombs": 1,
                 "bomb_interval": 0.349999994,
@@ -447,14 +447,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_185",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Gas",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -480,7 +480,7 @@
             },
             {
                 "unique_id": "3397257356679758881",
-                "uid_name": "3397257356679758881",
+                "uid_name": "OrbitalBombardmentType_GatlingBarrage",
                 "initial_delay": 0.0,
                 "num_bombs": 60,
                 "bomb_interval": 0.045000002,
@@ -500,14 +500,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_072",
-                    "PROJ_TYPE_041",
-                    "PROJ_TYPE_041",
-                    "PROJ_TYPE_041",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Cannon_Eagle_23mm_gatling_barrage",
+                    "ProjectileType_Cannon_Eagle_23mm_gatling_barrage_no_explosion",
+                    "ProjectileType_Cannon_Eagle_23mm_gatling_barrage_no_explosion",
+                    "ProjectileType_Cannon_Eagle_23mm_gatling_barrage_no_explosion",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -553,14 +553,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_178",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Illumination_shot",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -586,7 +586,7 @@
             },
             {
                 "unique_id": "11631307996670093680",
-                "uid_name": "11631307996670093680",
+                "uid_name": "OrbitalBombardmentType_OrbitalNapalmBarrage",
                 "initial_delay": 0.0,
                 "num_bombs": 5,
                 "bomb_interval": 0.5,
@@ -606,14 +606,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_219",
-                    "PROJ_TYPE_222",
-                    "PROJ_TYPE_222",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Cannon_Napalm",
+                    "ProjectileType_Orbital_Cannon_Napalm_Cheap",
+                    "ProjectileType_Orbital_Cannon_Napalm_Cheap",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -659,14 +659,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_075",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Cannon_380mm_HE",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -692,7 +692,7 @@
             },
             {
                 "unique_id": "14454233564159978284",
-                "uid_name": "14454233564159978284",
+                "uid_name": "OrbitalBombardmentType_PrecisionStrike",
                 "initial_delay": 0.0,
                 "num_bombs": 1,
                 "bomb_interval": 0.5,
@@ -712,14 +712,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_094",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Precision_Strike",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -745,7 +745,7 @@
             },
             {
                 "unique_id": "8480614394778878677",
-                "uid_name": "8480614394778878677",
+                "uid_name": "OrbitalBombardmentType_AirburstStrike",
                 "initial_delay": 0.0,
                 "num_bombs": 1,
                 "bomb_interval": 0.0,
@@ -765,14 +765,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_149",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Cannon_110mm",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -798,7 +798,7 @@
             },
             {
                 "unique_id": "15741945895218221769",
-                "uid_name": "15741945895218221769",
+                "uid_name": "OrbitalBombardmentType_SmokeStrike",
                 "initial_delay": 0.0,
                 "num_bombs": 1,
                 "bomb_interval": 0.0,
@@ -818,14 +818,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_231",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Smoke",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -851,7 +851,7 @@
             },
             {
                 "unique_id": "3259427501513118129",
-                "uid_name": "3259427501513118129",
+                "uid_name": "OrbitalBombardmentType_Orbital120mmBarrage",
                 "initial_delay": 0.0,
                 "num_bombs": 3,
                 "bomb_interval": 0.75,
@@ -871,14 +871,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_182",
-                    "PROJ_TYPE_130",
-                    "PROJ_TYPE_130",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Cannon_120mm_HE",
+                    "ProjectileType_Orbital_Cannon_120mm_HE_Cheap",
+                    "ProjectileType_Orbital_Cannon_120mm_HE_Cheap",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -904,7 +904,7 @@
             },
             {
                 "unique_id": "6193421986545774326",
-                "uid_name": "6193421986545774326",
+                "uid_name": "OrbitalBombardmentType_StunStrike",
                 "initial_delay": 0.0,
                 "num_bombs": 1,
                 "bomb_interval": 0.349999994,
@@ -924,14 +924,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_069",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Stunround",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 0.0,
                 "muzzle_flash": "7036949873247378259",
@@ -957,7 +957,7 @@
             },
             {
                 "unique_id": "14663462306863854060",
-                "uid_name": "14663462306863854060",
+                "uid_name": "OrbitalBombardmentType_OrbitalWalkingBarrage",
                 "initial_delay": 0.0,
                 "num_bombs": 3,
                 "bomb_interval": 1.5,
@@ -977,14 +977,14 @@
                 },
                 "fire_from_ship": 1,
                 "projectile_types": [
-                    "PROJ_TYPE_075",
-                    "PROJ_TYPE_249",
-                    "PROJ_TYPE_249",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000",
-                    "PROJ_TYPE_000"
+                    "ProjectileType_Orbital_Cannon_380mm_HE",
+                    "ProjectileType_Orbital_Cannon_380mm_HE_Cheap",
+                    "ProjectileType_Orbital_Cannon_380mm_HE_Cheap",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None",
+                    "ProjectileType_None"
                 ],
                 "speed": 3.0,
                 "muzzle_flash": "7036949873247378259",
@@ -1048,17 +1048,17 @@
             {
                 "idx": 7,
                 "uid": "17250673437555536342",
-                "type": "17250673437555536342"
+                "type": "OrbitalBombardmentType_Orbital380mmBarrage"
             },
             {
                 "idx": 8,
                 "uid": "428906543397164902",
-                "type": "428906543397164902"
+                "type": "OrbitalBombardmentType_GasStrike"
             },
             {
                 "idx": 9,
                 "uid": "3397257356679758881",
-                "type": "3397257356679758881"
+                "type": "OrbitalBombardmentType_GatlingBarrage"
             },
             {
                 "idx": 10,
@@ -1068,7 +1068,7 @@
             {
                 "idx": 11,
                 "uid": "11631307996670093680",
-                "type": "11631307996670093680"
+                "type": "OrbitalBombardmentType_OrbitalNapalmBarrage"
             },
             {
                 "idx": 12,
@@ -1078,32 +1078,32 @@
             {
                 "idx": 13,
                 "uid": "14454233564159978284",
-                "type": "14454233564159978284"
+                "type": "OrbitalBombardmentType_PrecisionStrike"
             },
             {
                 "idx": 14,
                 "uid": "8480614394778878677",
-                "type": "8480614394778878677"
+                "type": "OrbitalBombardmentType_AirburstStrike"
             },
             {
                 "idx": 15,
                 "uid": "15741945895218221769",
-                "type": "15741945895218221769"
+                "type": "OrbitalBombardmentType_SmokeStrike"
             },
             {
                 "idx": 16,
                 "uid": "3259427501513118129",
-                "type": "3259427501513118129"
+                "type": "OrbitalBombardmentType_Orbital120mmBarrage"
             },
             {
                 "idx": 17,
                 "uid": "6193421986545774326",
-                "type": "6193421986545774326"
+                "type": "OrbitalBombardmentType_StunStrike"
             },
             {
                 "idx": 18,
                 "uid": "14663462306863854060",
-                "type": "14663462306863854060"
+                "type": "OrbitalBombardmentType_OrbitalWalkingBarrage"
             }
         ]
     }

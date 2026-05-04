@@ -812,7 +812,7 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [
                         {
-                            "type": "STATUS_EFFECT_MODIFIED_STAT_TYPE_002",
+                            "type": "ModifiableStatType_IncomingDamageScale",
                             "value": 0.899999976
                         }
                     ],
@@ -1853,7 +1853,7 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [
                         {
-                            "type": "STATUS_EFFECT_MODIFIED_STAT_TYPE_002",
+                            "type": "ModifiableStatType_IncomingDamageScale",
                             "value": 0.200000003
                         }
                     ],
