@@ -4,5 +4,9 @@
     "UnitCustomizationCollectionType_HellpodRack",
     "UnitCustomizationCollectionType_CombatWalker",
     "UnitCustomizationCollectionType_CombatWalkerEmancipator",
+    "UnitCustomizationCollectionType_CombatWalkerLumberer",
+    "UnitCustomizationCollectionType_CombatWalkerBreakthrough",
+    "UnitCustomizationCollectionType_FRV",
+    "UnitCustomizationCollectionType_BastionTank",
     "UnitCustomizationCollectionType_Count"
 ]}
