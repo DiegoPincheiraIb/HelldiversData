@@ -11,7 +11,14 @@
     "StratagemObjectiveDropRequirement_BugSynthesizer",
     "StratagemObjectiveDropRequirement_CyborgCarryData",
     "StratagemObjectiveDropRequirement_CargoContainer",
+    "StratagemObjectiveDropRequirement_UnusedCargoContainer",
     "StratagemObjectiveDropRequirement_CarryData",
     "StratagemObjectiveDropRequirement_DarkFluidBackpack",
-    "StratagemObjectiveDropRequirement_TCS03Thumper"
+    "StratagemObjectiveDropRequirement_TCS03Thumper",
+    "StratagemObjectiveDropRequirement_DataJack",
+    "STRATAGEM_OBJECTIVE_DROP_REQUIREMENT_017",
+    "StratagemObjectiveDropRequirement_MissionPortableHellbomb",
+    "StratagemObjectiveDropRequirement_OilRigExtract",
+    "StratagemObjectiveDropRequirement_SEAF_Squad",
+    "StratagemObjectiveDropRequirement_ShoulderMountedCamera"
 ]}
