@@ -28,7 +28,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Bleed",
@@ -56,7 +59,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Deaf",
@@ -84,7 +90,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Confusion",
@@ -112,7 +121,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Fire",
@@ -140,7 +152,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 4224911188,
-                    "notify_event_on_removed": 47623951
+                    "notify_event_on_removed": 47623951,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Lava",
@@ -168,7 +183,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Fire_Panic",
@@ -196,7 +214,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 2343002388,
-                    "notify_event_on_removed": 1086274594
+                    "notify_event_on_removed": 1086274594,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Slowed",
@@ -204,8 +225,8 @@
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "0",
                     "shading_environment_fade_time": 0.0,
-                    "strength": 3.0,
-                    "duration": 0.5,
+                    "strength": 0.400000006,
+                    "duration": 4.0,
                     "damage_info_type": "DamageInfoType_None",
                     "damage_ignore_avatar_armor": 0,
                     "particle_effect_path": "0",
@@ -224,7 +245,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Rooted",
@@ -252,7 +276,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Acid_Splash",
@@ -280,7 +307,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Acid_Stream",
@@ -308,7 +338,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Thermite",
@@ -336,7 +369,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Cyborg_Fire",
@@ -364,7 +400,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Choked",
@@ -392,7 +431,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Sand",
@@ -420,7 +462,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Mud",
@@ -448,7 +493,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Snow",
@@ -476,7 +524,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Submerged",
@@ -504,7 +555,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Thornbush",
@@ -512,7 +566,7 @@
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "0",
                     "shading_environment_fade_time": 0.0,
-                    "strength": 0.300000012,
+                    "strength": 0.449999988,
                     "duration": 0.100000001,
                     "damage_info_type": "DamageInfoType_DPS_Thornbush",
                     "damage_ignore_avatar_armor": 0,
@@ -529,10 +583,13 @@
                     "unique_effect": 0,
                     "no_susceptibility_required": 0,
                     "audio_event_master_only": 0,
-                    "block_sprint": 1,
+                    "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Cactus",
@@ -540,7 +597,7 @@
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "17605845614457351995",
                     "shading_environment_fade_time": 1.0,
-                    "strength": 0.100000001,
+                    "strength": 0.200000003,
                     "duration": 0.100000001,
                     "damage_info_type": "DamageInfoType_DPS_Cactus",
                     "damage_ignore_avatar_armor": 0,
@@ -557,10 +614,13 @@
                     "unique_effect": 0,
                     "no_susceptibility_required": 0,
                     "audio_event_master_only": 0,
-                    "block_sprint": 1,
+                    "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Barbwire",
@@ -588,7 +648,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_BushSmall",
@@ -596,7 +659,7 @@
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "0",
                     "shading_environment_fade_time": 0.0,
-                    "strength": 0.300000012,
+                    "strength": 0.375,
                     "duration": 0.100000001,
                     "damage_info_type": "DamageInfoType_None",
                     "damage_ignore_avatar_armor": 0,
@@ -613,10 +676,13 @@
                     "unique_effect": 0,
                     "no_susceptibility_required": 0,
                     "audio_event_master_only": 0,
-                    "block_sprint": 1,
+                    "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_BushLarge",
@@ -624,7 +690,7 @@
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "0",
                     "shading_environment_fade_time": 0.0,
-                    "strength": 0.5,
+                    "strength": 0.449999988,
                     "duration": 0.100000001,
                     "damage_info_type": "DamageInfoType_None",
                     "damage_ignore_avatar_armor": 0,
@@ -641,10 +707,13 @@
                     "unique_effect": 0,
                     "no_susceptibility_required": 0,
                     "audio_event_master_only": 0,
-                    "block_sprint": 1,
+                    "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Pure_Damage",
@@ -672,7 +741,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stim_Fx",
@@ -700,7 +772,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stim_Stamina",
@@ -728,7 +803,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stim_Heal",
@@ -756,7 +834,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stim_Pistol_Heal",
@@ -784,7 +865,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stim_Combat_Drugs",
@@ -817,7 +901,10 @@
                         }
                     ],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stim_Cooldown",
@@ -845,7 +932,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_BurningLight",
@@ -873,7 +963,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_BurningHeavy",
@@ -901,7 +994,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_RadiationLight",
@@ -929,7 +1025,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_RadiationHeavy",
@@ -957,7 +1056,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Electric",
@@ -985,7 +1087,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Hidden",
@@ -1013,7 +1118,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stun_Small",
@@ -1041,7 +1149,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stun_Medium",
@@ -1069,7 +1180,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stun_Large",
@@ -1097,7 +1211,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stun_Massive",
@@ -1125,7 +1242,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Stun_Illuminate",
@@ -1153,7 +1273,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Gas",
@@ -1181,17 +1304,20 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Gas_MK2",
-                    "debug_name": "Gas",
+                    "debug_name": "Gas_MK2",
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "9531806250974619533",
                     "shading_environment_fade_time": 1.5,
                     "strength": 0.25,
                     "duration": 10.0,
-                    "damage_info_type": "DamageInfoType_DPS_Gas",
+                    "damage_info_type": "DamageInfoType_DPS_Gas_MK2",
                     "damage_ignore_avatar_armor": 0,
                     "particle_effect_path": "0",
                     "script_event_start": 0,
@@ -1209,7 +1335,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Gas_Confusion",
@@ -1237,11 +1366,14 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 1079087720,
-                    "notify_event_on_removed": 503020676
+                    "notify_event_on_removed": 503020676,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Gas_Confusion_MK2",
-                    "debug_name": "Gas_Confusion",
+                    "debug_name": "Gas_Confusion_MK2",
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "0",
                     "shading_environment_fade_time": 0.0,
@@ -1265,7 +1397,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 1079087720,
-                    "notify_event_on_removed": 503020676
+                    "notify_event_on_removed": 503020676,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Inverted_Aim_Assist",
@@ -1293,7 +1428,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Flashlighted",
@@ -1321,7 +1459,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Smoke_Covered",
@@ -1349,7 +1490,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Backpack_Chemicals",
@@ -1377,7 +1521,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Intense_Heat",
@@ -1405,7 +1552,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Extreme_Cold",
@@ -1433,7 +1583,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Tremor",
@@ -1461,7 +1614,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Sandstorm",
@@ -1489,7 +1645,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Blizzard",
@@ -1517,7 +1676,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Acid_Storm",
@@ -1545,7 +1707,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Weather_Insulated",
@@ -1573,11 +1738,14 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
-                    "type": "StatusEffectType_Protected",
-                    "debug_name": "Protected",
+                    "type": "StatusEffectType_TornadoStun",
+                    "debug_name": "TornadoStun",
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "0",
                     "shading_environment_fade_time": 0.0,
@@ -1601,7 +1769,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Dark_Fluid",
@@ -1629,7 +1800,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Death_March",
@@ -1639,7 +1813,7 @@
                     "shading_environment_fade_time": 0.0,
                     "strength": 0.0,
                     "duration": 0.150000006,
-                    "damage_info_type": "DamageInfoType_DPS_DeathMarch",
+                    "damage_info_type": "DamageInfoType_DPS_Death_March",
                     "damage_ignore_avatar_armor": 1,
                     "particle_effect_path": "0",
                     "script_event_start": 0,
@@ -1657,11 +1831,14 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Hotshot_Laser_Rifle_RL1",
-                    "debug_name": "Hotshot_Laser_Rifle",
+                    "debug_name": "Hotshot_Laser_Rifle_RL1",
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "0",
                     "shading_environment_fade_time": 0.0,
@@ -1685,11 +1862,14 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Hotshot_Laser_Rifle_RL2",
-                    "debug_name": "Hotshot_Laser_Rifle",
+                    "debug_name": "Hotshot_Laser_Rifle_RL2",
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "0",
                     "shading_environment_fade_time": 0.0,
@@ -1713,11 +1893,14 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Hotshot_Laser_Rifle_RL3",
-                    "debug_name": "Hotshot_Laser_Rifle",
+                    "debug_name": "Hotshot_Laser_Rifle_RL3",
                     "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
                     "shading_environment": "0",
                     "shading_environment_fade_time": 0.0,
@@ -1741,7 +1924,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Illuminate_Scrambler",
@@ -1769,7 +1955,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Constitution",
@@ -1797,7 +1986,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Constitution_Booster_Armor_Resistance",
@@ -1830,7 +2022,10 @@
                         }
                     ],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Post_Mortem_Explosion",
@@ -1858,35 +2053,10 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
-                },
-                {
-                    "type": "StatusEffectType_Footage_Recorded",
-                    "debug_name": "Footage_Recorded",
-                    "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
-                    "shading_environment": "0",
-                    "shading_environment_fade_time": 0.0,
-                    "strength": 1.0,
-                    "duration": 1.5,
-                    "damage_info_type": "DamageInfoType_None",
-                    "damage_ignore_avatar_armor": 0,
-                    "particle_effect_path": "0",
-                    "script_event_start": 0,
-                    "script_event_stop": 0,
-                    "audio_event_start": 0,
-                    "audio_event_stop": 0,
-                    "audio_event_enter": 0,
-                    "audio_event_exit": 0,
-                    "animation_event_start": 0,
-                    "animation_event_stop": 0,
-                    "difficult_terrain_amount": 0.0,
-                    "unique_effect": 0,
-                    "no_susceptibility_required": 0,
-                    "audio_event_master_only": 0,
-                    "block_sprint": 0,
-                    "modified_stats_multipliers": [],
-                    "notify_event_on_added": 2182596137,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_FlamerSlowed",
@@ -1914,7 +2084,10 @@
                     "block_sprint": 1,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 0,
-                    "notify_event_on_removed": 0
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
                 },
                 {
                     "type": "StatusEffectType_Gloom",
@@ -1942,423 +2115,595 @@
                     "block_sprint": 0,
                     "modified_stats_multipliers": [],
                     "notify_event_on_added": 2415833742,
-                    "notify_event_on_removed": 4083836255
+                    "notify_event_on_removed": 4083836255,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
+                },
+                {
+                    "type": "StatusEffectType_Dark_Fluid_MK2",
+                    "debug_name": "Dark_Fluid_MK2",
+                    "shader_variable_preset": "StatusEffectShaderVariablePreset_Confusion",
+                    "shading_environment": "8598084098781638891",
+                    "shading_environment_fade_time": 3.5,
+                    "strength": 1.0,
+                    "duration": 3.0,
+                    "damage_info_type": "DamageInfoType_None",
+                    "damage_ignore_avatar_armor": 0,
+                    "particle_effect_path": "0",
+                    "script_event_start": 0,
+                    "script_event_stop": 0,
+                    "audio_event_start": 1778833296,
+                    "audio_event_stop": 2655276423,
+                    "audio_event_enter": 0,
+                    "audio_event_exit": 0,
+                    "animation_event_start": 0,
+                    "animation_event_stop": 0,
+                    "difficult_terrain_amount": 1.0,
+                    "unique_effect": 0,
+                    "no_susceptibility_required": 1,
+                    "audio_event_master_only": 0,
+                    "block_sprint": 1,
+                    "modified_stats_multipliers": [],
+                    "notify_event_on_added": 0,
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
+                },
+                {
+                    "type": "StatusEffectType_Poison",
+                    "debug_name": "Poison",
+                    "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
+                    "shading_environment": "9531806250974619533",
+                    "shading_environment_fade_time": 1.5,
+                    "strength": 5.0,
+                    "duration": 6.0,
+                    "damage_info_type": "DamageInfoType_DPS_Poison",
+                    "damage_ignore_avatar_armor": 0,
+                    "particle_effect_path": "0",
+                    "script_event_start": 0,
+                    "script_event_stop": 0,
+                    "audio_event_start": 3401745313,
+                    "audio_event_stop": 3240233624,
+                    "audio_event_enter": 0,
+                    "audio_event_exit": 0,
+                    "animation_event_start": 0,
+                    "animation_event_stop": 0,
+                    "difficult_terrain_amount": 0.0,
+                    "unique_effect": 0,
+                    "no_susceptibility_required": 0,
+                    "audio_event_master_only": 0,
+                    "block_sprint": 0,
+                    "modified_stats_multipliers": [],
+                    "notify_event_on_added": 0,
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 0,
+                    "unknown_84": 1,
+                    "unknown_88": []
+                },
+                {
+                    "type": "StatusEffectType_PoisonVulnerability",
+                    "debug_name": "PoisonVulnerability",
+                    "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
+                    "shading_environment": "0",
+                    "shading_environment_fade_time": 0.0,
+                    "strength": 10.0,
+                    "duration": 2400.0,
+                    "damage_info_type": "DamageInfoType_None",
+                    "damage_ignore_avatar_armor": 0,
+                    "particle_effect_path": "0",
+                    "script_event_start": 0,
+                    "script_event_stop": 0,
+                    "audio_event_start": 0,
+                    "audio_event_stop": 0,
+                    "audio_event_enter": 0,
+                    "audio_event_exit": 0,
+                    "animation_event_start": 0,
+                    "animation_event_stop": 0,
+                    "difficult_terrain_amount": 0.0,
+                    "unique_effect": 0,
+                    "no_susceptibility_required": 0,
+                    "audio_event_master_only": 0,
+                    "block_sprint": 0,
+                    "modified_stats_multipliers": [],
+                    "notify_event_on_added": 0,
+                    "notify_event_on_removed": 0,
+                    "unknown_80": 1,
+                    "unknown_84": 5,
+                    "unknown_88": [
+                        {
+                            "unknown_88_00": 0,
+                            "unknown_88_04": 50.0,
+                            "unknown_88_08": "0",
+                            "unknown_88_10": 1,
+                            "unknown_88_14": 3
+                        },
+                        {
+                            "unknown_88_00": 0,
+                            "unknown_88_04": 80.0,
+                            "unknown_88_08": "0",
+                            "unknown_88_10": 4,
+                            "unknown_88_14": 4
+                        },
+                        {
+                            "unknown_88_00": 0,
+                            "unknown_88_04": 100.0,
+                            "unknown_88_08": "0",
+                            "unknown_88_10": 5,
+                            "unknown_88_14": 5
+                        },
+                        {
+                            "unknown_88_00": 1,
+                            "unknown_88_04": 10.0,
+                            "unknown_88_08": "0",
+                            "unknown_88_10": 1,
+                            "unknown_88_14": 5
+                        },
+                        {
+                            "unknown_88_00": 2,
+                            "unknown_88_04": 3.0,
+                            "unknown_88_08": "0",
+                            "unknown_88_10": 0,
+                            "unknown_88_14": 0
+                        },
+                        {
+                            "unknown_88_00": 3,
+                            "unknown_88_04": 1.0,
+                            "unknown_88_08": "0",
+                            "unknown_88_10": 0,
+                            "unknown_88_14": 0
+                        },
+                        {
+                            "unknown_88_00": 4,
+                            "unknown_88_04": 0.0,
+                            "unknown_88_08": "8730259830699633664",
+                            "unknown_88_10": 1,
+                            "unknown_88_14": 2
+                        },
+                        {
+                            "unknown_88_00": 4,
+                            "unknown_88_04": 0.0,
+                            "unknown_88_08": "4815615718361908922",
+                            "unknown_88_10": 3,
+                            "unknown_88_14": 4
+                        },
+                        {
+                            "unknown_88_00": 4,
+                            "unknown_88_04": 0.0,
+                            "unknown_88_08": "4780360227018991282",
+                            "unknown_88_10": 5,
+                            "unknown_88_14": 5
+                        }
+                    ]
                 }
             ],
             "index_list": [
                 {
-                    "idx": 0,
-                    "hex_id": "0",
-                    "type_num": 1,
-                    "type_str": "StatusEffectType_Blind"
+                    "id": 1,
+                    "name": "StatusEffectType_Blind",
+                    "_idx": 0,
+                    "_hex_id": "0x0"
                 },
                 {
-                    "idx": 1,
-                    "hex_id": "1",
-                    "type_num": 2,
-                    "type_str": "StatusEffectType_Bleed"
+                    "id": 2,
+                    "name": "StatusEffectType_Bleed",
+                    "_idx": 1,
+                    "_hex_id": "0x1"
                 },
                 {
-                    "idx": 2,
-                    "hex_id": "2",
-                    "type_num": 3,
-                    "type_str": "StatusEffectType_Deaf"
+                    "id": 3,
+                    "name": "StatusEffectType_Deaf",
+                    "_idx": 2,
+                    "_hex_id": "0x2"
                 },
                 {
-                    "idx": 3,
-                    "hex_id": "3",
-                    "type_num": 4,
-                    "type_str": "StatusEffectType_Confusion"
+                    "id": 4,
+                    "name": "StatusEffectType_Confusion",
+                    "_idx": 3,
+                    "_hex_id": "0x3"
                 },
                 {
-                    "idx": 4,
-                    "hex_id": "4",
-                    "type_num": 5,
-                    "type_str": "StatusEffectType_Fire"
+                    "id": 5,
+                    "name": "StatusEffectType_Fire",
+                    "_idx": 4,
+                    "_hex_id": "0x4"
                 },
                 {
-                    "idx": 5,
-                    "hex_id": "5",
-                    "type_num": 7,
-                    "type_str": "StatusEffectType_Lava"
+                    "id": 7,
+                    "name": "StatusEffectType_Lava",
+                    "_idx": 5,
+                    "_hex_id": "0x5"
                 },
                 {
-                    "idx": 6,
-                    "hex_id": "6",
-                    "type_num": 6,
-                    "type_str": "StatusEffectType_Fire_Panic"
+                    "id": 6,
+                    "name": "StatusEffectType_Fire_Panic",
+                    "_idx": 6,
+                    "_hex_id": "0x6"
                 },
                 {
-                    "idx": 7,
-                    "hex_id": "7",
-                    "type_num": 8,
-                    "type_str": "StatusEffectType_Slowed"
+                    "id": 8,
+                    "name": "StatusEffectType_Slowed",
+                    "_idx": 7,
+                    "_hex_id": "0x7"
                 },
                 {
-                    "idx": 8,
-                    "hex_id": "8",
-                    "type_num": 9,
-                    "type_str": "StatusEffectType_Rooted"
+                    "id": 9,
+                    "name": "StatusEffectType_Rooted",
+                    "_idx": 8,
+                    "_hex_id": "0x8"
                 },
                 {
-                    "idx": 9,
-                    "hex_id": "9",
-                    "type_num": 10,
-                    "type_str": "StatusEffectType_Acid_Splash"
+                    "id": 10,
+                    "name": "StatusEffectType_Acid_Splash",
+                    "_idx": 9,
+                    "_hex_id": "0x9"
                 },
                 {
-                    "idx": 10,
-                    "hex_id": "A",
-                    "type_num": 11,
-                    "type_str": "StatusEffectType_Acid_Stream"
+                    "id": 11,
+                    "name": "StatusEffectType_Acid_Stream",
+                    "_idx": 10,
+                    "_hex_id": "0xA"
                 },
                 {
-                    "idx": 11,
-                    "hex_id": "B",
-                    "type_num": 12,
-                    "type_str": "StatusEffectType_Thermite"
+                    "id": 12,
+                    "name": "StatusEffectType_Thermite",
+                    "_idx": 11,
+                    "_hex_id": "0xB"
                 },
                 {
-                    "idx": 12,
-                    "hex_id": "C",
-                    "type_num": 13,
-                    "type_str": "StatusEffectType_Cyborg_Fire"
+                    "id": 13,
+                    "name": "StatusEffectType_Cyborg_Fire",
+                    "_idx": 12,
+                    "_hex_id": "0xC"
                 },
                 {
-                    "idx": 13,
-                    "hex_id": "D",
-                    "type_num": 14,
-                    "type_str": "StatusEffectType_Choked"
+                    "id": 14,
+                    "name": "StatusEffectType_Choked",
+                    "_idx": 13,
+                    "_hex_id": "0xD"
                 },
                 {
-                    "idx": 14,
-                    "hex_id": "E",
-                    "type_num": 15,
-                    "type_str": "StatusEffectType_Sand"
+                    "id": 15,
+                    "name": "StatusEffectType_Sand",
+                    "_idx": 14,
+                    "_hex_id": "0xE"
                 },
                 {
-                    "idx": 15,
-                    "hex_id": "F",
-                    "type_num": 16,
-                    "type_str": "StatusEffectType_Mud"
+                    "id": 16,
+                    "name": "StatusEffectType_Mud",
+                    "_idx": 15,
+                    "_hex_id": "0xF"
                 },
                 {
-                    "idx": 16,
-                    "hex_id": "10",
-                    "type_num": 17,
-                    "type_str": "StatusEffectType_Snow"
+                    "id": 17,
+                    "name": "StatusEffectType_Snow",
+                    "_idx": 16,
+                    "_hex_id": "0x10"
                 },
                 {
-                    "idx": 17,
-                    "hex_id": "11",
-                    "type_num": 18,
-                    "type_str": "StatusEffectType_Submerged"
+                    "id": 18,
+                    "name": "StatusEffectType_Submerged",
+                    "_idx": 17,
+                    "_hex_id": "0x11"
                 },
                 {
-                    "idx": 18,
-                    "hex_id": "12",
-                    "type_num": 19,
-                    "type_str": "StatusEffectType_Thornbush"
+                    "id": 19,
+                    "name": "StatusEffectType_Thornbush",
+                    "_idx": 18,
+                    "_hex_id": "0x12"
                 },
                 {
-                    "idx": 19,
-                    "hex_id": "13",
-                    "type_num": 20,
-                    "type_str": "StatusEffectType_Cactus"
+                    "id": 20,
+                    "name": "StatusEffectType_Cactus",
+                    "_idx": 19,
+                    "_hex_id": "0x13"
                 },
                 {
-                    "idx": 20,
-                    "hex_id": "14",
-                    "type_num": 21,
-                    "type_str": "StatusEffectType_Barbwire"
+                    "id": 21,
+                    "name": "StatusEffectType_Barbwire",
+                    "_idx": 20,
+                    "_hex_id": "0x14"
                 },
                 {
-                    "idx": 21,
-                    "hex_id": "15",
-                    "type_num": 22,
-                    "type_str": "StatusEffectType_BushSmall"
+                    "id": 22,
+                    "name": "StatusEffectType_BushSmall",
+                    "_idx": 21,
+                    "_hex_id": "0x15"
                 },
                 {
-                    "idx": 22,
-                    "hex_id": "16",
-                    "type_num": 23,
-                    "type_str": "StatusEffectType_BushLarge"
+                    "id": 23,
+                    "name": "StatusEffectType_BushLarge",
+                    "_idx": 22,
+                    "_hex_id": "0x16"
                 },
                 {
-                    "idx": 23,
-                    "hex_id": "17",
-                    "type_num": 24,
-                    "type_str": "StatusEffectType_Pure_Damage"
+                    "id": 24,
+                    "name": "StatusEffectType_Pure_Damage",
+                    "_idx": 23,
+                    "_hex_id": "0x17"
                 },
                 {
-                    "idx": 24,
-                    "hex_id": "18",
-                    "type_num": 25,
-                    "type_str": "StatusEffectType_Stim_Fx"
+                    "id": 25,
+                    "name": "StatusEffectType_Stim_Fx",
+                    "_idx": 24,
+                    "_hex_id": "0x18"
                 },
                 {
-                    "idx": 25,
-                    "hex_id": "19",
-                    "type_num": 26,
-                    "type_str": "StatusEffectType_Stim_Stamina"
+                    "id": 26,
+                    "name": "StatusEffectType_Stim_Stamina",
+                    "_idx": 25,
+                    "_hex_id": "0x19"
                 },
                 {
-                    "idx": 26,
-                    "hex_id": "1A",
-                    "type_num": 27,
-                    "type_str": "StatusEffectType_Stim_Heal"
+                    "id": 27,
+                    "name": "StatusEffectType_Stim_Heal",
+                    "_idx": 26,
+                    "_hex_id": "0x1A"
                 },
                 {
-                    "idx": 27,
-                    "hex_id": "1B",
-                    "type_num": 28,
-                    "type_str": "StatusEffectType_Stim_Pistol_Heal"
+                    "id": 28,
+                    "name": "StatusEffectType_Stim_Pistol_Heal",
+                    "_idx": 27,
+                    "_hex_id": "0x1B"
                 },
                 {
-                    "idx": 28,
-                    "hex_id": "1C",
-                    "type_num": 29,
-                    "type_str": "StatusEffectType_Stim_Combat_Drugs"
+                    "id": 29,
+                    "name": "StatusEffectType_Stim_Combat_Drugs",
+                    "_idx": 28,
+                    "_hex_id": "0x1C"
                 },
                 {
-                    "idx": 29,
-                    "hex_id": "1D",
-                    "type_num": 30,
-                    "type_str": "StatusEffectType_Stim_Cooldown"
+                    "id": 30,
+                    "name": "StatusEffectType_Stim_Cooldown",
+                    "_idx": 29,
+                    "_hex_id": "0x1D"
                 },
                 {
-                    "idx": 30,
-                    "hex_id": "1E",
-                    "type_num": 31,
-                    "type_str": "StatusEffectType_BurningLight"
+                    "id": 31,
+                    "name": "StatusEffectType_BurningLight",
+                    "_idx": 30,
+                    "_hex_id": "0x1E"
                 },
                 {
-                    "idx": 31,
-                    "hex_id": "1F",
-                    "type_num": 32,
-                    "type_str": "StatusEffectType_BurningHeavy"
+                    "id": 32,
+                    "name": "StatusEffectType_BurningHeavy",
+                    "_idx": 31,
+                    "_hex_id": "0x1F"
                 },
                 {
-                    "idx": 32,
-                    "hex_id": "20",
-                    "type_num": 33,
-                    "type_str": "StatusEffectType_RadiationLight"
+                    "id": 33,
+                    "name": "StatusEffectType_RadiationLight",
+                    "_idx": 32,
+                    "_hex_id": "0x20"
                 },
                 {
-                    "idx": 33,
-                    "hex_id": "21",
-                    "type_num": 34,
-                    "type_str": "StatusEffectType_RadiationHeavy"
+                    "id": 34,
+                    "name": "StatusEffectType_RadiationHeavy",
+                    "_idx": 33,
+                    "_hex_id": "0x21"
                 },
                 {
-                    "idx": 34,
-                    "hex_id": "22",
-                    "type_num": 35,
-                    "type_str": "StatusEffectType_Electric"
+                    "id": 35,
+                    "name": "StatusEffectType_Electric",
+                    "_idx": 34,
+                    "_hex_id": "0x22"
                 },
                 {
-                    "idx": 35,
-                    "hex_id": "23",
-                    "type_num": 36,
-                    "type_str": "StatusEffectType_Hidden"
+                    "id": 36,
+                    "name": "StatusEffectType_Hidden",
+                    "_idx": 35,
+                    "_hex_id": "0x23"
                 },
                 {
-                    "idx": 36,
-                    "hex_id": "24",
-                    "type_num": 37,
-                    "type_str": "StatusEffectType_Stun_Small"
+                    "id": 37,
+                    "name": "StatusEffectType_Stun_Small",
+                    "_idx": 36,
+                    "_hex_id": "0x24"
                 },
                 {
-                    "idx": 37,
-                    "hex_id": "25",
-                    "type_num": 38,
-                    "type_str": "StatusEffectType_Stun_Medium"
+                    "id": 38,
+                    "name": "StatusEffectType_Stun_Medium",
+                    "_idx": 37,
+                    "_hex_id": "0x25"
                 },
                 {
-                    "idx": 38,
-                    "hex_id": "26",
-                    "type_num": 39,
-                    "type_str": "StatusEffectType_Stun_Large"
+                    "id": 39,
+                    "name": "StatusEffectType_Stun_Large",
+                    "_idx": 38,
+                    "_hex_id": "0x26"
                 },
                 {
-                    "idx": 39,
-                    "hex_id": "27",
-                    "type_num": 40,
-                    "type_str": "StatusEffectType_Stun_Massive"
+                    "id": 40,
+                    "name": "StatusEffectType_Stun_Massive",
+                    "_idx": 39,
+                    "_hex_id": "0x27"
                 },
                 {
-                    "idx": 40,
-                    "hex_id": "28",
-                    "type_num": 41,
-                    "type_str": "StatusEffectType_Stun_Illuminate"
+                    "id": 41,
+                    "name": "StatusEffectType_Stun_Illuminate",
+                    "_idx": 40,
+                    "_hex_id": "0x28"
                 },
                 {
-                    "idx": 41,
-                    "hex_id": "29",
-                    "type_num": 42,
-                    "type_str": "StatusEffectType_Gas"
+                    "id": 42,
+                    "name": "StatusEffectType_Gas",
+                    "_idx": 41,
+                    "_hex_id": "0x29"
                 },
                 {
-                    "idx": 42,
-                    "hex_id": "2A",
-                    "type_num": 43,
-                    "type_str": "StatusEffectType_Gas_MK2"
+                    "id": 43,
+                    "name": "StatusEffectType_Gas_MK2",
+                    "_idx": 42,
+                    "_hex_id": "0x2A"
                 },
                 {
-                    "idx": 43,
-                    "hex_id": "2B",
-                    "type_num": 44,
-                    "type_str": "StatusEffectType_Gas_Confusion"
+                    "id": 44,
+                    "name": "StatusEffectType_Gas_Confusion",
+                    "_idx": 43,
+                    "_hex_id": "0x2B"
                 },
                 {
-                    "idx": 44,
-                    "hex_id": "2C",
-                    "type_num": 45,
-                    "type_str": "StatusEffectType_Gas_Confusion_MK2"
+                    "id": 45,
+                    "name": "StatusEffectType_Gas_Confusion_MK2",
+                    "_idx": 44,
+                    "_hex_id": "0x2C"
                 },
                 {
-                    "idx": 45,
-                    "hex_id": "2D",
-                    "type_num": 46,
-                    "type_str": "StatusEffectType_Inverted_Aim_Assist"
+                    "id": 46,
+                    "name": "StatusEffectType_Inverted_Aim_Assist",
+                    "_idx": 45,
+                    "_hex_id": "0x2D"
                 },
                 {
-                    "idx": 46,
-                    "hex_id": "2E",
-                    "type_num": 47,
-                    "type_str": "StatusEffectType_Flashlighted"
+                    "id": 47,
+                    "name": "StatusEffectType_Flashlighted",
+                    "_idx": 46,
+                    "_hex_id": "0x2E"
                 },
                 {
-                    "idx": 47,
-                    "hex_id": "2F",
-                    "type_num": 48,
-                    "type_str": "StatusEffectType_Smoke_Covered"
+                    "id": 48,
+                    "name": "StatusEffectType_Smoke_Covered",
+                    "_idx": 47,
+                    "_hex_id": "0x2F"
                 },
                 {
-                    "idx": 48,
-                    "hex_id": "30",
-                    "type_num": 49,
-                    "type_str": "StatusEffectType_Backpack_Chemicals"
+                    "id": 49,
+                    "name": "StatusEffectType_Backpack_Chemicals",
+                    "_idx": 48,
+                    "_hex_id": "0x30"
                 },
                 {
-                    "idx": 49,
-                    "hex_id": "31",
-                    "type_num": 50,
-                    "type_str": "StatusEffectType_Intense_Heat"
+                    "id": 50,
+                    "name": "StatusEffectType_Intense_Heat",
+                    "_idx": 49,
+                    "_hex_id": "0x31"
                 },
                 {
-                    "idx": 50,
-                    "hex_id": "32",
-                    "type_num": 51,
-                    "type_str": "StatusEffectType_Extreme_Cold"
+                    "id": 51,
+                    "name": "StatusEffectType_Extreme_Cold",
+                    "_idx": 50,
+                    "_hex_id": "0x32"
                 },
                 {
-                    "idx": 51,
-                    "hex_id": "33",
-                    "type_num": 52,
-                    "type_str": "StatusEffectType_Tremor"
+                    "id": 52,
+                    "name": "StatusEffectType_Tremor",
+                    "_idx": 51,
+                    "_hex_id": "0x33"
                 },
                 {
-                    "idx": 52,
-                    "hex_id": "34",
-                    "type_num": 53,
-                    "type_str": "StatusEffectType_Sandstorm"
+                    "id": 53,
+                    "name": "StatusEffectType_Sandstorm",
+                    "_idx": 52,
+                    "_hex_id": "0x34"
                 },
                 {
-                    "idx": 53,
-                    "hex_id": "35",
-                    "type_num": 54,
-                    "type_str": "StatusEffectType_Blizzard"
+                    "id": 54,
+                    "name": "StatusEffectType_Blizzard",
+                    "_idx": 53,
+                    "_hex_id": "0x35"
                 },
                 {
-                    "idx": 54,
-                    "hex_id": "36",
-                    "type_num": 55,
-                    "type_str": "StatusEffectType_Acid_Storm"
+                    "id": 55,
+                    "name": "StatusEffectType_Acid_Storm",
+                    "_idx": 54,
+                    "_hex_id": "0x36"
                 },
                 {
-                    "idx": 55,
-                    "hex_id": "37",
-                    "type_num": 56,
-                    "type_str": "StatusEffectType_Weather_Insulated"
+                    "id": 56,
+                    "name": "StatusEffectType_Weather_Insulated",
+                    "_idx": 55,
+                    "_hex_id": "0x37"
                 },
                 {
-                    "idx": 56,
-                    "hex_id": "38",
-                    "type_num": 57,
-                    "type_str": "StatusEffectType_Protected"
+                    "id": 57,
+                    "name": "StatusEffectType_TornadoStun",
+                    "_idx": 56,
+                    "_hex_id": "0x38"
                 },
                 {
-                    "idx": 57,
-                    "hex_id": "39",
-                    "type_num": 58,
-                    "type_str": "StatusEffectType_Dark_Fluid"
+                    "id": 58,
+                    "name": "StatusEffectType_Dark_Fluid",
+                    "_idx": 57,
+                    "_hex_id": "0x39"
                 },
                 {
-                    "idx": 58,
-                    "hex_id": "3A",
-                    "type_num": 59,
-                    "type_str": "StatusEffectType_Death_March"
+                    "id": 59,
+                    "name": "StatusEffectType_Death_March",
+                    "_idx": 58,
+                    "_hex_id": "0x3A"
                 },
                 {
-                    "idx": 59,
-                    "hex_id": "3B",
-                    "type_num": 60,
-                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL1"
+                    "id": 60,
+                    "name": "StatusEffectType_Hotshot_Laser_Rifle_RL1",
+                    "_idx": 59,
+                    "_hex_id": "0x3B"
                 },
                 {
-                    "idx": 60,
-                    "hex_id": "3C",
-                    "type_num": 61,
-                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL2"
+                    "id": 61,
+                    "name": "StatusEffectType_Hotshot_Laser_Rifle_RL2",
+                    "_idx": 60,
+                    "_hex_id": "0x3C"
                 },
                 {
-                    "idx": 61,
-                    "hex_id": "3D",
-                    "type_num": 62,
-                    "type_str": "StatusEffectType_Hotshot_Laser_Rifle_RL3"
+                    "id": 62,
+                    "name": "StatusEffectType_Hotshot_Laser_Rifle_RL3",
+                    "_idx": 61,
+                    "_hex_id": "0x3D"
                 },
                 {
-                    "idx": 62,
-                    "hex_id": "3E",
-                    "type_num": 63,
-                    "type_str": "StatusEffectType_Illuminate_Scrambler"
+                    "id": 63,
+                    "name": "StatusEffectType_Illuminate_Scrambler",
+                    "_idx": 62,
+                    "_hex_id": "0x3E"
                 },
                 {
-                    "idx": 63,
-                    "hex_id": "3F",
-                    "type_num": 64,
-                    "type_str": "StatusEffectType_Constitution"
+                    "id": 64,
+                    "name": "StatusEffectType_Constitution",
+                    "_idx": 63,
+                    "_hex_id": "0x3F"
                 },
                 {
-                    "idx": 64,
-                    "hex_id": "40",
-                    "type_num": 65,
-                    "type_str": "StatusEffectType_Constitution_Booster_Armor_Resistance"
+                    "id": 65,
+                    "name": "StatusEffectType_Constitution_Booster_Armor_Resistance",
+                    "_idx": 64,
+                    "_hex_id": "0x40"
                 },
                 {
-                    "idx": 65,
-                    "hex_id": "41",
-                    "type_num": 66,
-                    "type_str": "StatusEffectType_Post_Mortem_Explosion"
+                    "id": 66,
+                    "name": "StatusEffectType_Post_Mortem_Explosion",
+                    "_idx": 65,
+                    "_hex_id": "0x41"
                 },
                 {
-                    "idx": 66,
-                    "hex_id": "42",
-                    "type_num": 67,
-                    "type_str": "StatusEffectType_Footage_Recorded"
+                    "id": 67,
+                    "name": "StatusEffectType_FlamerSlowed",
+                    "_idx": 66,
+                    "_hex_id": "0x42"
                 },
                 {
-                    "idx": 67,
-                    "hex_id": "43",
-                    "type_num": 68,
-                    "type_str": "StatusEffectType_FlamerSlowed"
+                    "id": 68,
+                    "name": "StatusEffectType_Gloom",
+                    "_idx": 67,
+                    "_hex_id": "0x43"
                 },
                 {
-                    "idx": 68,
-                    "hex_id": "44",
-                    "type_num": 69,
-                    "type_str": "StatusEffectType_Gloom"
+                    "id": 69,
+                    "name": "StatusEffectType_Dark_Fluid_MK2",
+                    "_idx": 68,
+                    "_hex_id": "0x44"
+                },
+                {
+                    "id": 70,
+                    "name": "StatusEffectType_Poison",
+                    "_idx": 69,
+                    "_hex_id": "0x45"
+                },
+                {
+                    "id": 71,
+                    "name": "StatusEffectType_PoisonVulnerability",
+                    "_idx": 70,
+                    "_hex_id": "0x46"
                 }
             ]
         }
@@ -2785,14 +3130,14 @@
                     "needs_to_hit_valid_actor": 0
                 },
                 {
-                    "type": "StatusEffectTemplateType_Freezing",
+                    "type": "StatusEffectTemplateType_Extreme_Cold_MK2",
                     "effects": [
                         {
                             "type": "StatusEffectType_Extreme_Cold",
                             "value_per_second": 5.0
                         },
                         {
-                            "type": "StatusEffectType_Stun_Small",
+                            "type": "StatusEffectType_Blizzard",
                             "value_per_second": 5.0
                         },
                         {
@@ -2917,10 +3262,10 @@
                     "needs_to_hit_valid_actor": 0
                 },
                 {
-                    "type": "StatusEffectTemplateType_Protected_MK2",
+                    "type": "StatusEffectTemplateType_Dark_Fluid",
                     "effects": [
                         {
-                            "type": "StatusEffectType_Protected",
+                            "type": "StatusEffectType_Dark_Fluid",
                             "value_per_second": 1.0
                         },
                         {
@@ -2939,10 +3284,10 @@
                     "needs_to_hit_valid_actor": 0
                 },
                 {
-                    "type": "StatusEffectTemplateType_Dark_Fluid",
+                    "type": "StatusEffectTemplateType_Dark_Fluid_MK2",
                     "effects": [
                         {
-                            "type": "StatusEffectType_Dark_Fluid",
+                            "type": "StatusEffectType_Dark_Fluid_MK2",
                             "value_per_second": 1.0
                         },
                         {
@@ -3007,178 +3352,178 @@
             ],
             "index_list": [
                 {
-                    "idx": 0,
-                    "hex_id": "0",
-                    "type_num": 1,
-                    "type_str": "StatusEffectTemplateType_Flamethrower"
+                    "id": 1,
+                    "name": "StatusEffectTemplateType_Flamethrower",
+                    "_idx": 0,
+                    "_hex_id": "0x0"
                 },
                 {
-                    "idx": 1,
-                    "hex_id": "1",
-                    "type_num": 2,
-                    "type_str": "StatusEffectTemplateType_Barbwire"
+                    "id": 2,
+                    "name": "StatusEffectTemplateType_Barbwire",
+                    "_idx": 1,
+                    "_hex_id": "0x1"
                 },
                 {
-                    "idx": 2,
-                    "hex_id": "2",
-                    "type_num": 3,
-                    "type_str": "StatusEffectTemplateType_Fire"
+                    "id": 3,
+                    "name": "StatusEffectTemplateType_Fire",
+                    "_idx": 2,
+                    "_hex_id": "0x2"
                 },
                 {
-                    "idx": 3,
-                    "hex_id": "3",
-                    "type_num": 4,
-                    "type_str": "StatusEffectTemplateType_Acid_Splash"
+                    "id": 4,
+                    "name": "StatusEffectTemplateType_Acid_Splash",
+                    "_idx": 3,
+                    "_hex_id": "0x3"
                 },
                 {
-                    "idx": 4,
-                    "hex_id": "4",
-                    "type_num": 5,
-                    "type_str": "StatusEffectTemplateType_Acid_Stream"
+                    "id": 5,
+                    "name": "StatusEffectTemplateType_Acid_Stream",
+                    "_idx": 4,
+                    "_hex_id": "0x4"
                 },
                 {
-                    "idx": 5,
-                    "hex_id": "5",
-                    "type_num": 6,
-                    "type_str": "StatusEffectTemplateType_Submerged"
+                    "id": 6,
+                    "name": "StatusEffectTemplateType_Submerged",
+                    "_idx": 5,
+                    "_hex_id": "0x5"
                 },
                 {
-                    "idx": 6,
-                    "hex_id": "6",
-                    "type_num": 7,
-                    "type_str": "StatusEffectTemplateType_Electric"
+                    "id": 7,
+                    "name": "StatusEffectTemplateType_Electric",
+                    "_idx": 6,
+                    "_hex_id": "0x6"
                 },
                 {
-                    "idx": 7,
-                    "hex_id": "7",
-                    "type_num": 8,
-                    "type_str": "StatusEffectTemplateType_Nuke_Radiation"
+                    "id": 8,
+                    "name": "StatusEffectTemplateType_Nuke_Radiation",
+                    "_idx": 7,
+                    "_hex_id": "0x7"
                 },
                 {
-                    "idx": 8,
-                    "hex_id": "8",
-                    "type_num": 9,
-                    "type_str": "StatusEffectTemplateType_Snow"
+                    "id": 9,
+                    "name": "StatusEffectTemplateType_Snow",
+                    "_idx": 8,
+                    "_hex_id": "0x8"
                 },
                 {
-                    "idx": 9,
-                    "hex_id": "9",
-                    "type_num": 10,
-                    "type_str": "StatusEffectTemplateType_Mud"
+                    "id": 10,
+                    "name": "StatusEffectTemplateType_Mud",
+                    "_idx": 9,
+                    "_hex_id": "0x9"
                 },
                 {
-                    "idx": 10,
-                    "hex_id": "A",
-                    "type_num": 11,
-                    "type_str": "StatusEffectTemplateType_Sand"
+                    "id": 11,
+                    "name": "StatusEffectTemplateType_Sand",
+                    "_idx": 10,
+                    "_hex_id": "0xA"
                 },
                 {
-                    "idx": 11,
-                    "hex_id": "B",
-                    "type_num": 12,
-                    "type_str": "StatusEffectTemplateType_Pure_Damage"
+                    "id": 12,
+                    "name": "StatusEffectTemplateType_Pure_Damage",
+                    "_idx": 11,
+                    "_hex_id": "0xB"
                 },
                 {
-                    "idx": 12,
-                    "hex_id": "C",
-                    "type_num": 13,
-                    "type_str": "StatusEffectTemplateType_Thornbush"
+                    "id": 13,
+                    "name": "StatusEffectTemplateType_Thornbush",
+                    "_idx": 12,
+                    "_hex_id": "0xC"
                 },
                 {
-                    "idx": 13,
-                    "hex_id": "D",
-                    "type_num": 14,
-                    "type_str": "StatusEffectTemplateType_Smoke"
+                    "id": 14,
+                    "name": "StatusEffectTemplateType_Smoke",
+                    "_idx": 13,
+                    "_hex_id": "0xD"
                 },
                 {
-                    "idx": 14,
-                    "hex_id": "E",
-                    "type_num": 15,
-                    "type_str": "StatusEffectTemplateType_Static_Field"
+                    "id": 15,
+                    "name": "StatusEffectTemplateType_Static_Field",
+                    "_idx": 14,
+                    "_hex_id": "0xE"
                 },
                 {
-                    "idx": 15,
-                    "hex_id": "F",
-                    "type_num": 16,
-                    "type_str": "StatusEffectTemplateType_Gas"
+                    "id": 16,
+                    "name": "StatusEffectTemplateType_Gas",
+                    "_idx": 15,
+                    "_hex_id": "0xF"
                 },
                 {
-                    "idx": 16,
-                    "hex_id": "10",
-                    "type_num": 17,
-                    "type_str": "StatusEffectTemplateType_Hidden"
+                    "id": 17,
+                    "name": "StatusEffectTemplateType_Hidden",
+                    "_idx": 16,
+                    "_hex_id": "0x10"
                 },
                 {
-                    "idx": 17,
-                    "hex_id": "11",
-                    "type_num": 18,
-                    "type_str": "StatusEffectTemplateType_Intense_Heat"
+                    "id": 18,
+                    "name": "StatusEffectTemplateType_Intense_Heat",
+                    "_idx": 17,
+                    "_hex_id": "0x11"
                 },
                 {
-                    "idx": 18,
-                    "hex_id": "12",
-                    "type_num": 19,
-                    "type_str": "StatusEffectTemplateType_Extreme_Cold"
+                    "id": 19,
+                    "name": "StatusEffectTemplateType_Extreme_Cold",
+                    "_idx": 18,
+                    "_hex_id": "0x12"
                 },
                 {
-                    "idx": 19,
-                    "hex_id": "13",
-                    "type_num": 20,
-                    "type_str": "StatusEffectTemplateType_Freezing"
+                    "id": 20,
+                    "name": "StatusEffectTemplateType_Extreme_Cold_MK2",
+                    "_idx": 19,
+                    "_hex_id": "0x13"
                 },
                 {
-                    "idx": 20,
-                    "hex_id": "14",
-                    "type_num": 21,
-                    "type_str": "StatusEffectTemplateType_Sandstorm"
+                    "id": 21,
+                    "name": "StatusEffectTemplateType_Sandstorm",
+                    "_idx": 20,
+                    "_hex_id": "0x14"
                 },
                 {
-                    "idx": 21,
-                    "hex_id": "15",
-                    "type_num": 22,
-                    "type_str": "StatusEffectTemplateType_Snowstorm"
+                    "id": 22,
+                    "name": "StatusEffectTemplateType_Snowstorm",
+                    "_idx": 21,
+                    "_hex_id": "0x15"
                 },
                 {
-                    "idx": 22,
-                    "hex_id": "16",
-                    "type_num": 23,
-                    "type_str": "StatusEffectTemplateType_Blizzard"
+                    "id": 23,
+                    "name": "StatusEffectTemplateType_Blizzard",
+                    "_idx": 22,
+                    "_hex_id": "0x16"
                 },
                 {
-                    "idx": 23,
-                    "hex_id": "17",
-                    "type_num": 24,
-                    "type_str": "StatusEffectTemplateType_Acid_Storm"
+                    "id": 24,
+                    "name": "StatusEffectTemplateType_Acid_Storm",
+                    "_idx": 23,
+                    "_hex_id": "0x17"
                 },
                 {
-                    "idx": 24,
-                    "hex_id": "18",
-                    "type_num": 25,
-                    "type_str": "StatusEffectTemplateType_Protected"
+                    "id": 25,
+                    "name": "StatusEffectTemplateType_Protected",
+                    "_idx": 24,
+                    "_hex_id": "0x18"
                 },
                 {
-                    "idx": 25,
-                    "hex_id": "19",
-                    "type_num": 26,
-                    "type_str": "StatusEffectTemplateType_Protected_MK2"
+                    "id": 26,
+                    "name": "StatusEffectTemplateType_Dark_Fluid",
+                    "_idx": 25,
+                    "_hex_id": "0x19"
                 },
                 {
-                    "idx": 26,
-                    "hex_id": "1A",
-                    "type_num": 27,
-                    "type_str": "StatusEffectTemplateType_Dark_Fluid"
+                    "id": 29,
+                    "name": "StatusEffectTemplateType_Dark_Fluid_MK2",
+                    "_idx": 26,
+                    "_hex_id": "0x1A"
                 },
                 {
-                    "idx": 27,
-                    "hex_id": "1B",
-                    "type_num": 28,
-                    "type_str": "StatusEffectTemplateType_Flamethrower_MK2"
+                    "id": 27,
+                    "name": "StatusEffectTemplateType_Flamethrower_MK2",
+                    "_idx": 27,
+                    "_hex_id": "0x1B"
                 },
                 {
-                    "idx": 28,
-                    "hex_id": "1C",
-                    "type_num": 29,
-                    "type_str": "StatusEffectTemplateType_Gloom"
+                    "id": 28,
+                    "name": "StatusEffectTemplateType_Gloom",
+                    "_idx": 28,
+                    "_hex_id": "0x1C"
                 }
             ]
         }
