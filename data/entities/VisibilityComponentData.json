@@ -1,373 +1,920 @@
 {
-  "12209482505501190673": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "1962385103464102102": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "6113742425058627513": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "8783342891467425251": {
-    "base_visibility": 3,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "17672347716099392046": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "9796573205647524202": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "17238162226885792459": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "12827722989328478091": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "851455025217071569": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "8383906277678357886": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "6337264778388549835": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "12218137513893139416": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "2895453262415111841": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "9219146911950674287": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "10409770290790592053": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "16121648674137865605": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "17259437333005147504": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "344970826846105488": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "15986416455258940649": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "5881843148917714292": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "9839990240943553653": {
-    "base_visibility": 3,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "2616888780303759269": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "6041739005686103399": {
-    "base_visibility": 3,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "12269323780666160625": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "7196537832909981064": {
-    "base_visibility": 3,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "7539955080993332996": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "1837707428311856638": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "4577685471418352301": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "16974551944278808389": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "2568747792294183916": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "12548565706891777268": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "8867451643782573472": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "1051445694670701817": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "3359716870288230953": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "16450357640400839941": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "9670353792785147784": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "4140939466573601321": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "16204610837508709347": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "10958708641660631096": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "3965302274531977670": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "17875655752828743943": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "3177983950714174823": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "14038927220542196401": {
-    "base_visibility": 3,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "3583430772214091149": {
-    "base_visibility": 3,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "11335415903596859741": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "14286719829563111324": {
-    "base_visibility": 3,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "8484362704672433843": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "15821153730695962661": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "4021120973472933563": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "17246256129031935938": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "2862976050209719244": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "5556372446766824087": {
-    "base_visibility": 1,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  },
-  "4571403555494335481": {
-    "base_visibility": 2,
-    "minimum_visibility": 0.100000001,
-    "night_visibility": 0.800000012,
-    "searchlight_visibility": 4,
-    "searchlight_decay_rate": 4
-  }
+    "VisibilityComponentData": {
+        "items": [
+            {
+                "unique_id": "17672347716099392046",
+                "uid_name": "BugEnemyType_Stalker",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "12218137513893139416",
+                "uid_name": "BotEnemyType_Automaton_HMG_Emplacement",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "3177983950714174823",
+                "uid_name": "3177983950714174823",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "17246256129031935938",
+                "uid_name": "BotEnemyType_WarStrider",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "15821153730695962661",
+                "uid_name": "15821153730695962661",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "2895453262415111841",
+                "uid_name": "BotEnemyType_Gunship",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "13557003672051169255",
+                "uid_name": "BotEnemyType_CyborgVoxEngine",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "3583430772214091149",
+                "uid_name": "3583430772214091149",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "17875655752828743943",
+                "uid_name": "BotEnemyType_ScoutStrider",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "5556372446766824087",
+                "uid_name": "Avatar_Helldiver",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "15986416455258940649",
+                "uid_name": "SupportWeaponType_MiniMissileSilo",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "8783342891467425251",
+                "uid_name": "VehicleType_PatriotExosuit",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "2568747792294183916",
+                "uid_name": "EagleBombardmentType_StrafingRun",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "14709257759554793401",
+                "uid_name": "VehicleType_HMG_FRV",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "4773808446773069045",
+                "uid_name": "VehicleType_GATER",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "4577685471418352301",
+                "uid_name": "4577685471418352301",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "8484362704672433843",
+                "uid_name": "8484362704672433843",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "1605323339894850998",
+                "uid_name": "VehicleType_Bastion",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "15150485993766777854",
+                "uid_name": "15150485993766777854",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "952558497108237637",
+                "uid_name": "IlluminateEnemyType_LightningSpire",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "1864924857437116746",
+                "uid_name": "IlluminateEnemyType_Stingray",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "9839990240943553653",
+                "uid_name": "VehicleType_CargoTruck",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "17082991540257404781",
+                "uid_name": "17082991540257404781",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "9814471339792705014",
+                "uid_name": "BugEnemyType_PredatorHunter",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "15125779956101896786",
+                "uid_name": "BugEnemyType_PredatorStalker",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "10958708641660631096",
+                "uid_name": "BotEnemyType_Dropship",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "14286719829563111324",
+                "uid_name": "BotEnemyType_ShredderTank",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "6041739005686103399",
+                "uid_name": "BotEnemyType_AnnihilatorTank",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "7196537832909981064",
+                "uid_name": "BotEnemyType_BarragerTank",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "10409770290790592053",
+                "uid_name": "BotEnemyType_ReinforcedScoutStrider",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "3103483601875813497",
+                "uid_name": "DeployableType_AutoCannonEmplacement",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "7539955080993332996",
+                "uid_name": "7539955080993332996",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "9371080132553746520",
+                "uid_name": "DeployableType_FlamethrowerSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "6198940140191066280",
+                "uid_name": "DeployableType_LaserSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "12269323780666160625",
+                "uid_name": "DeployableType_GatlingSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "1051445694670701817",
+                "uid_name": "DeployableType_HeavyMachineGunEmplacement",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "12209482505501190673",
+                "uid_name": "DeployableType_HeavyMachineGunEmplacementDerelict",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "5881843148917714292",
+                "uid_name": "DeployableType_MortarSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "2998286011813792148",
+                "uid_name": "DeployableType_GasMortarSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "12827722989328478091",
+                "uid_name": "DeployableType_EMSMortarSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "16204610837508709347",
+                "uid_name": "16204610837508709347",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "1837707428311856638",
+                "uid_name": "1837707428311856638",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "2616888780303759269",
+                "uid_name": "2616888780303759269",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "16974551944278808389",
+                "uid_name": "16974551944278808389",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "9670353792785147784",
+                "uid_name": "9670353792785147784",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "3965302274531977670",
+                "uid_name": "DeployableType_RocketSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "8383906277678357886",
+                "uid_name": "DeployableType_TeslaTower",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "17259437333005147504",
+                "uid_name": "DeployableType_GatlingSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "9219146911950674287",
+                "uid_name": "DeployableType_GatlingSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "6337264778388549835",
+                "uid_name": "DeployableType_GatlingSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "4021120973472933563",
+                "uid_name": "DeployableType_MachineGunSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "3880965223585101348",
+                "uid_name": "VehicleType_BreakthroughExoSuit",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "8872978533108711529",
+                "uid_name": "VehicleType_LumbererExoSuit",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "14038927220542196401",
+                "uid_name": "VehicleType_EmancipatorExosuit",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "3359716870288230953",
+                "uid_name": "EagleBombardmentType_EagleAirstrike",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "1962385103464102102",
+                "uid_name": "EagleBombardmentType_SmokeAirstrike",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "16450357640400839941",
+                "uid_name": "EagleBombardmentType_500KGBomb",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "11335415903596859741",
+                "uid_name": "EagleBombardmentType_ClusterBombs",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "15830863719876386710",
+                "uid_name": "15830863719876386710",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "851455025217071569",
+                "uid_name": "851455025217071569",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "16121648674137865605",
+                "uid_name": "16121648674137865605",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "2862976050209719244",
+                "uid_name": "EagleBombardmentType_NapalmAirstrike",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "4140939466573601321",
+                "uid_name": "EagleBombardmentType_110mmRocketPods",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "16847153723028833967",
+                "uid_name": "VehicleType_SuperEarth_FRV",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "3280238888919072741",
+                "uid_name": "VehicleType_Incinerator_FRV",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "11178286357330019118",
+                "uid_name": "VehicleType_Supply_FRV",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "8867451643782573472",
+                "uid_name": "8867451643782573472",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "17238162226885792459",
+                "uid_name": "17238162226885792459",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "4571403555494335481",
+                "uid_name": "4571403555494335481",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "12738988949818115065",
+                "uid_name": "12738988949818115065",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "344970826846105488",
+                "uid_name": "DeployableType_GatlingSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "9796573205647524202",
+                "uid_name": "9796573205647524202",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "576943110514355900",
+                "uid_name": "576943110514355900",
+                "base_visibility": 3.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "8315931884919593616",
+                "uid_name": "8315931884919593616",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "6113742425058627513",
+                "uid_name": "DeployableType_AutoCannonSentry",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
+                "unique_id": "5617149288754513915",
+                "uid_name": "5617149288754513915",
+                "base_visibility": 1.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "17672347716099392046",
+                "type": "BugEnemyType_Stalker"
+            },
+            {
+                "idx": 1,
+                "uid": "12218137513893139416",
+                "type": "BotEnemyType_Automaton_HMG_Emplacement"
+            },
+            {
+                "idx": 2,
+                "uid": "3177983950714174823",
+                "type": "3177983950714174823"
+            },
+            {
+                "idx": 3,
+                "uid": "17246256129031935938",
+                "type": "BotEnemyType_WarStrider"
+            },
+            {
+                "idx": 4,
+                "uid": "15821153730695962661",
+                "type": "15821153730695962661"
+            },
+            {
+                "idx": 5,
+                "uid": "2895453262415111841",
+                "type": "BotEnemyType_Gunship"
+            },
+            {
+                "idx": 6,
+                "uid": "13557003672051169255",
+                "type": "BotEnemyType_CyborgVoxEngine"
+            },
+            {
+                "idx": 7,
+                "uid": "3583430772214091149",
+                "type": "3583430772214091149"
+            },
+            {
+                "idx": 8,
+                "uid": "17875655752828743943",
+                "type": "BotEnemyType_ScoutStrider"
+            },
+            {
+                "idx": 9,
+                "uid": "5556372446766824087",
+                "type": "Avatar_Helldiver"
+            },
+            {
+                "idx": 10,
+                "uid": "15986416455258940649",
+                "type": "SupportWeaponType_MiniMissileSilo"
+            },
+            {
+                "idx": 11,
+                "uid": "8783342891467425251",
+                "type": "VehicleType_PatriotExosuit"
+            },
+            {
+                "idx": 12,
+                "uid": "2568747792294183916",
+                "type": "EagleBombardmentType_StrafingRun"
+            },
+            {
+                "idx": 13,
+                "uid": "14709257759554793401",
+                "type": "VehicleType_HMG_FRV"
+            },
+            {
+                "idx": 14,
+                "uid": "4773808446773069045",
+                "type": "VehicleType_GATER"
+            },
+            {
+                "idx": 15,
+                "uid": "4577685471418352301",
+                "type": "4577685471418352301"
+            },
+            {
+                "idx": 16,
+                "uid": "8484362704672433843",
+                "type": "8484362704672433843"
+            },
+            {
+                "idx": 17,
+                "uid": "1605323339894850998",
+                "type": "VehicleType_Bastion"
+            },
+            {
+                "idx": 18,
+                "uid": "15150485993766777854",
+                "type": "15150485993766777854"
+            },
+            {
+                "idx": 19,
+                "uid": "952558497108237637",
+                "type": "IlluminateEnemyType_LightningSpire"
+            },
+            {
+                "idx": 20,
+                "uid": "1864924857437116746",
+                "type": "IlluminateEnemyType_Stingray"
+            },
+            {
+                "idx": 21,
+                "uid": "9839990240943553653",
+                "type": "VehicleType_CargoTruck"
+            },
+            {
+                "idx": 22,
+                "uid": "17082991540257404781",
+                "type": "17082991540257404781"
+            },
+            {
+                "idx": 23,
+                "uid": "9814471339792705014",
+                "type": "BugEnemyType_PredatorHunter"
+            },
+            {
+                "idx": 24,
+                "uid": "15125779956101896786",
+                "type": "BugEnemyType_PredatorStalker"
+            },
+            {
+                "idx": 25,
+                "uid": "10958708641660631096",
+                "type": "BotEnemyType_Dropship"
+            },
+            {
+                "idx": 26,
+                "uid": "14286719829563111324",
+                "type": "BotEnemyType_ShredderTank"
+            },
+            {
+                "idx": 27,
+                "uid": "6041739005686103399",
+                "type": "BotEnemyType_AnnihilatorTank"
+            },
+            {
+                "idx": 28,
+                "uid": "7196537832909981064",
+                "type": "BotEnemyType_BarragerTank"
+            },
+            {
+                "idx": 29,
+                "uid": "10409770290790592053",
+                "type": "BotEnemyType_ReinforcedScoutStrider"
+            },
+            {
+                "idx": 30,
+                "uid": "3103483601875813497",
+                "type": "DeployableType_AutoCannonEmplacement"
+            },
+            {
+                "idx": 31,
+                "uid": "7539955080993332996",
+                "type": "7539955080993332996"
+            },
+            {
+                "idx": 32,
+                "uid": "9371080132553746520",
+                "type": "DeployableType_FlamethrowerSentry"
+            },
+            {
+                "idx": 33,
+                "uid": "6198940140191066280",
+                "type": "DeployableType_LaserSentry"
+            },
+            {
+                "idx": 34,
+                "uid": "12269323780666160625",
+                "type": "DeployableType_GatlingSentry"
+            },
+            {
+                "idx": 35,
+                "uid": "1051445694670701817",
+                "type": "DeployableType_HeavyMachineGunEmplacement"
+            },
+            {
+                "idx": 36,
+                "uid": "12209482505501190673",
+                "type": "DeployableType_HeavyMachineGunEmplacementDerelict"
+            },
+            {
+                "idx": 37,
+                "uid": "5881843148917714292",
+                "type": "DeployableType_MortarSentry"
+            },
+            {
+                "idx": 38,
+                "uid": "2998286011813792148",
+                "type": "DeployableType_GasMortarSentry"
+            },
+            {
+                "idx": 39,
+                "uid": "12827722989328478091",
+                "type": "DeployableType_EMSMortarSentry"
+            },
+            {
+                "idx": 40,
+                "uid": "16204610837508709347",
+                "type": "16204610837508709347"
+            },
+            {
+                "idx": 41,
+                "uid": "1837707428311856638",
+                "type": "1837707428311856638"
+            },
+            {
+                "idx": 42,
+                "uid": "2616888780303759269",
+                "type": "2616888780303759269"
+            },
+            {
+                "idx": 43,
+                "uid": "16974551944278808389",
+                "type": "16974551944278808389"
+            },
+            {
+                "idx": 44,
+                "uid": "9670353792785147784",
+                "type": "9670353792785147784"
+            },
+            {
+                "idx": 45,
+                "uid": "3965302274531977670",
+                "type": "DeployableType_RocketSentry"
+            },
+            {
+                "idx": 46,
+                "uid": "8383906277678357886",
+                "type": "DeployableType_TeslaTower"
+            },
+            {
+                "idx": 47,
+                "uid": "17259437333005147504",
+                "type": "DeployableType_GatlingSentry"
+            },
+            {
+                "idx": 48,
+                "uid": "9219146911950674287",
+                "type": "DeployableType_GatlingSentry"
+            },
+            {
+                "idx": 49,
+                "uid": "6337264778388549835",
+                "type": "DeployableType_GatlingSentry"
+            },
+            {
+                "idx": 50,
+                "uid": "4021120973472933563",
+                "type": "DeployableType_MachineGunSentry"
+            },
+            {
+                "idx": 51,
+                "uid": "3880965223585101348",
+                "type": "VehicleType_BreakthroughExoSuit"
+            },
+            {
+                "idx": 52,
+                "uid": "8872978533108711529",
+                "type": "VehicleType_LumbererExoSuit"
+            },
+            {
+                "idx": 53,
+                "uid": "14038927220542196401",
+                "type": "VehicleType_EmancipatorExosuit"
+            },
+            {
+                "idx": 54,
+                "uid": "3359716870288230953",
+                "type": "EagleBombardmentType_EagleAirstrike"
+            },
+            {
+                "idx": 55,
+                "uid": "1962385103464102102",
+                "type": "EagleBombardmentType_SmokeAirstrike"
+            },
+            {
+                "idx": 56,
+                "uid": "16450357640400839941",
+                "type": "EagleBombardmentType_500KGBomb"
+            },
+            {
+                "idx": 57,
+                "uid": "11335415903596859741",
+                "type": "EagleBombardmentType_ClusterBombs"
+            },
+            {
+                "idx": 58,
+                "uid": "15830863719876386710",
+                "type": "15830863719876386710"
+            },
+            {
+                "idx": 59,
+                "uid": "851455025217071569",
+                "type": "851455025217071569"
+            },
+            {
+                "idx": 60,
+                "uid": "16121648674137865605",
+                "type": "16121648674137865605"
+            },
+            {
+                "idx": 61,
+                "uid": "2862976050209719244",
+                "type": "EagleBombardmentType_NapalmAirstrike"
+            },
+            {
+                "idx": 62,
+                "uid": "4140939466573601321",
+                "type": "EagleBombardmentType_110mmRocketPods"
+            },
+            {
+                "idx": 63,
+                "uid": "16847153723028833967",
+                "type": "VehicleType_SuperEarth_FRV"
+            },
+            {
+                "idx": 64,
+                "uid": "3280238888919072741",
+                "type": "VehicleType_Incinerator_FRV"
+            },
+            {
+                "idx": 65,
+                "uid": "11178286357330019118",
+                "type": "VehicleType_Supply_FRV"
+            },
+            {
+                "idx": 66,
+                "uid": "8867451643782573472",
+                "type": "8867451643782573472"
+            },
+            {
+                "idx": 67,
+                "uid": "17238162226885792459",
+                "type": "17238162226885792459"
+            },
+            {
+                "idx": 68,
+                "uid": "4571403555494335481",
+                "type": "4571403555494335481"
+            },
+            {
+                "idx": 69,
+                "uid": "12738988949818115065",
+                "type": "12738988949818115065"
+            },
+            {
+                "idx": 70,
+                "uid": "344970826846105488",
+                "type": "DeployableType_GatlingSentry"
+            },
+            {
+                "idx": 71,
+                "uid": "9796573205647524202",
+                "type": "9796573205647524202"
+            },
+            {
+                "idx": 72,
+                "uid": "576943110514355900",
+                "type": "576943110514355900"
+            },
+            {
+                "idx": 73,
+                "uid": "8315931884919593616",
+                "type": "8315931884919593616"
+            },
+            {
+                "idx": 74,
+                "uid": "6113742425058627513",
+                "type": "DeployableType_AutoCannonSentry"
+            },
+            {
+                "idx": 75,
+                "uid": "5617149288754513915",
+                "type": "5617149288754513915"
+            }
+        ]
+    }
 }
