@@ -2,6 +2,112 @@
     "WeaponRoundsComponentData": {
         "items": [
             {
+                "unique_id": "16091922826775401662",
+                "uid_name": "VehicleType_BreakthroughExoSuit_FlakCannon",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "PROJ_TYPE_068",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 6.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 64,
+                "ammo_refill": 0,
+                "ammo": 64,
+                "reload_amount": 1,
+                "reload_thresholds": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "chambered": 0,
+                "magazine_switch_audio": 0,
+                "magazine_0_weapon_anim": 0,
+                "magazine_0_wielder_anim": 0,
+                "magazine_1_weapon_anim": 0,
+                "magazine_1_wielder_anim": 0,
+                "magazine_anim_variable": 0
+            },
+            {
+                "unique_id": "31037231052968958",
+                "uid_name": "PrimaryWeaponType_Evictor",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "ProjectileType_Grenade_Evictor",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 4.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 32,
+                "ammo_refill": 32,
+                "ammo": 24,
+                "reload_amount": 1,
+                "reload_thresholds": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "chambered": 1,
+                "magazine_switch_audio": 0,
+                "magazine_0_weapon_anim": 0,
+                "magazine_0_wielder_anim": 0,
+                "magazine_1_weapon_anim": 0,
+                "magazine_1_wielder_anim": 0,
+                "magazine_anim_variable": 0
+            },
+            {
                 "unique_id": "4749824949454633632",
                 "uid_name": "PrimaryWeaponType_Punisher",
                 "ammo_infos": {
@@ -479,6 +585,59 @@
                 "magazine_anim_variable": 0
             },
             {
+                "unique_id": "227172373006170809",
+                "uid_name": "SuperEarthType_SEAF_NPC_Stim",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "ProjectileType_Pistol_Stim",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 6.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 24,
+                "ammo_refill": 18,
+                "ammo": 18,
+                "reload_amount": 1,
+                "reload_thresholds": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "chambered": 0,
+                "magazine_switch_audio": 0,
+                "magazine_0_weapon_anim": 0,
+                "magazine_0_wielder_anim": 0,
+                "magazine_1_weapon_anim": 0,
+                "magazine_1_wielder_anim": 0,
+                "magazine_anim_variable": 0
+            },
+            {
                 "unique_id": "5910727434981086692",
                 "uid_name": "SupportWeaponType_BreakActionShotgun",
                 "ammo_infos": {
@@ -568,9 +727,9 @@
                     "x": 1.0,
                     "y": 0.0
                 },
-                "ammo_capacity": 3,
-                "ammo_refill": 3,
-                "ammo": 2,
+                "ammo_capacity": 5,
+                "ammo_refill": 5,
+                "ammo": 3,
                 "reload_amount": 1,
                 "reload_thresholds": {
                     "x": 0.0,
@@ -583,6 +742,59 @@
                 "magazine_1_weapon_anim": 0,
                 "magazine_1_wielder_anim": 0,
                 "magazine_anim_variable": 0
+            },
+            {
+                "unique_id": "13385271715385004853",
+                "uid_name": "13385271715385004853",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "PROJ_TYPE_198",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 4.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 20,
+                "ammo_refill": 20,
+                "ammo": 20,
+                "reload_amount": 1,
+                "reload_thresholds": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "chambered": 1,
+                "magazine_switch_audio": 2751498770,
+                "magazine_0_weapon_anim": 2386575183,
+                "magazine_0_wielder_anim": 3334969633,
+                "magazine_1_weapon_anim": 2144827903,
+                "magazine_1_wielder_anim": 1204198336,
+                "magazine_anim_variable": 1258484571
             },
             {
                 "unique_id": "5905641205788913469",
@@ -614,7 +826,7 @@
                     }
                 },
                 "ammo_types": {
-                    "primary_projectile_type": "PROJ_TYPE_053",
+                    "primary_projectile_type": "ProjectileType_Dummy_C4Detonator",
                     "alternate_projectile_type": "ProjectileType_None"
                 },
                 "magazine_capacity": {
@@ -674,15 +886,15 @@
                     "x": 5.0,
                     "y": 0.0
                 },
-                "ammo_capacity": 99,
-                "ammo_refill": 99,
+                "ammo_capacity": 100,
+                "ammo_refill": 100,
                 "ammo": 60,
                 "reload_amount": 1,
                 "reload_thresholds": {
                     "x": 0.0,
                     "y": 0.0
                 },
-                "chambered": 1,
+                "chambered": 0,
                 "magazine_switch_audio": 0,
                 "magazine_0_weapon_anim": 0,
                 "magazine_0_wielder_anim": 0,
@@ -956,6 +1168,59 @@
                 "magazine_anim_variable": 0
             },
             {
+                "unique_id": "13682483582340182029",
+                "uid_name": "SecondaryWeaponType_Ombudsman",
+                "ammo_infos": {
+                    "primary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "primary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    },
+                    "secondary_recoil_modifiers": {
+                        "horizontal_multiplier": 1.0,
+                        "vertical_multiplier": 1.0,
+                        "drift_horizontal_multiplier": 1.0,
+                        "drift_vertical_multiplier": 1.0,
+                        "climb_horizontal_multiplier": 1.0,
+                        "climb_vertical_multiplier": 1.0
+                    },
+                    "secondary_spread_modifiers": {
+                        "horizontal": 1.0,
+                        "vertical": 1.0
+                    }
+                },
+                "ammo_types": {
+                    "primary_projectile_type": "ProjectileType_Revolver_Ombudsman",
+                    "alternate_projectile_type": "ProjectileType_None"
+                },
+                "magazine_capacity": {
+                    "x": 6.0,
+                    "y": 0.0
+                },
+                "ammo_capacity": 40,
+                "ammo_refill": 40,
+                "ammo": 32,
+                "reload_amount": 1,
+                "reload_thresholds": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "chambered": 0,
+                "magazine_switch_audio": 0,
+                "magazine_0_weapon_anim": 0,
+                "magazine_0_wielder_anim": 0,
+                "magazine_1_weapon_anim": 0,
+                "magazine_1_wielder_anim": 0,
+                "magazine_anim_variable": 0
+            },
+            {
                 "unique_id": "12164217308285983839",
                 "uid_name": "SupportWeaponType_Autocannon",
                 "ammo_infos": {
@@ -1065,101 +1330,126 @@
         "index_list": [
             {
                 "idx": 0,
+                "uid": "16091922826775401662",
+                "type": "VehicleType_BreakthroughExoSuit_FlakCannon"
+            },
+            {
+                "idx": 1,
+                "uid": "31037231052968958",
+                "type": "PrimaryWeaponType_Evictor"
+            },
+            {
+                "idx": 2,
                 "uid": "4749824949454633632",
                 "type": "PrimaryWeaponType_Punisher"
             },
             {
-                "idx": 1,
+                "idx": 3,
                 "uid": "13601459612566041022",
                 "type": "PrimaryWeaponType_PunisherFireOfLiberty"
             },
             {
-                "idx": 2,
+                "idx": 4,
                 "uid": "5725374950499373869",
                 "type": "PrimaryWeaponType_Slugger"
             },
             {
-                "idx": 3,
+                "idx": 5,
                 "uid": "5634296840427219794",
                 "type": "PrimaryWeaponType_HaltShotgun"
             },
             {
-                "idx": 4,
+                "idx": 6,
                 "uid": "15214248472323070124",
                 "type": "PrimaryWeaponType_Cookout"
             },
             {
-                "idx": 5,
+                "idx": 7,
                 "uid": "15911719089517557690",
                 "type": "PrimaryWeaponType_SweeperShotgun"
             },
             {
-                "idx": 6,
+                "idx": 8,
                 "uid": "8221051007693717489",
                 "type": "PrimaryWeaponType_DoubleFreedomShotgun"
             },
             {
-                "idx": 7,
+                "idx": 9,
                 "uid": "10438714418406872918",
                 "type": "PrimaryWeaponType_M90AShotgun"
             },
             {
-                "idx": 8,
+                "idx": 10,
                 "uid": "15470422196992643923",
                 "type": "SecondaryWeaponType_StimPistol"
             },
             {
-                "idx": 9,
+                "idx": 11,
+                "uid": "227172373006170809",
+                "type": "SuperEarthType_SEAF_NPC_Stim"
+            },
+            {
+                "idx": 12,
                 "uid": "5910727434981086692",
                 "type": "SupportWeaponType_BreakActionShotgun"
             },
             {
-                "idx": 10,
+                "idx": 13,
                 "uid": "201944147320653301",
                 "type": "PrimaryWeaponType_OneTwo_GrenadeUnderbarrel"
             },
             {
-                "idx": 11,
+                "idx": 14,
+                "uid": "13385271715385004853",
+                "type": "13385271715385004853"
+            },
+            {
+                "idx": 15,
                 "uid": "5905641205788913469",
                 "type": "SupportWeaponType_C4Detonator"
             },
             {
-                "idx": 12,
+                "idx": 16,
                 "uid": "8896268509512551590",
                 "type": "PrimaryWeaponType_Constitution"
             },
             {
-                "idx": 13,
+                "idx": 17,
                 "uid": "16634382492500136054",
                 "type": "PrimaryWeaponType_Deadeye"
             },
             {
-                "idx": 14,
+                "idx": 18,
                 "uid": "3109983482551492476",
                 "type": "SecondaryWeaponType_Bushwhacker"
             },
             {
-                "idx": 15,
+                "idx": 19,
                 "uid": "5972955417680186543",
                 "type": "SecondaryWeaponType_GrenadePistol"
             },
             {
-                "idx": 16,
+                "idx": 20,
                 "uid": "14375697644675127823",
                 "type": "SecondaryWeaponType_VetoPistol"
             },
             {
-                "idx": 17,
+                "idx": 21,
                 "uid": "10177381595962512386",
                 "type": "SecondaryWeaponType_Senator"
             },
             {
-                "idx": 18,
+                "idx": 22,
+                "uid": "13682483582340182029",
+                "type": "SecondaryWeaponType_Ombudsman"
+            },
+            {
+                "idx": 23,
                 "uid": "12164217308285983839",
                 "type": "SupportWeaponType_Autocannon"
             },
             {
-                "idx": 19,
+                "idx": 24,
                 "uid": "18319281757224320923",
                 "type": "SupportWeaponType_DescalatorGrenadeLauncher"
             }

@@ -290,6 +290,9 @@
     "3358853937828503136": {
         "name": "SupportWeaponType_Railgun"
     },
+    "2616888780303759269": {
+        "name": "SupportWeaponType_RailgunDerelict"
+    },
     "211331680192206384": {
         "name": "SupportWeaponType_GrenadeLauncher"
     },
@@ -677,6 +680,9 @@
     "1962385103464102102": {
         "name": "EagleBombardmentType_SmokeAirstrike"
     },
+    "15830863719876386710": {
+        "name": "EagleBombardmentType_GasStrike"
+    },
     "12101561451675752456": {
         "name": "MeleeWeaponType_Unk1"
     },
@@ -919,6 +925,12 @@
     },
     "7435299642389799754": {
         "name": "BugEnemyType_Impaler"
+    },
+    "2816271437774253565": {
+        "name": "BugEnemyType_SepticBreath"
+    },
+    "8568490042777875483": {
+        "name": "BugEnemyType_BileSpewerSpray"
     },
     "5953193886108619556": {
         "name": "BugEnemyType_NursingSpewerBileSpray"
@@ -1242,7 +1254,7 @@
         "name": "BotEnemyType_HighExplosiveGrenade"
     },
     "14532928027407155276": {
-        "name": "BotEnemyType_HighExplosiveGrenade"
+        "name": "BotEnemyType_HighExplosiveGrenade_MK2"
     },
     "7258218216136199873": {
         "name": "BotEnemyType_Raider"
@@ -1439,6 +1451,18 @@
     "720026069039790444": {
         "name": "BotEnemyType_CyborgAgitator"
     },
+    "10256545209826294564": {
+        "name": "BotEnemyType_Cyborg_HandGrenate_AT"
+    },
+    "14095844455824707166": {
+        "name": "BotEnemyType_Cyborg_Radical_SmokeGrenade"
+    },
+    "7102424959117264971": {
+        "name": "BotEnemyType_Cyborg_HandGrenade_HE"
+    },
+    "5283907452281504031": {
+        "name": "BotEnemyType_Cyborg_HandGrenade_HE_MK2"
+    },
     "13557003672051169255": {
         "name": "BotEnemyType_CyborgVoxEngine"
     },
@@ -1474,6 +1498,9 @@
     },
     "4770136952149103182": {
         "name": "BotEnemyType_BulkFabricator"
+    },
+    "3578086008623815565": {
+        "name": "BotEnemyType_ContactMine"
     },
     "8710323923067153479": {
         "name": "IlluminateEnemyType_Voteless"
@@ -1514,6 +1541,9 @@
     "12421182327299345565": {
         "name": "IlluminateEnemyType_Watcher"
     },
+    "17664382055250362923": {
+        "name": "IlluminateEnemyType_Watcher_ArcZapper"
+    },
     "7483912604024319283": {
         "name": "IlluminateEnemyType_Fleshmob"
     },
@@ -1525,6 +1555,9 @@
     },
     "10835289456440565066": {
         "name": "IlluminateEnemyType_Harvester"
+    },
+    "10214051119573296464": {
+        "name": "IlluminateEnemyType_Harvester_ArcZapper"
     },
     "15438282343866021807": {
         "name": "IlluminateEnemyType_Harvester"
@@ -1568,11 +1601,17 @@
     "613393768869121221": {
         "name": "IlluminateEnemyType_GazerEye"
     },
+    "1461651812919345568": {
+        "name": "IlluminateEnemyType_GazerSpire"
+    },
     "13473041482812368650": {
         "name": "IlluminateEnemyType_Overship"
     },
     "13142476912332493378": {
         "name": "IlluminateEnemyType_IlluminateArtifact"
+    },
+    "18301184306373976528": {
+        "name": "IlluminateEnemyType_Illuminate_ExplosiveBarrel"
     },
     "11654668915819557853": {
         "name": "SuperEarthType_SAMLauncher"

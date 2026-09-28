@@ -20,5 +20,7 @@
     "StratagemObjectiveDropRequirement_MissionPortableHellbomb",
     "StratagemObjectiveDropRequirement_OilRigExtract",
     "StratagemObjectiveDropRequirement_SEAF_Squad",
-    "StratagemObjectiveDropRequirement_ShoulderMountedCamera"
+    "StratagemObjectiveDropRequirement_ShoulderMountedCamera",
+    "StratagemObjectiveDropRequirement_MobileCommsRelay",
+    "StratagemObjectiveDropRequirement_PoisonDrill"
 ]}
