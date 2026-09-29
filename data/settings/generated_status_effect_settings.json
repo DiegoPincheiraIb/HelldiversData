@@ -1317,7 +1317,7 @@
                     "shading_environment_fade_time": 1.5,
                     "strength": 0.25,
                     "duration": 10.0,
-                    "damage_info_type": "DamageInfoType_DPS_Gas_MK2",
+                    "damage_info_type": "DamageInfoType_DPS_Gas",
                     "damage_ignore_avatar_armor": 0,
                     "particle_effect_path": "0",
                     "script_event_start": 0,
@@ -3130,7 +3130,7 @@
                     "needs_to_hit_valid_actor": 0
                 },
                 {
-                    "type": "StatusEffectTemplateType_Extreme_Cold_MK2",
+                    "type": "StatusEffectTemplateType_Freezing",
                     "effects": [
                         {
                             "type": "StatusEffectType_Extreme_Cold",
@@ -3467,7 +3467,7 @@
                 },
                 {
                     "id": 20,
-                    "name": "StatusEffectTemplateType_Extreme_Cold_MK2",
+                    "name": "StatusEffectTemplateType_Freezing",
                     "_idx": 19,
                     "_hex_id": "0x13"
                 },
