@@ -44,6 +44,9 @@
     "12153278833391482546": {
         "name": "PrimaryWeaponType_Arbitrator"
     },
+    "13385271715385004853": {
+        "name": "PrimaryWeaponType_Arbitrator_Underslung"
+    },
     "31037231052968958": {
         "name": "PrimaryWeaponType_Evictor"
     },
@@ -244,6 +247,9 @@
     },
     "16798240363848969985": {
         "name": "SecondaryWeaponType_Breacher"
+    },
+    "9775240595470379261": {
+        "name": "SecondaryWeaponType_Breacher_ThermiteCharge"
     },
     "9927421484392399367": {
         "name": "SupportWeaponType_AntiMaterielRifle"

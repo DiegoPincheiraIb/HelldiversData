@@ -4847,7 +4847,7 @@
                     ]
                 },
                 {
-                    "damage_info_type": "DMG_TYPE_133",
+                    "damage_info_type": "DamageInfoType_Projectile_Rifle_Arbitrator",
                     "damage": [
                         70,
                         20
@@ -5792,7 +5792,7 @@
                     ]
                 },
                 {
-                    "damage_info_type": "DMG_TYPE_161",
+                    "damage_info_type": "DamageInfoType_Projectile_Rifle_Arbitrator_Underslung",
                     "damage": [
                         50,
                         12
@@ -23563,7 +23563,7 @@
                 },
                 {
                     "id": 133,
-                    "name": "DMG_TYPE_133",
+                    "name": "DamageInfoType_Projectile_Rifle_Arbitrator",
                     "_idx": 138,
                     "_hex_id": "0x8A"
                 },
@@ -23725,7 +23725,7 @@
                 },
                 {
                     "id": 161,
-                    "name": "DMG_TYPE_161",
+                    "name": "DamageInfoType_Projectile_Rifle_Arbitrator_Underslung",
                     "_idx": 165,
                     "_hex_id": "0xA5"
                 },

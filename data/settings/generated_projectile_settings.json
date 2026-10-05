@@ -17333,7 +17333,7 @@
                     "simulation_steps": 1,
                     "life_time": 0.0,
                     "life_time_randomness": 0.0,
-                    "damage_info_type": "DMG_TYPE_133",
+                    "damage_info_type": "DamageInfoType_Projectile_Rifle_Arbitrator",
                     "penetration_slowdown": 0.25,
                     "particle_thruster_effect_path": "7125953194633755548",
                     "low_ammo_particle_thruster_effect_path": "4557633415823676875",
@@ -21981,7 +21981,7 @@
                     }
                 },
                 {
-                    "type": "PROJ_TYPE_198",
+                    "type": "ProjectileType_Rifle_Arbitrator_Underslung",
                     "name_upper": 2434806620,
                     "name_cased": 2398893769,
                     "short_name": 749656758,
@@ -21995,7 +21995,7 @@
                     "simulation_steps": 1,
                     "life_time": 0.0,
                     "life_time_randomness": 0.0,
-                    "damage_info_type": "DMG_TYPE_161",
+                    "damage_info_type": "DamageInfoType_Projectile_Rifle_Arbitrator_Underslung",
                     "penetration_slowdown": 0.25,
                     "particle_thruster_effect_path": "14272562107873368950",
                     "low_ammo_particle_thruster_effect_path": "0",
@@ -27688,7 +27688,7 @@
                 },
                 {
                     "id": 198,
-                    "name": "PROJ_TYPE_198",
+                    "name": "ProjectileType_Rifle_Arbitrator_Underslung",
                     "_idx": 297,
                     "_hex_id": "0x129"
                 },

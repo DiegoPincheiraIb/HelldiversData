@@ -773,7 +773,7 @@
                     }
                 },
                 "ammo_types": {
-                    "primary_projectile_type": "PROJ_TYPE_198",
+                    "primary_projectile_type": "ProjectileType_Rifle_Arbitrator_Underslung",
                     "alternate_projectile_type": "ProjectileType_None"
                 },
                 "magazine_capacity": {
