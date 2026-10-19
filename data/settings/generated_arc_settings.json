@@ -3,7 +3,7 @@
         "ArcSettings": {
             "items": [
                 {
-                    "type": "ArcType_ArcThrower",
+                    "arc_type": "ArcType_ArcThrower",
                     "speed": 300.0,
                     "distance": 55.0,
                     "distance_at_max_angle_spread": 40.0,
@@ -14,19 +14,19 @@
                     "max_chain_split": 1,
                     "damage_info_type": "DamageInfoType_Projectile_Arc_Thrower",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 4066763531,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_ArcThrower_MK2",
+                    "arc_type": "ArcType_ArcThrower_MK2",
                     "speed": 300.0,
                     "distance": 50.0,
                     "distance_at_max_angle_spread": 40.0,
@@ -37,19 +37,19 @@
                     "max_chain_split": 1,
                     "damage_info_type": "DamageInfoType_Projectile_Arc_Thrower",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 4066763531,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_ArcThrower_MK3",
+                    "arc_type": "ArcType_ArcThrower_MK3",
                     "speed": 300.0,
                     "distance": 50.0,
                     "distance_at_max_angle_spread": 40.0,
@@ -60,19 +60,19 @@
                     "max_chain_split": 1,
                     "damage_info_type": "DamageInfoType_Projectile_Arc_Thrower_Mk2",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 4066763531,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_ArcThrower_MK4",
+                    "arc_type": "ArcType_ArcThrower_MK4",
                     "speed": 300.0,
                     "distance": 50.0,
                     "distance_at_max_angle_spread": 40.0,
@@ -83,19 +83,19 @@
                     "max_chain_split": 3,
                     "damage_info_type": "DamageInfoType_Projectile_Arc_Thrower_Mk2",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 4066763531,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_ArcShotgun",
+                    "arc_type": "ArcType_ArcShotgun",
                     "speed": 300.0,
                     "distance": 25.0,
                     "distance_at_max_angle_spread": 10.0,
@@ -106,19 +106,19 @@
                     "max_chain_split": 0,
                     "damage_info_type": "DamageInfoType_Projectile_Arc_Shotgun",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 4066763531,
                     "bolt_path": "16359245277033039219",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_ArcDog_K9",
+                    "arc_type": "ArcType_ArcDog_K9",
                     "speed": 300.0,
                     "distance": 55.0,
                     "distance_at_max_angle_spread": 40.0,
@@ -129,19 +129,19 @@
                     "max_chain_split": 5,
                     "damage_info_type": "DamageInfoType_Projectile_Arc_Guarddog",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 4066763531,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_TeslaTurret",
+                    "arc_type": "ArcType_TeslaTurret",
                     "speed": 2000.0,
                     "distance": 20.0,
                     "distance_at_max_angle_spread": 1.0,
@@ -152,19 +152,19 @@
                     "max_chain_split": 2,
                     "damage_info_type": "DamageInfoType_Projectile_Tesla_Turret",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 3528384486,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_IlluminateTripod",
+                    "arc_type": "ArcType_IlluminateTripod",
                     "speed": 2000.0,
                     "distance": 50.0,
                     "distance_at_max_angle_spread": 1.0,
@@ -175,19 +175,19 @@
                     "max_chain_split": 1,
                     "damage_info_type": "DamageInfoType_Projectile_Illuminate_Tripod_Lightning",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 0,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 0,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_IlluminateTurretTesla",
+                    "arc_type": "ArcType_IlluminateTurretTesla",
                     "speed": 2000.0,
                     "distance": 50.0,
                     "distance_at_max_angle_spread": 1.0,
@@ -196,21 +196,21 @@
                     "max_angle_spread_first_shot": 22.5,
                     "max_chain_length": 1,
                     "max_chain_split": 1,
-                    "damage_info_type": "DamageInfoType_Projectile_Illuminate_turret_tesla",
+                    "damage_info_type": "DamageInfoType_Projectile_Illuminate_Turret_Tesla",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 0,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 0,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_Count",
+                    "arc_type": "ARC_TYPE_016",
                     "speed": 2000.0,
                     "distance": 100.0,
                     "distance_at_max_angle_spread": 100.0,
@@ -219,21 +219,21 @@
                     "max_angle_spread_first_shot": 3.0,
                     "max_chain_length": 3,
                     "max_chain_split": 3,
-                    "damage_info_type": "DMG_TYPE_041",
+                    "damage_info_type": "DMG_TYPE_043",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 0,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 0,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_IlluminateObelisk",
+                    "arc_type": "ArcType_IlluminateObelisk",
                     "speed": 2000.0,
                     "distance": 50.0,
                     "distance_at_max_angle_spread": 1.0,
@@ -244,19 +244,19 @@
                     "max_chain_split": 2,
                     "damage_info_type": "DamageInfoType_Projectile_Illuminate_Squidgun",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 0,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 0,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_IlluminateObserverLightning",
+                    "arc_type": "ArcType_IlluminateObserverLightning",
                     "speed": 50.0,
                     "distance": 15.0,
                     "distance_at_max_angle_spread": 10.0,
@@ -267,19 +267,19 @@
                     "max_chain_split": 1,
                     "damage_info_type": "DamageInfoType_Projectile_Illuminate_Observer_Lightning",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4453159312402939904",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.100000001,
                     "explosion_effect_path": "0",
                     "hit_effect_damage_type": "HitEffectDamageType_BeamSmall",
                     "hit_audio_event": 4066763531,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 0,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ARC_TYPE_012",
+                    "arc_type": "ARC_TYPE_012",
                     "speed": 50.0,
                     "distance": 25.0,
                     "distance_at_max_angle_spread": 10.0,
@@ -288,21 +288,21 @@
                     "max_angle_spread_first_shot": 45.0,
                     "max_chain_length": 5,
                     "max_chain_split": 4,
-                    "damage_info_type": "DMG_TYPE_043",
+                    "damage_info_type": "DMG_TYPE_045",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4525216906440867840",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.400000006,
                     "explosion_effect_path": "0",
                     "hit_effect_damage_type": "HitEffectDamageType_BeamSmall",
                     "hit_audio_event": 4066763531,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 0,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_IlluminateSummonerSpawnEffect",
+                    "arc_type": "ArcType_IlluminateSummonerSpawnEffect",
                     "speed": 2000.0,
                     "distance": 250.0,
                     "distance_at_max_angle_spread": 0.0,
@@ -312,20 +312,20 @@
                     "max_chain_length": 0,
                     "max_chain_split": 0,
                     "damage_info_type": "DamageInfoType_Ability_Empty",
-                    "camera_shake_path": "7941199779306930176",
-                    "particle_effect_path": "4557642826533755116",
-                    "particle_linger_time": 0.0,
+                    "camera_shake_path": "0",
+                    "particle_effect_path": "15611403668299239200",
+                    "particle_linger_time": 0.75,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_None",
                     "hit_audio_event": 0,
                     "bolt_path": "3348712636589073254",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 1,
-                    "unknown_64": 0
+                    "unknown_60": 1,
+                    "unknown_64": 1
                 },
                 {
-                    "type": "ArcType_Grenade_Launcher_Stun_Arcs",
+                    "arc_type": "ArcType_Grenade_Launcher_Stun_Arcs",
                     "speed": 2000.0,
                     "distance": 10.0,
                     "distance_at_max_angle_spread": 1.0,
@@ -336,19 +336,19 @@
                     "max_chain_split": 2,
                     "damage_info_type": "DamageInfoType_Explosion_Grenade_Launcher_Stun_Arcs",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 3528384486,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 10,
+                    "unknown_60": 10,
                     "unknown_64": 0
                 },
                 {
-                    "type": "ArcType_Explosion_Grenade_Arcs",
+                    "arc_type": "ArcType_Explosion_Grenade_Arcs",
                     "speed": 2000.0,
                     "distance": 10.0,
                     "distance_at_max_angle_spread": 6.0,
@@ -359,114 +359,114 @@
                     "max_chain_split": 2,
                     "damage_info_type": "DamageInfoType_Projectile_HandGrenade_Arc",
                     "camera_shake_path": "0",
-                    "particle_effect_path": "4503599627370496000",
-                    "particle_linger_time": 0.0,
+                    "particle_effect_path": "0",
+                    "particle_linger_time": 0.25,
                     "explosion_effect_path": "7796303474030059700",
                     "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
                     "hit_audio_event": 3528384486,
                     "bolt_path": "7616758381494621082",
                     "demolition_strength": 10,
                     "unknown_5C": 1,
-                    "arc_count_on_detonation": 10,
-                    "unknown_64": 0
+                    "unknown_60": 10,
+                    "unknown_64": 1
                 }
             ],
             "index_list": [
                 {
-                    "idx": 0,
-                    "hex_id": "0",
-                    "type_num": 7,
-                    "type_str": "ArcType_ArcThrower"
+                    "id": 7,
+                    "name": "ArcType_ArcThrower",
+                    "_idx": 0,
+                    "_hex_id": "0x0"
                 },
                 {
-                    "idx": 1,
-                    "hex_id": "1",
-                    "type_num": 10,
-                    "type_str": "ArcType_ArcThrower_MK2"
+                    "id": 10,
+                    "name": "ArcType_ArcThrower_MK2",
+                    "_idx": 1,
+                    "_hex_id": "0x1"
                 },
                 {
-                    "idx": 2,
-                    "hex_id": "2",
-                    "type_num": 2,
-                    "type_str": "ArcType_ArcThrower_MK3"
+                    "id": 2,
+                    "name": "ArcType_ArcThrower_MK3",
+                    "_idx": 2,
+                    "_hex_id": "0x2"
                 },
                 {
-                    "idx": 3,
-                    "hex_id": "3",
-                    "type_num": 14,
-                    "type_str": "ArcType_ArcThrower_MK4"
+                    "id": 14,
+                    "name": "ArcType_ArcThrower_MK4",
+                    "_idx": 3,
+                    "_hex_id": "0x3"
                 },
                 {
-                    "idx": 4,
-                    "hex_id": "4",
-                    "type_num": 3,
-                    "type_str": "ArcType_ArcShotgun"
+                    "id": 3,
+                    "name": "ArcType_ArcShotgun",
+                    "_idx": 4,
+                    "_hex_id": "0x4"
                 },
                 {
-                    "idx": 5,
-                    "hex_id": "5",
-                    "type_num": 8,
-                    "type_str": "ArcType_ArcDog_K9"
+                    "id": 8,
+                    "name": "ArcType_ArcDog_K9",
+                    "_idx": 5,
+                    "_hex_id": "0x5"
                 },
                 {
-                    "idx": 6,
-                    "hex_id": "6",
-                    "type_num": 13,
-                    "type_str": "ArcType_TeslaTurret"
+                    "id": 13,
+                    "name": "ArcType_TeslaTurret",
+                    "_idx": 6,
+                    "_hex_id": "0x6"
                 },
                 {
-                    "idx": 7,
-                    "hex_id": "7",
-                    "type_num": 1,
-                    "type_str": "ArcType_IlluminateTripod"
+                    "id": 1,
+                    "name": "ArcType_IlluminateTripod",
+                    "_idx": 7,
+                    "_hex_id": "0x7"
                 },
                 {
-                    "idx": 8,
-                    "hex_id": "8",
-                    "type_num": 5,
-                    "type_str": "ArcType_IlluminateTurretTesla"
+                    "id": 5,
+                    "name": "ArcType_IlluminateTurretTesla",
+                    "_idx": 8,
+                    "_hex_id": "0x8"
                 },
                 {
-                    "idx": 9,
-                    "hex_id": "9",
-                    "type_num": 16,
-                    "type_str": "ArcType_Count"
+                    "id": 16,
+                    "name": "ARC_TYPE_016",
+                    "_idx": 9,
+                    "_hex_id": "0x9"
                 },
                 {
-                    "idx": 10,
-                    "hex_id": "A",
-                    "type_num": 9,
-                    "type_str": "ArcType_IlluminateObelisk"
+                    "id": 9,
+                    "name": "ArcType_IlluminateObelisk",
+                    "_idx": 10,
+                    "_hex_id": "0xA"
                 },
                 {
-                    "idx": 11,
-                    "hex_id": "B",
-                    "type_num": 4,
-                    "type_str": "ArcType_IlluminateObserverLightning"
+                    "id": 4,
+                    "name": "ArcType_IlluminateObserverLightning",
+                    "_idx": 11,
+                    "_hex_id": "0xB"
                 },
                 {
-                    "idx": 12,
-                    "hex_id": "C",
-                    "type_num": 12,
-                    "type_str": "ARC_TYPE_012"
+                    "id": 12,
+                    "name": "ARC_TYPE_012",
+                    "_idx": 12,
+                    "_hex_id": "0xC"
                 },
                 {
-                    "idx": 13,
-                    "hex_id": "D",
-                    "type_num": 11,
-                    "type_str": "ArcType_IlluminateSummonerSpawnEffect"
+                    "id": 11,
+                    "name": "ArcType_IlluminateSummonerSpawnEffect",
+                    "_idx": 13,
+                    "_hex_id": "0xD"
                 },
                 {
-                    "idx": 14,
-                    "hex_id": "E",
-                    "type_num": 15,
-                    "type_str": "ArcType_Grenade_Launcher_Stun_Arcs"
+                    "id": 15,
+                    "name": "ArcType_Grenade_Launcher_Stun_Arcs",
+                    "_idx": 14,
+                    "_hex_id": "0xE"
                 },
                 {
-                    "idx": 15,
-                    "hex_id": "F",
-                    "type_num": 6,
-                    "type_str": "ArcType_Explosion_Grenade_Arcs"
+                    "id": 6,
+                    "name": "ArcType_Explosion_Grenade_Arcs",
+                    "_idx": 15,
+                    "_hex_id": "0xF"
                 }
             ]
         }

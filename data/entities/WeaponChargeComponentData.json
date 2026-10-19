@@ -62,7 +62,7 @@
             },
             {
                 "unique_id": "17664382055250362923",
-                "uid_name": "17664382055250362923",
+                "uid_name": "IlluminateEnemyType_Watcher_ArcZapper",
                 "charge_state_settings": [
                     {
                         "charge_time": 1.5,
@@ -180,7 +180,7 @@
             },
             {
                 "unique_id": "2616888780303759269",
-                "uid_name": "2616888780303759269",
+                "uid_name": "SupportWeaponType_RailgunDerelict",
                 "charge_state_settings": [
                     {
                         "charge_time": 1.0,
@@ -415,6 +415,65 @@
                 "unknown_D0": 0.0
             },
             {
+                "unique_id": "7853371720342307430",
+                "uid_name": "SupportWeaponType_MeltaGun",
+                "charge_state_settings": [
+                    {
+                        "charge_time": 0.400000006,
+                        "projectile_type": "ProjectileType_None",
+                        "muzzle_flash_effect": "17247506939014683571",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 0.5,
+                        "projectile_type": "ProjectileType_None",
+                        "muzzle_flash_effect": "17247506939014683571",
+                        "fire_single_audio": "0"
+                    },
+                    {
+                        "charge_time": 1.0,
+                        "projectile_type": "ProjectileType_None",
+                        "muzzle_flash_effect": "17247506939014683571",
+                        "fire_single_audio": "0"
+                    }
+                ],
+                "projectile_multipliers": {
+                    "speed_multiplier_min": 1.0,
+                    "speed_multiplier_overcharge": 1.0,
+                    "damage_multiplier_min": 1.0,
+                    "damage_multiplier_overcharge": 1.0,
+                    "penetration_multiplier_min": 1.0,
+                    "penetration_multiplier_overcharge": 1.0,
+                    "distance_multiplier_min": 0.699999988,
+                    "distance_multiplier_overcharge": 1.399999976,
+                    "extra_arc_splits_min": 0.699999988,
+                    "extra_arc_splits_overcharge": 2.299999952,
+                    "extra_arc_chains_min": 0.800000012,
+                    "extra_arc_chains_overcharge": 1.5
+                },
+                "charge_start_sound_id": 122845797,
+                "charge_stop_sound_id": 444396153,
+                "ready_to_fire_sound_id": 0,
+                "danger_overcharge_sound_id": 0,
+                "charge_mesh": 4221645464,
+                "charge_material": 2113163872,
+                "charge_variable": 3379599616,
+                "charge_up_muzzle_flash": "17247506939014683571",
+                "charge_up_muzzle_flash_loop": "17247506939014683571",
+                "charge_anim_id": 450287375,
+                "charge_end_anim_id": 698547094,
+                "charge_rate_anim_id": 450287375,
+                "spin_speed_anim_id": 0,
+                "auto_fire_in_safety": 1,
+                "unknown_B9": 0,
+                "extra_projectiles_fired": 0,
+                "delay_between_extra_projectiles": 0.0,
+                "dry_fire_audio_event": 0,
+                "overcharge_explosion_type": "ExplosionType_Plasma_Launcher_Overcharge",
+                "unknown_CC": 2,
+                "unknown_D0": 2.5
+            },
+            {
                 "unique_id": "16777584932715761236",
                 "uid_name": "SupportWeaponType_EpochPlasmaLauncher",
                 "charge_state_settings": [
@@ -542,7 +601,7 @@
             {
                 "idx": 1,
                 "uid": "17664382055250362923",
-                "type": "17664382055250362923"
+                "type": "IlluminateEnemyType_Watcher_ArcZapper"
             },
             {
                 "idx": 2,
@@ -552,7 +611,7 @@
             {
                 "idx": 3,
                 "uid": "2616888780303759269",
-                "type": "2616888780303759269"
+                "type": "SupportWeaponType_RailgunDerelict"
             },
             {
                 "idx": 4,
@@ -571,11 +630,16 @@
             },
             {
                 "idx": 7,
+                "uid": "7853371720342307430",
+                "type": "SupportWeaponType_MeltaGun"
+            },
+            {
+                "idx": 8,
                 "uid": "16777584932715761236",
                 "type": "SupportWeaponType_EpochPlasmaLauncher"
             },
             {
-                "idx": 8,
+                "idx": 9,
                 "uid": "3358853937828503136",
                 "type": "SupportWeaponType_Railgun"
             }

@@ -37,5 +37,9 @@
     "HelldiverCustomizationPassiveBonus_Concussive_Reinforced",
     "HelldiverCustomizationPassiveBonus_Concussive_Grenadier",
     "HelldiverCustomizationPassiveBonus_Concussive_Hazmat",
+    "HelldiverCustomizationPassiveBonus_Armor_Oxygenator",
+    "HelldiverCustomizationPassiveBonus_Kinetic_displacement_mitigation",
+    "HelldiverCustomizationPassiveBonus_BluntForce_mitigation",
+    "HelldiverCustomizationPassiveBonus_Armor_True_Grit",
     "HelldiverCustomizationPassiveBonus_Count"
 ]}

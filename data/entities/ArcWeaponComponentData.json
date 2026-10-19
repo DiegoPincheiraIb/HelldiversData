@@ -23,7 +23,7 @@
             },
             {
                 "unique_id": "17664382055250362923",
-                "uid_name": "17664382055250362923",
+                "uid_name": "IlluminateEnemyType_Watcher_ArcZapper",
                 "arc_type": "ArcType_IlluminateObserverLightning",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,
@@ -43,7 +43,7 @@
             },
             {
                 "unique_id": "10214051119573296464",
-                "uid_name": "10214051119573296464",
+                "uid_name": "IlluminateEnemyType_Harvester_ArcZapper",
                 "arc_type": "ArcType_IlluminateTripod",
                 "rounds_per_minute": -1.0,
                 "infinite_ammo": 1,
@@ -211,12 +211,12 @@
             {
                 "idx": 1,
                 "uid": "17664382055250362923",
-                "type": "17664382055250362923"
+                "type": "IlluminateEnemyType_Watcher_ArcZapper"
             },
             {
                 "idx": 2,
                 "uid": "10214051119573296464",
-                "type": "10214051119573296464"
+                "type": "IlluminateEnemyType_Harvester_ArcZapper"
             },
             {
                 "idx": 3,
