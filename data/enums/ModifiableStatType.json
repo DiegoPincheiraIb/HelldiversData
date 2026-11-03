@@ -13,6 +13,7 @@
     "ModifiableStatType_WeaponDamageRecoilScale",
     "ModifiableStatType_PrimaryWeaponAmmoScale",
     "ModifiableStatType_WeaponReloadTimeScale",
+    "ModifiableStatType_SupportWeaponReloadTimeScale",
     "ModifiableStatType_SidearmReloadTimeScale",
     "ModifiableStatType_SidearmDrawTimeScale",
     "ModifiableStatType_SidearmDamageRecoilScale",

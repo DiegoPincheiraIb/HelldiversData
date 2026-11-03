@@ -5,7 +5,7 @@
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Base",
                     "name_loc": 4207037112,
-                    "icon": "3909884262665565598",
+                    "icon": 3909884262665565598,
                     "modifiers": [
                         {
                             "modifier_id": 2947431239,
@@ -14,12 +14,13 @@
                             "desc_loc": 1802981327
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_BattleHardened",
                     "name_loc": 142525292,
-                    "icon": "7220701343999486723",
+                    "icon": 7220701343999486723,
                     "modifiers": [
                         {
                             "modifier_id": 650733985,
@@ -34,12 +35,13 @@
                             "desc_loc": 2398339361
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_CombatEngineer",
                     "name_loc": 1160689016,
-                    "icon": "8971604784772864229",
+                    "icon": 8971604784772864229,
                     "modifiers": [
                         {
                             "modifier_id": 3278452137,
@@ -54,12 +56,13 @@
                             "desc_loc": 4144979903
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_CombatMedic",
                     "name_loc": 1938376644,
-                    "icon": "16549995856152107727",
+                    "icon": 16549995856152107727,
                     "modifiers": [
                         {
                             "modifier_id": 678818890,
@@ -74,12 +77,13 @@
                             "desc_loc": 2230489000
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Adreno_Defib",
                     "name_loc": 2198640368,
-                    "icon": "877357772513077712",
+                    "icon": 877357772513077712,
                     "modifiers": [
                         {
                             "modifier_id": 0,
@@ -106,12 +110,13 @@
                             "desc_loc": 0
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 1670092166
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Kinetic_displacement_mitigation",
                     "name_loc": 205828823,
-                    "icon": "18405820598090931089",
+                    "icon": 18405820598090931089,
                     "modifiers": [
                         {
                             "modifier_id": 1307742833,
@@ -132,12 +137,13 @@
                             "desc_loc": 2852813790
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Desert_Stormer",
                     "name_loc": 3224129712,
-                    "icon": "14181612098193013467",
+                    "icon": 14181612098193013467,
                     "modifiers": [
                         {
                             "modifier_id": 3047489686,
@@ -158,12 +164,13 @@
                             "desc_loc": 4083283407
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Acclimated",
                     "name_loc": 3241737675,
-                    "icon": "3754378783677913710",
+                    "icon": 3754378783677913710,
                     "modifiers": [
                         {
                             "modifier_id": 3047489686,
@@ -178,12 +185,13 @@
                             "desc_loc": 0
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Experimental",
                     "name_loc": 1724458231,
-                    "icon": "6159450195931102595",
+                    "icon": 6159450195931102595,
                     "modifiers": [
                         {
                             "modifier_id": 1272920516,
@@ -198,12 +206,13 @@
                             "desc_loc": 0
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_FireResistant",
                     "name_loc": 2332776870,
-                    "icon": "13190624744652578090",
+                    "icon": 13190624744652578090,
                     "modifiers": [
                         {
                             "modifier_id": 1307742833,
@@ -212,12 +221,13 @@
                             "desc_loc": 283424312
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_FireSupport",
                     "name_loc": 4176618764,
-                    "icon": "3302462276341552215",
+                    "icon": 3302462276341552215,
                     "modifiers": [
                         {
                             "modifier_id": 3278452137,
@@ -232,12 +242,13 @@
                             "desc_loc": 3110966073
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Gas_Resistance",
                     "name_loc": 2096098484,
-                    "icon": "5769799346261694798",
+                    "icon": 5769799346261694798,
                     "modifiers": [
                         {
                             "modifier_id": 1855573221,
@@ -246,12 +257,13 @@
                             "desc_loc": 2613716205
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Hero",
                     "name_loc": 1236709379,
-                    "icon": "7038725225112865242",
+                    "icon": 7038725225112865242,
                     "modifiers": [
                         {
                             "modifier_id": 3414248709,
@@ -266,12 +278,13 @@
                             "desc_loc": 2277719467
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_SiegeBreaker",
                     "name_loc": 1511760777,
-                    "icon": "9684970299713815663",
+                    "icon": 9684970299713815663,
                     "modifiers": [
                         {
                             "modifier_id": 3427994401,
@@ -297,12 +310,13 @@
                             "add_value": 0.0,
                             "mul_value": 1.200000048
                         }
-                    ]
+                    ],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_RockSolid",
                     "name_loc": 232359449,
-                    "icon": "10398853844700199234",
+                    "icon": 10398853844700199234,
                     "modifiers": [
                         {
                             "modifier_id": 626635789,
@@ -323,12 +337,13 @@
                             "desc_loc": 3828783979
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Ballistic_Padding",
                     "name_loc": 2126903330,
-                    "icon": "7934752046925786822",
+                    "icon": 7934752046925786822,
                     "modifiers": [
                         {
                             "modifier_id": 754642083,
@@ -349,12 +364,13 @@
                             "desc_loc": 2277719467
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Oxygenator",
                     "name_loc": 1244403650,
-                    "icon": "9734938761382993588",
+                    "icon": 9734938761382993588,
                     "modifiers": [
                         {
                             "modifier_id": 3447301767,
@@ -375,12 +391,13 @@
                             "desc_loc": 190436328
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_FeetFirst",
                     "name_loc": 2458412307,
-                    "icon": "7276893235797986362",
+                    "icon": 7276893235797986362,
                     "modifiers": [
                         {
                             "modifier_id": 2945151250,
@@ -401,12 +418,13 @@
                             "desc_loc": 3559556444
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_PeakPhysique",
                     "name_loc": 467298293,
-                    "icon": "10920852341750211785",
+                    "icon": 10920852341750211785,
                     "modifiers": [
                         {
                             "modifier_id": 626635789,
@@ -427,12 +445,13 @@
                             "desc_loc": 0
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_ExplosiveFinale",
                     "name_loc": 2043079863,
-                    "icon": "13919163073228195873",
+                    "icon": 13919163073228195873,
                     "modifiers": [
                         {
                             "modifier_id": 1420202628,
@@ -447,12 +466,13 @@
                             "desc_loc": 4144979903
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 1682934331
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Gunslinger",
                     "name_loc": 306935634,
-                    "icon": "1295936441609942690",
+                    "icon": 1295936441609942690,
                     "modifiers": [
                         {
                             "modifier_id": 3036184873,
@@ -489,12 +509,13 @@
                             "add_value": 0.0,
                             "mul_value": 0.300000012
                         }
-                    ]
+                    ],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Reduced_Pain_Flinch",
                     "name_loc": 3851872716,
-                    "icon": "1666489241707317980",
+                    "icon": 1666489241707317980,
                     "modifiers": [
                         {
                             "modifier_id": 1936936295,
@@ -521,12 +542,13 @@
                             "add_value": 0.0,
                             "mul_value": 0.050000001
                         }
-                    ]
+                    ],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_True_Grit",
                     "name_loc": 4225753900,
-                    "icon": "474920101139287235",
+                    "icon": 474920101139287235,
                     "modifiers": [
                         {
                             "modifier_id": 905018348,
@@ -547,12 +569,13 @@
                             "add_value": 0.0,
                             "mul_value": 1.299999952
                         }
-                    ]
+                    ],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_SupplementalStamina",
                     "name_loc": 828730877,
-                    "icon": "13184013670760702681",
+                    "icon": 13184013670760702681,
                     "modifiers": [
                         {
                             "modifier_id": 2710154678,
@@ -567,12 +590,52 @@
                             "desc_loc": 1802981327
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
+                },
+                {
+                    "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Stationary_Shroud",
+                    "name_loc": 2470263896,
+                    "icon": 12068039967693046645,
+                    "modifiers": [
+                        {
+                            "modifier_id": 4038526241,
+                            "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+                            "value": 0.649999976,
+                            "desc_loc": 0
+                        },
+                        {
+                            "modifier_id": 267716843,
+                            "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+                            "value": 0.649999976,
+                            "desc_loc": 0
+                        },
+                        {
+                            "modifier_id": 857952561,
+                            "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+                            "value": 0.649999976,
+                            "desc_loc": 2325885932
+                        },
+                        {
+                            "modifier_id": 2945151250,
+                            "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+                            "value": 0.850000024,
+                            "desc_loc": 2341805933
+                        },
+                        {
+                            "modifier_id": 2003472895,
+                            "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Set",
+                            "value": 12.0,
+                            "desc_loc": 3878757649
+                        }
+                    ],
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Reduced_Signature",
                     "name_loc": 3160067283,
-                    "icon": "4036131852093811853",
+                    "icon": 4036131852093811853,
                     "modifiers": [
                         {
                             "modifier_id": 2945151250,
@@ -587,12 +650,13 @@
                             "desc_loc": 3031268253
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_ReinforcedEpaulettes",
                     "name_loc": 2813945735,
-                    "icon": "1807917124244644144",
+                    "icon": 1807917124244644144,
                     "modifiers": [
                         {
                             "modifier_id": 3427994401,
@@ -619,12 +683,13 @@
                             "add_value": 0.0,
                             "mul_value": 1.299999952
                         }
-                    ]
+                    ],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Tactician",
                     "name_loc": 3682222023,
-                    "icon": "7436296273208024403",
+                    "icon": 7436296273208024403,
                     "modifiers": [
                         {
                             "modifier_id": 564640356,
@@ -639,12 +704,13 @@
                             "desc_loc": 3031268253
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_BluntForce_mitigation",
                     "name_loc": 4229784342,
-                    "icon": "6860418934003142539",
+                    "icon": 6860418934003142539,
                     "modifiers": [
                         {
                             "modifier_id": 295944268,
@@ -665,12 +731,13 @@
                             "desc_loc": 1802981327
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Concussive_Reinforced",
                     "name_loc": 3332727941,
-                    "icon": "10394321456977854906",
+                    "icon": 10394321456977854906,
                     "modifiers": [
                         {
                             "modifier_id": 530108754,
@@ -685,12 +752,13 @@
                             "desc_loc": 1802981327
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Concussive_Hazmat",
                     "name_loc": 2634038544,
-                    "icon": "10394321456977854906",
+                    "icon": 10394321456977854906,
                     "modifiers": [
                         {
                             "modifier_id": 530108754,
@@ -717,12 +785,13 @@
                             "add_value": 0.0,
                             "mul_value": 0.699999988
                         }
-                    ]
+                    ],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_Concussive_Grenadier",
                     "name_loc": 141575155,
-                    "icon": "10394321456977854906",
+                    "icon": 10394321456977854906,
                     "modifiers": [
                         {
                             "modifier_id": 530108754,
@@ -737,12 +806,13 @@
                             "desc_loc": 4144979903
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 },
                 {
                     "passive_bonus": "HelldiverCustomizationPassiveBonus_None",
                     "name_loc": 1555196278,
-                    "icon": "3909884262665565598",
+                    "icon": 3909884262665565598,
                     "modifiers": [
                         {
                             "modifier_id": 0,
@@ -751,7 +821,8 @@
                             "desc_loc": 2716085286
                         }
                     ],
-                    "stat_modifiers": []
+                    "stat_modifiers": [],
+                    "unknown_030": 0
                 }
             ],
             "index_list": [
@@ -759,225 +830,199 @@
                     "id": 1,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Base",
                     "_idx": 0,
-                    "_hex_id": "0x0",
-                    "relative_offset_hex": "0x0"
+                    "_hex_id": "0x0"
                 },
                 {
                     "id": 8,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_BattleHardened",
                     "_idx": 1,
-                    "_hex_id": "0x1",
-                    "relative_offset_hex": "0x60"
+                    "_hex_id": "0x1"
                 },
                 {
                     "id": 6,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_CombatEngineer",
                     "_idx": 2,
-                    "_hex_id": "0x2",
-                    "relative_offset_hex": "0xD0"
+                    "_hex_id": "0x2"
                 },
                 {
                     "id": 7,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_CombatMedic",
                     "_idx": 3,
-                    "_hex_id": "0x3",
-                    "relative_offset_hex": "0x140"
+                    "_hex_id": "0x3"
                 },
                 {
                     "id": 19,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Adreno_Defib",
                     "_idx": 4,
-                    "_hex_id": "0x4",
-                    "relative_offset_hex": "0x1B0"
+                    "_hex_id": "0x4"
                 },
                 {
                     "id": 39,
                     "name": "HelldiverCustomizationPassiveBonus_Kinetic_displacement_mitigation",
                     "_idx": 5,
-                    "_hex_id": "0x5",
-                    "relative_offset_hex": "0x240"
+                    "_hex_id": "0x5"
                 },
                 {
                     "id": 21,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Desert_Stormer",
                     "_idx": 6,
-                    "_hex_id": "0x6",
-                    "relative_offset_hex": "0x2C0"
+                    "_hex_id": "0x6"
                 },
                 {
                     "id": 15,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Acclimated",
                     "_idx": 7,
-                    "_hex_id": "0x7",
-                    "relative_offset_hex": "0x340"
+                    "_hex_id": "0x7"
                 },
                 {
                     "id": 5,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Experimental",
                     "_idx": 8,
-                    "_hex_id": "0x8",
-                    "relative_offset_hex": "0x3B0"
+                    "_hex_id": "0x8"
                 },
                 {
                     "id": 11,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_FireResistant",
                     "_idx": 9,
-                    "_hex_id": "0x9",
-                    "relative_offset_hex": "0x420"
+                    "_hex_id": "0x9"
                 },
                 {
                     "id": 3,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_FireSupport",
                     "_idx": 10,
-                    "_hex_id": "0xA",
-                    "relative_offset_hex": "0x480"
+                    "_hex_id": "0xa"
                 },
                 {
                     "id": 13,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Gas_Resistance",
                     "_idx": 11,
-                    "_hex_id": "0xB",
-                    "relative_offset_hex": "0x4F0"
+                    "_hex_id": "0xb"
                 },
                 {
                     "id": 9,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Hero",
                     "_idx": 12,
-                    "_hex_id": "0xC",
-                    "relative_offset_hex": "0x550"
+                    "_hex_id": "0xc"
                 },
                 {
                     "id": 16,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_SiegeBreaker",
                     "_idx": 13,
-                    "_hex_id": "0xD",
-                    "relative_offset_hex": "0x5C0"
+                    "_hex_id": "0xd"
                 },
                 {
                     "id": 33,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_RockSolid",
                     "_idx": 14,
-                    "_hex_id": "0xE",
-                    "relative_offset_hex": "0x648"
+                    "_hex_id": "0xe"
                 },
                 {
                     "id": 20,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Ballistic_Padding",
                     "_idx": 15,
-                    "_hex_id": "0xF",
-                    "relative_offset_hex": "0x6C8"
+                    "_hex_id": "0xf"
                 },
                 {
                     "id": 38,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Oxygenator",
                     "_idx": 16,
-                    "_hex_id": "0x10",
-                    "relative_offset_hex": "0x748"
+                    "_hex_id": "0x10"
                 },
                 {
                     "id": 31,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_FeetFirst",
                     "_idx": 17,
-                    "_hex_id": "0x11",
-                    "relative_offset_hex": "0x7C8"
+                    "_hex_id": "0x11"
                 },
                 {
                     "id": 12,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_PeakPhysique",
                     "_idx": 18,
-                    "_hex_id": "0x12",
-                    "relative_offset_hex": "0x848"
+                    "_hex_id": "0x12"
                 },
                 {
                     "id": 17,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_ExplosiveFinale",
                     "_idx": 19,
-                    "_hex_id": "0x13",
-                    "relative_offset_hex": "0x8C8"
+                    "_hex_id": "0x13"
                 },
                 {
                     "id": 18,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Gunslinger",
                     "_idx": 20,
-                    "_hex_id": "0x14",
-                    "relative_offset_hex": "0x938"
+                    "_hex_id": "0x14"
                 },
                 {
                     "id": 14,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Reduced_Pain_Flinch",
                     "_idx": 21,
-                    "_hex_id": "0x15",
-                    "relative_offset_hex": "0x9DC"
+                    "_hex_id": "0x15"
                 },
                 {
                     "id": 41,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_True_Grit",
                     "_idx": 22,
-                    "_hex_id": "0x16",
-                    "relative_offset_hex": "0xA68"
+                    "_hex_id": "0x16"
                 },
                 {
                     "id": 34,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_SupplementalStamina",
                     "_idx": 23,
-                    "_hex_id": "0x17",
-                    "relative_offset_hex": "0xAE4"
+                    "_hex_id": "0x17"
+                },
+                {
+                    "id": 42,
+                    "name": "HelldiverCustomizationPassiveBonus_Armor_Stationary_Shroud",
+                    "_idx": 24,
+                    "_hex_id": "0x18"
                 },
                 {
                     "id": 32,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Reduced_Signature",
-                    "_idx": 24,
-                    "_hex_id": "0x18",
-                    "relative_offset_hex": "0xB54"
+                    "_idx": 25,
+                    "_hex_id": "0x19"
                 },
                 {
                     "id": 10,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_ReinforcedEpaulettes",
-                    "_idx": 25,
-                    "_hex_id": "0x19",
-                    "relative_offset_hex": "0xBC4"
+                    "_idx": 26,
+                    "_hex_id": "0x1a"
                 },
                 {
                     "id": 2,
                     "name": "HelldiverCustomizationPassiveBonus_Armor_Tactician",
-                    "_idx": 26,
-                    "_hex_id": "0x1A",
-                    "relative_offset_hex": "0xC50"
+                    "_idx": 27,
+                    "_hex_id": "0x1b"
                 },
                 {
                     "id": 40,
                     "name": "HelldiverCustomizationPassiveBonus_BluntForce_mitigation",
-                    "_idx": 27,
-                    "_hex_id": "0x1B",
-                    "relative_offset_hex": "0xCC0"
+                    "_idx": 28,
+                    "_hex_id": "0x1c"
                 },
                 {
                     "id": 35,
                     "name": "HelldiverCustomizationPassiveBonus_Concussive_Reinforced",
-                    "_idx": 28,
-                    "_hex_id": "0x1C",
-                    "relative_offset_hex": "0xD40"
+                    "_idx": 29,
+                    "_hex_id": "0x1d"
                 },
                 {
                     "id": 37,
                     "name": "HelldiverCustomizationPassiveBonus_Concussive_Hazmat",
-                    "_idx": 29,
-                    "_hex_id": "0x1D",
-                    "relative_offset_hex": "0xDB0"
+                    "_idx": 30,
+                    "_hex_id": "0x1e"
                 },
                 {
                     "id": 36,
                     "name": "HelldiverCustomizationPassiveBonus_Concussive_Grenadier",
-                    "_idx": 30,
-                    "_hex_id": "0x1E",
-                    "relative_offset_hex": "0xE3C"
+                    "_idx": 31,
+                    "_hex_id": "0x1f"
                 },
                 {
                     "id": 0,
                     "name": "HelldiverCustomizationPassiveBonus_None",
-                    "_idx": 31,
-                    "_hex_id": "0x1F",
-                    "relative_offset_hex": "0xEAC"
+                    "_idx": 32,
+                    "_hex_id": "0x20"
                 }
             ]
         }

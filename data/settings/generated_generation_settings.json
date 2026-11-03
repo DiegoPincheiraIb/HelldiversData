@@ -1,26 +1,32 @@
 [
   {
     "LevelGenerationSettings": {
+      "unknown_000": 16.0,
+      "unknown_004": 40.0,
       "vista_start_fade_distance_multiplier": 0.60546875,
       "vista_end_fade_distance_multiplier": 0.6640625,
-      "flattening_location_min_distance_bias": 8,
-      "flattening_location_min_distance_factor": 0.850000024,
+      "unknown_014": 0.600000024,
+      "unknown_018": 0.800000012,
+      "flattening_location_min_distance_bias": 10.0,
+      "flattening_location_min_distance_factor": 0.875,
       "non_flattening_location_min_distance_bias": 1.5,
       "non_flattening_location_min_distance_factor": 0.100000001,
-      "location_playable_area_bias_factor": 0.449999988,
-      "location_playable_area_offset": 15,
-      "war_layer_threshold": 0,
-      "war_layer_random_offset": 0,
-      "stamp_flatten_factor": 32,
-      "outside_playable_area_culling_screen_size_weight": 1,
-      "horde_playable_distance": 1,
-      "detailed_distance": 174,
+      "location_playable_area_bias_factor": 0.425000012,
+      "location_playable_area_offset": 12.0,
+      "war_layer_threshold": 0.0,
+      "war_layer_random_offset": 0.0,
+      "stamp_flatten_factor": 32.0,
+      "outside_playable_area_culling_screen_size_weight": 1.0,
+      "horde_playable_distance": 1.0,
+      "detailed_distance": 174.0,
       "water_safe_height": 0.5,
-      "full_fade_height_variance": 2,
-      "full_fade_radius_factor": 1.79999995,
+      "full_fade_height_variance": 2.0,
+      "full_fade_radius_factor": 1.799999952,
+      "unknown_058": 11837447748259032519,
+      "unknown_060": 1,
       "exploration_settings": {
-        "distance_between_locations": 20,
-        "fill_rate": 1,
+        "distance_between_locations": 20.0,
+        "fill_rate": 1.0,
         "spawn_layers": [
           {
             "layer_to_spawn": 1641360298,
@@ -77,13 +83,13 @@
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
                 "x": 0.300000012,
-                "y": -0.0900000036,
-                "z": 0.0299999993
+                "y": -0.090000004,
+                "z": 0.029999999
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": 90
+                "x": -90.0,
+                "y": 0.0,
+                "z": 90.0
               }
             },
             {
@@ -93,13 +99,13 @@
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
                 "x": 0.5,
-                "y": 0,
-                "z": 0.0599999987
+                "y": 0.0,
+                "z": 0.059999999
               },
               "spawn_offset_rot": {
-                "x": 0,
-                "y": 5,
-                "z": 90
+                "x": 0.0,
+                "y": 5.0,
+                "z": 90.0
               }
             },
             {
@@ -109,13 +115,13 @@
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
                 "x": 0.400000006,
-                "y": 0.0900000036,
-                "z": 0.0399999991
+                "y": 0.090000004,
+                "z": 0.039999999
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": 90
+                "x": -90.0,
+                "y": 0.0,
+                "z": 90.0
               }
             },
             {
@@ -124,14 +130,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
-                "y": 0,
+                "x": 0.0,
+                "y": 0.0,
                 "z": 0.150000006
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": 90
+                "x": -90.0,
+                "y": 0.0,
+                "z": 90.0
               }
             },
             {
@@ -141,13 +147,13 @@
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
                 "x": 0.300000012,
-                "y": -0.0900000036,
-                "z": 0.0299999993
+                "y": -0.090000004,
+                "z": 0.029999999
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": 90
+                "x": -90.0,
+                "y": 0.0,
+                "z": 90.0
               }
             },
             {
@@ -157,13 +163,13 @@
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
                 "x": 0.300000012,
-                "y": -0.0900000036,
-                "z": 0.0799999982
+                "y": -0.090000004,
+                "z": 0.079999998
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": 90
+                "x": -90.0,
+                "y": 0.0,
+                "z": 90.0
               }
             },
             {
@@ -172,14 +178,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": -0.0299999993,
+                "x": -0.029999999,
                 "y": -0.129999995,
-                "z": 0.0299999993
+                "z": 0.029999999
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": 90
+                "x": -90.0,
+                "y": 0.0,
+                "z": 90.0
               }
             },
             {
@@ -188,14 +194,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
+                "x": 0.0,
                 "y": 0.180000007,
-                "z": 0.0799999982
+                "z": 0.079999998
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": -12,
-                "z": 90
+                "x": -90.0,
+                "y": -12.0,
+                "z": 90.0
               }
             },
             {
@@ -204,14 +210,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
-                "y": 0,
-                "z": 0.0500000007
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.050000001
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": 90
+                "x": -90.0,
+                "y": 0.0,
+                "z": 90.0
               }
             },
             {
@@ -222,12 +228,12 @@
               "spawn_offset_pos": {
                 "x": -0.170000002,
                 "y": -0.150000006,
-                "z": 0.0799999982
+                "z": 0.079999998
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": 90
+                "x": -90.0,
+                "y": 0.0,
+                "z": 90.0
               }
             },
             {
@@ -237,13 +243,13 @@
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
                 "x": 0.200000003,
-                "y": 0,
-                "z": 0.0799999982
+                "y": 0.0,
+                "z": 0.079999998
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": 90
+                "x": -90.0,
+                "y": 0.0,
+                "z": 90.0
               }
             },
             {
@@ -252,14 +258,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": -0.0199999996,
-                "y": -0.0599999987,
-                "z": 0.0799999982
+                "x": -0.02,
+                "y": -0.059999999,
+                "z": 0.079999998
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": -180
+                "x": -90.0,
+                "y": 0.0,
+                "z": -180.0
               }
             },
             {
@@ -268,14 +274,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": -0.0199999996,
-                "y": -0.0599999987,
-                "z": 0.0799999982
+                "x": -0.02,
+                "y": -0.059999999,
+                "z": 0.079999998
               },
               "spawn_offset_rot": {
-                "x": -90,
-                "y": 0,
-                "z": -180
+                "x": -90.0,
+                "y": 0.0,
+                "z": -180.0
               }
             },
             {
@@ -284,14 +290,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
-                "y": 0,
+                "x": 0.0,
+                "y": 0.0,
                 "z": 0.100000001
               },
               "spawn_offset_rot": {
-                "x": 0,
-                "y": 90,
-                "z": 90
+                "x": 0.0,
+                "y": 90.0,
+                "z": 90.0
               }
             }
           ]
@@ -306,7 +312,7 @@
         },
         {
           "id": 3610838851,
-          "chance": 29,
+          "chance": 20,
           "min_difficulty": -1,
           "max_difficulty": 3,
           "max_packages_allowed": -1,
@@ -317,21 +323,21 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
-                "y": 0,
-                "z": 0
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
               },
               "spawn_offset_rot": {
-                "x": 0,
-                "y": 0,
-                "z": 90
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
               }
             }
           ]
         },
         {
           "id": 2831276514,
-          "chance": 22,
+          "chance": 20,
           "min_difficulty": 4,
           "max_difficulty": 7,
           "max_packages_allowed": -1,
@@ -342,21 +348,21 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
-                "y": 0,
-                "z": 0
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
               },
               "spawn_offset_rot": {
-                "x": 0,
-                "y": 0,
-                "z": 90
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
               }
             }
           ]
         },
         {
           "id": 3917669152,
-          "chance": 22,
+          "chance": 20,
           "min_difficulty": 8,
           "max_difficulty": -1,
           "max_packages_allowed": -1,
@@ -367,14 +373,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
-                "y": 0,
-                "z": 0
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
               },
               "spawn_offset_rot": {
-                "x": 0,
-                "y": 0,
-                "z": 90
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
               }
             }
           ]
@@ -392,14 +398,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
-                "y": 0,
-                "z": 0.00999999978
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.01
               },
               "spawn_offset_rot": {
-                "x": 0,
-                "y": 0,
-                "z": 180
+                "x": 0.0,
+                "y": 0.0,
+                "z": 180.0
               }
             },
             {
@@ -408,14 +414,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
-                "y": 0,
-                "z": 0
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
               },
               "spawn_offset_rot": {
-                "x": 90,
-                "y": 90,
-                "z": 0
+                "x": 90.0,
+                "y": 90.0,
+                "z": 0.0
               }
             },
             {
@@ -424,14 +430,14 @@
               "max_difficulty": -1,
               "race_type": "RaceType_None",
               "spawn_offset_pos": {
-                "x": 0,
-                "y": 0,
+                "x": 0.0,
+                "y": 0.0,
                 "z": 0.129999995
               },
               "spawn_offset_rot": {
-                "x": 0,
-                "y": 65,
-                "z": 125
+                "x": 0.0,
+                "y": 65.0,
+                "z": 125.0
               }
             }
           ]
