@@ -1,82 +1,183 @@
 {
-  "6951176475743020159": {
-    "wind_up_time": 1,
-    "wind_down_time": 1,
-    "rpm_anim_id": 1210629810,
-    "rpm_multiplier": 0.333332986,
-    "wind_up_sound": 946816232,
-    "wind_down_sound": 2004125535,
-    "wind_up_anim": 4125806552,
-    "wind_down_anim": 0
-  },
-  "344970826846105488": {
-    "wind_up_time": 0.5,
-    "wind_down_time": 1,
-    "rpm_anim_id": 1210629810,
-    "rpm_multiplier": 1,
-    "wind_up_sound": 4155509744,
-    "wind_down_sound": 1170769191,
-    "wind_up_anim": 992368565,
-    "wind_down_anim": 0
-  },
-  "17259437333005147504": {
-    "wind_up_time": 0.5,
-    "wind_down_time": 1,
-    "rpm_anim_id": 1210629810,
-    "rpm_multiplier": 1,
-    "wind_up_sound": 4155509744,
-    "wind_down_sound": 1170769191,
-    "wind_up_anim": 992368565,
-    "wind_down_anim": 0
-  },
-  "645713022044093730": {
-    "wind_up_time": 1,
-    "wind_down_time": 1,
-    "rpm_anim_id": 1210629810,
-    "rpm_multiplier": 0.333332986,
-    "wind_up_sound": 946816232,
-    "wind_down_sound": 2004125535,
-    "wind_up_anim": 4125806552,
-    "wind_down_anim": 0
-  },
-  "12548565706891777268": {
-    "wind_up_time": 0.5,
-    "wind_down_time": 1,
-    "rpm_anim_id": 1210629810,
-    "rpm_multiplier": 1,
-    "wind_up_sound": 0,
-    "wind_down_sound": 0,
-    "wind_up_anim": 992368565,
-    "wind_down_anim": 0
-  },
-  "9796573205647524202": {
-    "wind_up_time": 0.5,
-    "wind_down_time": 1,
-    "rpm_anim_id": 1210629810,
-    "rpm_multiplier": 1,
-    "wind_up_sound": 0,
-    "wind_down_sound": 0,
-    "wind_up_anim": 992368565,
-    "wind_down_anim": 0
-  },
-  "6337264778388549835": {
-    "wind_up_time": 1,
-    "wind_down_time": 1,
-    "rpm_anim_id": 1210629810,
-    "rpm_multiplier": 1,
-    "wind_up_sound": 4155509744,
-    "wind_down_sound": 1170769191,
-    "wind_up_anim": 992368565,
-    "wind_down_anim": 0
-  },
-  "9219146911950674287": {
-    "wind_up_time": 0.5,
-    "wind_down_time": 1,
-    "rpm_anim_id": 1210629810,
-    "rpm_multiplier": 1,
-    "wind_up_sound": 4155509744,
-    "wind_down_sound": 1170769191,
-    "wind_up_anim": 992368565,
-    "wind_down_anim": 0
-  }
+    "WeaponWindUpComponentData": {
+        "items": [
+            {
+                "unique_id": "645713022044093730",
+                "uid_name": "VehicleType_PatriotExosuit_RightArmGun",
+                "wind_up_time": 1.0,
+                "wind_down_time": 1.0,
+                "rpm_anim_id": 1210629810,
+                "rpm_multiplier": 0.333332986,
+                "wind_up_sound": 946816232,
+                "wind_down_sound": 2004125535,
+                "wind_up_anim": 4125806552,
+                "wind_down_anim": 0,
+                "unknown_20": 0
+            },
+            {
+                "unique_id": "15387364653056856286",
+                "uid_name": "VehicleType_MaelstromTank_GatlingGun",
+                "wind_up_time": 0.5,
+                "wind_down_time": 0.5,
+                "rpm_anim_id": 1210629810,
+                "rpm_multiplier": 0.166659996,
+                "wind_up_sound": 2939539185,
+                "wind_down_sound": 3296420459,
+                "wind_up_anim": 4125806552,
+                "wind_down_anim": 4125806552,
+                "unknown_20": 0
+            },
+            {
+                "unique_id": "17259437333005147504",
+                "uid_name": "DeployableType_GatlingSentry",
+                "wind_up_time": 0.5,
+                "wind_down_time": 1.0,
+                "rpm_anim_id": 1210629810,
+                "rpm_multiplier": 1.0,
+                "wind_up_sound": 4155509744,
+                "wind_down_sound": 1170769191,
+                "wind_up_anim": 992368565,
+                "wind_down_anim": 0,
+                "unknown_20": 0
+            },
+            {
+                "unique_id": "9219146911950674287",
+                "uid_name": "DeployableType_GatlingSentry_MK2",
+                "wind_up_time": 0.5,
+                "wind_down_time": 1.0,
+                "rpm_anim_id": 1210629810,
+                "rpm_multiplier": 1.0,
+                "wind_up_sound": 4155509744,
+                "wind_down_sound": 1170769191,
+                "wind_up_anim": 992368565,
+                "wind_down_anim": 0,
+                "unknown_20": 0
+            },
+            {
+                "unique_id": "6337264778388549835",
+                "uid_name": "DeployableType_GatlingSentry_MK4",
+                "wind_up_time": 1.0,
+                "wind_down_time": 1.0,
+                "rpm_anim_id": 1210629810,
+                "rpm_multiplier": 1.0,
+                "wind_up_sound": 4155509744,
+                "wind_down_sound": 1170769191,
+                "wind_up_anim": 992368565,
+                "wind_down_anim": 0,
+                "unknown_20": 0
+            },
+            {
+                "unique_id": "6951176475743020159",
+                "uid_name": "6951176475743020159",
+                "wind_up_time": 1.0,
+                "wind_down_time": 1.0,
+                "rpm_anim_id": 1210629810,
+                "rpm_multiplier": 0.333332986,
+                "wind_up_sound": 946816232,
+                "wind_down_sound": 2004125535,
+                "wind_up_anim": 4125806552,
+                "wind_down_anim": 0,
+                "unknown_20": 0
+            },
+            {
+                "unique_id": "344970826846105488",
+                "uid_name": "DeployableType_GatlingSentry_MK6",
+                "wind_up_time": 0.5,
+                "wind_down_time": 1.0,
+                "rpm_anim_id": 1210629810,
+                "rpm_multiplier": 1.0,
+                "wind_up_sound": 4155509744,
+                "wind_down_sound": 1170769191,
+                "wind_up_anim": 992368565,
+                "wind_down_anim": 0,
+                "unknown_20": 0
+            },
+            {
+                "unique_id": "9796573205647524202",
+                "uid_name": "DeployableType_GatlingSentry_MK3",
+                "wind_up_time": 0.5,
+                "wind_down_time": 1.0,
+                "rpm_anim_id": 1210629810,
+                "rpm_multiplier": 1.0,
+                "wind_up_sound": 0,
+                "wind_down_sound": 0,
+                "wind_up_anim": 992368565,
+                "wind_down_anim": 0,
+                "unknown_20": 0
+            },
+            {
+                "unique_id": "4874456896233937276",
+                "uid_name": "SupportWeaponType_Maxigun",
+                "wind_up_time": 0.5,
+                "wind_down_time": 0.5,
+                "rpm_anim_id": 1210629810,
+                "rpm_multiplier": 0.166659996,
+                "wind_up_sound": 3963137864,
+                "wind_down_sound": 1399724180,
+                "wind_up_anim": 858471599,
+                "wind_down_anim": 2394913884,
+                "unknown_20": 1
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "wind_up_time": 1.0,
+                "wind_down_time": 1.0,
+                "rpm_anim_id": 0,
+                "rpm_multiplier": 1.0,
+                "wind_up_sound": 0,
+                "wind_down_sound": 0,
+                "wind_up_anim": 0,
+                "wind_down_anim": 0,
+                "unknown_20": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "645713022044093730",
+                "type": "VehicleType_PatriotExosuit_RightArmGun"
+            },
+            {
+                "idx": 1,
+                "uid": "15387364653056856286",
+                "type": "VehicleType_MaelstromTank_GatlingGun"
+            },
+            {
+                "idx": 2,
+                "uid": "17259437333005147504",
+                "type": "DeployableType_GatlingSentry"
+            },
+            {
+                "idx": 3,
+                "uid": "9219146911950674287",
+                "type": "DeployableType_GatlingSentry_MK2"
+            },
+            {
+                "idx": 4,
+                "uid": "6337264778388549835",
+                "type": "DeployableType_GatlingSentry_MK4"
+            },
+            {
+                "idx": 5,
+                "uid": "6951176475743020159",
+                "type": "6951176475743020159"
+            },
+            {
+                "idx": 6,
+                "uid": "344970826846105488",
+                "type": "DeployableType_GatlingSentry_MK6"
+            },
+            {
+                "idx": 7,
+                "uid": "9796573205647524202",
+                "type": "DeployableType_GatlingSentry_MK3"
+            },
+            {
+                "idx": 8,
+                "uid": "4874456896233937276",
+                "type": "SupportWeaponType_Maxigun"
+            }
+        ]
+    }
 }

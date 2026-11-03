@@ -1,0 +1,178 @@
+{
+    "Unknown_E85CF84EComponentData": {
+        "items": [
+            {
+                "unique_id": "5623221111529874848",
+                "uid_name": "5623221111529874848",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "17250673437555536342",
+                "uid_name": "OrbitalBombardmentType_Orbital380mmBarrage",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "17020640004553544635",
+                "uid_name": "OrbitalBombardmentType_OrbitalLaser",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "12600027252469840165",
+                "uid_name": "OrbitalBombardmentType_OrbitalConfetti",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "428906543397164902",
+                "uid_name": "OrbitalBombardmentType_GasStrike",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "3397257356679758881",
+                "uid_name": "OrbitalBombardmentType_GatlingBarrage",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "4400483397467331392",
+                "uid_name": "OrbitalBombardmentType_OrbitalIlluminationFlare",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "11631307996670093680",
+                "uid_name": "OrbitalBombardmentType_OrbitalNapalmBarrage",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "12399142748360190921",
+                "uid_name": "OrbitalBombardmentType_OrbitalRailcannon",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "9802092988557504399",
+                "uid_name": "OrbitalBombardmentType_TraitorExecutionBarrage",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "14454233564159978284",
+                "uid_name": "OrbitalBombardmentType_PrecisionStrike",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "8480614394778878677",
+                "uid_name": "OrbitalBombardmentType_AirburstStrike",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "15741945895218221769",
+                "uid_name": "OrbitalBombardmentType_SmokeStrike",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "3259427501513118129",
+                "uid_name": "OrbitalBombardmentType_Orbital120mmBarrage",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "6193421986545774326",
+                "uid_name": "OrbitalBombardmentType_StunStrike",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "14663462306863854060",
+                "uid_name": "OrbitalBombardmentType_OrbitalWalkingBarrage",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "636569617391024041",
+                "uid_name": "OrbitalBombardmentType_OrbitalWalkingSmokeBarrage",
+                "unknown_000": 1
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "5623221111529874848",
+                "type": "5623221111529874848"
+            },
+            {
+                "idx": 1,
+                "uid": "17250673437555536342",
+                "type": "OrbitalBombardmentType_Orbital380mmBarrage"
+            },
+            {
+                "idx": 2,
+                "uid": "17020640004553544635",
+                "type": "OrbitalBombardmentType_OrbitalLaser"
+            },
+            {
+                "idx": 3,
+                "uid": "12600027252469840165",
+                "type": "OrbitalBombardmentType_OrbitalConfetti"
+            },
+            {
+                "idx": 4,
+                "uid": "428906543397164902",
+                "type": "OrbitalBombardmentType_GasStrike"
+            },
+            {
+                "idx": 5,
+                "uid": "3397257356679758881",
+                "type": "OrbitalBombardmentType_GatlingBarrage"
+            },
+            {
+                "idx": 6,
+                "uid": "4400483397467331392",
+                "type": "OrbitalBombardmentType_OrbitalIlluminationFlare"
+            },
+            {
+                "idx": 7,
+                "uid": "11631307996670093680",
+                "type": "OrbitalBombardmentType_OrbitalNapalmBarrage"
+            },
+            {
+                "idx": 8,
+                "uid": "12399142748360190921",
+                "type": "OrbitalBombardmentType_OrbitalRailcannon"
+            },
+            {
+                "idx": 9,
+                "uid": "9802092988557504399",
+                "type": "OrbitalBombardmentType_TraitorExecutionBarrage"
+            },
+            {
+                "idx": 10,
+                "uid": "14454233564159978284",
+                "type": "OrbitalBombardmentType_PrecisionStrike"
+            },
+            {
+                "idx": 11,
+                "uid": "8480614394778878677",
+                "type": "OrbitalBombardmentType_AirburstStrike"
+            },
+            {
+                "idx": 12,
+                "uid": "15741945895218221769",
+                "type": "OrbitalBombardmentType_SmokeStrike"
+            },
+            {
+                "idx": 13,
+                "uid": "3259427501513118129",
+                "type": "OrbitalBombardmentType_Orbital120mmBarrage"
+            },
+            {
+                "idx": 14,
+                "uid": "6193421986545774326",
+                "type": "OrbitalBombardmentType_StunStrike"
+            },
+            {
+                "idx": 15,
+                "uid": "14663462306863854060",
+                "type": "OrbitalBombardmentType_OrbitalWalkingBarrage"
+            },
+            {
+                "idx": 16,
+                "uid": "636569617391024041",
+                "type": "OrbitalBombardmentType_OrbitalWalkingSmokeBarrage"
+            }
+        ]
+    }
+}

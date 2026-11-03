@@ -1,8 +1,48 @@
 {
-  "5881843148917714292": {
-    "range": 125
-  },
-  "12827722989328478091": {
-    "range": 125
-  }
+    "SensorProximityComponentData": {
+        "items": [
+            {
+                "unique_id": "1864924857437116746",
+                "uid_name": "IlluminateEnemyType_Stingray",
+                "range": 32.0
+            },
+            {
+                "unique_id": "5881843148917714292",
+                "uid_name": "DeployableType_MortarSentry",
+                "range": 125.0
+            },
+            {
+                "unique_id": "2998286011813792148",
+                "uid_name": "DeployableType_GasMortarSentry",
+                "range": 125.0
+            },
+            {
+                "unique_id": "12827722989328478091",
+                "uid_name": "DeployableType_EMSMortarSentry",
+                "range": 125.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "1864924857437116746",
+                "type": "IlluminateEnemyType_Stingray"
+            },
+            {
+                "idx": 1,
+                "uid": "5881843148917714292",
+                "type": "DeployableType_MortarSentry"
+            },
+            {
+                "idx": 2,
+                "uid": "2998286011813792148",
+                "type": "DeployableType_GasMortarSentry"
+            },
+            {
+                "idx": 3,
+                "uid": "12827722989328478091",
+                "type": "DeployableType_EMSMortarSentry"
+            }
+        ]
+    }
 }

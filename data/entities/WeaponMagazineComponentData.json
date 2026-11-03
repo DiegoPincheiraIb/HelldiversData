@@ -1,5 +1,5 @@
 {
-    "WeaponMagazineComponentData": {
+    "WeaponMagazinesComponentData": {
         "items": [
             {
                 "unique_id": "15304878361562187723",
@@ -99,7 +99,7 @@
             },
             {
                 "unique_id": "8536986223483970266",
-                "uid_name": "BugEnemyType_BileSpewerV2",
+                "uid_name": "BugEnemyType_Spewer_Artillery_CausticStrain",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -147,7 +147,7 @@
             },
             {
                 "unique_id": "8039414067817307766",
-                "uid_name": "BugEnemyType_BileSpewerV3",
+                "uid_name": "BugEnemyType_Spewer_Vomit_CausticStrain",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -195,7 +195,55 @@
             },
             {
                 "unique_id": "12700624828350087151",
-                "uid_name": "BugEnemyType_BileSpewerV5",
+                "uid_name": "BugEnemyType_Spewer_Vomit_MK2_CausticStrain",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 1,
+                "magazines": 1,
+                "magazines_refill": 6,
+                "magazines_max": 1,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
+                "unique_id": "368223792538398003",
+                "uid_name": "BugEnemyType_Noxious_Spewer_Vomit",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -243,7 +291,7 @@
             },
             {
                 "unique_id": "2816271437774253565",
-                "uid_name": "2816271437774253565",
+                "uid_name": "BugEnemyType_SepticBreath",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -291,7 +339,7 @@
             },
             {
                 "unique_id": "8568490042777875483",
-                "uid_name": "8568490042777875483",
+                "uid_name": "BugEnemyType_DragonRoach_Vomit",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -339,7 +387,7 @@
             },
             {
                 "unique_id": "11408638851753260108",
-                "uid_name": "11408638851753260108",
+                "uid_name": "BugEnemyType_HiveLord_Vomit",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -387,7 +435,7 @@
             },
             {
                 "unique_id": "4359334844095165257",
-                "uid_name": "4359334844095165257",
+                "uid_name": "BugEnemyType_HiveLord_Vomit_MK2",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -435,7 +483,7 @@
             },
             {
                 "unique_id": "2129528212146849390",
-                "uid_name": "BugEnemyType_HunterBileSpray",
+                "uid_name": "BugEnemyType_Hunter_PredatorStrain_BileSpray",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -483,7 +531,7 @@
             },
             {
                 "unique_id": "11351366836276126990",
-                "uid_name": "BotEnemyType_CyborgAgitator",
+                "uid_name": "BotEnemyType_CyborgAgitator_Male",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -579,7 +627,7 @@
             },
             {
                 "unique_id": "8192757692405735881",
-                "uid_name": "8192757692405735881",
+                "uid_name": "BotEnemyType_Rocket_Raider_Cannon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -627,7 +675,7 @@
             },
             {
                 "unique_id": "17636297115750610289",
-                "uid_name": "17636297115750610289",
+                "uid_name": "BotEnemyType_PyroTrooper_IncendiaryCorps_Flamethrower",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -675,7 +723,7 @@
             },
             {
                 "unique_id": "11047871594297831536",
-                "uid_name": "11047871594297831536",
+                "uid_name": "BotEnemyType_Trooper_Flaregun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -723,7 +771,7 @@
             },
             {
                 "unique_id": "14685780296579739413",
-                "uid_name": "14685780296579739413",
+                "uid_name": "BotEnemyType_Trooper_Handgun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -819,7 +867,7 @@
             },
             {
                 "unique_id": "7546486305997975964",
-                "uid_name": "7546486305997975964",
+                "uid_name": "BotEnemyType_Trooper_LMG",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -915,7 +963,7 @@
             },
             {
                 "unique_id": "11062825334817279592",
-                "uid_name": "11062825334817279592",
+                "uid_name": "BotEnemyType_Rocket_Raider_Rocket_Launcher",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -963,7 +1011,7 @@
             },
             {
                 "unique_id": "10320682320039145374",
-                "uid_name": "10320682320039145374",
+                "uid_name": "BotEnemyType_Trooper_Shotgun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1011,7 +1059,7 @@
             },
             {
                 "unique_id": "13597248039561415123",
-                "uid_name": "13597248039561415123",
+                "uid_name": "BotEnemyType_Trooper_SMG",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1107,7 +1155,7 @@
             },
             {
                 "unique_id": "6069394649090569172",
-                "uid_name": "6069394649090569172",
+                "uid_name": "BotEnemyType_CyborgRadical_Shotgun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1155,7 +1203,7 @@
             },
             {
                 "unique_id": "7437729317726677416",
-                "uid_name": "7437729317726677416",
+                "uid_name": "BotEnemyType_CyborgAgitator_PlasmaGun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1251,7 +1299,7 @@
             },
             {
                 "unique_id": "5575761375102281771",
-                "uid_name": "5575761375102281771",
+                "uid_name": "BotEnemyType_Hulk_Fusion_Autocannon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1299,7 +1347,7 @@
             },
             {
                 "unique_id": "17488789745215357128",
-                "uid_name": "BotEnemyType_HulkScorcherFlamethrower",
+                "uid_name": "BotEnemyType_HulkScorcher_IncendiaryCorps_Flamethrower",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1347,7 +1395,7 @@
             },
             {
                 "unique_id": "6582409209889722787",
-                "uid_name": "6582409209889722787",
+                "uid_name": "BotEnemyType_Hulk_Autocannon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1395,7 +1443,7 @@
             },
             {
                 "unique_id": "14427145521595639927",
-                "uid_name": "14427145521595639927",
+                "uid_name": "BotEnemyType_Hulk_Rockets",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1443,7 +1491,7 @@
             },
             {
                 "unique_id": "3374156467310513484",
-                "uid_name": "3374156467310513484",
+                "uid_name": "BotEnemyType_Devastator_MG",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1491,7 +1539,7 @@
             },
             {
                 "unique_id": "2101746773249017941",
-                "uid_name": "2101746773249017941",
+                "uid_name": "BotEnemyType_Devastator_Incendiary_MG_MK2",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1539,7 +1587,7 @@
             },
             {
                 "unique_id": "16120089938690525143",
-                "uid_name": "16120089938690525143",
+                "uid_name": "BotEnemyType_Devastator_Shotgun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1587,7 +1635,7 @@
             },
             {
                 "unique_id": "507720195356997881",
-                "uid_name": "507720195356997881",
+                "uid_name": "BotEnemyType_Devastator_Standard_Rifle",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1635,7 +1683,7 @@
             },
             {
                 "unique_id": "10892987900330561893",
-                "uid_name": "10892987900330561893",
+                "uid_name": "BotEnemyType_Tank_HMG",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1731,7 +1779,7 @@
             },
             {
                 "unique_id": "3907162354404645355",
-                "uid_name": "3907162354404645355",
+                "uid_name": "BotEnemyType_Tank_Turret_LMG",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1827,7 +1875,7 @@
             },
             {
                 "unique_id": "13283381034644230080",
-                "uid_name": "13283381034644230080",
+                "uid_name": "BotEnemyType_Tank_Turret_Cannon_MK3",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -1971,7 +2019,7 @@
             },
             {
                 "unique_id": "14783244423755879381",
-                "uid_name": "14783244423755879381",
+                "uid_name": "BotEnemyType_Command_Bunker_HMG",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -2019,7 +2067,7 @@
             },
             {
                 "unique_id": "11035656831144141243",
-                "uid_name": "11035656831144141243",
+                "uid_name": "BotEnemyType_Turret_Small_Autocannons",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -2067,7 +2115,7 @@
             },
             {
                 "unique_id": "9471740285315897155",
-                "uid_name": "BotEnemyType_WarStriderRightGun",
+                "uid_name": "BotEnemyType_WarStriderLeftGun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -2115,7 +2163,7 @@
             },
             {
                 "unique_id": "14105761812163438622",
-                "uid_name": "14105761812163438622",
+                "uid_name": "BotEnemyType_Gunship_Rocket_Pod",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -2163,7 +2211,7 @@
             },
             {
                 "unique_id": "3270354809248583475",
-                "uid_name": "3270354809248583475",
+                "uid_name": "BotEnemyType_Gunship_Cannon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -2211,7 +2259,7 @@
             },
             {
                 "unique_id": "5244756512985933074",
-                "uid_name": "BotEnemyType_FactoryStriderGatlingGun",
+                "uid_name": "BotEnemyType_FactoryStrider_GatlingGun_MK4",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -2259,7 +2307,7 @@
             },
             {
                 "unique_id": "3041174345526908898",
-                "uid_name": "3041174345526908898",
+                "uid_name": "BotEnemyType_Scout_Strider_HMG",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -2586,12 +2634,60 @@
                     ],
                     "first_projectile": "ProjectileType_None"
                 },
-                "magazine_capacity": 100,
+                "magazine_capacity": 200,
                 "magazines": 0,
                 "magazines_refill": 6,
                 "magazines_max": 12,
                 "reload_threshold": 0,
                 "chambered": 1
+            },
+            {
+                "unique_id": "1713005226859818540",
+                "uid_name": "VehicleType_LumbererExosuit_AntiTankCannon",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 25,
+                "magazines": 0,
+                "magazines_refill": 6,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 0
             },
             {
                 "unique_id": "13781410671701883569",
@@ -2635,6 +2731,54 @@
                     "first_projectile": "ProjectileType_None"
                 },
                 "magazine_capacity": 100,
+                "magazines": 0,
+                "magazines_refill": 6,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
+                "unique_id": "519812688473392934",
+                "uid_name": "VehicleType_LumbererExosuit_Flamethrower",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 500,
                 "magazines": 0,
                 "magazines_refill": 6,
                 "magazines_max": 0,
@@ -2787,7 +2931,7 @@
             },
             {
                 "unique_id": "18223572581977941174",
-                "uid_name": "18223572581977941174",
+                "uid_name": "EagleBombardmentType_Cannon",
                 "magazine_type": "MagazineType_Pattern",
                 "magazine_pattern": {
                     "projectiles": [
@@ -2883,7 +3027,7 @@
             },
             {
                 "unique_id": "15219556623070951071",
-                "uid_name": "15219556623070951071",
+                "uid_name": "VehicleType_APC_Turret",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3123,7 +3267,7 @@
             },
             {
                 "unique_id": "9468080011357415026",
-                "uid_name": "9468080011357415026",
+                "uid_name": "SuperEarthType_Pelican_Turret",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3171,7 +3315,7 @@
             },
             {
                 "unique_id": "14005565984326167830",
-                "uid_name": "14005565984326167830",
+                "uid_name": "VehicleType_GATER_HMG_Turret",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3314,6 +3458,150 @@
                 "chambered": 0
             },
             {
+                "unique_id": "15387364653056856286",
+                "uid_name": "VehicleType_MaelstromTank_GatlingGun",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_Rifle_12p5x100mm_bchp",
+                        "ProjectileType_Rifle_12p5x100mm_bchp",
+                        "ProjectileType_Rifle_12p5x100mm_bchp",
+                        "ProjectileType_Rifle_12p5x100mm_bchp",
+                        "ProjectileType_Rifle_12p5x100mm_bchp",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 300,
+                "magazines": 6,
+                "magazines_refill": 6,
+                "magazines_max": 6,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
+                "unique_id": "10015863766813883629",
+                "uid_name": "VehicleType_MaelstromTank_VerticalMissileLauncher",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 10,
+                "magazines": 0,
+                "magazines_refill": 6,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
+                "unique_id": "4181046937756232139",
+                "uid_name": "VehicleType_MaelstromTank_SmokeGrenadeLauncher",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 20,
+                "magazines": 0,
+                "magazines_refill": 0,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
                 "unique_id": "13887409129757878736",
                 "uid_name": "13887409129757878736",
                 "magazine_type": "MagazineType_Uniform",
@@ -3363,7 +3651,7 @@
             },
             {
                 "unique_id": "2001439659095864946",
-                "uid_name": "IlluminateEnemyType_OverseerQuantumStaff",
+                "uid_name": "IlluminateEnemyType_OverseerQuantumStaff_MK3",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3411,7 +3699,7 @@
             },
             {
                 "unique_id": "8093921451952391158",
-                "uid_name": "8093921451952391158",
+                "uid_name": "IlluminateEnemyType_CrescentOverseer_Mortar",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3459,7 +3747,7 @@
             },
             {
                 "unique_id": "2388896656612615925",
-                "uid_name": "2388896656612615925",
+                "uid_name": "IlluminateEnemyType_CrescentOverseer_ChargeGun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3507,7 +3795,7 @@
             },
             {
                 "unique_id": "15490996401429190081",
-                "uid_name": "15490996401429190081",
+                "uid_name": "IlluminateEnemyType_Gatekeeper_PlasmaGatling_Right",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3651,7 +3939,7 @@
             },
             {
                 "unique_id": "4408996938478059842",
-                "uid_name": "4408996938478059842",
+                "uid_name": "IlluminateEnemyType_Gatekeeper_PlasmaSniper_Right",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3747,7 +4035,7 @@
             },
             {
                 "unique_id": "17664382055250362923",
-                "uid_name": "17664382055250362923",
+                "uid_name": "IlluminateEnemyType_Watcher_ArcZapper",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3795,7 +4083,7 @@
             },
             {
                 "unique_id": "1837586638104944508",
-                "uid_name": "1837586638104944508",
+                "uid_name": "IlluminateEnemyType_Obtruder_Weapon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3939,7 +4227,7 @@
             },
             {
                 "unique_id": "4314131110692356005",
-                "uid_name": "IlluminateEnemyType_OverseerQuantumStaff",
+                "uid_name": "IlluminateEnemyType_OverseerQuantumStaff_MK4",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -3987,7 +4275,7 @@
             },
             {
                 "unique_id": "14665382813931951604",
-                "uid_name": "14665382813931951604",
+                "uid_name": "IlluminateEnemyType_Harvester_PlasmaCannon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -4035,7 +4323,7 @@
             },
             {
                 "unique_id": "10214051119573296464",
-                "uid_name": "10214051119573296464",
+                "uid_name": "IlluminateEnemyType_Harvester_ArcZapper",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -4274,6 +4562,54 @@
                 "chambered": 0
             },
             {
+                "unique_id": "3699688105859939822",
+                "uid_name": "SuperEarthType_SEAF_NPC_Liberator",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 30,
+                "magazines": 30,
+                "magazines_refill": 6,
+                "magazines_max": 12,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
                 "unique_id": "7904040333519397101",
                 "uid_name": "7904040333519397101",
                 "magazine_type": "MagazineType_Uniform",
@@ -4322,8 +4658,104 @@
                 "chambered": 0
             },
             {
+                "unique_id": "6374978293970811313",
+                "uid_name": "SuperEarthType_SEAF_NPC_MG43",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 175,
+                "magazines": 30,
+                "magazines_refill": 6,
+                "magazines_max": 12,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
+                "unique_id": "14576954583701429272",
+                "uid_name": "SuperEarthType_SEAF_NPC_SMG",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 30,
+                "magazines": 30,
+                "magazines_refill": 6,
+                "magazines_max": 12,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
                 "unique_id": "6653197749152526844",
-                "uid_name": "6653197749152526844",
+                "uid_name": "SuperEarthType_SEAF_NPC_EAT",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -4611,7 +5043,7 @@
             },
             {
                 "unique_id": "8261922003134896957",
-                "uid_name": "BugEnemyType_BileSpitter",
+                "uid_name": "BugEnemyType_Spitter_CausticStrain",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -4656,6 +5088,54 @@
                 "magazines_max": 1,
                 "reload_threshold": 0,
                 "chambered": 0
+            },
+            {
+                "unique_id": "17223114646267339927",
+                "uid_name": "BugEnemyType_BileTitan_SporeBurstStrain",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 1000,
+                "magazines": 6,
+                "magazines_refill": 6,
+                "magazines_max": 12,
+                "reload_threshold": 0,
+                "chambered": 1
             },
             {
                 "unique_id": "5953193886108619556",
@@ -4707,7 +5187,7 @@
             },
             {
                 "unique_id": "720026069039790444",
-                "uid_name": "BotEnemyType_CyborgAgitator",
+                "uid_name": "BotEnemyType_CyborgAgitator_Female",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -4755,7 +5235,7 @@
             },
             {
                 "unique_id": "8388657151297660569",
-                "uid_name": "BotEnemyType_CyborgRadical",
+                "uid_name": "BotEnemyType_CyborgRadical_Male",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -4803,7 +5283,7 @@
             },
             {
                 "unique_id": "14677717390494571578",
-                "uid_name": "BotEnemyType_CyborgRadical",
+                "uid_name": "BotEnemyType_CyborgRadical_Female",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -4899,7 +5379,7 @@
             },
             {
                 "unique_id": "17756861745706792858",
-                "uid_name": "BotEnemyType_RocketDevastator",
+                "uid_name": "BotEnemyType_RocketDevastator_MK2",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -4947,7 +5427,7 @@
             },
             {
                 "unique_id": "14536718756304552612",
-                "uid_name": "BotEnemyType_RocketDevastator",
+                "uid_name": "BotEnemyType_RocketDevastator_IncendiaryCorps",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -4995,7 +5475,7 @@
             },
             {
                 "unique_id": "13278526841390790437",
-                "uid_name": "13278526841390790437",
+                "uid_name": "BotEnemyType_Hulk_Incendiary_Mortar",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5043,7 +5523,7 @@
             },
             {
                 "unique_id": "9965870354970800749",
-                "uid_name": "9965870354970800749",
+                "uid_name": "BotEnemyType_Hulk_Rockets_MK2",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5091,7 +5571,7 @@
             },
             {
                 "unique_id": "15128209789296733508",
-                "uid_name": "15128209789296733508",
+                "uid_name": "BotEnemyType_MGDevastator_IncendiaryCorps_MachineGun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5187,7 +5667,7 @@
             },
             {
                 "unique_id": "987422936637912356",
-                "uid_name": "987422936637912356",
+                "uid_name": "BotEnemyType_Devastator_Incendiary_Shotgun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5235,7 +5715,7 @@
             },
             {
                 "unique_id": "9528799688439966563",
-                "uid_name": "BotEnemyType_CannonTurret",
+                "uid_name": "BotEnemyType_FactoryStrider_LaserTurret",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5331,7 +5811,7 @@
             },
             {
                 "unique_id": "5892418254001999486",
-                "uid_name": "BotEnemyType_FactoryStriderLaserGun",
+                "uid_name": "BotEnemyType_Tank_GatlingGun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5379,7 +5859,7 @@
             },
             {
                 "unique_id": "5289274991058480552",
-                "uid_name": "5289274991058480552",
+                "uid_name": "BotEnemyType_Tank_Turret_Autocannons",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5427,7 +5907,7 @@
             },
             {
                 "unique_id": "10355039786464021751",
-                "uid_name": "10355039786464021751",
+                "uid_name": "BotEnemyType_Tank_Turret_Cannon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5523,7 +6003,7 @@
             },
             {
                 "unique_id": "6707034374626068020",
-                "uid_name": "6707034374626068020",
+                "uid_name": "BotEnemyType_Tank_Turret_Missiles",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5571,7 +6051,7 @@
             },
             {
                 "unique_id": "11146468741807915285",
-                "uid_name": "BotEnemyType_WarStriderLeftGun",
+                "uid_name": "BotEnemyType_WarStriderRightGun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5619,7 +6099,7 @@
             },
             {
                 "unique_id": "17476252816949674262",
-                "uid_name": "BotEnemyType_CyborgVoxEngineGatlingGun",
+                "uid_name": "BotEnemyType_CyborgVoxEngineGatlingGun_Left",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5667,7 +6147,7 @@
             },
             {
                 "unique_id": "3849984664539165667",
-                "uid_name": "BotEnemyType_CyborgVoxEngineGatlingGun",
+                "uid_name": "BotEnemyType_CyborgVoxEngineGatlingGun_Right",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5715,7 +6195,7 @@
             },
             {
                 "unique_id": "2047310211000472840",
-                "uid_name": "BotEnemyType_FactoryStriderGatlingGun",
+                "uid_name": "BotEnemyType_FactoryStrider_GatlingGun_MK3",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5763,7 +6243,7 @@
             },
             {
                 "unique_id": "7672538193198738711",
-                "uid_name": "BotEnemyType_FactoryStriderGatlingGun",
+                "uid_name": "BotEnemyType_FactoryStrider_GatlingGun_MK5",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5811,7 +6291,7 @@
             },
             {
                 "unique_id": "4111341420364086640",
-                "uid_name": "BotEnemyType_FactoryStriderGatlingGun",
+                "uid_name": "BotEnemyType_FactoryStrider_GatlingGun_MK2_Left",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5859,7 +6339,7 @@
             },
             {
                 "unique_id": "4228803675738017635",
-                "uid_name": "BotEnemyType_FactoryStriderGatlingGun",
+                "uid_name": "BotEnemyType_FactoryStrider_GatlingGun_MK1_Right",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -5997,7 +6477,7 @@
                 "magazine_capacity": 1,
                 "magazines": 7,
                 "magazines_refill": 7,
-                "magazines_max": 7,
+                "magazines_max": 10,
                 "reload_threshold": 0,
                 "chambered": 0
             },
@@ -6290,6 +6770,54 @@
                 "chambered": 1
             },
             {
+                "unique_id": "1760530725124205338",
+                "uid_name": "PrimaryWeaponType_Gallant",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 30,
+                "magazines": 6,
+                "magazines_refill": 6,
+                "magazines_max": 12,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
                 "unique_id": "3460488074252222302",
                 "uid_name": "PrimaryWeaponType_PlasmaSniper",
                 "magazine_type": "MagazineType_Uniform",
@@ -6434,6 +6962,54 @@
                 "chambered": 1
             },
             {
+                "unique_id": "1501339492476700580",
+                "uid_name": "SecondaryWeaponType_MissilePistol",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 1,
+                "magazines": 1,
+                "magazines_refill": 2,
+                "magazines_max": 3,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
                 "unique_id": "424716889947522210",
                 "uid_name": "SecondaryWeaponType_Peacemaker",
                 "magazine_type": "MagazineType_Uniform",
@@ -6531,7 +7107,7 @@
             },
             {
                 "unique_id": "3103483601875813497",
-                "uid_name": "DeployableType_AutoCannonEmplacement",
+                "uid_name": "DeployableType_AutocannonEmplacement",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -6579,7 +7155,7 @@
             },
             {
                 "unique_id": "7539955080993332996",
-                "uid_name": "7539955080993332996",
+                "uid_name": "DeployableType_GatlingSentry_MK5",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -6675,7 +7251,7 @@
             },
             {
                 "unique_id": "12269323780666160625",
-                "uid_name": "DeployableType_GatlingSentry",
+                "uid_name": "DeployableType_MachineGunSentry_MK2",
                 "magazine_type": "MagazineType_Pattern",
                 "magazine_pattern": {
                     "projectiles": [
@@ -6771,7 +7347,7 @@
             },
             {
                 "unique_id": "12209482505501190673",
-                "uid_name": "DeployableType_HeavyMachineGunEmplacementDerelict",
+                "uid_name": "DeployableType_HeavyMachineGunEmplacement_SuperEarthDefense",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -6963,7 +7539,7 @@
             },
             {
                 "unique_id": "16204610837508709347",
-                "uid_name": "16204610837508709347",
+                "uid_name": "DeployableType_FlamethrowerEmplacement",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -7011,7 +7587,7 @@
             },
             {
                 "unique_id": "2616888780303759269",
-                "uid_name": "2616888780303759269",
+                "uid_name": "DeployableType_RailgunEmplacement",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -7059,7 +7635,7 @@
             },
             {
                 "unique_id": "16974551944278808389",
-                "uid_name": "16974551944278808389",
+                "uid_name": "DeployableType_RocketEmplacement",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -7299,7 +7875,7 @@
             },
             {
                 "unique_id": "9219146911950674287",
-                "uid_name": "DeployableType_GatlingSentry",
+                "uid_name": "DeployableType_GatlingSentry_MK2",
                 "magazine_type": "MagazineType_Pattern",
                 "magazine_pattern": {
                     "projectiles": [
@@ -7347,7 +7923,7 @@
             },
             {
                 "unique_id": "6337264778388549835",
-                "uid_name": "DeployableType_GatlingSentry",
+                "uid_name": "DeployableType_GatlingSentry_MK4",
                 "magazine_type": "MagazineType_Pattern",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8018,8 +8594,104 @@
                 "chambered": 0
             },
             {
+                "unique_id": "3037497317565530440",
+                "uid_name": "EagleBombardmentType_EagleFlyBy",
+                "magazine_type": "MagazineType_Pattern",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_Cannon_Eagle_23mm",
+                        "ProjectileType_Cannon_Eagle_23mm_no_explosion",
+                        "ProjectileType_Cannon_Eagle_23mm_no_explosion",
+                        "ProjectileType_Cannon_Eagle_23mm_no_explosion",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_Cannon_Eagle_23mm_with_audio_trigger"
+                },
+                "magazine_capacity": 2000,
+                "magazines": 0,
+                "magazines_refill": 6,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
+                "unique_id": "15830863719876386710",
+                "uid_name": "EagleBombardmentType_GasStrike",
+                "magazine_type": "MagazineType_Pattern",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_Cannon_Eagle_23mm",
+                        "ProjectileType_Cannon_Eagle_23mm_no_explosion",
+                        "ProjectileType_Cannon_Eagle_23mm_no_explosion",
+                        "ProjectileType_Cannon_Eagle_23mm_no_explosion",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_Cannon_Eagle_23mm_with_audio_trigger"
+                },
+                "magazine_capacity": 2000,
+                "magazines": 0,
+                "magazines_refill": 6,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
                 "unique_id": "851455025217071569",
-                "uid_name": "851455025217071569",
+                "uid_name": "EagleBombardmentType_EagleQuickStrike",
                 "magazine_type": "MagazineType_Pattern",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8067,7 +8739,7 @@
             },
             {
                 "unique_id": "16121648674137865605",
-                "uid_name": "16121648674137865605",
+                "uid_name": "EagleBombardmentType_AirToAirMissiles",
                 "magazine_type": "MagazineType_Pattern",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8210,6 +8882,54 @@
                 "chambered": 0
             },
             {
+                "unique_id": "5216613704205457395",
+                "uid_name": "EagleBombardmentType_110mmRocketPods_Right",
+                "magazine_type": "MagazineType_Pattern",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_Rocket_110mm_silent",
+                        "ProjectileType_Rocket_110mm_silent",
+                        "ProjectileType_Rocket_110mm",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 3,
+                "magazines": 0,
+                "magazines_refill": 6,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
                 "unique_id": "6670637945684439420",
                 "uid_name": "6670637945684439420",
                 "magazine_type": "MagazineType_Pattern",
@@ -8258,8 +8978,56 @@
                 "chambered": 1
             },
             {
+                "unique_id": "1048253586034524965",
+                "uid_name": "EagleBombardmentType_110mmRocketPods_Left",
+                "magazine_type": "MagazineType_Pattern",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_Rocket_110mm_silent",
+                        "ProjectileType_Rocket_110mm_silent",
+                        "ProjectileType_Rocket_110mm",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 3,
+                "magazines": 0,
+                "magazines_refill": 6,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
                 "unique_id": "16027418915446721044",
-                "uid_name": "16027418915446721044",
+                "uid_name": "VehicleType_APC_Turret_MK2",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8307,7 +9075,7 @@
             },
             {
                 "unique_id": "17171643259159907678",
-                "uid_name": "17171643259159907678",
+                "uid_name": "IlluminateEnemyType_Gatekeeper_PlasmaGatling_Left",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8355,7 +9123,7 @@
             },
             {
                 "unique_id": "2987070632088620378",
-                "uid_name": "2987070632088620378",
+                "uid_name": "IlluminateEnemyType_Gatekeeper_PlasmaSniper_Left",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8403,7 +9171,7 @@
             },
             {
                 "unique_id": "344970826846105488",
-                "uid_name": "DeployableType_GatlingSentry",
+                "uid_name": "DeployableType_GatlingSentry_MK6",
                 "magazine_type": "MagazineType_Pattern",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8451,7 +9219,7 @@
             },
             {
                 "unique_id": "9796573205647524202",
-                "uid_name": "9796573205647524202",
+                "uid_name": "DeployableType_GatlingSentry_MK3",
                 "magazine_type": "MagazineType_Pattern",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8499,7 +9267,7 @@
             },
             {
                 "unique_id": "1374362502002005721",
-                "uid_name": "SuperEarthType_SAMLauncher",
+                "uid_name": "SuperEarthType_SAMLauncher_MK2",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8643,7 +9411,7 @@
             },
             {
                 "unique_id": "11756121139324203897",
-                "uid_name": "SupportBackpackType_GuardDogBulletWeapon",
+                "uid_name": "SupportBackpackType_BulletDrone_Weapon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8691,7 +9459,7 @@
             },
             {
                 "unique_id": "2753976566055493778",
-                "uid_name": "2753976566055493778",
+                "uid_name": "SupportBackpackType_BulletDrone_Weapon_MK2",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8739,7 +9507,7 @@
             },
             {
                 "unique_id": "4416184955867381998",
-                "uid_name": "4416184955867381998",
+                "uid_name": "SupportBackpackType_BulletDrone_Weapon_MK3",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8787,7 +9555,7 @@
             },
             {
                 "unique_id": "11616925890035912226",
-                "uid_name": "11616925890035912226",
+                "uid_name": "SupportBackpackType_BulletDrone_Weapon_PlasmaGun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8835,7 +9603,7 @@
             },
             {
                 "unique_id": "7335593197372175302",
-                "uid_name": "7335593197372175302",
+                "uid_name": "SupportBackpackType_FlameDrone_Weapon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8883,7 +9651,7 @@
             },
             {
                 "unique_id": "13198259103089806061",
-                "uid_name": "SupportBackpackType_DogBreathDrone",
+                "uid_name": "SupportBackpackType_CausticDrone_Weapon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -8931,7 +9699,7 @@
             },
             {
                 "unique_id": "11552626079949819071",
-                "uid_name": "SupportBackpackType_ArcDrone",
+                "uid_name": "SupportBackpackType_ArcDrone_Weapon",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -9213,7 +9981,7 @@
                 "magazine_capacity": 56,
                 "magazines": 4,
                 "magazines_refill": 6,
-                "magazines_max": 6,
+                "magazines_max": 7,
                 "reload_threshold": 0,
                 "chambered": 1
             },
@@ -9310,6 +10078,54 @@
                 "magazines": 6,
                 "magazines_refill": 8,
                 "magazines_max": 8,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
+                "unique_id": "13261220132843116788",
+                "uid_name": "PrimaryWeaponType_LiberatorLegacy",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 30,
+                "magazines": 6,
+                "magazines_refill": 6,
+                "magazines_max": 12,
                 "reload_threshold": 0,
                 "chambered": 1
             },
@@ -9453,6 +10269,54 @@
                 "magazine_capacity": 35,
                 "magazines": 5,
                 "magazines_refill": 7,
+                "magazines_max": 7,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
+                "unique_id": "12153278833391482546",
+                "uid_name": "PrimaryWeaponType_Arbitrator",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 45,
+                "magazines": 5,
+                "magazines_refill": 6,
                 "magazines_max": 7,
                 "reload_threshold": 0,
                 "chambered": 1
@@ -9746,6 +10610,54 @@
                 "chambered": 1
             },
             {
+                "unique_id": "4752105698603780953",
+                "uid_name": "PrimaryWeaponType_Sightliner",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 10,
+                "magazines": 8,
+                "magazines_refill": 4,
+                "magazines_max": 8,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
                 "unique_id": "17623191861664038783",
                 "uid_name": "PrimaryWeaponType_ExplodingCrossbow",
                 "magazine_type": "MagazineType_Uniform",
@@ -9939,7 +10851,7 @@
             },
             {
                 "unique_id": "12008625947668001407",
-                "uid_name": "SupportWeaponType_LightMachineGunDerelict",
+                "uid_name": "SupportWeaponType_LightMachineGun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -9982,6 +10894,54 @@
                 "magazines": 2,
                 "magazines_refill": 2,
                 "magazines_max": 3,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
+                "unique_id": "16535356726426036192",
+                "uid_name": "PrimaryWeaponType_Hyena",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 15,
+                "magazines": 5,
+                "magazines_refill": 8,
+                "magazines_max": 8,
                 "reload_threshold": 0,
                 "chambered": 1
             },
@@ -10034,8 +10994,56 @@
                 "chambered": 1
             },
             {
+                "unique_id": "1926414056943231889",
+                "uid_name": "PrimaryWeaponType_HotShot_MarksmanRifle",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 12,
+                "magazines": 5,
+                "magazines_refill": 7,
+                "magazines_max": 7,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
                 "unique_id": "281046277510948131",
-                "uid_name": "SupportWeaponType_StandardDiligence",
+                "uid_name": "PrimaryWeaponType_StandardDiligence",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -10362,10 +11370,10 @@
                     ],
                     "first_projectile": "ProjectileType_None"
                 },
-                "magazine_capacity": 17,
+                "magazine_capacity": 31,
                 "magazines": 4,
                 "magazines_refill": 6,
-                "magazines_max": 5,
+                "magazines_max": 6,
                 "reload_threshold": 0,
                 "chambered": 1
             },
@@ -10466,6 +11474,102 @@
                 "chambered": 0
             },
             {
+                "unique_id": "16798240363848969985",
+                "uid_name": "SecondaryWeaponType_Breacher",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 1,
+                "magazines": 1,
+                "magazines_refill": 1,
+                "magazines_max": 2,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
+                "unique_id": "179559337717557904",
+                "uid_name": "SecondaryWeaponType_Mist",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 25,
+                "magazines": 4,
+                "magazines_refill": 6,
+                "magazines_max": 5,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
                 "unique_id": "1892480894983787169",
                 "uid_name": "SecondaryWeaponType_Verdict",
                 "magazine_type": "MagazineType_Uniform",
@@ -10507,9 +11611,9 @@
                     "first_projectile": "ProjectileType_None"
                 },
                 "magazine_capacity": 10,
-                "magazines": 4,
-                "magazines_refill": 8,
-                "magazines_max": 8,
+                "magazines": 6,
+                "magazines_refill": 10,
+                "magazines_max": 10,
                 "reload_threshold": 0,
                 "chambered": 1
             },
@@ -10603,9 +11707,57 @@
                     "first_projectile": "ProjectileType_None"
                 },
                 "magazine_capacity": 12,
-                "magazines": 5,
-                "magazines_refill": 8,
-                "magazines_max": 8,
+                "magazines": 6,
+                "magazines_refill": 10,
+                "magazines_max": 10,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
+                "unique_id": "15832062961832144321",
+                "uid_name": "SecondaryWeaponType_BoltPistol",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 6,
+                "magazines": 3,
+                "magazines_refill": 6,
+                "magazines_max": 4,
                 "reload_threshold": 0,
                 "chambered": 1
             },
@@ -10746,12 +11898,108 @@
                     ],
                     "first_projectile": "ProjectileType_None"
                 },
-                "magazine_capacity": 100,
-                "magazines": 2,
+                "magazine_capacity": 125,
+                "magazines": 3,
                 "magazines_refill": 6,
                 "magazines_max": 4,
                 "reload_threshold": 0,
                 "chambered": 0
+            },
+            {
+                "unique_id": "7853371720342307430",
+                "uid_name": "SupportWeaponType_MeltaGun",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 3,
+                "magazines": 2,
+                "magazines_refill": 3,
+                "magazines_max": 4,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
+                "unique_id": "12784766379234794359",
+                "uid_name": "SupportWeaponType_ExpendableMachineGun",
+                "magazine_type": "MagazineType_Pattern",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_Rifle_9mm_fmj",
+                        "ProjectileType_Rifle_9mm_fmj",
+                        "ProjectileType_Rifle_9mm_fmj",
+                        "ProjectileType_Rifle_9mm_fmj",
+                        "ProjectileType_Rifle_9mm_fmj",
+                        "ProjectileType_Rifle_9mm_fmj",
+                        "ProjectileType_Rifle_9mm_fmj",
+                        "ProjectileType_Rifle_9mm_fmj_MK2",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 300,
+                "magazines": 0,
+                "magazines_refill": 0,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 1
             },
             {
                 "unique_id": "8509380141312129223",
@@ -11379,7 +12627,7 @@
             },
             {
                 "unique_id": "11493422068836852751",
-                "uid_name": "SupportWeaponType_RecoillesRifle",
+                "uid_name": "SupportWeaponType_RecoillessRifle",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -11474,8 +12722,56 @@
                 "chambered": 1
             },
             {
+                "unique_id": "13264489371434957764",
+                "uid_name": "SupportWeaponType_ApexSniperRifle",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 5,
+                "magazines": 0,
+                "magazines_refill": 0,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 1
+            },
+            {
                 "unique_id": "8315931884919593616",
-                "uid_name": "8315931884919593616",
+                "uid_name": "SuperEarthType_AR23_Liberator_Resupply",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -11523,7 +12819,7 @@
             },
             {
                 "unique_id": "6113742425058627513",
-                "uid_name": "DeployableType_AutoCannonSentry",
+                "uid_name": "DeployableType_AutocannonSentry",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -11619,7 +12915,7 @@
             },
             {
                 "unique_id": "602390376167162446",
-                "uid_name": "VehicleType_FRV_HeavyMachineGun",
+                "uid_name": "VehicleType_HMG_FRV_HeavyMachineGun",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -11667,7 +12963,7 @@
             },
             {
                 "unique_id": "14772015414747343144",
-                "uid_name": "SupportWeaponType_HeavyMachineGunDerelict",
+                "uid_name": "SupportWeaponType_HeavyMachineGun_MK2",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -11714,8 +13010,104 @@
                 "chambered": 1
             },
             {
+                "unique_id": "4920324387701779176",
+                "uid_name": "VehicleType_Incinerator_FRV_Flamethrower",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 800,
+                "magazines": 0,
+                "magazines_refill": 0,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
+                "unique_id": "5617149288754513915",
+                "uid_name": "VehicleType_Supply_FRV_ARSentry",
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 120,
+                "magazines": 0,
+                "magazines_refill": 6,
+                "magazines_max": 0,
+                "reload_threshold": 0,
+                "chambered": 0
+            },
+            {
                 "unique_id": "12984499893943104780",
-                "uid_name": "SupportWeaponType_LightMachineGun",
+                "uid_name": "SupportWeaponType_LightMachineGun_MK3",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -11763,7 +13155,7 @@
             },
             {
                 "unique_id": "13357795631455978434",
-                "uid_name": "SupportWeaponType_LightMachineGunDerelict",
+                "uid_name": "SupportWeaponType_LightMachineGun_APC_MK4",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -11811,7 +13203,7 @@
             },
             {
                 "unique_id": "15365965494753326077",
-                "uid_name": "SupportWeaponType_LightMachineGunDerelict",
+                "uid_name": "SupportWeaponType_LightMachineGun_APC_MK5",
                 "magazine_type": "MagazineType_Uniform",
                 "magazine_pattern": {
                     "projectiles": [
@@ -11856,6 +13248,54 @@
                 "magazines_max": 0,
                 "reload_threshold": 0,
                 "chambered": 1
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "magazine_type": "MagazineType_Uniform",
+                "magazine_pattern": {
+                    "projectiles": [
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None",
+                        "ProjectileType_None"
+                    ],
+                    "first_projectile": "ProjectileType_None"
+                },
+                "magazine_capacity": 30,
+                "magazines": 6,
+                "magazines_refill": 6,
+                "magazines_max": 12,
+                "reload_threshold": 0,
+                "chambered": 1
             }
         ],
         "index_list": [
@@ -11872,1227 +13312,1372 @@
             {
                 "idx": 2,
                 "uid": "8536986223483970266",
-                "type": "BugEnemyType_BileSpewerV2"
+                "type": "BugEnemyType_Spewer_Artillery_CausticStrain"
             },
             {
                 "idx": 3,
                 "uid": "8039414067817307766",
-                "type": "BugEnemyType_BileSpewerV3"
+                "type": "BugEnemyType_Spewer_Vomit_CausticStrain"
             },
             {
                 "idx": 4,
                 "uid": "12700624828350087151",
-                "type": "BugEnemyType_BileSpewerV5"
+                "type": "BugEnemyType_Spewer_Vomit_MK2_CausticStrain"
             },
             {
                 "idx": 5,
-                "uid": "2816271437774253565",
-                "type": "2816271437774253565"
+                "uid": "368223792538398003",
+                "type": "BugEnemyType_Noxious_Spewer_Vomit"
             },
             {
                 "idx": 6,
-                "uid": "8568490042777875483",
-                "type": "8568490042777875483"
+                "uid": "2816271437774253565",
+                "type": "BugEnemyType_SepticBreath"
             },
             {
                 "idx": 7,
-                "uid": "11408638851753260108",
-                "type": "11408638851753260108"
+                "uid": "8568490042777875483",
+                "type": "BugEnemyType_DragonRoach_Vomit"
             },
             {
                 "idx": 8,
-                "uid": "4359334844095165257",
-                "type": "4359334844095165257"
+                "uid": "11408638851753260108",
+                "type": "BugEnemyType_HiveLord_Vomit"
             },
             {
                 "idx": 9,
-                "uid": "2129528212146849390",
-                "type": "BugEnemyType_HunterBileSpray"
+                "uid": "4359334844095165257",
+                "type": "BugEnemyType_HiveLord_Vomit_MK2"
             },
             {
                 "idx": 10,
-                "uid": "11351366836276126990",
-                "type": "BotEnemyType_CyborgAgitator"
+                "uid": "2129528212146849390",
+                "type": "BugEnemyType_Hunter_PredatorStrain_BileSpray"
             },
             {
                 "idx": 11,
+                "uid": "11351366836276126990",
+                "type": "BotEnemyType_CyborgAgitator_Male"
+            },
+            {
+                "idx": 12,
                 "uid": "11526593618038326815",
                 "type": "11526593618038326815"
             },
             {
-                "idx": 12,
-                "uid": "8192757692405735881",
-                "type": "8192757692405735881"
-            },
-            {
                 "idx": 13,
-                "uid": "17636297115750610289",
-                "type": "17636297115750610289"
+                "uid": "8192757692405735881",
+                "type": "BotEnemyType_Rocket_Raider_Cannon"
             },
             {
                 "idx": 14,
-                "uid": "11047871594297831536",
-                "type": "11047871594297831536"
+                "uid": "17636297115750610289",
+                "type": "BotEnemyType_PyroTrooper_IncendiaryCorps_Flamethrower"
             },
             {
                 "idx": 15,
-                "uid": "14685780296579739413",
-                "type": "14685780296579739413"
+                "uid": "11047871594297831536",
+                "type": "BotEnemyType_Trooper_Flaregun"
             },
             {
                 "idx": 16,
+                "uid": "14685780296579739413",
+                "type": "BotEnemyType_Trooper_Handgun"
+            },
+            {
+                "idx": 17,
                 "uid": "5308568084704517582",
                 "type": "5308568084704517582"
             },
             {
-                "idx": 17,
+                "idx": 18,
                 "uid": "7546486305997975964",
-                "type": "7546486305997975964"
+                "type": "BotEnemyType_Trooper_LMG"
             },
             {
-                "idx": 18,
+                "idx": 19,
                 "uid": "5812733699487619844",
                 "type": "5812733699487619844"
             },
             {
-                "idx": 19,
-                "uid": "11062825334817279592",
-                "type": "11062825334817279592"
-            },
-            {
                 "idx": 20,
-                "uid": "10320682320039145374",
-                "type": "10320682320039145374"
+                "uid": "11062825334817279592",
+                "type": "BotEnemyType_Rocket_Raider_Rocket_Launcher"
             },
             {
                 "idx": 21,
-                "uid": "13597248039561415123",
-                "type": "13597248039561415123"
+                "uid": "10320682320039145374",
+                "type": "BotEnemyType_Trooper_Shotgun"
             },
             {
                 "idx": 22,
+                "uid": "13597248039561415123",
+                "type": "BotEnemyType_Trooper_SMG"
+            },
+            {
+                "idx": 23,
                 "uid": "4503914635682663809",
                 "type": "4503914635682663809"
             },
             {
-                "idx": 23,
-                "uid": "6069394649090569172",
-                "type": "6069394649090569172"
-            },
-            {
                 "idx": 24,
-                "uid": "7437729317726677416",
-                "type": "7437729317726677416"
+                "uid": "6069394649090569172",
+                "type": "BotEnemyType_CyborgRadical_Shotgun"
             },
             {
                 "idx": 25,
+                "uid": "7437729317726677416",
+                "type": "BotEnemyType_CyborgAgitator_PlasmaGun"
+            },
+            {
+                "idx": 26,
                 "uid": "14780545738251228467",
                 "type": "14780545738251228467"
             },
             {
-                "idx": 26,
-                "uid": "5575761375102281771",
-                "type": "5575761375102281771"
-            },
-            {
                 "idx": 27,
-                "uid": "17488789745215357128",
-                "type": "BotEnemyType_HulkScorcherFlamethrower"
+                "uid": "5575761375102281771",
+                "type": "BotEnemyType_Hulk_Fusion_Autocannon"
             },
             {
                 "idx": 28,
-                "uid": "6582409209889722787",
-                "type": "6582409209889722787"
+                "uid": "17488789745215357128",
+                "type": "BotEnemyType_HulkScorcher_IncendiaryCorps_Flamethrower"
             },
             {
                 "idx": 29,
-                "uid": "14427145521595639927",
-                "type": "14427145521595639927"
+                "uid": "6582409209889722787",
+                "type": "BotEnemyType_Hulk_Autocannon"
             },
             {
                 "idx": 30,
-                "uid": "3374156467310513484",
-                "type": "3374156467310513484"
+                "uid": "14427145521595639927",
+                "type": "BotEnemyType_Hulk_Rockets"
             },
             {
                 "idx": 31,
-                "uid": "2101746773249017941",
-                "type": "2101746773249017941"
+                "uid": "3374156467310513484",
+                "type": "BotEnemyType_Devastator_MG"
             },
             {
                 "idx": 32,
-                "uid": "16120089938690525143",
-                "type": "16120089938690525143"
+                "uid": "2101746773249017941",
+                "type": "BotEnemyType_Devastator_Incendiary_MG_MK2"
             },
             {
                 "idx": 33,
-                "uid": "507720195356997881",
-                "type": "507720195356997881"
+                "uid": "16120089938690525143",
+                "type": "BotEnemyType_Devastator_Shotgun"
             },
             {
                 "idx": 34,
-                "uid": "10892987900330561893",
-                "type": "10892987900330561893"
+                "uid": "507720195356997881",
+                "type": "BotEnemyType_Devastator_Standard_Rifle"
             },
             {
                 "idx": 35,
+                "uid": "10892987900330561893",
+                "type": "BotEnemyType_Tank_HMG"
+            },
+            {
+                "idx": 36,
                 "uid": "1585898554922009358",
                 "type": "1585898554922009358"
             },
             {
-                "idx": 36,
+                "idx": 37,
                 "uid": "3907162354404645355",
-                "type": "3907162354404645355"
+                "type": "BotEnemyType_Tank_Turret_LMG"
             },
             {
-                "idx": 37,
+                "idx": 38,
                 "uid": "12587270281642273949",
                 "type": "BotEnemyType_AAEmplacement"
             },
             {
-                "idx": 38,
+                "idx": 39,
                 "uid": "13283381034644230080",
-                "type": "13283381034644230080"
+                "type": "BotEnemyType_Tank_Turret_Cannon_MK3"
             },
             {
-                "idx": 39,
+                "idx": 40,
                 "uid": "18400802241877839954",
                 "type": "BotEnemyType_MortarEmplacement"
             },
             {
-                "idx": 40,
+                "idx": 41,
                 "uid": "12383542358383909066",
                 "type": "BotEnemyType_CannonTurret"
             },
             {
-                "idx": 41,
-                "uid": "14783244423755879381",
-                "type": "14783244423755879381"
-            },
-            {
                 "idx": 42,
-                "uid": "11035656831144141243",
-                "type": "11035656831144141243"
+                "uid": "14783244423755879381",
+                "type": "BotEnemyType_Command_Bunker_HMG"
             },
             {
                 "idx": 43,
-                "uid": "9471740285315897155",
-                "type": "BotEnemyType_WarStriderRightGun"
+                "uid": "11035656831144141243",
+                "type": "BotEnemyType_Turret_Small_Autocannons"
             },
             {
                 "idx": 44,
-                "uid": "14105761812163438622",
-                "type": "14105761812163438622"
+                "uid": "9471740285315897155",
+                "type": "BotEnemyType_WarStriderLeftGun"
             },
             {
                 "idx": 45,
-                "uid": "3270354809248583475",
-                "type": "3270354809248583475"
+                "uid": "14105761812163438622",
+                "type": "BotEnemyType_Gunship_Rocket_Pod"
             },
             {
                 "idx": 46,
-                "uid": "5244756512985933074",
-                "type": "BotEnemyType_FactoryStriderGatlingGun"
+                "uid": "3270354809248583475",
+                "type": "BotEnemyType_Gunship_Cannon"
             },
             {
                 "idx": 47,
-                "uid": "3041174345526908898",
-                "type": "3041174345526908898"
+                "uid": "5244756512985933074",
+                "type": "BotEnemyType_FactoryStrider_GatlingGun_MK4"
             },
             {
                 "idx": 48,
+                "uid": "3041174345526908898",
+                "type": "BotEnemyType_Scout_Strider_HMG"
+            },
+            {
+                "idx": 49,
                 "uid": "17246256129031935938",
                 "type": "BotEnemyType_WarStrider"
             },
             {
-                "idx": 49,
+                "idx": 50,
                 "uid": "13557003672051169255",
                 "type": "BotEnemyType_CyborgVoxEngine"
             },
             {
-                "idx": 50,
+                "idx": 51,
                 "uid": "12489093086854516709",
                 "type": "12489093086854516709"
             },
             {
-                "idx": 51,
+                "idx": 52,
                 "uid": "16995860793330061350",
                 "type": "16995860793330061350"
             },
             {
-                "idx": 52,
+                "idx": 53,
                 "uid": "6318095193127658106",
                 "type": "6318095193127658106"
             },
             {
-                "idx": 53,
+                "idx": 54,
                 "uid": "10985104894119086333",
                 "type": "VehicleType_GATER_Turret"
             },
             {
-                "idx": 54,
+                "idx": 55,
+                "uid": "1713005226859818540",
+                "type": "VehicleType_LumbererExosuit_AntiTankCannon"
+            },
+            {
+                "idx": 56,
                 "uid": "13781410671701883569",
                 "type": "13781410671701883569"
             },
             {
-                "idx": 55,
+                "idx": 57,
+                "uid": "519812688473392934",
+                "type": "VehicleType_LumbererExosuit_Flamethrower"
+            },
+            {
+                "idx": 58,
                 "uid": "9388736439472594613",
                 "type": "VehicleType_PatriotExosuit_LeftArmGun"
             },
             {
-                "idx": 56,
+                "idx": 59,
                 "uid": "645713022044093730",
                 "type": "VehicleType_PatriotExosuit_RightArmGun"
             },
             {
-                "idx": 57,
+                "idx": 60,
                 "uid": "2568747792294183916",
                 "type": "EagleBombardmentType_StrafingRun"
             },
             {
-                "idx": 58,
+                "idx": 61,
                 "uid": "18223572581977941174",
-                "type": "18223572581977941174"
+                "type": "EagleBombardmentType_Cannon"
             },
             {
-                "idx": 59,
+                "idx": 62,
                 "uid": "5344291599364980417",
                 "type": "5344291599364980417"
             },
             {
-                "idx": 60,
+                "idx": 63,
                 "uid": "15219556623070951071",
-                "type": "15219556623070951071"
+                "type": "VehicleType_APC_Turret"
             },
             {
-                "idx": 61,
+                "idx": 64,
                 "uid": "13028718365019299975",
                 "type": "13028718365019299975"
             },
             {
-                "idx": 62,
+                "idx": 65,
                 "uid": "11613148414962332127",
                 "type": "11613148414962332127"
             },
             {
-                "idx": 63,
+                "idx": 66,
                 "uid": "4272070332797734129",
                 "type": "4272070332797734129"
             },
             {
-                "idx": 64,
+                "idx": 67,
                 "uid": "13171605573572653383",
                 "type": "13171605573572653383"
             },
             {
-                "idx": 65,
+                "idx": 68,
                 "uid": "9468080011357415026",
-                "type": "9468080011357415026"
+                "type": "SuperEarthType_Pelican_Turret"
             },
             {
-                "idx": 66,
+                "idx": 69,
                 "uid": "14005565984326167830",
-                "type": "14005565984326167830"
+                "type": "VehicleType_GATER_HMG_Turret"
             },
             {
-                "idx": 67,
+                "idx": 70,
                 "uid": "2279372913009370562",
                 "type": "VehicleType_Bastion_Cannon"
             },
             {
-                "idx": 68,
+                "idx": 71,
                 "uid": "4872787481713797082",
                 "type": "VehicleType_Bastion_MountedHMG"
             },
             {
-                "idx": 69,
+                "idx": 72,
+                "uid": "15387364653056856286",
+                "type": "VehicleType_MaelstromTank_GatlingGun"
+            },
+            {
+                "idx": 73,
+                "uid": "10015863766813883629",
+                "type": "VehicleType_MaelstromTank_VerticalMissileLauncher"
+            },
+            {
+                "idx": 74,
+                "uid": "4181046937756232139",
+                "type": "VehicleType_MaelstromTank_SmokeGrenadeLauncher"
+            },
+            {
+                "idx": 75,
                 "uid": "13887409129757878736",
                 "type": "13887409129757878736"
             },
             {
-                "idx": 70,
+                "idx": 76,
                 "uid": "2001439659095864946",
-                "type": "IlluminateEnemyType_OverseerQuantumStaff"
+                "type": "IlluminateEnemyType_OverseerQuantumStaff_MK3"
             },
             {
-                "idx": 71,
+                "idx": 77,
                 "uid": "8093921451952391158",
-                "type": "8093921451952391158"
+                "type": "IlluminateEnemyType_CrescentOverseer_Mortar"
             },
             {
-                "idx": 72,
+                "idx": 78,
                 "uid": "2388896656612615925",
-                "type": "2388896656612615925"
+                "type": "IlluminateEnemyType_CrescentOverseer_ChargeGun"
             },
             {
-                "idx": 73,
+                "idx": 79,
                 "uid": "15490996401429190081",
-                "type": "15490996401429190081"
+                "type": "IlluminateEnemyType_Gatekeeper_PlasmaGatling_Right"
             },
             {
-                "idx": 74,
+                "idx": 80,
                 "uid": "3772542677720106756",
                 "type": "3772542677720106756"
             },
             {
-                "idx": 75,
+                "idx": 81,
                 "uid": "13944299464752454872",
                 "type": "13944299464752454872"
             },
             {
-                "idx": 76,
+                "idx": 82,
                 "uid": "4408996938478059842",
-                "type": "4408996938478059842"
+                "type": "IlluminateEnemyType_Gatekeeper_PlasmaSniper_Right"
             },
             {
-                "idx": 77,
+                "idx": 83,
                 "uid": "934982603467911041",
                 "type": "934982603467911041"
             },
             {
-                "idx": 78,
+                "idx": 84,
                 "uid": "17664382055250362923",
-                "type": "17664382055250362923"
+                "type": "IlluminateEnemyType_Watcher_ArcZapper"
             },
             {
-                "idx": 79,
+                "idx": 85,
                 "uid": "1837586638104944508",
-                "type": "1837586638104944508"
+                "type": "IlluminateEnemyType_Obtruder_Weapon"
             },
             {
-                "idx": 80,
+                "idx": 86,
                 "uid": "8944438942042386667",
                 "type": "8944438942042386667"
             },
             {
-                "idx": 81,
+                "idx": 87,
                 "uid": "11276719322983912231",
                 "type": "IlluminateEnemyType_OverseerQuantumStaff"
             },
             {
-                "idx": 82,
+                "idx": 88,
                 "uid": "4314131110692356005",
-                "type": "IlluminateEnemyType_OverseerQuantumStaff"
+                "type": "IlluminateEnemyType_OverseerQuantumStaff_MK4"
             },
             {
-                "idx": 83,
+                "idx": 89,
                 "uid": "14665382813931951604",
-                "type": "14665382813931951604"
+                "type": "IlluminateEnemyType_Harvester_PlasmaCannon"
             },
             {
-                "idx": 84,
+                "idx": 90,
                 "uid": "10214051119573296464",
-                "type": "10214051119573296464"
+                "type": "IlluminateEnemyType_Harvester_ArcZapper"
             },
             {
-                "idx": 85,
+                "idx": 91,
                 "uid": "3101227300789072443",
                 "type": "3101227300789072443"
             },
             {
-                "idx": 86,
+                "idx": 92,
                 "uid": "10813441349072784898",
                 "type": "10813441349072784898"
             },
             {
-                "idx": 87,
+                "idx": 93,
                 "uid": "952558497108237637",
                 "type": "IlluminateEnemyType_LightningSpire"
             },
             {
-                "idx": 88,
+                "idx": 94,
                 "uid": "10313622237292913323",
                 "type": "IlluminateEnemyType_StingrayHeavyFusionRepeater"
             },
             {
-                "idx": 89,
+                "idx": 95,
+                "uid": "3699688105859939822",
+                "type": "SuperEarthType_SEAF_NPC_Liberator"
+            },
+            {
+                "idx": 96,
                 "uid": "7904040333519397101",
                 "type": "7904040333519397101"
             },
             {
-                "idx": 90,
-                "uid": "6653197749152526844",
-                "type": "6653197749152526844"
+                "idx": 97,
+                "uid": "6374978293970811313",
+                "type": "SuperEarthType_SEAF_NPC_MG43"
             },
             {
-                "idx": 91,
+                "idx": 98,
+                "uid": "14576954583701429272",
+                "type": "SuperEarthType_SEAF_NPC_SMG"
+            },
+            {
+                "idx": 99,
+                "uid": "6653197749152526844",
+                "type": "SuperEarthType_SEAF_NPC_EAT"
+            },
+            {
+                "idx": 100,
                 "uid": "5199653481743360714",
                 "type": "5199653481743360714"
             },
             {
-                "idx": 92,
+                "idx": 101,
                 "uid": "11654668915819557853",
                 "type": "SuperEarthType_SAMLauncher"
             },
             {
-                "idx": 93,
+                "idx": 102,
                 "uid": "7509990704627358840",
                 "type": "7509990704627358840"
             },
             {
-                "idx": 94,
+                "idx": 103,
                 "uid": "17082991540257404781",
                 "type": "17082991540257404781"
             },
             {
-                "idx": 95,
+                "idx": 104,
                 "uid": "6941259039479564647",
                 "type": "6941259039479564647"
             },
             {
-                "idx": 96,
+                "idx": 105,
                 "uid": "8261922003134896957",
-                "type": "BugEnemyType_BileSpitter"
+                "type": "BugEnemyType_Spitter_CausticStrain"
             },
             {
-                "idx": 97,
+                "idx": 106,
+                "uid": "17223114646267339927",
+                "type": "BugEnemyType_BileTitan_SporeBurstStrain"
+            },
+            {
+                "idx": 107,
                 "uid": "5953193886108619556",
                 "type": "BugEnemyType_NursingSpewerBileSpray"
             },
             {
-                "idx": 98,
+                "idx": 108,
                 "uid": "720026069039790444",
-                "type": "BotEnemyType_CyborgAgitator"
+                "type": "BotEnemyType_CyborgAgitator_Female"
             },
             {
-                "idx": 99,
+                "idx": 109,
                 "uid": "8388657151297660569",
-                "type": "BotEnemyType_CyborgRadical"
+                "type": "BotEnemyType_CyborgRadical_Male"
             },
             {
-                "idx": 100,
+                "idx": 110,
                 "uid": "14677717390494571578",
-                "type": "BotEnemyType_CyborgRadical"
+                "type": "BotEnemyType_CyborgRadical_Female"
             },
             {
-                "idx": 101,
+                "idx": 111,
                 "uid": "10828817397904429935",
                 "type": "BotEnemyType_RocketDevastator"
             },
             {
-                "idx": 102,
+                "idx": 112,
                 "uid": "17756861745706792858",
-                "type": "BotEnemyType_RocketDevastator"
+                "type": "BotEnemyType_RocketDevastator_MK2"
             },
             {
-                "idx": 103,
+                "idx": 113,
                 "uid": "14536718756304552612",
-                "type": "BotEnemyType_RocketDevastator"
+                "type": "BotEnemyType_RocketDevastator_IncendiaryCorps"
             },
             {
-                "idx": 104,
+                "idx": 114,
                 "uid": "13278526841390790437",
-                "type": "13278526841390790437"
+                "type": "BotEnemyType_Hulk_Incendiary_Mortar"
             },
             {
-                "idx": 105,
+                "idx": 115,
                 "uid": "9965870354970800749",
-                "type": "9965870354970800749"
+                "type": "BotEnemyType_Hulk_Rockets_MK2"
             },
             {
-                "idx": 106,
+                "idx": 116,
                 "uid": "15128209789296733508",
-                "type": "15128209789296733508"
+                "type": "BotEnemyType_MGDevastator_IncendiaryCorps_MachineGun"
             },
             {
-                "idx": 107,
+                "idx": 117,
                 "uid": "12010080171608982104",
                 "type": "12010080171608982104"
             },
             {
-                "idx": 108,
+                "idx": 118,
                 "uid": "987422936637912356",
-                "type": "987422936637912356"
+                "type": "BotEnemyType_Devastator_Incendiary_Shotgun"
             },
             {
-                "idx": 109,
+                "idx": 119,
                 "uid": "9528799688439966563",
-                "type": "BotEnemyType_CannonTurret"
+                "type": "BotEnemyType_FactoryStrider_LaserTurret"
             },
             {
-                "idx": 110,
+                "idx": 120,
                 "uid": "6997370577610279074",
                 "type": "BotEnemyType_CyborgVoxEngineCannonTurret"
             },
             {
-                "idx": 111,
+                "idx": 121,
                 "uid": "5892418254001999486",
-                "type": "BotEnemyType_FactoryStriderLaserGun"
+                "type": "BotEnemyType_Tank_GatlingGun"
             },
             {
-                "idx": 112,
+                "idx": 122,
                 "uid": "5289274991058480552",
-                "type": "5289274991058480552"
+                "type": "BotEnemyType_Tank_Turret_Autocannons"
             },
             {
-                "idx": 113,
+                "idx": 123,
                 "uid": "10355039786464021751",
-                "type": "10355039786464021751"
+                "type": "BotEnemyType_Tank_Turret_Cannon"
             },
             {
-                "idx": 114,
+                "idx": 124,
                 "uid": "3239012324354685117",
                 "type": "BotEnemyType_CannonTurret"
             },
             {
-                "idx": 115,
+                "idx": 125,
                 "uid": "6707034374626068020",
-                "type": "6707034374626068020"
+                "type": "BotEnemyType_Tank_Turret_Missiles"
             },
             {
-                "idx": 116,
+                "idx": 126,
                 "uid": "11146468741807915285",
-                "type": "BotEnemyType_WarStriderLeftGun"
+                "type": "BotEnemyType_WarStriderRightGun"
             },
             {
-                "idx": 117,
+                "idx": 127,
                 "uid": "17476252816949674262",
-                "type": "BotEnemyType_CyborgVoxEngineGatlingGun"
+                "type": "BotEnemyType_CyborgVoxEngineGatlingGun_Left"
             },
             {
-                "idx": 118,
+                "idx": 128,
                 "uid": "3849984664539165667",
-                "type": "BotEnemyType_CyborgVoxEngineGatlingGun"
+                "type": "BotEnemyType_CyborgVoxEngineGatlingGun_Right"
             },
             {
-                "idx": 119,
+                "idx": 129,
                 "uid": "2047310211000472840",
-                "type": "BotEnemyType_FactoryStriderGatlingGun"
+                "type": "BotEnemyType_FactoryStrider_GatlingGun_MK3"
             },
             {
-                "idx": 120,
+                "idx": 130,
                 "uid": "7672538193198738711",
-                "type": "BotEnemyType_FactoryStriderGatlingGun"
+                "type": "BotEnemyType_FactoryStrider_GatlingGun_MK5"
             },
             {
-                "idx": 121,
+                "idx": 131,
                 "uid": "4111341420364086640",
-                "type": "BotEnemyType_FactoryStriderGatlingGun"
+                "type": "BotEnemyType_FactoryStrider_GatlingGun_MK2_Left"
             },
             {
-                "idx": 122,
+                "idx": 132,
                 "uid": "4228803675738017635",
-                "type": "BotEnemyType_FactoryStriderGatlingGun"
+                "type": "BotEnemyType_FactoryStrider_GatlingGun_MK1_Right"
             },
             {
-                "idx": 123,
+                "idx": 133,
                 "uid": "10409770290790592053",
                 "type": "BotEnemyType_ReinforcedScoutStrider"
             },
             {
-                "idx": 124,
+                "idx": 134,
                 "uid": "6863144698475545939",
                 "type": "SupportWeaponType_BreachingHammer"
             },
             {
-                "idx": 125,
+                "idx": 135,
                 "uid": "421324886246020354",
                 "type": "PrimaryWeaponType_PlasmaPunisher"
             },
             {
-                "idx": 126,
+                "idx": 136,
                 "uid": "10768610637301609307",
                 "type": "PrimaryWeaponType_Knight"
             },
             {
-                "idx": 127,
+                "idx": 137,
                 "uid": "9957594915860537321",
                 "type": "PrimaryWeaponType_Stoker"
             },
             {
-                "idx": 128,
+                "idx": 138,
                 "uid": "5450511615252257986",
                 "type": "PrimaryWeaponType_StA11"
             },
             {
-                "idx": 129,
+                "idx": 139,
                 "uid": "13722729806569931406",
                 "type": "PrimaryWeaponType_M7SSMG"
             },
             {
-                "idx": 130,
+                "idx": 140,
                 "uid": "10717884433990741653",
                 "type": "PrimaryWeaponType_Reprimand"
             },
             {
-                "idx": 131,
+                "idx": 141,
+                "uid": "1760530725124205338",
+                "type": "PrimaryWeaponType_Gallant"
+            },
+            {
+                "idx": 142,
                 "uid": "3460488074252222302",
                 "type": "PrimaryWeaponType_PlasmaSniper"
             },
             {
-                "idx": 132,
+                "idx": 143,
                 "uid": "17983663411446975103",
                 "type": "PrimaryWeaponType_VariableShotgun"
             },
             {
-                "idx": 133,
+                "idx": 144,
                 "uid": "14954542309183038509",
                 "type": "SecondaryWeaponType_Warrant"
             },
             {
-                "idx": 134,
+                "idx": 145,
+                "uid": "1501339492476700580",
+                "type": "SecondaryWeaponType_MissilePistol"
+            },
+            {
+                "idx": 146,
                 "uid": "424716889947522210",
                 "type": "SecondaryWeaponType_Peacemaker"
             },
             {
-                "idx": 135,
+                "idx": 147,
                 "uid": "284602740380634958",
                 "type": "ThrowableType_PyrotechGrenade"
             },
             {
-                "idx": 136,
+                "idx": 148,
                 "uid": "3103483601875813497",
-                "type": "DeployableType_AutoCannonEmplacement"
+                "type": "DeployableType_AutocannonEmplacement"
             },
             {
-                "idx": 137,
+                "idx": 149,
                 "uid": "7539955080993332996",
-                "type": "7539955080993332996"
+                "type": "DeployableType_GatlingSentry_MK5"
             },
             {
-                "idx": 138,
+                "idx": 150,
                 "uid": "9371080132553746520",
                 "type": "DeployableType_FlamethrowerSentry"
             },
             {
-                "idx": 139,
+                "idx": 151,
                 "uid": "12269323780666160625",
-                "type": "DeployableType_GatlingSentry"
+                "type": "DeployableType_MachineGunSentry_MK2"
             },
             {
-                "idx": 140,
+                "idx": 152,
                 "uid": "1051445694670701817",
                 "type": "DeployableType_HeavyMachineGunEmplacement"
             },
             {
-                "idx": 141,
+                "idx": 153,
                 "uid": "12209482505501190673",
-                "type": "DeployableType_HeavyMachineGunEmplacementDerelict"
+                "type": "DeployableType_HeavyMachineGunEmplacement_SuperEarthDefense"
             },
             {
-                "idx": 142,
+                "idx": 154,
                 "uid": "5881843148917714292",
                 "type": "DeployableType_MortarSentry"
             },
             {
-                "idx": 143,
+                "idx": 155,
                 "uid": "2998286011813792148",
                 "type": "DeployableType_GasMortarSentry"
             },
             {
-                "idx": 144,
+                "idx": 156,
                 "uid": "12827722989328478091",
                 "type": "DeployableType_EMSMortarSentry"
             },
             {
-                "idx": 145,
+                "idx": 157,
                 "uid": "16204610837508709347",
-                "type": "16204610837508709347"
+                "type": "DeployableType_FlamethrowerEmplacement"
             },
             {
-                "idx": 146,
+                "idx": 158,
                 "uid": "2616888780303759269",
-                "type": "2616888780303759269"
+                "type": "DeployableType_RailgunEmplacement"
             },
             {
-                "idx": 147,
+                "idx": 159,
                 "uid": "16974551944278808389",
-                "type": "16974551944278808389"
+                "type": "DeployableType_RocketEmplacement"
             },
             {
-                "idx": 148,
+                "idx": 160,
                 "uid": "9670353792785147784",
                 "type": "9670353792785147784"
             },
             {
-                "idx": 149,
+                "idx": 161,
                 "uid": "3965302274531977670",
                 "type": "DeployableType_RocketSentry"
             },
             {
-                "idx": 150,
+                "idx": 162,
                 "uid": "8383906277678357886",
                 "type": "DeployableType_TeslaTower"
             },
             {
-                "idx": 151,
+                "idx": 163,
                 "uid": "17259437333005147504",
                 "type": "DeployableType_GatlingSentry"
             },
             {
-                "idx": 152,
+                "idx": 164,
                 "uid": "9219146911950674287",
-                "type": "DeployableType_GatlingSentry"
+                "type": "DeployableType_GatlingSentry_MK2"
             },
             {
-                "idx": 153,
+                "idx": 165,
                 "uid": "6337264778388549835",
-                "type": "DeployableType_GatlingSentry"
+                "type": "DeployableType_GatlingSentry_MK4"
             },
             {
-                "idx": 154,
+                "idx": 166,
                 "uid": "4021120973472933563",
                 "type": "DeployableType_MachineGunSentry"
             },
             {
-                "idx": 155,
+                "idx": 167,
                 "uid": "16570517418531528145",
                 "type": "VehicleType_EmancipatorExosuit_LeftArmGun"
             },
             {
-                "idx": 156,
+                "idx": 168,
                 "uid": "3658900074006331912",
                 "type": "3658900074006331912"
             },
             {
-                "idx": 157,
+                "idx": 169,
                 "uid": "10134470972353573832",
                 "type": "10134470972353573832"
             },
             {
-                "idx": 158,
+                "idx": 170,
                 "uid": "18417602992972518459",
                 "type": "VehicleType_EmancipatorExosuit_RightArmGun"
             },
             {
-                "idx": 159,
+                "idx": 171,
                 "uid": "721550233589928225",
                 "type": "721550233589928225"
             },
             {
-                "idx": 160,
+                "idx": 172,
                 "uid": "4483950418716673108",
                 "type": "4483950418716673108"
             },
             {
-                "idx": 161,
+                "idx": 173,
                 "uid": "9375653687096917621",
                 "type": "9375653687096917621"
             },
             {
-                "idx": 162,
+                "idx": 174,
                 "uid": "6951176475743020159",
                 "type": "6951176475743020159"
             },
             {
-                "idx": 163,
+                "idx": 175,
                 "uid": "3359716870288230953",
                 "type": "EagleBombardmentType_EagleAirstrike"
             },
             {
-                "idx": 164,
+                "idx": 176,
                 "uid": "1962385103464102102",
                 "type": "EagleBombardmentType_SmokeAirstrike"
             },
             {
-                "idx": 165,
+                "idx": 177,
                 "uid": "16450357640400839941",
                 "type": "EagleBombardmentType_500KGBomb"
             },
             {
-                "idx": 166,
+                "idx": 178,
                 "uid": "11335415903596859741",
                 "type": "EagleBombardmentType_ClusterBombs"
             },
             {
-                "idx": 167,
+                "idx": 179,
+                "uid": "3037497317565530440",
+                "type": "EagleBombardmentType_EagleFlyBy"
+            },
+            {
+                "idx": 180,
+                "uid": "15830863719876386710",
+                "type": "EagleBombardmentType_GasStrike"
+            },
+            {
+                "idx": 181,
                 "uid": "851455025217071569",
-                "type": "851455025217071569"
+                "type": "EagleBombardmentType_EagleQuickStrike"
             },
             {
-                "idx": 168,
+                "idx": 182,
                 "uid": "16121648674137865605",
-                "type": "16121648674137865605"
+                "type": "EagleBombardmentType_AirToAirMissiles"
             },
             {
-                "idx": 169,
+                "idx": 183,
                 "uid": "2862976050209719244",
                 "type": "EagleBombardmentType_NapalmAirstrike"
             },
             {
-                "idx": 170,
+                "idx": 184,
                 "uid": "4140939466573601321",
                 "type": "EagleBombardmentType_110mmRocketPods"
             },
             {
-                "idx": 171,
+                "idx": 185,
+                "uid": "5216613704205457395",
+                "type": "EagleBombardmentType_110mmRocketPods_Right"
+            },
+            {
+                "idx": 186,
                 "uid": "6670637945684439420",
                 "type": "6670637945684439420"
             },
             {
-                "idx": 172,
+                "idx": 187,
+                "uid": "1048253586034524965",
+                "type": "EagleBombardmentType_110mmRocketPods_Left"
+            },
+            {
+                "idx": 188,
                 "uid": "16027418915446721044",
-                "type": "16027418915446721044"
+                "type": "VehicleType_APC_Turret_MK2"
             },
             {
-                "idx": 173,
+                "idx": 189,
                 "uid": "17171643259159907678",
-                "type": "17171643259159907678"
+                "type": "IlluminateEnemyType_Gatekeeper_PlasmaGatling_Left"
             },
             {
-                "idx": 174,
+                "idx": 190,
                 "uid": "2987070632088620378",
-                "type": "2987070632088620378"
+                "type": "IlluminateEnemyType_Gatekeeper_PlasmaSniper_Left"
             },
             {
-                "idx": 175,
+                "idx": 191,
                 "uid": "344970826846105488",
-                "type": "DeployableType_GatlingSentry"
+                "type": "DeployableType_GatlingSentry_MK6"
             },
             {
-                "idx": 176,
+                "idx": 192,
                 "uid": "9796573205647524202",
-                "type": "9796573205647524202"
+                "type": "DeployableType_GatlingSentry_MK3"
             },
             {
-                "idx": 177,
+                "idx": 193,
                 "uid": "1374362502002005721",
-                "type": "SuperEarthType_SAMLauncher"
+                "type": "SuperEarthType_SAMLauncher_MK2"
             },
             {
-                "idx": 178,
+                "idx": 194,
                 "uid": "11037037794164389181",
                 "type": "PrimaryWeaponType_Stoker_Underbarrel"
             },
             {
-                "idx": 179,
+                "idx": 195,
                 "uid": "7778022558452062755",
                 "type": "7778022558452062755"
             },
             {
-                "idx": 180,
+                "idx": 196,
                 "uid": "11756121139324203897",
-                "type": "SupportBackpackType_GuardDogBulletWeapon"
+                "type": "SupportBackpackType_BulletDrone_Weapon"
             },
             {
-                "idx": 181,
+                "idx": 197,
                 "uid": "2753976566055493778",
-                "type": "2753976566055493778"
+                "type": "SupportBackpackType_BulletDrone_Weapon_MK2"
             },
             {
-                "idx": 182,
+                "idx": 198,
                 "uid": "4416184955867381998",
-                "type": "4416184955867381998"
+                "type": "SupportBackpackType_BulletDrone_Weapon_MK3"
             },
             {
-                "idx": 183,
+                "idx": 199,
                 "uid": "11616925890035912226",
-                "type": "11616925890035912226"
+                "type": "SupportBackpackType_BulletDrone_Weapon_PlasmaGun"
             },
             {
-                "idx": 184,
+                "idx": 200,
                 "uid": "7335593197372175302",
-                "type": "7335593197372175302"
+                "type": "SupportBackpackType_FlameDrone_Weapon"
             },
             {
-                "idx": 185,
+                "idx": 201,
                 "uid": "13198259103089806061",
-                "type": "SupportBackpackType_DogBreathDrone"
+                "type": "SupportBackpackType_CausticDrone_Weapon"
             },
             {
-                "idx": 186,
+                "idx": 202,
                 "uid": "11552626079949819071",
-                "type": "SupportBackpackType_ArcDrone"
+                "type": "SupportBackpackType_ArcDrone_Weapon"
             },
             {
-                "idx": 187,
+                "idx": 203,
                 "uid": "10845250369047350884",
                 "type": "PrimaryWeaponType_StandardLiberator"
             },
             {
-                "idx": 188,
+                "idx": 204,
                 "uid": "4885016034561106550",
                 "type": "PrimaryWeaponType_LiberatorPenetrator"
             },
             {
-                "idx": 189,
+                "idx": 205,
                 "uid": "14942687850090605537",
                 "type": "PrimaryWeaponType_LiberatorConcussive"
             },
             {
-                "idx": 190,
+                "idx": 206,
                 "uid": "12201875276601049603",
                 "type": "PrimaryWeaponType_OneTwo_Rifle"
             },
             {
-                "idx": 191,
+                "idx": 207,
                 "uid": "14840077516977962372",
                 "type": "PrimaryWeaponType_StA52"
             },
             {
-                "idx": 192,
+                "idx": 208,
                 "uid": "13558475039457634667",
                 "type": "PrimaryWeaponType_PacifierRifle"
             },
             {
-                "idx": 193,
+                "idx": 209,
                 "uid": "9526594500243002157",
                 "type": "PrimaryWeaponType_Coyote"
             },
             {
-                "idx": 194,
+                "idx": 210,
+                "uid": "13261220132843116788",
+                "type": "PrimaryWeaponType_LiberatorLegacy"
+            },
+            {
+                "idx": 211,
                 "uid": "5601762105466289171",
                 "type": "PrimaryWeaponType_AssaultRifleMA5C"
             },
             {
-                "idx": 195,
+                "idx": 212,
                 "uid": "12100643055971655455",
                 "type": "PrimaryWeaponType_LiberatorCarbine"
             },
             {
-                "idx": 196,
+                "idx": 213,
                 "uid": "14845617694460717074",
                 "type": "PrimaryWeaponType_Tenderizer"
             },
             {
-                "idx": 197,
+                "idx": 214,
+                "uid": "12153278833391482546",
+                "type": "PrimaryWeaponType_Arbitrator"
+            },
+            {
+                "idx": 215,
                 "uid": "8110598756017148880",
                 "type": "PrimaryWeaponType_Suppressor"
             },
             {
-                "idx": 198,
+                "idx": 216,
                 "uid": "5050852199397921576",
                 "type": "PrimaryWeaponType_StandardBreaker"
             },
             {
-                "idx": 199,
+                "idx": 217,
                 "uid": "6826025955225526457",
                 "type": "PrimaryWeaponType_SprayAndPrayBreaker"
             },
             {
-                "idx": 200,
+                "idx": 218,
                 "uid": "13918995818598980231",
                 "type": "PrimaryWeaponType_IncendiaryBreaker"
             },
             {
-                "idx": 201,
+                "idx": 219,
                 "uid": "6912088101323449320",
                 "type": "PrimaryWeaponType_Adjudicator"
             },
             {
-                "idx": 202,
+                "idx": 220,
                 "uid": "1117846648694268261",
                 "type": "PrimaryWeaponType_Amendment"
             },
             {
-                "idx": 203,
+                "idx": 221,
+                "uid": "4752105698603780953",
+                "type": "PrimaryWeaponType_Sightliner"
+            },
+            {
+                "idx": 222,
                 "uid": "17623191861664038783",
                 "type": "PrimaryWeaponType_ExplodingCrossbow"
             },
             {
-                "idx": 204,
+                "idx": 223,
                 "uid": "5742363029208942635",
                 "type": "PrimaryWeaponType_Torcher"
             },
             {
-                "idx": 205,
+                "idx": 224,
                 "uid": "9291384900638350902",
                 "type": "PrimaryWeaponType_Dominator"
             },
             {
-                "idx": 206,
+                "idx": 225,
                 "uid": "13164006426448262783",
                 "type": "PrimaryWeaponType_Eruptor"
             },
             {
-                "idx": 207,
+                "idx": 226,
                 "uid": "12008625947668001407",
-                "type": "SupportWeaponType_LightMachineGunDerelict"
+                "type": "SupportWeaponType_LightMachineGun"
             },
             {
-                "idx": 208,
+                "idx": 227,
+                "uid": "16535356726426036192",
+                "type": "PrimaryWeaponType_Hyena"
+            },
+            {
+                "idx": 228,
                 "uid": "17308323378831780460",
                 "type": "PrimaryWeaponType_Censor"
             },
             {
-                "idx": 209,
-                "uid": "281046277510948131",
-                "type": "SupportWeaponType_StandardDiligence"
+                "idx": 229,
+                "uid": "1926414056943231889",
+                "type": "PrimaryWeaponType_HotShot_MarksmanRifle"
             },
             {
-                "idx": 210,
+                "idx": 230,
+                "uid": "281046277510948131",
+                "type": "PrimaryWeaponType_StandardDiligence"
+            },
+            {
+                "idx": 231,
                 "uid": "5510267968365085927",
                 "type": "PrimaryWeaponType_CounterSniperDiligence"
             },
             {
-                "idx": 211,
+                "idx": 232,
                 "uid": "5641428405267160100",
                 "type": "PrimaryWeaponType_Defender"
             },
             {
-                "idx": 212,
+                "idx": 233,
                 "uid": "578623101395158887",
                 "type": "PrimaryWeaponType_Pummeler"
             },
             {
-                "idx": 213,
+                "idx": 234,
                 "uid": "17196401230144941076",
                 "type": "PrimaryWeaponType_Scorcher"
             },
             {
-                "idx": 214,
+                "idx": 235,
                 "uid": "18102809172282470538",
                 "type": "PrimaryWeaponType_Purifier"
             },
             {
-                "idx": 215,
+                "idx": 236,
                 "uid": "3852172782311805734",
                 "type": "SecondaryWeaponType_Redeemer"
             },
             {
-                "idx": 216,
+                "idx": 237,
                 "uid": "830958149412624616",
                 "type": "SecondaryWeaponType_ReEducator"
             },
             {
-                "idx": 217,
+                "idx": 238,
                 "uid": "4580928717960105129",
                 "type": "SecondaryWeaponType_Crisper"
             },
             {
-                "idx": 218,
+                "idx": 239,
+                "uid": "16798240363848969985",
+                "type": "SecondaryWeaponType_Breacher"
+            },
+            {
+                "idx": 240,
+                "uid": "179559337717557904",
+                "type": "SecondaryWeaponType_Mist"
+            },
+            {
+                "idx": 241,
                 "uid": "1892480894983787169",
                 "type": "SecondaryWeaponType_Verdict"
             },
             {
-                "idx": 219,
+                "idx": 242,
                 "uid": "11435027044679925718",
                 "type": "SecondaryWeaponType_Ultimatum"
             },
             {
-                "idx": 220,
+                "idx": 243,
                 "uid": "5573423824998200517",
                 "type": "SecondaryWeaponType_SOCOMPistol"
             },
             {
-                "idx": 221,
+                "idx": 244,
+                "uid": "15832062961832144321",
+                "type": "SecondaryWeaponType_BoltPistol"
+            },
+            {
+                "idx": 245,
                 "uid": "12279528435724053588",
                 "type": "SecondaryWeaponType_Loyalist"
             },
             {
-                "idx": 222,
+                "idx": 246,
                 "uid": "2802369506329449110",
                 "type": "SupportWeaponType_AirburstRocketLauncher"
             },
             {
-                "idx": 223,
+                "idx": 247,
                 "uid": "9869105320050739364",
                 "type": "SupportWeaponType_Sterilizer"
             },
             {
-                "idx": 224,
+                "idx": 248,
+                "uid": "7853371720342307430",
+                "type": "SupportWeaponType_MeltaGun"
+            },
+            {
+                "idx": 249,
+                "uid": "12784766379234794359",
+                "type": "SupportWeaponType_ExpendableMachineGun"
+            },
+            {
+                "idx": 250,
                 "uid": "8509380141312129223",
                 "type": "SupportWeaponType_Leveller"
             },
             {
-                "idx": 225,
+                "idx": 251,
                 "uid": "12877445900026273694",
                 "type": "SupportWeaponType_ExpendableNapalmLauncher"
             },
             {
-                "idx": 226,
+                "idx": 252,
                 "uid": "2714034314705433838",
                 "type": "SupportWeaponType_SpearLauncher"
             },
             {
-                "idx": 227,
+                "idx": 253,
                 "uid": "14733648658679365221",
                 "type": "SupportWeaponType_WASPLauncher"
             },
             {
-                "idx": 228,
+                "idx": 254,
                 "uid": "4155583896232633279",
                 "type": "SupportWeaponType_Flamethrower"
             },
             {
-                "idx": 229,
+                "idx": 255,
                 "uid": "211331680192206384",
                 "type": "SupportWeaponType_GrenadeLauncher"
             },
             {
-                "idx": 230,
+                "idx": 256,
                 "uid": "4046732776742447255",
                 "type": "SupportWeaponType_Speargun"
             },
             {
-                "idx": 231,
+                "idx": 257,
                 "uid": "2401215835282261016",
                 "type": "SupportWeaponType_HeavyMachineGun"
             },
             {
-                "idx": 232,
+                "idx": 258,
                 "uid": "6453678319562593995",
                 "type": "SupportWeaponType_CommandoRocketLauncher"
             },
             {
-                "idx": 233,
+                "idx": 259,
                 "uid": "9264801226655597011",
                 "type": "SupportWeaponType_ExpendableAntiTank"
             },
             {
-                "idx": 234,
+                "idx": 260,
                 "uid": "1279722939363854678",
                 "type": "SupportWeaponType_MachineGun"
             },
             {
-                "idx": 235,
+                "idx": 261,
                 "uid": "16777584932715761236",
                 "type": "SupportWeaponType_EpochPlasmaLauncher"
             },
             {
-                "idx": 236,
+                "idx": 262,
                 "uid": "3358853937828503136",
                 "type": "SupportWeaponType_Railgun"
             },
             {
-                "idx": 237,
+                "idx": 263,
                 "uid": "11493422068836852751",
-                "type": "SupportWeaponType_RecoillesRifle"
+                "type": "SupportWeaponType_RecoillessRifle"
             },
             {
-                "idx": 238,
+                "idx": 264,
                 "uid": "9927421484392399367",
                 "type": "SupportWeaponType_AntiMaterielRifle"
             },
             {
-                "idx": 239,
+                "idx": 265,
+                "uid": "13264489371434957764",
+                "type": "SupportWeaponType_ApexSniperRifle"
+            },
+            {
+                "idx": 266,
                 "uid": "8315931884919593616",
-                "type": "8315931884919593616"
+                "type": "SuperEarthType_AR23_Liberator_Resupply"
             },
             {
-                "idx": 240,
+                "idx": 267,
                 "uid": "6113742425058627513",
-                "type": "DeployableType_AutoCannonSentry"
+                "type": "DeployableType_AutocannonSentry"
             },
             {
-                "idx": 241,
+                "idx": 268,
                 "uid": "2114795373903595840",
                 "type": "DeployableType_GrenadierBattlementGrenadeLauncher"
             },
             {
-                "idx": 242,
+                "idx": 269,
                 "uid": "602390376167162446",
-                "type": "VehicleType_FRV_HeavyMachineGun"
+                "type": "VehicleType_HMG_FRV_HeavyMachineGun"
             },
             {
-                "idx": 243,
+                "idx": 270,
                 "uid": "14772015414747343144",
-                "type": "SupportWeaponType_HeavyMachineGunDerelict"
+                "type": "SupportWeaponType_HeavyMachineGun_MK2"
             },
             {
-                "idx": 244,
+                "idx": 271,
+                "uid": "4920324387701779176",
+                "type": "VehicleType_Incinerator_FRV_Flamethrower"
+            },
+            {
+                "idx": 272,
+                "uid": "5617149288754513915",
+                "type": "VehicleType_Supply_FRV_ARSentry"
+            },
+            {
+                "idx": 273,
                 "uid": "12984499893943104780",
-                "type": "SupportWeaponType_LightMachineGun"
+                "type": "SupportWeaponType_LightMachineGun_MK3"
             },
             {
-                "idx": 245,
+                "idx": 274,
                 "uid": "13357795631455978434",
-                "type": "SupportWeaponType_LightMachineGunDerelict"
+                "type": "SupportWeaponType_LightMachineGun_APC_MK4"
             },
             {
-                "idx": 246,
+                "idx": 275,
                 "uid": "15365965494753326077",
-                "type": "SupportWeaponType_LightMachineGunDerelict"
+                "type": "SupportWeaponType_LightMachineGun_APC_MK5"
             }
         ]
     }

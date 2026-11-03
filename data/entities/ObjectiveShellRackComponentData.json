@@ -1,7 +1,20 @@
 {
-  "11805607547336046440": {
-    "fire_delay": 1.5,
-    "shell_spawn_count": 7,
-    "sync_initial_delay_to_last_minigame": 1
-  }
+    "ObjectiveShellRackComponentData": {
+        "items": [
+            {
+                "unique_id": "11805607547336046440",
+                "uid_name": "11805607547336046440",
+                "fire_delay": 1.5,
+                "shell_spawn_count": 7,
+                "sync_initial_delay_to_last_minigame": 1
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "11805607547336046440",
+                "type": "11805607547336046440"
+            }
+        ]
+    }
 }

@@ -1,428 +1,1490 @@
 {
-  "10355039786464021751": {
-    "wound_lut": "WOUND_LUT_BOT_TANKTURRETCANNON",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "16919711124802745493": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "11555060082231454796": {
-    "wound_lut": "WOUND_LUT_BUG_BULL",
-    "min_radius": 0.800000012,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
-  "7196537832909981064": {
-    "wound_lut": "WOUND_LUT_BOT_TANK",
-    "min_radius": 0.300000012,
-    "max_radius": 2.20000005,
-    "max_damage": 1000
-  },
-  "8261922003134896957": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER_SPIT",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "3583430772214091149": {
-    "wound_lut": "WOUND_LUT_BOT_TANK",
-    "min_radius": 0.300000012,
-    "max_radius": 2.20000005,
-    "max_damage": 1000
-  },
-  "5903841343181520462": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "7719208875390099550": {
-    "wound_lut": "WOUND_LUT_BUG_CHARGER",
-    "min_radius": 0.800000012,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
-  "11135777548304851724": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "6116178405309884875": {
-    "wound_lut": "WOUND_LUT_BOT_BERSERKER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "10409770290790592053": {
-    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKER",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "10861016308832836833": {
-    "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 1000
-  },
-  "4469039597602705386": {
-    "wound_lut": "WOUND_LUT_BOT_LIEUTENANTASSAULT",
-    "min_radius": 0.100000001,
-    "max_radius": 1.5,
-    "max_damage": 1000
-  },
-  "16121421951002036444": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "11254808043522658834": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "3600686258484811688": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "12873251592757102566": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "14286719829563111324": {
-    "wound_lut": "WOUND_LUT_BOT_TANK",
-    "min_radius": 0.300000012,
-    "max_radius": 2.20000005,
-    "max_damage": 1000
-  },
-  "1403303179954968823": {
-    "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 1000
-  },
-  "15358116161893188517": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR_BIG",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "3031503431338798614": {
-    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "18198461672611034237": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "2190700087544369166": {
-    "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 1000
-  },
-  "7258218216136199873": {
-    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "4399458158766252490": {
-    "wound_lut": "WOUND_LUT_BUG_HUNTER",
-    "min_radius": 0.800000012,
-    "max_radius": 2.5999999,
-    "max_damage": 500
-  },
-  "13707236614338800569": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "17756861745706792858": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERROCKET",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "14278331370456096813": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "17970022205926771882": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERSHIELD",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "10514734670540770044": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERMG",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "6676641717166653626": {
-    "wound_lut": "WOUND_LUT_BUG_HUNTER",
-    "min_radius": 0.800000012,
-    "max_radius": 2.5999999,
-    "max_damage": 500
-  },
-  "13723659040410201638": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "15659331049401757247": {
-    "wound_lut": "WOUND_LUT_BUG_HUNTER",
-    "min_radius": 0.800000012,
-    "max_radius": 2.5999999,
-    "max_damage": 500
-  },
-  "4618830856548850870": {
-    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "12300518439027380185": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER_PRED",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "3660840294738278623": {
-    "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 1000
-  },
-  "15382378127438146468": {
-    "wound_lut": "WOUND_LUT_BOT_BERSERKER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "4251221953861716889": {
-    "wound_lut": "WOUND_LUT_BUG_BULL",
-    "min_radius": 0.800000012,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
-  "14327550505011799649": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "16451308563134815530": {
-    "wound_lut": "WOUND_LUT_BOT_LIEUTENANTASSAULT",
-    "min_radius": 0.100000001,
-    "max_radius": 1.5,
-    "max_damage": 1000
-  },
-  "15239773297738004195": {
-    "wound_lut": "WOUND_LUT_BOT_CYBORG",
-    "min_radius": 0.100000001,
-    "max_radius": 1,
-    "max_damage": 1000
-  },
-  "17842374123104475103": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR_BIG",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "5289274991058480552": {
-    "wound_lut": "WOUND_LUT_BOT_TANKTURRETAUTOCANNON",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "5663271064929335883": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "17921415124075533547": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERMG",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "13340847352459495240": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERMG",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "14731312854664874139": {
-    "wound_lut": "WOUND_LUT_BUG_BOOMER",
-    "min_radius": 0.400000006,
-    "max_radius": 2,
-    "max_damage": 1000
-  },
-  "1155202780614770422": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "6927066342767148424": {
-    "wound_lut": "WOUND_LUT_BUG_BOOMER",
-    "min_radius": 0.400000006,
-    "max_radius": 2,
-    "max_damage": 1000
-  },
-  "7102889756698093945": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "10828817397904429935": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERROCKET",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "17149918388466130800": {
-    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKERHALFCOVER",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "11669807341511884260": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR_TIER2",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 400
-  },
-  "10371974906799355538": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "11398074038506794973": {
-    "wound_lut": "WOUND_LUT_BUG_STRIDER",
-    "min_radius": 1.39999998,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
-  "14748816422034837943": {
-    "wound_lut": "WOUND_LUT_BUG_BOOMER",
-    "min_radius": 0.400000006,
-    "max_radius": 2,
-    "max_damage": 1000
-  },
-  "15922730753540746811": {
-    "wound_lut": "WOUND_LUT_BUG_IMPALER",
-    "min_radius": 1.39999998,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
-  "17672347716099392046": {
-    "wound_lut": "WOUND_LUT_BUG_STALKER",
-    "min_radius": 0.600000024,
-    "max_radius": 2.5,
-    "max_damage": 500
-  },
-  "9839990240943553653": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "18129582262547983427": {
-    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "15261976812381254942": {
-    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKERHALFCOVER",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "767968035755763": {
-    "wound_lut": "WOUND_LUT_BOT_CONSCRIPTTIER2",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "1909471264691872944": {
-    "wound_lut": "WOUND_LUT_BUG_CHARGER",
-    "min_radius": 0.800000012,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
-  "12566139334605762628": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "6041739005686103399": {
-    "wound_lut": "WOUND_LUT_BOT_TANK",
-    "min_radius": 0.300000012,
-    "max_radius": 2.20000005,
-    "max_damage": 1000
-  },
-  "3939129929398354246": {
-    "wound_lut": "WOUND_LUT_BUG_BOOMER",
-    "min_radius": 0.400000006,
-    "max_radius": 2,
-    "max_damage": 1000
-  },
-  "17875655752828743943": {
-    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKER",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "7435299642389799754": {
-    "wound_lut": "WOUND_LUT_BUG_IMPALER_TENTACLE",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "7208293264043292125": {
-    "wound_lut": "WOUND_LUT_BUG_SHRIEKER",
-    "min_radius": 0.800000012,
-    "max_radius": 2.5,
-    "max_damage": 500
-  },
-  "12008441084326179745": {
-    "wound_lut": "WOUND_LUT_BOT_BERSERKER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "3626558530581732572": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  }
+    "WoundableComponentData": {
+        "items": [
+            {
+                "unique_id": "7102889756698093945",
+                "uid_name": "7102889756698093945",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "3939129929398354246",
+                "uid_name": "BugEnemyType_Spewer_CausticStrain",
+                "wound_lut": "WOUND_LUT_010",
+                "min_radius": 0.400000006,
+                "max_radius": 2.0,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "1909471264691872944",
+                "uid_name": "BugEnemyType_Charger",
+                "wound_lut": "WOUND_LUT_002",
+                "min_radius": 0.800000012,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "772289455772672652",
+                "uid_name": "BugEnemyType_Charger_RuptureStrain",
+                "wound_lut": "WOUND_LUT_002",
+                "min_radius": 0.800000012,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "10811815200209238698",
+                "uid_name": "BugEnemyType_Dragonroach",
+                "wound_lut": "WOUND_LUT_046",
+                "min_radius": 1.399999976,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "15659331049401757247",
+                "uid_name": "BugEnemyType_Hunter",
+                "wound_lut": "WOUND_LUT_003",
+                "min_radius": 0.800000012,
+                "max_radius": 2.599999905,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "15922730753540746811",
+                "uid_name": "BugEnemyType_Impaler",
+                "wound_lut": "WOUND_LUT_044",
+                "min_radius": 1.399999976,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "7435299642389799754",
+                "uid_name": "BugEnemyType_Impaler_Tentacle",
+                "wound_lut": "WOUND_LUT_040",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "10371974906799355538",
+                "uid_name": "BugEnemyType_Scavenger",
+                "wound_lut": "WOUND_LUT_004",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "7208293264043292125",
+                "uid_name": "BugEnemyType_Shrieker",
+                "wound_lut": "WOUND_LUT_007",
+                "min_radius": 0.800000012,
+                "max_radius": 2.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "17672347716099392046",
+                "uid_name": "BugEnemyType_Stalker",
+                "wound_lut": "WOUND_LUT_000",
+                "min_radius": 0.600000024,
+                "max_radius": 2.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "11398074038506794973",
+                "uid_name": "BugEnemyType_BileTitan",
+                "wound_lut": "WOUND_LUT_008",
+                "min_radius": 1.399999976,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "16919711124802745493",
+                "uid_name": "BugEnemyType_Warrior",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.800000012,
+                "max_radius": 3.0,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "12008441084326179745",
+                "uid_name": "BotEnemyType_Berserker",
+                "wound_lut": "WOUND_LUT_020",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "6116178405309884875",
+                "uid_name": "BotEnemyType_Berserker",
+                "wound_lut": "WOUND_LUT_020",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "11351366836276126990",
+                "uid_name": "BotEnemyType_CyborgAgitator_Male",
+                "wound_lut": "WOUND_LUT_034",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 100.0
+            },
+            {
+                "unique_id": "10861016308832836833",
+                "uid_name": "BotEnemyType_Hulk",
+                "wound_lut": "WOUND_LUT_025",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "12566139334605762628",
+                "uid_name": "BotEnemyType_Devastator_MK3",
+                "wound_lut": "WOUND_LUT_027",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "14278331370456096813",
+                "uid_name": "BotEnemyType_Devastator",
+                "wound_lut": "WOUND_LUT_027",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "17970022205926771882",
+                "uid_name": "BotEnemyType_Devastator_Shield",
+                "wound_lut": "WOUND_LUT_021",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "18353440541714442743",
+                "uid_name": "BotEnemyType_Devastator_Incendiary_Shield",
+                "wound_lut": "WOUND_LUT_021",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "17149918388466130800",
+                "uid_name": "BotEnemyType_Scout_Strider_Cabin",
+                "wound_lut": "WOUND_LUT_017",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "13557003672051169255",
+                "uid_name": "BotEnemyType_CyborgVoxEngine",
+                "wound_lut": "WOUND_LUT_043",
+                "min_radius": 0.5,
+                "max_radius": 1.799999952,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "15239773297738004195",
+                "uid_name": "BotEnemyType_FactoryStrider",
+                "wound_lut": "WOUND_LUT_042",
+                "min_radius": 0.100000001,
+                "max_radius": 1.0,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "3583430772214091149",
+                "uid_name": "3583430772214091149",
+                "wound_lut": "WOUND_LUT_012",
+                "min_radius": 0.300000012,
+                "max_radius": 2.200000048,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "17875655752828743943",
+                "uid_name": "BotEnemyType_ScoutStrider",
+                "wound_lut": "WOUND_LUT_014",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "14709257759554793401",
+                "uid_name": "VehicleType_HMG_FRV",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "14706661867033484396",
+                "uid_name": "IlluminateEnemyType_Wretch",
+                "wound_lut": "WOUND_LUT_041",
+                "min_radius": 0.449999988,
+                "max_radius": 0.800000012,
+                "max_damage": 100.0
+            },
+            {
+                "unique_id": "10401073942655502917",
+                "uid_name": "IlluminateEnemyType_Crusher",
+                "wound_lut": "WOUND_LUT_039",
+                "min_radius": 0.200000003,
+                "max_radius": 1.0,
+                "max_damage": 100.0
+            },
+            {
+                "unique_id": "8710323923067153479",
+                "uid_name": "IlluminateEnemyType_Voteless_Light",
+                "wound_lut": "WOUND_LUT_030",
+                "min_radius": 0.25,
+                "max_radius": 0.5,
+                "max_damage": 10.0
+            },
+            {
+                "unique_id": "2358135177943625061",
+                "uid_name": "IlluminateEnemyType_Veracitor",
+                "wound_lut": "WOUND_LUT_037",
+                "min_radius": 0.25,
+                "max_radius": 0.75,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "4989955592422339343",
+                "uid_name": "IlluminateEnemyType_Gatekeeper",
+                "wound_lut": "WOUND_LUT_038",
+                "min_radius": 0.5,
+                "max_radius": 1.5,
+                "max_damage": 250.0
+            },
+            {
+                "unique_id": "7483912604024319283",
+                "uid_name": "IlluminateEnemyType_Fleshmob",
+                "wound_lut": "WOUND_LUT_028",
+                "min_radius": 0.5,
+                "max_radius": 1.0,
+                "max_damage": 100.0
+            },
+            {
+                "unique_id": "17450606859370033415",
+                "uid_name": "IlluminateEnemyType_Leviathan",
+                "wound_lut": "WOUND_LUT_045",
+                "min_radius": 0.5,
+                "max_radius": 3.0,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "9839990240943553653",
+                "uid_name": "VehicleType_CargoTruck",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "3600686258484811688",
+                "uid_name": "3600686258484811688",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "11254808043522658834",
+                "uid_name": "11254808043522658834",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "14327550505011799649",
+                "uid_name": "14327550505011799649",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "14748816422034837943",
+                "uid_name": "BugEnemyType_Spewer_MK2_CausticStrain",
+                "wound_lut": "WOUND_LUT_010",
+                "min_radius": 0.400000006,
+                "max_radius": 2.0,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "11781875241940413332",
+                "uid_name": "BugEnemyType_Spewer_RuptureStrain",
+                "wound_lut": "WOUND_LUT_010",
+                "min_radius": 0.400000006,
+                "max_radius": 2.0,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "7361829613256525285",
+                "uid_name": "BugEnemyType_Noxious_Spewer",
+                "wound_lut": "WOUND_LUT_010",
+                "min_radius": 0.400000006,
+                "max_radius": 2.0,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "14731312854664874139",
+                "uid_name": "BugEnemyType_NursingSpewer",
+                "wound_lut": "WOUND_LUT_010",
+                "min_radius": 0.400000006,
+                "max_radius": 2.0,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "6927066342767148424",
+                "uid_name": "BugEnemyType_NursingSpewer",
+                "wound_lut": "WOUND_LUT_010",
+                "min_radius": 0.400000006,
+                "max_radius": 2.0,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "7719208875390099550",
+                "uid_name": "BugEnemyType_Charger_CausticStrain",
+                "wound_lut": "WOUND_LUT_002",
+                "min_radius": 0.800000012,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "4251221953861716889",
+                "uid_name": "BugEnemyType_ChargerBehemoth",
+                "wound_lut": "WOUND_LUT_026",
+                "min_radius": 0.800000012,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "18253730739818952707",
+                "uid_name": "BugEnemyType_ChargerBehemoth",
+                "wound_lut": "WOUND_LUT_026",
+                "min_radius": 0.800000012,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "4399458158766252490",
+                "uid_name": "BugEnemyType_Hunter_MK2",
+                "wound_lut": "WOUND_LUT_003",
+                "min_radius": 0.800000012,
+                "max_radius": 2.599999905,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "6676641717166653626",
+                "uid_name": "BugEnemyType_Hunter_MK3",
+                "wound_lut": "WOUND_LUT_003",
+                "min_radius": 0.800000012,
+                "max_radius": 2.599999905,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "9814471339792705014",
+                "uid_name": "BugEnemyType_Hunter_PredatorStrain",
+                "wound_lut": "WOUND_LUT_003",
+                "min_radius": 0.800000012,
+                "max_radius": 2.599999905,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "15125779956101896786",
+                "uid_name": "BugEnemyType_Stalker_PredatorStrain",
+                "wound_lut": "WOUND_LUT_000",
+                "min_radius": 0.600000024,
+                "max_radius": 2.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "5903841343181520462",
+                "uid_name": "BugEnemyType_Scavenger_MK2",
+                "wound_lut": "WOUND_LUT_004",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "16121421951002036444",
+                "uid_name": "BugEnemyType_Scavenger_MK2_Captive",
+                "wound_lut": "WOUND_LUT_004",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "11135777548304851724",
+                "uid_name": "BugEnemyType_Scavenger_MK3",
+                "wound_lut": "WOUND_LUT_004",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "9995218384209144520",
+                "uid_name": "BugEnemyType_Noxious_Scavenger",
+                "wound_lut": "WOUND_LUT_004",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "12300518439027380185",
+                "uid_name": "BugEnemyType_Pouncer",
+                "wound_lut": "WOUND_LUT_005",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "8261922003134896957",
+                "uid_name": "BugEnemyType_Spitter_CausticStrain",
+                "wound_lut": "WOUND_LUT_006",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "17344047887226579155",
+                "uid_name": "BugEnemyType_Shrieker",
+                "wound_lut": "WOUND_LUT_007",
+                "min_radius": 0.800000012,
+                "max_radius": 2.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "17223114646267339927",
+                "uid_name": "BugEnemyType_BileTitan_SporeBurstStrain",
+                "wound_lut": "WOUND_LUT_008",
+                "min_radius": 1.399999976,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "13707236614338800569",
+                "uid_name": "BugEnemyType_Warrior_MK2",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.800000012,
+                "max_radius": 3.0,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "5663271064929335883",
+                "uid_name": "BugEnemyType_Warrior",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.800000012,
+                "max_radius": 3.0,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "3626558530581732572",
+                "uid_name": "BugEnemyType_Warrior",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.800000012,
+                "max_radius": 3.0,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "12873251592757102566",
+                "uid_name": "BugEnemyType_Warrior",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.800000012,
+                "max_radius": 3.0,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "1155202780614770422",
+                "uid_name": "BugEnemyType_Warrior_CausticStrain",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.800000012,
+                "max_radius": 3.0,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "15358116161893188517",
+                "uid_name": "BugEnemyType_BroodCommander",
+                "wound_lut": "WOUND_LUT_029",
+                "min_radius": 0.800000012,
+                "max_radius": 3.0,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "17842374123104475103",
+                "uid_name": "BugEnemyType_AlphaCommander",
+                "wound_lut": "WOUND_LUT_029",
+                "min_radius": 0.800000012,
+                "max_radius": 3.0,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "11768477327318910982",
+                "uid_name": "BugEnemyType_Warrior_RuptureStrain",
+                "wound_lut": "WOUND_LUT_033",
+                "min_radius": 0.5,
+                "max_radius": 1.0,
+                "max_damage": 100.0
+            },
+            {
+                "unique_id": "11669807341511884260",
+                "uid_name": "BugEnemyType_HiveGuard",
+                "wound_lut": "WOUND_LUT_009",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "13104279481307701677",
+                "uid_name": "BotEnemyType_Berserker_IncendiaryCorps",
+                "wound_lut": "WOUND_LUT_020",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "15382378127438146468",
+                "uid_name": "BotEnemyType_Berserker_JetBrigade",
+                "wound_lut": "WOUND_LUT_020",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "18129582262547983427",
+                "uid_name": "BotEnemyType_Trooper",
+                "wound_lut": "WOUND_LUT_016",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "4618830856548850870",
+                "uid_name": "BotEnemyType_Trooper",
+                "wound_lut": "WOUND_LUT_016",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "7258218216136199873",
+                "uid_name": "BotEnemyType_Raider",
+                "wound_lut": "WOUND_LUT_016",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "767968035755763",
+                "uid_name": "BotEnemyType_Marauder",
+                "wound_lut": "WOUND_LUT_015",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "720026069039790444",
+                "uid_name": "BotEnemyType_CyborgAgitator_Female",
+                "wound_lut": "WOUND_LUT_035",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 100.0
+            },
+            {
+                "unique_id": "8388657151297660569",
+                "uid_name": "BotEnemyType_CyborgRadical_Male",
+                "wound_lut": "WOUND_LUT_034",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 100.0
+            },
+            {
+                "unique_id": "14677717390494571578",
+                "uid_name": "BotEnemyType_CyborgRadical_Female",
+                "wound_lut": "WOUND_LUT_035",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 100.0
+            },
+            {
+                "unique_id": "2190700087544369166",
+                "uid_name": "BotEnemyType_HulkObliterator",
+                "wound_lut": "WOUND_LUT_025",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "4469039597602705386",
+                "uid_name": "BotEnemyType_HulkScorcher",
+                "wound_lut": "WOUND_LUT_024",
+                "min_radius": 0.100000001,
+                "max_radius": 1.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "16451308563134815530",
+                "uid_name": "BotEnemyType_HulkScorcher_JetBrigade",
+                "wound_lut": "WOUND_LUT_024",
+                "min_radius": 0.100000001,
+                "max_radius": 1.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "7902461295840507538",
+                "uid_name": "BotEnemyType_HulkFirebomber_IncendiaryCorps",
+                "wound_lut": "WOUND_LUT_025",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "1772093692883358428",
+                "uid_name": "BotEnemyType_HulkScorcher_IncendiaryCorps",
+                "wound_lut": "WOUND_LUT_024",
+                "min_radius": 0.100000001,
+                "max_radius": 1.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "1403303179954968823",
+                "uid_name": "BotEnemyType_HulkBruiser",
+                "wound_lut": "WOUND_LUT_025",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "3660840294738278623",
+                "uid_name": "BotEnemyType_HulkBruiser_JetBrigade",
+                "wound_lut": "WOUND_LUT_025",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "6336231432473988509",
+                "uid_name": "BotEnemyType_Devastator_IncendiaryCorps",
+                "wound_lut": "WOUND_LUT_027",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "18198461672611034237",
+                "uid_name": "BotEnemyType_Devastator_MK2",
+                "wound_lut": "WOUND_LUT_027",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "13723659040410201638",
+                "uid_name": "BotEnemyType_Devastator_JetBrigade",
+                "wound_lut": "WOUND_LUT_027",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "13340847352459495240",
+                "uid_name": "BotEnemyType_HeavyDevastator_MK2",
+                "wound_lut": "WOUND_LUT_023",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "17921415124075533547",
+                "uid_name": "BotEnemyType_HeavyDevastator",
+                "wound_lut": "WOUND_LUT_023",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "6391373595476922945",
+                "uid_name": "BotEnemyType_MGDevastator_IncendiaryCorps",
+                "wound_lut": "WOUND_LUT_023",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "10514734670540770044",
+                "uid_name": "BotEnemyType_HeavyDevastator_MK3",
+                "wound_lut": "WOUND_LUT_023",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "10828817397904429935",
+                "uid_name": "BotEnemyType_RocketDevastator",
+                "wound_lut": "WOUND_LUT_022",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "17756861745706792858",
+                "uid_name": "BotEnemyType_RocketDevastator_MK2",
+                "wound_lut": "WOUND_LUT_022",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "14536718756304552612",
+                "uid_name": "BotEnemyType_RocketDevastator_IncendiaryCorps",
+                "wound_lut": "WOUND_LUT_022",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "16155873629479015795",
+                "uid_name": "BotEnemyType_ConflagrationDevastator_IncendiaryCorps",
+                "wound_lut": "WOUND_LUT_027",
+                "min_radius": 0.150000006,
+                "max_radius": 0.600000024,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "5289274991058480552",
+                "uid_name": "BotEnemyType_Tank_Turret_Autocannons",
+                "wound_lut": "WOUND_LUT_018",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "10355039786464021751",
+                "uid_name": "BotEnemyType_Tank_Turret_Cannon",
+                "wound_lut": "WOUND_LUT_019",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "15261976812381254942",
+                "uid_name": "BotEnemyType_Scout_Strider_Full_Cabin",
+                "wound_lut": "WOUND_LUT_017",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "3527126521288270458",
+                "uid_name": "3527126521288270458",
+                "wound_lut": "WOUND_LUT_042",
+                "min_radius": 0.100000001,
+                "max_radius": 1.0,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "14286719829563111324",
+                "uid_name": "BotEnemyType_ShredderTank",
+                "wound_lut": "WOUND_LUT_012",
+                "min_radius": 0.300000012,
+                "max_radius": 2.200000048,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "6041739005686103399",
+                "uid_name": "BotEnemyType_AnnihilatorTank",
+                "wound_lut": "WOUND_LUT_012",
+                "min_radius": 0.300000012,
+                "max_radius": 2.200000048,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "7196537832909981064",
+                "uid_name": "BotEnemyType_BarragerTank",
+                "wound_lut": "WOUND_LUT_012",
+                "min_radius": 0.300000012,
+                "max_radius": 2.200000048,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "10409770290790592053",
+                "uid_name": "BotEnemyType_ReinforcedScoutStrider",
+                "wound_lut": "WOUND_LUT_014",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "16847153723028833967",
+                "uid_name": "VehicleType_SuperEarth_FRV",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "3280238888919072741",
+                "uid_name": "VehicleType_Incinerator_FRV",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "11178286357330019118",
+                "uid_name": "VehicleType_Supply_FRV",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "782675882315451933",
+                "uid_name": "IlluminateEnemyType_Voteless_Medium",
+                "wound_lut": "WOUND_LUT_031",
+                "min_radius": 0.25,
+                "max_radius": 0.5,
+                "max_damage": 10.0
+            },
+            {
+                "unique_id": "4919490090942595835",
+                "uid_name": "IlluminateEnemyType_Voteless_Heavy",
+                "wound_lut": "WOUND_LUT_036",
+                "min_radius": 0.25,
+                "max_radius": 0.5,
+                "max_damage": 10.0
+            },
+            {
+                "unique_id": "11555060082231454796",
+                "uid_name": "BugEnemyType_ChargerBehemoth",
+                "wound_lut": "WOUND_LUT_026",
+                "min_radius": 0.800000012,
+                "max_radius": 3.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "2236760086372418784",
+                "uid_name": "BugEnemyType_Hunter_SporeBurstStrain",
+                "wound_lut": "WOUND_LUT_003",
+                "min_radius": 0.800000012,
+                "max_radius": 2.599999905,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "15822911520269726977",
+                "uid_name": "BugEnemyType_Scavenger_SporeBurstStrain",
+                "wound_lut": "WOUND_LUT_004",
+                "min_radius": 0.300000012,
+                "max_radius": 1.5,
+                "max_damage": 500.0
+            },
+            {
+                "unique_id": "8251756929257574076",
+                "uid_name": "BugEnemyType_Warrior_SporeBurstStrain",
+                "wound_lut": "WOUND_LUT_001",
+                "min_radius": 0.800000012,
+                "max_radius": 3.0,
+                "max_damage": 400.0
+            },
+            {
+                "unique_id": "11481777918278298912",
+                "uid_name": "BotEnemyType_BlasterTrooper_IncendiaryCorps",
+                "wound_lut": "WOUND_LUT_016",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "16610351617142216522",
+                "uid_name": "BotEnemyType_Raider_IncendiaryCorps",
+                "wound_lut": "WOUND_LUT_016",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            },
+            {
+                "unique_id": "3031503431338798614",
+                "uid_name": "BotEnemyType_RocketRaider",
+                "wound_lut": "WOUND_LUT_016",
+                "min_radius": 0.100000001,
+                "max_radius": 0.5,
+                "max_damage": 1000.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "7102889756698093945",
+                "type": "7102889756698093945"
+            },
+            {
+                "idx": 1,
+                "uid": "3939129929398354246",
+                "type": "BugEnemyType_Spewer_CausticStrain"
+            },
+            {
+                "idx": 2,
+                "uid": "1909471264691872944",
+                "type": "BugEnemyType_Charger"
+            },
+            {
+                "idx": 3,
+                "uid": "772289455772672652",
+                "type": "BugEnemyType_Charger_RuptureStrain"
+            },
+            {
+                "idx": 4,
+                "uid": "10811815200209238698",
+                "type": "BugEnemyType_Dragonroach"
+            },
+            {
+                "idx": 5,
+                "uid": "15659331049401757247",
+                "type": "BugEnemyType_Hunter"
+            },
+            {
+                "idx": 6,
+                "uid": "15922730753540746811",
+                "type": "BugEnemyType_Impaler"
+            },
+            {
+                "idx": 7,
+                "uid": "7435299642389799754",
+                "type": "BugEnemyType_Impaler_Tentacle"
+            },
+            {
+                "idx": 8,
+                "uid": "10371974906799355538",
+                "type": "BugEnemyType_Scavenger"
+            },
+            {
+                "idx": 9,
+                "uid": "7208293264043292125",
+                "type": "BugEnemyType_Shrieker"
+            },
+            {
+                "idx": 10,
+                "uid": "17672347716099392046",
+                "type": "BugEnemyType_Stalker"
+            },
+            {
+                "idx": 11,
+                "uid": "11398074038506794973",
+                "type": "BugEnemyType_BileTitan"
+            },
+            {
+                "idx": 12,
+                "uid": "16919711124802745493",
+                "type": "BugEnemyType_Warrior"
+            },
+            {
+                "idx": 13,
+                "uid": "12008441084326179745",
+                "type": "BotEnemyType_Berserker"
+            },
+            {
+                "idx": 14,
+                "uid": "6116178405309884875",
+                "type": "BotEnemyType_Berserker"
+            },
+            {
+                "idx": 15,
+                "uid": "11351366836276126990",
+                "type": "BotEnemyType_CyborgAgitator_Male"
+            },
+            {
+                "idx": 16,
+                "uid": "10861016308832836833",
+                "type": "BotEnemyType_Hulk"
+            },
+            {
+                "idx": 17,
+                "uid": "12566139334605762628",
+                "type": "BotEnemyType_Devastator_MK3"
+            },
+            {
+                "idx": 18,
+                "uid": "14278331370456096813",
+                "type": "BotEnemyType_Devastator"
+            },
+            {
+                "idx": 19,
+                "uid": "17970022205926771882",
+                "type": "BotEnemyType_Devastator_Shield"
+            },
+            {
+                "idx": 20,
+                "uid": "18353440541714442743",
+                "type": "BotEnemyType_Devastator_Incendiary_Shield"
+            },
+            {
+                "idx": 21,
+                "uid": "17149918388466130800",
+                "type": "BotEnemyType_Scout_Strider_Cabin"
+            },
+            {
+                "idx": 22,
+                "uid": "13557003672051169255",
+                "type": "BotEnemyType_CyborgVoxEngine"
+            },
+            {
+                "idx": 23,
+                "uid": "15239773297738004195",
+                "type": "BotEnemyType_FactoryStrider"
+            },
+            {
+                "idx": 24,
+                "uid": "3583430772214091149",
+                "type": "3583430772214091149"
+            },
+            {
+                "idx": 25,
+                "uid": "17875655752828743943",
+                "type": "BotEnemyType_ScoutStrider"
+            },
+            {
+                "idx": 26,
+                "uid": "14709257759554793401",
+                "type": "VehicleType_HMG_FRV"
+            },
+            {
+                "idx": 27,
+                "uid": "14706661867033484396",
+                "type": "IlluminateEnemyType_Wretch"
+            },
+            {
+                "idx": 28,
+                "uid": "10401073942655502917",
+                "type": "IlluminateEnemyType_Crusher"
+            },
+            {
+                "idx": 29,
+                "uid": "8710323923067153479",
+                "type": "IlluminateEnemyType_Voteless_Light"
+            },
+            {
+                "idx": 30,
+                "uid": "2358135177943625061",
+                "type": "IlluminateEnemyType_Veracitor"
+            },
+            {
+                "idx": 31,
+                "uid": "4989955592422339343",
+                "type": "IlluminateEnemyType_Gatekeeper"
+            },
+            {
+                "idx": 32,
+                "uid": "7483912604024319283",
+                "type": "IlluminateEnemyType_Fleshmob"
+            },
+            {
+                "idx": 33,
+                "uid": "17450606859370033415",
+                "type": "IlluminateEnemyType_Leviathan"
+            },
+            {
+                "idx": 34,
+                "uid": "9839990240943553653",
+                "type": "VehicleType_CargoTruck"
+            },
+            {
+                "idx": 35,
+                "uid": "3600686258484811688",
+                "type": "3600686258484811688"
+            },
+            {
+                "idx": 36,
+                "uid": "11254808043522658834",
+                "type": "11254808043522658834"
+            },
+            {
+                "idx": 37,
+                "uid": "14327550505011799649",
+                "type": "14327550505011799649"
+            },
+            {
+                "idx": 38,
+                "uid": "14748816422034837943",
+                "type": "BugEnemyType_Spewer_MK2_CausticStrain"
+            },
+            {
+                "idx": 39,
+                "uid": "11781875241940413332",
+                "type": "BugEnemyType_Spewer_RuptureStrain"
+            },
+            {
+                "idx": 40,
+                "uid": "7361829613256525285",
+                "type": "BugEnemyType_Noxious_Spewer"
+            },
+            {
+                "idx": 41,
+                "uid": "14731312854664874139",
+                "type": "BugEnemyType_NursingSpewer"
+            },
+            {
+                "idx": 42,
+                "uid": "6927066342767148424",
+                "type": "BugEnemyType_NursingSpewer"
+            },
+            {
+                "idx": 43,
+                "uid": "7719208875390099550",
+                "type": "BugEnemyType_Charger_CausticStrain"
+            },
+            {
+                "idx": 44,
+                "uid": "4251221953861716889",
+                "type": "BugEnemyType_ChargerBehemoth"
+            },
+            {
+                "idx": 45,
+                "uid": "18253730739818952707",
+                "type": "BugEnemyType_ChargerBehemoth"
+            },
+            {
+                "idx": 46,
+                "uid": "4399458158766252490",
+                "type": "BugEnemyType_Hunter_MK2"
+            },
+            {
+                "idx": 47,
+                "uid": "6676641717166653626",
+                "type": "BugEnemyType_Hunter_MK3"
+            },
+            {
+                "idx": 48,
+                "uid": "9814471339792705014",
+                "type": "BugEnemyType_Hunter_PredatorStrain"
+            },
+            {
+                "idx": 49,
+                "uid": "15125779956101896786",
+                "type": "BugEnemyType_Stalker_PredatorStrain"
+            },
+            {
+                "idx": 50,
+                "uid": "5903841343181520462",
+                "type": "BugEnemyType_Scavenger_MK2"
+            },
+            {
+                "idx": 51,
+                "uid": "16121421951002036444",
+                "type": "BugEnemyType_Scavenger_MK2_Captive"
+            },
+            {
+                "idx": 52,
+                "uid": "11135777548304851724",
+                "type": "BugEnemyType_Scavenger_MK3"
+            },
+            {
+                "idx": 53,
+                "uid": "9995218384209144520",
+                "type": "BugEnemyType_Noxious_Scavenger"
+            },
+            {
+                "idx": 54,
+                "uid": "12300518439027380185",
+                "type": "BugEnemyType_Pouncer"
+            },
+            {
+                "idx": 55,
+                "uid": "8261922003134896957",
+                "type": "BugEnemyType_Spitter_CausticStrain"
+            },
+            {
+                "idx": 56,
+                "uid": "17344047887226579155",
+                "type": "BugEnemyType_Shrieker"
+            },
+            {
+                "idx": 57,
+                "uid": "17223114646267339927",
+                "type": "BugEnemyType_BileTitan_SporeBurstStrain"
+            },
+            {
+                "idx": 58,
+                "uid": "13707236614338800569",
+                "type": "BugEnemyType_Warrior_MK2"
+            },
+            {
+                "idx": 59,
+                "uid": "5663271064929335883",
+                "type": "BugEnemyType_Warrior"
+            },
+            {
+                "idx": 60,
+                "uid": "3626558530581732572",
+                "type": "BugEnemyType_Warrior"
+            },
+            {
+                "idx": 61,
+                "uid": "12873251592757102566",
+                "type": "BugEnemyType_Warrior"
+            },
+            {
+                "idx": 62,
+                "uid": "1155202780614770422",
+                "type": "BugEnemyType_Warrior_CausticStrain"
+            },
+            {
+                "idx": 63,
+                "uid": "15358116161893188517",
+                "type": "BugEnemyType_BroodCommander"
+            },
+            {
+                "idx": 64,
+                "uid": "17842374123104475103",
+                "type": "BugEnemyType_AlphaCommander"
+            },
+            {
+                "idx": 65,
+                "uid": "11768477327318910982",
+                "type": "BugEnemyType_Warrior_RuptureStrain"
+            },
+            {
+                "idx": 66,
+                "uid": "11669807341511884260",
+                "type": "BugEnemyType_HiveGuard"
+            },
+            {
+                "idx": 67,
+                "uid": "13104279481307701677",
+                "type": "BotEnemyType_Berserker_IncendiaryCorps"
+            },
+            {
+                "idx": 68,
+                "uid": "15382378127438146468",
+                "type": "BotEnemyType_Berserker_JetBrigade"
+            },
+            {
+                "idx": 69,
+                "uid": "18129582262547983427",
+                "type": "BotEnemyType_Trooper"
+            },
+            {
+                "idx": 70,
+                "uid": "4618830856548850870",
+                "type": "BotEnemyType_Trooper"
+            },
+            {
+                "idx": 71,
+                "uid": "7258218216136199873",
+                "type": "BotEnemyType_Raider"
+            },
+            {
+                "idx": 72,
+                "uid": "767968035755763",
+                "type": "BotEnemyType_Marauder"
+            },
+            {
+                "idx": 73,
+                "uid": "720026069039790444",
+                "type": "BotEnemyType_CyborgAgitator_Female"
+            },
+            {
+                "idx": 74,
+                "uid": "8388657151297660569",
+                "type": "BotEnemyType_CyborgRadical_Male"
+            },
+            {
+                "idx": 75,
+                "uid": "14677717390494571578",
+                "type": "BotEnemyType_CyborgRadical_Female"
+            },
+            {
+                "idx": 76,
+                "uid": "2190700087544369166",
+                "type": "BotEnemyType_HulkObliterator"
+            },
+            {
+                "idx": 77,
+                "uid": "4469039597602705386",
+                "type": "BotEnemyType_HulkScorcher"
+            },
+            {
+                "idx": 78,
+                "uid": "16451308563134815530",
+                "type": "BotEnemyType_HulkScorcher_JetBrigade"
+            },
+            {
+                "idx": 79,
+                "uid": "7902461295840507538",
+                "type": "BotEnemyType_HulkFirebomber_IncendiaryCorps"
+            },
+            {
+                "idx": 80,
+                "uid": "1772093692883358428",
+                "type": "BotEnemyType_HulkScorcher_IncendiaryCorps"
+            },
+            {
+                "idx": 81,
+                "uid": "1403303179954968823",
+                "type": "BotEnemyType_HulkBruiser"
+            },
+            {
+                "idx": 82,
+                "uid": "3660840294738278623",
+                "type": "BotEnemyType_HulkBruiser_JetBrigade"
+            },
+            {
+                "idx": 83,
+                "uid": "6336231432473988509",
+                "type": "BotEnemyType_Devastator_IncendiaryCorps"
+            },
+            {
+                "idx": 84,
+                "uid": "18198461672611034237",
+                "type": "BotEnemyType_Devastator_MK2"
+            },
+            {
+                "idx": 85,
+                "uid": "13723659040410201638",
+                "type": "BotEnemyType_Devastator_JetBrigade"
+            },
+            {
+                "idx": 86,
+                "uid": "13340847352459495240",
+                "type": "BotEnemyType_HeavyDevastator_MK2"
+            },
+            {
+                "idx": 87,
+                "uid": "17921415124075533547",
+                "type": "BotEnemyType_HeavyDevastator"
+            },
+            {
+                "idx": 88,
+                "uid": "6391373595476922945",
+                "type": "BotEnemyType_MGDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 89,
+                "uid": "10514734670540770044",
+                "type": "BotEnemyType_HeavyDevastator_MK3"
+            },
+            {
+                "idx": 90,
+                "uid": "10828817397904429935",
+                "type": "BotEnemyType_RocketDevastator"
+            },
+            {
+                "idx": 91,
+                "uid": "17756861745706792858",
+                "type": "BotEnemyType_RocketDevastator_MK2"
+            },
+            {
+                "idx": 92,
+                "uid": "14536718756304552612",
+                "type": "BotEnemyType_RocketDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 93,
+                "uid": "16155873629479015795",
+                "type": "BotEnemyType_ConflagrationDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 94,
+                "uid": "5289274991058480552",
+                "type": "BotEnemyType_Tank_Turret_Autocannons"
+            },
+            {
+                "idx": 95,
+                "uid": "10355039786464021751",
+                "type": "BotEnemyType_Tank_Turret_Cannon"
+            },
+            {
+                "idx": 96,
+                "uid": "15261976812381254942",
+                "type": "BotEnemyType_Scout_Strider_Full_Cabin"
+            },
+            {
+                "idx": 97,
+                "uid": "3527126521288270458",
+                "type": "3527126521288270458"
+            },
+            {
+                "idx": 98,
+                "uid": "14286719829563111324",
+                "type": "BotEnemyType_ShredderTank"
+            },
+            {
+                "idx": 99,
+                "uid": "6041739005686103399",
+                "type": "BotEnemyType_AnnihilatorTank"
+            },
+            {
+                "idx": 100,
+                "uid": "7196537832909981064",
+                "type": "BotEnemyType_BarragerTank"
+            },
+            {
+                "idx": 101,
+                "uid": "10409770290790592053",
+                "type": "BotEnemyType_ReinforcedScoutStrider"
+            },
+            {
+                "idx": 102,
+                "uid": "16847153723028833967",
+                "type": "VehicleType_SuperEarth_FRV"
+            },
+            {
+                "idx": 103,
+                "uid": "3280238888919072741",
+                "type": "VehicleType_Incinerator_FRV"
+            },
+            {
+                "idx": 104,
+                "uid": "11178286357330019118",
+                "type": "VehicleType_Supply_FRV"
+            },
+            {
+                "idx": 105,
+                "uid": "782675882315451933",
+                "type": "IlluminateEnemyType_Voteless_Medium"
+            },
+            {
+                "idx": 106,
+                "uid": "4919490090942595835",
+                "type": "IlluminateEnemyType_Voteless_Heavy"
+            },
+            {
+                "idx": 107,
+                "uid": "11555060082231454796",
+                "type": "BugEnemyType_ChargerBehemoth"
+            },
+            {
+                "idx": 108,
+                "uid": "2236760086372418784",
+                "type": "BugEnemyType_Hunter_SporeBurstStrain"
+            },
+            {
+                "idx": 109,
+                "uid": "15822911520269726977",
+                "type": "BugEnemyType_Scavenger_SporeBurstStrain"
+            },
+            {
+                "idx": 110,
+                "uid": "8251756929257574076",
+                "type": "BugEnemyType_Warrior_SporeBurstStrain"
+            },
+            {
+                "idx": 111,
+                "uid": "11481777918278298912",
+                "type": "BotEnemyType_BlasterTrooper_IncendiaryCorps"
+            },
+            {
+                "idx": 112,
+                "uid": "16610351617142216522",
+                "type": "BotEnemyType_Raider_IncendiaryCorps"
+            },
+            {
+                "idx": 113,
+                "uid": "3031503431338798614",
+                "type": "BotEnemyType_RocketRaider"
+            }
+        ]
+    }
 }

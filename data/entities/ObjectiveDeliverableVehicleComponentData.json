@@ -1,5 +1,23 @@
 {
-  "9839990240943553653": {
-    "delivery_tag": 665824129
-  }
+    "ObjectiveDeliverableVehicleComponentData": {
+        "items": [
+            {
+                "unique_id": "9839990240943553653",
+                "uid_name": "VehicleType_CargoTruck",
+                "delivery_tag": 665824129
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "delivery_tag": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "9839990240943553653",
+                "type": "VehicleType_CargoTruck"
+            }
+        ]
+    }
 }

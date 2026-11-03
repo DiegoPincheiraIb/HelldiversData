@@ -1,5 +1,23 @@
 {
-  "677135248098376872": {
-    "life_time": 3
-  }
+    "ReinforcementLocationComponentData": {
+        "items": [
+            {
+                "unique_id": "677135248098376872",
+                "uid_name": "677135248098376872",
+                "life_time": 3.0
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "life_time": 0.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "677135248098376872",
+                "type": "677135248098376872"
+            }
+        ]
+    }
 }

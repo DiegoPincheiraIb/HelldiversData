@@ -1,22 +1,68 @@
 {
-  "7196537832909981064": {
-    "audio_engine_source": 1243096897,
-    "audio_engine_started": 779852926,
-    "audio_engine_stopped": 3742451721
-  },
-  "14286719829563111324": {
-    "audio_engine_source": 1243096897,
-    "audio_engine_started": 779852926,
-    "audio_engine_stopped": 3742451721
-  },
-  "3583430772214091149": {
-    "audio_engine_source": 1243096897,
-    "audio_engine_started": 779852926,
-    "audio_engine_stopped": 3742451721
-  },
-  "6041739005686103399": {
-    "audio_engine_source": 1243096897,
-    "audio_engine_started": 779852926,
-    "audio_engine_stopped": 3742451721
-  }
+    "FakeTankVehicleComponentData": {
+        "items": [
+            {
+                "unique_id": "13557003672051169255",
+                "uid_name": "BotEnemyType_CyborgVoxEngine",
+                "audio_engine_source": 1243096897,
+                "audio_engine_started": 1542574321,
+                "audio_engine_stopped": 1670514512
+            },
+            {
+                "unique_id": "3583430772214091149",
+                "uid_name": "3583430772214091149",
+                "audio_engine_source": 1243096897,
+                "audio_engine_started": 779852926,
+                "audio_engine_stopped": 3742451721
+            },
+            {
+                "unique_id": "14286719829563111324",
+                "uid_name": "BotEnemyType_ShredderTank",
+                "audio_engine_source": 1243096897,
+                "audio_engine_started": 779852926,
+                "audio_engine_stopped": 3742451721
+            },
+            {
+                "unique_id": "6041739005686103399",
+                "uid_name": "BotEnemyType_AnnihilatorTank",
+                "audio_engine_source": 1243096897,
+                "audio_engine_started": 779852926,
+                "audio_engine_stopped": 3742451721
+            },
+            {
+                "unique_id": "7196537832909981064",
+                "uid_name": "BotEnemyType_BarragerTank",
+                "audio_engine_source": 1243096897,
+                "audio_engine_started": 779852926,
+                "audio_engine_stopped": 3742451721
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "13557003672051169255",
+                "type": "BotEnemyType_CyborgVoxEngine"
+            },
+            {
+                "idx": 1,
+                "uid": "3583430772214091149",
+                "type": "3583430772214091149"
+            },
+            {
+                "idx": 2,
+                "uid": "14286719829563111324",
+                "type": "BotEnemyType_ShredderTank"
+            },
+            {
+                "idx": 3,
+                "uid": "6041739005686103399",
+                "type": "BotEnemyType_AnnihilatorTank"
+            },
+            {
+                "idx": 4,
+                "uid": "7196537832909981064",
+                "type": "BotEnemyType_BarragerTank"
+            }
+        ]
+    }
 }

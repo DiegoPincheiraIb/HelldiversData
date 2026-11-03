@@ -1,191 +1,908 @@
 {
-  "9473798407121267184": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "9333151595628803334": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "15369542005276747891": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "5771061903247604588": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "1573296579562737333": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "211331680192206384": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "10573539759497526597": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "5731472083741485993": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "602390376167162446": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "11333649286886241306": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "3973443609256024694": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "6453678319562593995": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "1476012537193590664": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "13357795631455978434": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "14773080917319959198": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "3494241250398732730": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "9264801226655597011": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "14772015414747343144": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "11468381642862999653": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "4142614004567995477": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "8544792714086142645": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "2714034314705433838": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "3358853937828503136": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "4155583896232633279": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "8074555013069095359": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "1030663026357860236": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "10871298989420119782": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "12943291850073424771": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "9369996777284288084": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "3865797767236207742": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "12164217308285983839": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "13650214626151558605": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "12008625947668001407": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "1024464436030047776": {
-    "dynamic_link_direction": "DynamicLinkDirection_None"
-  },
-  "7256596000532615782": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "17252127909105838489": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "14923473746413089367": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "1279722939363854678": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "13741222368367787890": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "2114795373903595840": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "9927421484392399367": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "3468100940980596463": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "2401215835282261016": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "5274502359162322681": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "12508512869271882154": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "15365965494753326077": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "13590543656112919608": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "17943362722330235151": {
-    "dynamic_link_direction": "DynamicLinkDirection_None"
-  },
-  "2976556536743111746": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "18163938711866866090": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "13030869719813342633": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "16068287307180393021": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "10266352102081711787": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "9869105320050739364": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "5910727434981086692": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "13632525282499700070": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "11493422068836852751": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "9724339804752659124": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "2802369506329449110": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "7742303829890335551": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "5691626237303103123": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "5504262545937421089": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  },
-  "12984499893943104780": {
-    "dynamic_link_direction": "DynamicLinkDirection_Listener"
-  }
+    "EntityBindComponentData": {
+        "items": [
+            {
+                "unique_id": "13590543656112919608",
+                "uid_name": "13590543656112919608",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "4142614004567995477",
+                "uid_name": "4142614004567995477",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "5385448928519479034",
+                "uid_name": "SuperEarthType_Civilian",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "17943362722330235151",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "8544792714086142645",
+                "uid_name": "8544792714086142645",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "5771061903247604588",
+                "uid_name": "PickupType_CommonSample_MK7",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "14773080917319959198",
+                "uid_name": "14773080917319959198",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "13741222368367787890",
+                "uid_name": "PickupType_CommonSample_MK4",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "9333151595628803334",
+                "uid_name": "PickupType_SuperCredits",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "3468100940980596463",
+                "uid_name": "3468100940980596463",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "1476012537193590664",
+                "uid_name": "PickupType_Medal",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "7742303829890335551",
+                "uid_name": "PickupType_RequisitionSlips",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "12943291850073424771",
+                "uid_name": "PickupType_CommonSample_MK2",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "7256596000532615782",
+                "uid_name": "PickupType_CommonSample_MK6",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "13632525282499700070",
+                "uid_name": "PickupType_RareSample_MK1",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "12508512869271882154",
+                "uid_name": "PickupType_RareSample_MK2",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "16068287307180393021",
+                "uid_name": "PickupType_RareSample",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "11333649286886241306",
+                "uid_name": "PickupType_SuperSample_MK1",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "8074555013069095359",
+                "uid_name": "PickupType_CommonSample_MK1",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "13030869719813342633",
+                "uid_name": "PickupType_SuperSample_MK2",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "9369996777284288084",
+                "uid_name": "PickupType_RareSample_MK3",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "9724339804752659124",
+                "uid_name": "9724339804752659124",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "13650214626151558605",
+                "uid_name": "PickupType_CreditCard",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "17252127909105838489",
+                "uid_name": "17252127909105838489",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "14923473746413089367",
+                "uid_name": "14923473746413089367",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "2976556536743111746",
+                "uid_name": "2976556536743111746",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "3494241250398732730",
+                "uid_name": "PickupType_CommonSample_MK5",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "5504262545937421089",
+                "uid_name": "PickupType_CommonSample_MK8",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "5274502359162322681",
+                "uid_name": "PickupType_CommonSample_MK3",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "10573539759497526597",
+                "uid_name": "PickupType_CommonSample_MK9",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "5691626237303103123",
+                "uid_name": "5691626237303103123",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "9473798407121267184",
+                "uid_name": "9473798407121267184",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "11468381642862999653",
+                "uid_name": "11468381642862999653",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "5555647998940836938",
+                "uid_name": "SuperEarthType_Civilian_MK2",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "3836043307793934489",
+                "uid_name": "SuperEarthType_Civilian_MK3",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "7712844951779243309",
+                "uid_name": "SuperEarthType_Civilian_MK4",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "3754586476635072036",
+                "uid_name": "SuperEarthType_Civilian_MK5",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "14706222259390606723",
+                "uid_name": "SuperEarthType_Civilian_MK6",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "16507283781696478269",
+                "uid_name": "SuperEarthType_Civilian_MK7",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "10665281465322007152",
+                "uid_name": "SuperEarthType_Civilian_MK8",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "5910727434981086692",
+                "uid_name": "SupportWeaponType_BreakActionShotgun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "1024464436030047776",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "9683243174428770658",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female_MK2",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "10179078936557797909",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female_MK3",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "15395181080776134584",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female_MK4",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "14040307618832651425",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male_MK2",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "7444362792725516608",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male_MK3",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "1232841523375292236",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male_MK4",
+                "dynamic_link_direction": "DynamicLinkDirection_None"
+            },
+            {
+                "unique_id": "3973443609256024694",
+                "uid_name": "SupportWeaponType_TacticalVideoCamera",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "5905641205788913469",
+                "uid_name": "SupportWeaponType_C4Detonator",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "12008625947668001407",
+                "uid_name": "SupportWeaponType_LightMachineGun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "5731472083741485993",
+                "uid_name": "UnknownType_Unknown_PhysGun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "2802369506329449110",
+                "uid_name": "SupportWeaponType_AirburstRocketLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "10871298989420119782",
+                "uid_name": "SupportWeaponType_ArcThrower",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "12164217308285983839",
+                "uid_name": "SupportWeaponType_Autocannon",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "9854668298113416351",
+                "uid_name": "SupportWeaponType_BFGrenadeLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "9869105320050739364",
+                "uid_name": "SupportWeaponType_Sterilizer",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "7853371720342307430",
+                "uid_name": "SupportWeaponType_MeltaGun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "12784766379234794359",
+                "uid_name": "SupportWeaponType_ExpendableMachineGun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "8509380141312129223",
+                "uid_name": "SupportWeaponType_Leveller",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "12877445900026273694",
+                "uid_name": "SupportWeaponType_ExpendableNapalmLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "2714034314705433838",
+                "uid_name": "SupportWeaponType_SpearLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "14733648658679365221",
+                "uid_name": "SupportWeaponType_WASPLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "4155583896232633279",
+                "uid_name": "SupportWeaponType_Flamethrower",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "211331680192206384",
+                "uid_name": "SupportWeaponType_GrenadeLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "18319281757224320923",
+                "uid_name": "SupportWeaponType_DescalatorGrenadeLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "4046732776742447255",
+                "uid_name": "SupportWeaponType_Speargun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "8694225878611593109",
+                "uid_name": "SupportWeaponType_Cremator",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "2401215835282261016",
+                "uid_name": "SupportWeaponType_HeavyMachineGun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "15369542005276747891",
+                "uid_name": "SupportWeaponType_LaserCannon",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "6453678319562593995",
+                "uid_name": "SupportWeaponType_CommandoRocketLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "3865797767236207742",
+                "uid_name": "SupportWeaponType_QuasarPulseCannon",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "8347508405287998274",
+                "uid_name": "SupportWeaponType_NovaSniperRifle",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "9264801226655597011",
+                "uid_name": "SupportWeaponType_ExpendableAntiTank",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "1279722939363854678",
+                "uid_name": "SupportWeaponType_MachineGun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "4874456896233937276",
+                "uid_name": "SupportWeaponType_Maxigun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "18163938711866866090",
+                "uid_name": "SupportWeaponType_MiniMissileSilo_Remote",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "16777584932715761236",
+                "uid_name": "SupportWeaponType_EpochPlasmaLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "3358853937828503136",
+                "uid_name": "SupportWeaponType_Railgun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "11493422068836852751",
+                "uid_name": "SupportWeaponType_RecoillessRifle",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "10266352102081711787",
+                "uid_name": "10266352102081711787",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "9927421484392399367",
+                "uid_name": "SupportWeaponType_AntiMaterielRifle",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "13264489371434957764",
+                "uid_name": "SupportWeaponType_ApexSniperRifle",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "2114795373903595840",
+                "uid_name": "DeployableType_GrenadierBattlementGrenadeLauncher",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "602390376167162446",
+                "uid_name": "VehicleType_HMG_FRV_HeavyMachineGun",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "14772015414747343144",
+                "uid_name": "SupportWeaponType_HeavyMachineGun_MK2",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "4920324387701779176",
+                "uid_name": "VehicleType_Incinerator_FRV_Flamethrower",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "12984499893943104780",
+                "uid_name": "SupportWeaponType_LightMachineGun_MK3",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "13357795631455978434",
+                "uid_name": "SupportWeaponType_LightMachineGun_APC_MK4",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            },
+            {
+                "unique_id": "15365965494753326077",
+                "uid_name": "SupportWeaponType_LightMachineGun_APC_MK5",
+                "dynamic_link_direction": "DynamicLinkDirection_Listener"
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "13590543656112919608",
+                "type": "13590543656112919608"
+            },
+            {
+                "idx": 1,
+                "uid": "4142614004567995477",
+                "type": "4142614004567995477"
+            },
+            {
+                "idx": 2,
+                "uid": "5385448928519479034",
+                "type": "SuperEarthType_Civilian"
+            },
+            {
+                "idx": 3,
+                "uid": "17943362722330235151",
+                "type": "SuperEarthType_Extractable_Worker_Male"
+            },
+            {
+                "idx": 4,
+                "uid": "8544792714086142645",
+                "type": "8544792714086142645"
+            },
+            {
+                "idx": 5,
+                "uid": "5771061903247604588",
+                "type": "PickupType_CommonSample_MK7"
+            },
+            {
+                "idx": 6,
+                "uid": "14773080917319959198",
+                "type": "14773080917319959198"
+            },
+            {
+                "idx": 7,
+                "uid": "13741222368367787890",
+                "type": "PickupType_CommonSample_MK4"
+            },
+            {
+                "idx": 8,
+                "uid": "9333151595628803334",
+                "type": "PickupType_SuperCredits"
+            },
+            {
+                "idx": 9,
+                "uid": "3468100940980596463",
+                "type": "3468100940980596463"
+            },
+            {
+                "idx": 10,
+                "uid": "1476012537193590664",
+                "type": "PickupType_Medal"
+            },
+            {
+                "idx": 11,
+                "uid": "7742303829890335551",
+                "type": "PickupType_RequisitionSlips"
+            },
+            {
+                "idx": 12,
+                "uid": "12943291850073424771",
+                "type": "PickupType_CommonSample_MK2"
+            },
+            {
+                "idx": 13,
+                "uid": "7256596000532615782",
+                "type": "PickupType_CommonSample_MK6"
+            },
+            {
+                "idx": 14,
+                "uid": "13632525282499700070",
+                "type": "PickupType_RareSample_MK1"
+            },
+            {
+                "idx": 15,
+                "uid": "12508512869271882154",
+                "type": "PickupType_RareSample_MK2"
+            },
+            {
+                "idx": 16,
+                "uid": "16068287307180393021",
+                "type": "PickupType_RareSample"
+            },
+            {
+                "idx": 17,
+                "uid": "11333649286886241306",
+                "type": "PickupType_SuperSample_MK1"
+            },
+            {
+                "idx": 18,
+                "uid": "8074555013069095359",
+                "type": "PickupType_CommonSample_MK1"
+            },
+            {
+                "idx": 19,
+                "uid": "13030869719813342633",
+                "type": "PickupType_SuperSample_MK2"
+            },
+            {
+                "idx": 20,
+                "uid": "9369996777284288084",
+                "type": "PickupType_RareSample_MK3"
+            },
+            {
+                "idx": 21,
+                "uid": "9724339804752659124",
+                "type": "9724339804752659124"
+            },
+            {
+                "idx": 22,
+                "uid": "13650214626151558605",
+                "type": "PickupType_CreditCard"
+            },
+            {
+                "idx": 23,
+                "uid": "17252127909105838489",
+                "type": "17252127909105838489"
+            },
+            {
+                "idx": 24,
+                "uid": "14923473746413089367",
+                "type": "14923473746413089367"
+            },
+            {
+                "idx": 25,
+                "uid": "2976556536743111746",
+                "type": "2976556536743111746"
+            },
+            {
+                "idx": 26,
+                "uid": "3494241250398732730",
+                "type": "PickupType_CommonSample_MK5"
+            },
+            {
+                "idx": 27,
+                "uid": "5504262545937421089",
+                "type": "PickupType_CommonSample_MK8"
+            },
+            {
+                "idx": 28,
+                "uid": "5274502359162322681",
+                "type": "PickupType_CommonSample_MK3"
+            },
+            {
+                "idx": 29,
+                "uid": "10573539759497526597",
+                "type": "PickupType_CommonSample_MK9"
+            },
+            {
+                "idx": 30,
+                "uid": "5691626237303103123",
+                "type": "5691626237303103123"
+            },
+            {
+                "idx": 31,
+                "uid": "9473798407121267184",
+                "type": "9473798407121267184"
+            },
+            {
+                "idx": 32,
+                "uid": "11468381642862999653",
+                "type": "11468381642862999653"
+            },
+            {
+                "idx": 33,
+                "uid": "5555647998940836938",
+                "type": "SuperEarthType_Civilian_MK2"
+            },
+            {
+                "idx": 34,
+                "uid": "3836043307793934489",
+                "type": "SuperEarthType_Civilian_MK3"
+            },
+            {
+                "idx": 35,
+                "uid": "7712844951779243309",
+                "type": "SuperEarthType_Civilian_MK4"
+            },
+            {
+                "idx": 36,
+                "uid": "3754586476635072036",
+                "type": "SuperEarthType_Civilian_MK5"
+            },
+            {
+                "idx": 37,
+                "uid": "14706222259390606723",
+                "type": "SuperEarthType_Civilian_MK6"
+            },
+            {
+                "idx": 38,
+                "uid": "16507283781696478269",
+                "type": "SuperEarthType_Civilian_MK7"
+            },
+            {
+                "idx": 39,
+                "uid": "10665281465322007152",
+                "type": "SuperEarthType_Civilian_MK8"
+            },
+            {
+                "idx": 40,
+                "uid": "5910727434981086692",
+                "type": "SupportWeaponType_BreakActionShotgun"
+            },
+            {
+                "idx": 41,
+                "uid": "1024464436030047776",
+                "type": "SuperEarthType_Extractable_Worker_Female"
+            },
+            {
+                "idx": 42,
+                "uid": "9683243174428770658",
+                "type": "SuperEarthType_Extractable_Worker_Female_MK2"
+            },
+            {
+                "idx": 43,
+                "uid": "10179078936557797909",
+                "type": "SuperEarthType_Extractable_Worker_Female_MK3"
+            },
+            {
+                "idx": 44,
+                "uid": "15395181080776134584",
+                "type": "SuperEarthType_Extractable_Worker_Female_MK4"
+            },
+            {
+                "idx": 45,
+                "uid": "14040307618832651425",
+                "type": "SuperEarthType_Extractable_Worker_Male_MK2"
+            },
+            {
+                "idx": 46,
+                "uid": "7444362792725516608",
+                "type": "SuperEarthType_Extractable_Worker_Male_MK3"
+            },
+            {
+                "idx": 47,
+                "uid": "1232841523375292236",
+                "type": "SuperEarthType_Extractable_Worker_Male_MK4"
+            },
+            {
+                "idx": 48,
+                "uid": "3973443609256024694",
+                "type": "SupportWeaponType_TacticalVideoCamera"
+            },
+            {
+                "idx": 49,
+                "uid": "5905641205788913469",
+                "type": "SupportWeaponType_C4Detonator"
+            },
+            {
+                "idx": 50,
+                "uid": "12008625947668001407",
+                "type": "SupportWeaponType_LightMachineGun"
+            },
+            {
+                "idx": 51,
+                "uid": "5731472083741485993",
+                "type": "UnknownType_Unknown_PhysGun"
+            },
+            {
+                "idx": 52,
+                "uid": "2802369506329449110",
+                "type": "SupportWeaponType_AirburstRocketLauncher"
+            },
+            {
+                "idx": 53,
+                "uid": "10871298989420119782",
+                "type": "SupportWeaponType_ArcThrower"
+            },
+            {
+                "idx": 54,
+                "uid": "12164217308285983839",
+                "type": "SupportWeaponType_Autocannon"
+            },
+            {
+                "idx": 55,
+                "uid": "9854668298113416351",
+                "type": "SupportWeaponType_BFGrenadeLauncher"
+            },
+            {
+                "idx": 56,
+                "uid": "9869105320050739364",
+                "type": "SupportWeaponType_Sterilizer"
+            },
+            {
+                "idx": 57,
+                "uid": "7853371720342307430",
+                "type": "SupportWeaponType_MeltaGun"
+            },
+            {
+                "idx": 58,
+                "uid": "12784766379234794359",
+                "type": "SupportWeaponType_ExpendableMachineGun"
+            },
+            {
+                "idx": 59,
+                "uid": "8509380141312129223",
+                "type": "SupportWeaponType_Leveller"
+            },
+            {
+                "idx": 60,
+                "uid": "12877445900026273694",
+                "type": "SupportWeaponType_ExpendableNapalmLauncher"
+            },
+            {
+                "idx": 61,
+                "uid": "2714034314705433838",
+                "type": "SupportWeaponType_SpearLauncher"
+            },
+            {
+                "idx": 62,
+                "uid": "14733648658679365221",
+                "type": "SupportWeaponType_WASPLauncher"
+            },
+            {
+                "idx": 63,
+                "uid": "4155583896232633279",
+                "type": "SupportWeaponType_Flamethrower"
+            },
+            {
+                "idx": 64,
+                "uid": "211331680192206384",
+                "type": "SupportWeaponType_GrenadeLauncher"
+            },
+            {
+                "idx": 65,
+                "uid": "18319281757224320923",
+                "type": "SupportWeaponType_DescalatorGrenadeLauncher"
+            },
+            {
+                "idx": 66,
+                "uid": "4046732776742447255",
+                "type": "SupportWeaponType_Speargun"
+            },
+            {
+                "idx": 67,
+                "uid": "8694225878611593109",
+                "type": "SupportWeaponType_Cremator"
+            },
+            {
+                "idx": 68,
+                "uid": "2401215835282261016",
+                "type": "SupportWeaponType_HeavyMachineGun"
+            },
+            {
+                "idx": 69,
+                "uid": "15369542005276747891",
+                "type": "SupportWeaponType_LaserCannon"
+            },
+            {
+                "idx": 70,
+                "uid": "6453678319562593995",
+                "type": "SupportWeaponType_CommandoRocketLauncher"
+            },
+            {
+                "idx": 71,
+                "uid": "3865797767236207742",
+                "type": "SupportWeaponType_QuasarPulseCannon"
+            },
+            {
+                "idx": 72,
+                "uid": "8347508405287998274",
+                "type": "SupportWeaponType_NovaSniperRifle"
+            },
+            {
+                "idx": 73,
+                "uid": "9264801226655597011",
+                "type": "SupportWeaponType_ExpendableAntiTank"
+            },
+            {
+                "idx": 74,
+                "uid": "1279722939363854678",
+                "type": "SupportWeaponType_MachineGun"
+            },
+            {
+                "idx": 75,
+                "uid": "4874456896233937276",
+                "type": "SupportWeaponType_Maxigun"
+            },
+            {
+                "idx": 76,
+                "uid": "18163938711866866090",
+                "type": "SupportWeaponType_MiniMissileSilo_Remote"
+            },
+            {
+                "idx": 77,
+                "uid": "16777584932715761236",
+                "type": "SupportWeaponType_EpochPlasmaLauncher"
+            },
+            {
+                "idx": 78,
+                "uid": "3358853937828503136",
+                "type": "SupportWeaponType_Railgun"
+            },
+            {
+                "idx": 79,
+                "uid": "11493422068836852751",
+                "type": "SupportWeaponType_RecoillessRifle"
+            },
+            {
+                "idx": 80,
+                "uid": "10266352102081711787",
+                "type": "10266352102081711787"
+            },
+            {
+                "idx": 81,
+                "uid": "9927421484392399367",
+                "type": "SupportWeaponType_AntiMaterielRifle"
+            },
+            {
+                "idx": 82,
+                "uid": "13264489371434957764",
+                "type": "SupportWeaponType_ApexSniperRifle"
+            },
+            {
+                "idx": 83,
+                "uid": "2114795373903595840",
+                "type": "DeployableType_GrenadierBattlementGrenadeLauncher"
+            },
+            {
+                "idx": 84,
+                "uid": "602390376167162446",
+                "type": "VehicleType_HMG_FRV_HeavyMachineGun"
+            },
+            {
+                "idx": 85,
+                "uid": "14772015414747343144",
+                "type": "SupportWeaponType_HeavyMachineGun_MK2"
+            },
+            {
+                "idx": 86,
+                "uid": "4920324387701779176",
+                "type": "VehicleType_Incinerator_FRV_Flamethrower"
+            },
+            {
+                "idx": 87,
+                "uid": "12984499893943104780",
+                "type": "SupportWeaponType_LightMachineGun_MK3"
+            },
+            {
+                "idx": 88,
+                "uid": "13357795631455978434",
+                "type": "SupportWeaponType_LightMachineGun_APC_MK4"
+            },
+            {
+                "idx": 89,
+                "uid": "15365965494753326077",
+                "type": "SupportWeaponType_LightMachineGun_APC_MK5"
+            }
+        ]
+    }
 }

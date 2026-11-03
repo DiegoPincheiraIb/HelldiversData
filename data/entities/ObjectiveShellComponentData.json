@@ -1,72 +1,144 @@
 {
-  "15859727822481861892": {
-    "projectile_type": "ProjectileType_SEAF_Gun_Explosive",
-    "shell_material_color": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "ammo_projectile_key": 55917827,
-    "shell_icon": 7120836942844552366
-  },
-  "13847484889080110003": {
-    "projectile_type": "ProjectileType_SEAF_Gun_EMP",
-    "shell_material_color": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "ammo_projectile_key": 2621199058,
-    "shell_icon": 7120836942844552366
-  },
-  "7745884044284159061": {
-    "projectile_type": "ProjectileType_SEAF_Gun_High_Yield_Explosive",
-    "shell_material_color": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "ammo_projectile_key": 439830656,
-    "shell_icon": 7120836942844552366
-  },
-  "17696993194780227077": {
-    "projectile_type": "ProjectileType_SEAF_Gun_Smoke",
-    "shell_material_color": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "ammo_projectile_key": 1630665467,
-    "shell_icon": 7120836942844552366
-  },
-  "7810054165681946755": {
-    "projectile_type": "ProjectileType_None",
-    "shell_material_color": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "ammo_projectile_key": 2618278517,
-    "shell_icon": 7120836942844552366
-  },
-  "16482681913442925439": {
-    "projectile_type": "ProjectileType_SEAF_Gun_Napalm",
-    "shell_material_color": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "ammo_projectile_key": 30035289,
-    "shell_icon": 7120836942844552366
-  },
-  "16185879173872143133": {
-    "projectile_type": "ProjectileType_SEAF_Gun_Mini_Nuke",
-    "shell_material_color": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "ammo_projectile_key": 2929004750,
-    "shell_icon": 7120836942844552366
-  }
+    "ObjectiveShellComponentData": {
+        "items": [
+            {
+                "unique_id": "14481784348804167734",
+                "uid_name": "14481784348804167734",
+                "projectile_type": "ProjectileType_None",
+                "shell_material_color": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "ammo_projectile_key": 2618278517,
+                "shell_icon": 7120836942844552366
+            },
+            {
+                "unique_id": "7810054165681946755",
+                "uid_name": "SuperEarthType_None",
+                "projectile_type": "ProjectileType_None",
+                "shell_material_color": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "ammo_projectile_key": 2618278517,
+                "shell_icon": 7120836942844552366
+            },
+            {
+                "unique_id": "13847484889080110003",
+                "uid_name": "SuperEarthType_SEAF_Gun_EMP",
+                "projectile_type": "ProjectileType_SEAF_Gun_EMP",
+                "shell_material_color": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "ammo_projectile_key": 2621199058,
+                "shell_icon": 7120836942844552366
+            },
+            {
+                "unique_id": "15859727822481861892",
+                "uid_name": "SuperEarthType_SEAF_Gun_Explosive",
+                "projectile_type": "ProjectileType_SEAF_Gun_Explosive",
+                "shell_material_color": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "ammo_projectile_key": 55917827,
+                "shell_icon": 7120836942844552366
+            },
+            {
+                "unique_id": "7745884044284159061",
+                "uid_name": "SuperEarthType_SEAF_Gun_High_Yield_Explosive",
+                "projectile_type": "ProjectileType_SEAF_Gun_High_Yield_Explosive",
+                "shell_material_color": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "ammo_projectile_key": 439830656,
+                "shell_icon": 7120836942844552366
+            },
+            {
+                "unique_id": "16185879173872143133",
+                "uid_name": "SuperEarthType_SEAF_Gun_Mini_Nuke",
+                "projectile_type": "ProjectileType_SEAF_Gun_Mini_Nuke",
+                "shell_material_color": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "ammo_projectile_key": 2929004750,
+                "shell_icon": 7120836942844552366
+            },
+            {
+                "unique_id": "16482681913442925439",
+                "uid_name": "SuperEarthType_SEAF_Gun_Napalm",
+                "projectile_type": "ProjectileType_SEAF_Gun_Napalm",
+                "shell_material_color": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "ammo_projectile_key": 30035289,
+                "shell_icon": 7120836942844552366
+            },
+            {
+                "unique_id": "17696993194780227077",
+                "uid_name": "SuperEarthType_SEAF_Gun_Smoke",
+                "projectile_type": "ProjectileType_SEAF_Gun_Smoke",
+                "shell_material_color": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "ammo_projectile_key": 1630665467,
+                "shell_icon": 7120836942844552366
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "14481784348804167734",
+                "type": "14481784348804167734"
+            },
+            {
+                "idx": 1,
+                "uid": "7810054165681946755",
+                "type": "SuperEarthType_None"
+            },
+            {
+                "idx": 2,
+                "uid": "13847484889080110003",
+                "type": "SuperEarthType_SEAF_Gun_EMP"
+            },
+            {
+                "idx": 3,
+                "uid": "15859727822481861892",
+                "type": "SuperEarthType_SEAF_Gun_Explosive"
+            },
+            {
+                "idx": 4,
+                "uid": "7745884044284159061",
+                "type": "SuperEarthType_SEAF_Gun_High_Yield_Explosive"
+            },
+            {
+                "idx": 5,
+                "uid": "16185879173872143133",
+                "type": "SuperEarthType_SEAF_Gun_Mini_Nuke"
+            },
+            {
+                "idx": 6,
+                "uid": "16482681913442925439",
+                "type": "SuperEarthType_SEAF_Gun_Napalm"
+            },
+            {
+                "idx": 7,
+                "uid": "17696993194780227077",
+                "type": "SuperEarthType_SEAF_Gun_Smoke"
+            }
+        ]
+    }
 }

@@ -1,100 +1,470 @@
 {
-  "6927066342767148424": {
-    "density": 10,
-    "height": 2,
-    "falloff": 2,
-    "albedo_lerp": 0.100000001,
-    "dustiness": 1,
-    "scale": 30,
-    "color": {
-      "x": 0.999000013,
-      "y": 0.791999996,
-      "z": 0.317999989
-    },
-    "fade_time": 10
-  },
-  "16153967468671429253": {
-    "density": 10,
-    "height": 22,
-    "falloff": 1,
-    "albedo_lerp": 0.100000001,
-    "dustiness": 1,
-    "scale": 200,
-    "color": {
-      "x": 0.460000008,
-      "y": 0.400000006,
-      "z": 0.100000001
-    },
-    "fade_time": 10
-  },
-  "1514077279537086268": {
-    "density": 5,
-    "height": 22,
-    "falloff": 1,
-    "albedo_lerp": 0.100000001,
-    "dustiness": 1,
-    "scale": 100,
-    "color": {
-      "x": 0.460000008,
-      "y": 0.400000006,
-      "z": 0.100000001
-    },
-    "fade_time": 10
-  },
-  "992978004870917680": {
-    "density": 10,
-    "height": 22,
-    "falloff": 1,
-    "albedo_lerp": 0.100000001,
-    "dustiness": 1,
-    "scale": 200,
-    "color": {
-      "x": 0.999000013,
-      "y": 0.791999996,
-      "z": 0.317999989
-    },
-    "fade_time": 10
-  },
-  "14731312854664874139": {
-    "density": 10,
-    "height": 2,
-    "falloff": 2,
-    "albedo_lerp": 0.100000001,
-    "dustiness": 1,
-    "scale": 30,
-    "color": {
-      "x": 0.999000013,
-      "y": 0.791999996,
-      "z": 0.317999989
-    },
-    "fade_time": 10
-  },
-  "12261273158003217664": {
-    "density": 10,
-    "height": 22,
-    "falloff": 1,
-    "albedo_lerp": 0.100000001,
-    "dustiness": 1,
-    "scale": 200,
-    "color": {
-      "x": 0.460000008,
-      "y": 0.400000006,
-      "z": 0.100000001
-    },
-    "fade_time": 10
-  },
-  "7719208875390099550": {
-    "density": 30,
-    "height": 50,
-    "falloff": 2,
-    "albedo_lerp": 0.100000001,
-    "dustiness": 1,
-    "scale": 48,
-    "color": {
-      "x": 0.560000002,
-      "y": 0.600000024,
-      "z": 0.200000003
-    },
-    "fade_time": 10
-  }
+    "FogMachineComponentData": {
+        "items": [
+            {
+                "unique_id": "11343705034710865150",
+                "uid_name": "11343705034710865150",
+                "density": 1000.0,
+                "height": 22.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 8.0,
+                "color": {
+                    "x": 0.300000012,
+                    "y": 1.0,
+                    "z": 0.0
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "10564789804477256200",
+                "uid_name": "10564789804477256200",
+                "density": 1000.0,
+                "height": 22.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 8.0,
+                "color": {
+                    "x": 1.0,
+                    "y": 0.5,
+                    "z": 0.0
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "5213286685116046225",
+                "uid_name": "5213286685116046225",
+                "density": 2000.0,
+                "height": 25.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 12.0,
+                "color": {
+                    "x": 0.699999988,
+                    "y": 0.100000001,
+                    "z": 0.0
+                },
+                "fade_time": 20.0
+            },
+            {
+                "unique_id": "14394855283547101359",
+                "uid_name": "14394855283547101359",
+                "density": 2000.0,
+                "height": 30.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 16.0,
+                "color": {
+                    "x": 1.0,
+                    "y": 0.100000001,
+                    "z": 0.0
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "9869262031970614679",
+                "uid_name": "9869262031970614679",
+                "density": 2000.0,
+                "height": 25.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 8.0,
+                "color": {
+                    "x": 0.699999988,
+                    "y": 0.100000001,
+                    "z": 0.0
+                },
+                "fade_time": 20.0
+            },
+            {
+                "unique_id": "8914625184080453985",
+                "uid_name": "8914625184080453985",
+                "density": 2000.0,
+                "height": 25.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 6.0,
+                "color": {
+                    "x": 0.699999988,
+                    "y": 0.100000001,
+                    "z": 0.0
+                },
+                "fade_time": 20.0
+            },
+            {
+                "unique_id": "3000281557900117571",
+                "uid_name": "3000281557900117571",
+                "density": 2000.0,
+                "height": 25.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 4.0,
+                "color": {
+                    "x": 0.699999988,
+                    "y": 0.100000001,
+                    "z": 0.0
+                },
+                "fade_time": 20.0
+            },
+            {
+                "unique_id": "12028844006932807553",
+                "uid_name": "12028844006932807553",
+                "density": 1000.0,
+                "height": 22.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 6.0,
+                "color": {
+                    "x": 1.0,
+                    "y": 0.5,
+                    "z": 0.0
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "571450253514958910",
+                "uid_name": "571450253514958910",
+                "density": 1000.0,
+                "height": 22.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 4.0,
+                "color": {
+                    "x": 1.0,
+                    "y": 0.5,
+                    "z": 0.0
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "12261273158003217664",
+                "uid_name": "BugEnemyType_Spore_Spewer",
+                "density": 8.0,
+                "height": 22.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 200.0,
+                "color": {
+                    "x": 0.878000021,
+                    "y": 0.709999979,
+                    "z": 0.144999996
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "992978004870917680",
+                "uid_name": "992978004870917680",
+                "density": 6.0,
+                "height": 22.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 200.0,
+                "color": {
+                    "x": 0.999000013,
+                    "y": 0.791999996,
+                    "z": 0.317999989
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "15893233259881380762",
+                "uid_name": "BugEnemyType_Spore_Lung",
+                "density": 3.0,
+                "height": 22.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 200.0,
+                "color": {
+                    "x": 0.878000021,
+                    "y": 0.709999979,
+                    "z": 0.144999996
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "12955111991617354039",
+                "uid_name": "IlluminateEnemyType_LandedWarpship_MK2",
+                "density": 20.0,
+                "height": 45.0,
+                "falloff": 6.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 15.0,
+                "color": {
+                    "x": 0.810000002,
+                    "y": 0.889999986,
+                    "z": 0.930000007
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "10380789927509132575",
+                "uid_name": "10380789927509132575",
+                "density": 20.0,
+                "height": 30.0,
+                "falloff": 6.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 30.0,
+                "color": {
+                    "x": 0.810000002,
+                    "y": 0.889999986,
+                    "z": 0.930000007
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "3780916594232485446",
+                "uid_name": "3780916594232485446",
+                "density": 5.0,
+                "height": 15.0,
+                "falloff": 5.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 25.0,
+                "color": {
+                    "x": 0.810000002,
+                    "y": 0.889999986,
+                    "z": 0.930000007
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "14436979396594416148",
+                "uid_name": "14436979396594416148",
+                "density": 4.0,
+                "height": 15.0,
+                "falloff": 6.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 30.0,
+                "color": {
+                    "x": 0.5,
+                    "y": 0.5,
+                    "z": 1.0
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "7876476730747253827",
+                "uid_name": "7876476730747253827",
+                "density": 4.0,
+                "height": 15.0,
+                "falloff": 6.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 30.0,
+                "color": {
+                    "x": 0.5,
+                    "y": 0.5,
+                    "z": 1.0
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "16153967468671429253",
+                "uid_name": "BugEnemyType_Spore_Spewer_MK2",
+                "density": 8.0,
+                "height": 22.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 200.0,
+                "color": {
+                    "x": 0.878000021,
+                    "y": 0.709999979,
+                    "z": 0.144999996
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "1514077279537086268",
+                "uid_name": "BugEnemyType_Spore_Spewer TCS",
+                "density": 5.0,
+                "height": 22.0,
+                "falloff": 1.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 100.0,
+                "color": {
+                    "x": 0.878000021,
+                    "y": 0.709999979,
+                    "z": 0.144999996
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "14731312854664874139",
+                "uid_name": "BugEnemyType_NursingSpewer",
+                "density": 10.0,
+                "height": 2.0,
+                "falloff": 2.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 30.0,
+                "color": {
+                    "x": 0.999000013,
+                    "y": 0.791999996,
+                    "z": 0.317999989
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "6927066342767148424",
+                "uid_name": "BugEnemyType_NursingSpewer",
+                "density": 10.0,
+                "height": 2.0,
+                "falloff": 2.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 30.0,
+                "color": {
+                    "x": 0.999000013,
+                    "y": 0.791999996,
+                    "z": 0.317999989
+                },
+                "fade_time": 10.0
+            },
+            {
+                "unique_id": "7719208875390099550",
+                "uid_name": "BugEnemyType_Charger_CausticStrain",
+                "density": 30.0,
+                "height": 50.0,
+                "falloff": 2.0,
+                "albedo_lerp": 0.100000001,
+                "dustiness": 1.0,
+                "scale": 48.0,
+                "color": {
+                    "x": 0.560000002,
+                    "y": 0.600000024,
+                    "z": 0.200000003
+                },
+                "fade_time": 10.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "11343705034710865150",
+                "type": "11343705034710865150"
+            },
+            {
+                "idx": 1,
+                "uid": "10564789804477256200",
+                "type": "10564789804477256200"
+            },
+            {
+                "idx": 2,
+                "uid": "5213286685116046225",
+                "type": "5213286685116046225"
+            },
+            {
+                "idx": 3,
+                "uid": "14394855283547101359",
+                "type": "14394855283547101359"
+            },
+            {
+                "idx": 4,
+                "uid": "9869262031970614679",
+                "type": "9869262031970614679"
+            },
+            {
+                "idx": 5,
+                "uid": "8914625184080453985",
+                "type": "8914625184080453985"
+            },
+            {
+                "idx": 6,
+                "uid": "3000281557900117571",
+                "type": "3000281557900117571"
+            },
+            {
+                "idx": 7,
+                "uid": "12028844006932807553",
+                "type": "12028844006932807553"
+            },
+            {
+                "idx": 8,
+                "uid": "571450253514958910",
+                "type": "571450253514958910"
+            },
+            {
+                "idx": 9,
+                "uid": "12261273158003217664",
+                "type": "BugEnemyType_Spore_Spewer"
+            },
+            {
+                "idx": 10,
+                "uid": "992978004870917680",
+                "type": "992978004870917680"
+            },
+            {
+                "idx": 11,
+                "uid": "15893233259881380762",
+                "type": "BugEnemyType_Spore_Lung"
+            },
+            {
+                "idx": 12,
+                "uid": "12955111991617354039",
+                "type": "IlluminateEnemyType_LandedWarpship_MK2"
+            },
+            {
+                "idx": 13,
+                "uid": "10380789927509132575",
+                "type": "10380789927509132575"
+            },
+            {
+                "idx": 14,
+                "uid": "3780916594232485446",
+                "type": "3780916594232485446"
+            },
+            {
+                "idx": 15,
+                "uid": "14436979396594416148",
+                "type": "14436979396594416148"
+            },
+            {
+                "idx": 16,
+                "uid": "7876476730747253827",
+                "type": "7876476730747253827"
+            },
+            {
+                "idx": 17,
+                "uid": "16153967468671429253",
+                "type": "BugEnemyType_Spore_Spewer_MK2"
+            },
+            {
+                "idx": 18,
+                "uid": "1514077279537086268",
+                "type": "BugEnemyType_Spore_Spewer TCS"
+            },
+            {
+                "idx": 19,
+                "uid": "14731312854664874139",
+                "type": "BugEnemyType_NursingSpewer"
+            },
+            {
+                "idx": 20,
+                "uid": "6927066342767148424",
+                "type": "BugEnemyType_NursingSpewer"
+            },
+            {
+                "idx": 21,
+                "uid": "7719208875390099550",
+                "type": "BugEnemyType_Charger_CausticStrain"
+            }
+        ]
+    }
 }

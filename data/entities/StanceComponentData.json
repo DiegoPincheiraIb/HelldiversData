@@ -1,582 +1,2714 @@
 {
-  "17943362722330235151": {
-    "stand": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 1,
-        "y": 1.10000002
-      },
-      "animation_event_enter": 1700377298,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 1683744592
-    },
-    "crouch": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 0.600000024,
-        "y": 0.649999976
-      },
-      "animation_event_enter": 3059040427,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 1629232052
-    },
-    "prone": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 0.400000006,
-        "y": 0.449999988
-      },
-      "animation_event_enter": 330215787,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 0
+    "StanceComponentData": {
+        "items": [
+            {
+                "unique_id": "5556372446766824087",
+                "uid_name": "Avatar_Helldiver",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 0.75,
+                        "y": 3.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 4.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 3.0,
+                        "y": 12.0
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 3.0,
+                        "y": 12.0
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 0.899999976,
+                        "y": 1.100000024
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "noise": {
+                        "x": 0.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 3527513258,
+                    "collider_name": 0
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 0.5,
+                        "y": 2.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 0.75,
+                        "y": 3.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 3.0,
+                        "y": 12.0
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 3.0,
+                        "y": 12.0
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 0.600000024,
+                        "y": 0.899999976
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 0.600000024,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 0.0,
+                        "y": 0.5
+                    },
+                    "visibility": {
+                        "x": 0.800000012,
+                        "y": 0.800000012
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 132334434,
+                    "collider_name": 0
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 0.100000001,
+                        "y": 0.100000001
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 0.400000006,
+                        "y": 0.400000006
+                    },
+                    "sway_scoped_freq": {
+                        "x": 2.0,
+                        "y": 2.0
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 3.0,
+                        "y": 3.0
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 0.400000006,
+                        "y": 0.400000006
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 0.400000006,
+                        "y": 0.400000006
+                    },
+                    "noise": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "visibility": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 3214759831,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "8500519467319350019",
+                "uid_name": "SuperEarthType_SEAF_NPC_Support",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "152751642744350684",
+                "uid_name": "152751642744350684",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "7512712492736498702",
+                "uid_name": "7512712492736498702",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "17943362722330235151",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.400000006,
+                        "y": 0.449999988
+                    },
+                    "animation_event_enter": 330215787,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "7719924637775600975",
+                "uid_name": "SuperEarthType_SEAF_NPC_withBackpack",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "11530114387757953774",
+                "uid_name": "SuperEarthType_SEAF_NPC_MK1",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "6089208603239816028",
+                "uid_name": "SuperEarthType_SEAF_NPC_MK2",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "13617855600110100742",
+                "uid_name": "SuperEarthType_SEAF_NPC_withWireless_MK1",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "8708480032737395252",
+                "uid_name": "SuperEarthType_SEAF_NPC_withWireless_MK2",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "1460639142923993241",
+                "uid_name": "SuperEarthType_SEAF_NPC_Medic_MK1",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "8048468262572802857",
+                "uid_name": "SuperEarthType_SEAF_NPC_Medic_MK2",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "14155525937218621891",
+                "uid_name": "SuperEarthType_SEAF_NPC_Medic_MK3",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "13814167941378577880",
+                "uid_name": "SuperEarthType_SEAF_NPC_HeavyWeapons_MK1",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "12023698573119337990",
+                "uid_name": "SuperEarthType_SEAF_NPC_HeavyWeapons_MK2",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "animation_event_enter": 0,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "1024464436030047776",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.400000006,
+                        "y": 0.449999988
+                    },
+                    "animation_event_enter": 330215787,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "9683243174428770658",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female_MK2",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.400000006,
+                        "y": 0.449999988
+                    },
+                    "animation_event_enter": 330215787,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "10179078936557797909",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female_MK3",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.400000006,
+                        "y": 0.449999988
+                    },
+                    "animation_event_enter": 330215787,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "15395181080776134584",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female_MK4",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.400000006,
+                        "y": 0.449999988
+                    },
+                    "animation_event_enter": 330215787,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "14040307618832651425",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male_MK2",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.400000006,
+                        "y": 0.449999988
+                    },
+                    "animation_event_enter": 330215787,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "7444362792725516608",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male_MK3",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.400000006,
+                        "y": 0.449999988
+                    },
+                    "animation_event_enter": 330215787,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            },
+            {
+                "unique_id": "1232841523375292236",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male_MK4",
+                "stand": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 1.0,
+                        "y": 1.100000024
+                    },
+                    "animation_event_enter": 1700377298,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1683744592
+                },
+                "crouch": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.600000024,
+                        "y": 0.649999976
+                    },
+                    "animation_event_enter": 3059040427,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 1629232052
+                },
+                "prone": {
+                    "sway_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "sway_scoped_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "sway_thirdperson_freq": {
+                        "x": 1.0,
+                        "y": 1.5
+                    },
+                    "recoil_scoped_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "recoil_thirdperson_mult": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "noise": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "visibility": {
+                        "x": 0.400000006,
+                        "y": 0.449999988
+                    },
+                    "animation_event_enter": 330215787,
+                    "animation_event_exit": 0,
+                    "mover_name": 0,
+                    "collider_name": 0
+                }
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "5556372446766824087",
+                "type": "Avatar_Helldiver"
+            },
+            {
+                "idx": 1,
+                "uid": "8500519467319350019",
+                "type": "SuperEarthType_SEAF_NPC_Support"
+            },
+            {
+                "idx": 2,
+                "uid": "152751642744350684",
+                "type": "152751642744350684"
+            },
+            {
+                "idx": 3,
+                "uid": "7512712492736498702",
+                "type": "7512712492736498702"
+            },
+            {
+                "idx": 4,
+                "uid": "17943362722330235151",
+                "type": "SuperEarthType_Extractable_Worker_Male"
+            },
+            {
+                "idx": 5,
+                "uid": "7719924637775600975",
+                "type": "SuperEarthType_SEAF_NPC_withBackpack"
+            },
+            {
+                "idx": 6,
+                "uid": "11530114387757953774",
+                "type": "SuperEarthType_SEAF_NPC_MK1"
+            },
+            {
+                "idx": 7,
+                "uid": "6089208603239816028",
+                "type": "SuperEarthType_SEAF_NPC_MK2"
+            },
+            {
+                "idx": 8,
+                "uid": "13617855600110100742",
+                "type": "SuperEarthType_SEAF_NPC_withWireless_MK1"
+            },
+            {
+                "idx": 9,
+                "uid": "8708480032737395252",
+                "type": "SuperEarthType_SEAF_NPC_withWireless_MK2"
+            },
+            {
+                "idx": 10,
+                "uid": "1460639142923993241",
+                "type": "SuperEarthType_SEAF_NPC_Medic_MK1"
+            },
+            {
+                "idx": 11,
+                "uid": "8048468262572802857",
+                "type": "SuperEarthType_SEAF_NPC_Medic_MK2"
+            },
+            {
+                "idx": 12,
+                "uid": "14155525937218621891",
+                "type": "SuperEarthType_SEAF_NPC_Medic_MK3"
+            },
+            {
+                "idx": 13,
+                "uid": "13814167941378577880",
+                "type": "SuperEarthType_SEAF_NPC_HeavyWeapons_MK1"
+            },
+            {
+                "idx": 14,
+                "uid": "12023698573119337990",
+                "type": "SuperEarthType_SEAF_NPC_HeavyWeapons_MK2"
+            },
+            {
+                "idx": 15,
+                "uid": "1024464436030047776",
+                "type": "SuperEarthType_Extractable_Worker_Female"
+            },
+            {
+                "idx": 16,
+                "uid": "9683243174428770658",
+                "type": "SuperEarthType_Extractable_Worker_Female_MK2"
+            },
+            {
+                "idx": 17,
+                "uid": "10179078936557797909",
+                "type": "SuperEarthType_Extractable_Worker_Female_MK3"
+            },
+            {
+                "idx": 18,
+                "uid": "15395181080776134584",
+                "type": "SuperEarthType_Extractable_Worker_Female_MK4"
+            },
+            {
+                "idx": 19,
+                "uid": "14040307618832651425",
+                "type": "SuperEarthType_Extractable_Worker_Male_MK2"
+            },
+            {
+                "idx": 20,
+                "uid": "7444362792725516608",
+                "type": "SuperEarthType_Extractable_Worker_Male_MK3"
+            },
+            {
+                "idx": 21,
+                "uid": "1232841523375292236",
+                "type": "SuperEarthType_Extractable_Worker_Male_MK4"
+            }
+        ]
     }
-  },
-  "7512712492736498702": {
-    "stand": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 1,
-        "y": 1.10000002
-      },
-      "animation_event_enter": 1700377298,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 1683744592
-    },
-    "crouch": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 0.600000024,
-        "y": 0.649999976
-      },
-      "animation_event_enter": 3059040427,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 1629232052
-    },
-    "prone": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 1,
-        "y": 1
-      },
-      "animation_event_enter": 0,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 0
-    }
-  },
-  "152751642744350684": {
-    "stand": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 1,
-        "y": 1.10000002
-      },
-      "animation_event_enter": 1700377298,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 1683744592
-    },
-    "crouch": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 0.600000024,
-        "y": 0.649999976
-      },
-      "animation_event_enter": 3059040427,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 1629232052
-    },
-    "prone": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 1,
-        "y": 1
-      },
-      "animation_event_enter": 0,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 0
-    }
-  },
-  "1024464436030047776": {
-    "stand": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 1,
-        "y": 1.10000002
-      },
-      "animation_event_enter": 1700377298,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 1683744592
-    },
-    "crouch": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 0.600000024,
-        "y": 0.649999976
-      },
-      "animation_event_enter": 3059040427,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 1629232052
-    },
-    "prone": {
-      "sway_move_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "sway_move_frequency_scoped": {
-        "x": 1,
-        "y": 1.5
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1
-      },
-      "noise": {
-        "x": 1,
-        "y": 1
-      },
-      "visibility": {
-        "x": 0.400000006,
-        "y": 0.449999988
-      },
-      "animation_event_enter": 330215787,
-      "animation_event_exit": 0,
-      "mover_name": 0,
-      "collider_name": 0
-    }
-  },
-  "5556372446766824087": {
-    "stand": {
-      "sway_move_modifier_scoped": {
-        "x": 0.75,
-        "y": 3
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 1,
-        "y": 4
-      },
-      "sway_move_frequency_scoped": {
-        "x": 3,
-        "y": 12
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 3,
-        "y": 12
-      },
-      "recoil_modifier_scoped": {
-        "x": 0.899999976,
-        "y": 1.10000002
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 1,
-        "y": 1.5
-      },
-      "noise": {
-        "x": 0,
-        "y": 1
-      },
-      "visibility": {
-        "x": 1,
-        "y": 1
-      },
-      "animation_event_enter": 0,
-      "animation_event_exit": 0,
-      "mover_name": 3527513258,
-      "collider_name": 0
-    },
-    "crouch": {
-      "sway_move_modifier_scoped": {
-        "x": 0.5,
-        "y": 2
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 0.75,
-        "y": 3
-      },
-      "sway_move_frequency_scoped": {
-        "x": 3,
-        "y": 12
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 3,
-        "y": 12
-      },
-      "recoil_modifier_scoped": {
-        "x": 0.600000024,
-        "y": 0.899999976
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 0.600000024,
-        "y": 1
-      },
-      "noise": {
-        "x": 0,
-        "y": 0.5
-      },
-      "visibility": {
-        "x": 0.800000012,
-        "y": 0.800000012
-      },
-      "animation_event_enter": 0,
-      "animation_event_exit": 0,
-      "mover_name": 132334434,
-      "collider_name": 0
-    },
-    "prone": {
-      "sway_move_modifier_scoped": {
-        "x": 0.100000001,
-        "y": 0.100000001
-      },
-      "sway_move_modifier_thirdperson": {
-        "x": 0.400000006,
-        "y": 0.400000006
-      },
-      "sway_move_frequency_scoped": {
-        "x": 2,
-        "y": 2
-      },
-      "sway_move_frequency_thirdperson": {
-        "x": 3,
-        "y": 3
-      },
-      "recoil_modifier_scoped": {
-        "x": 0.400000006,
-        "y": 0.400000006
-      },
-      "recoil_modifier_thirdperson": {
-        "x": 0.400000006,
-        "y": 0.400000006
-      },
-      "noise": {
-        "x": 0,
-        "y": 0
-      },
-      "visibility": {
-        "x": 0.5,
-        "y": 0.5
-      },
-      "animation_event_enter": 0,
-      "animation_event_exit": 0,
-      "mover_name": 3214759831,
-      "collider_name": 0
-    }
-  }
 }

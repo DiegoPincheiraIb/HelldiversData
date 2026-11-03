@@ -1,74 +1,136 @@
 {
-  "7705018721877954864": {
-    "mine_path": 10695854393089637431,
-    "area_width": 48,
-    "area_depth": 24,
-    "mine_count_width": 4,
-    "mine_count_depth": 4,
-    "position_variance": 6,
-    "marker_mines": 0
-  },
-  "8479962019228554418": {
-    "mine_path": 10695854393089637431,
-    "area_width": 64,
-    "area_depth": 64,
-    "mine_count_width": 6,
-    "mine_count_depth": 6,
-    "position_variance": 9,
-    "marker_mines": 0
-  },
-  "5200820166822610051": {
-    "mine_path": 10695854393089637431,
-    "area_width": 48,
-    "area_depth": 24,
-    "mine_count_width": 8,
-    "mine_count_depth": 4,
-    "position_variance": 4.5,
-    "marker_mines": 0
-  },
-  "13919159664058817929": {
-    "mine_path": 10695854393089637431,
-    "area_width": 24,
-    "area_depth": 30,
-    "mine_count_width": 3,
-    "mine_count_depth": 3,
-    "position_variance": 7,
-    "marker_mines": 0
-  },
-  "931605081112590873": {
-    "mine_path": 10695854393089637431,
-    "area_width": 24,
-    "area_depth": 30,
-    "mine_count_width": 4,
-    "mine_count_depth": 5,
-    "position_variance": 4.5,
-    "marker_mines": 0
-  },
-  "289442314985484474": {
-    "mine_path": 10695854393089637431,
-    "area_width": 24,
-    "area_depth": 30,
-    "mine_count_width": 4,
-    "mine_count_depth": 5,
-    "position_variance": 2,
-    "marker_mines": 0
-  },
-  "3578086008623815565": {
-    "mine_path": 10695854393089637431,
-    "area_width": 10,
-    "area_depth": 10,
-    "mine_count_width": 1,
-    "mine_count_depth": 1,
-    "position_variance": 0,
-    "marker_mines": 1
-  },
-  "14446953359610197390": {
-    "mine_path": 10695854393089637431,
-    "area_width": 48,
-    "area_depth": 48,
-    "mine_count_width": 5,
-    "mine_count_depth": 5,
-    "position_variance": 8,
-    "marker_mines": 0
-  }
+    "MineSpawnerComponentData": {
+        "items": [
+            {
+                "unique_id": "3578086008623815565",
+                "uid_name": "BotEnemyType_ContactMine",
+                "mine_path": 10695854393089637431,
+                "area_width": 10.0,
+                "area_depth": 10.0,
+                "mine_count_width": 1,
+                "mine_count_depth": 1,
+                "position_variance": 0.0,
+                "marker_mines": 1
+            },
+            {
+                "unique_id": "289442314985484474",
+                "uid_name": "289442314985484474",
+                "mine_path": 10695854393089637431,
+                "area_width": 24.0,
+                "area_depth": 30.0,
+                "mine_count_width": 4,
+                "mine_count_depth": 5,
+                "position_variance": 2.0,
+                "marker_mines": 0
+            },
+            {
+                "unique_id": "931605081112590873",
+                "uid_name": "931605081112590873",
+                "mine_path": 10695854393089637431,
+                "area_width": 24.0,
+                "area_depth": 30.0,
+                "mine_count_width": 4,
+                "mine_count_depth": 5,
+                "position_variance": 4.5,
+                "marker_mines": 0
+            },
+            {
+                "unique_id": "5200820166822610051",
+                "uid_name": "5200820166822610051",
+                "mine_path": 10695854393089637431,
+                "area_width": 48.0,
+                "area_depth": 24.0,
+                "mine_count_width": 8,
+                "mine_count_depth": 4,
+                "position_variance": 4.5,
+                "marker_mines": 0
+            },
+            {
+                "unique_id": "13919159664058817929",
+                "uid_name": "13919159664058817929",
+                "mine_path": 10695854393089637431,
+                "area_width": 24.0,
+                "area_depth": 30.0,
+                "mine_count_width": 3,
+                "mine_count_depth": 3,
+                "position_variance": 7.0,
+                "marker_mines": 0
+            },
+            {
+                "unique_id": "7705018721877954864",
+                "uid_name": "7705018721877954864",
+                "mine_path": 10695854393089637431,
+                "area_width": 48.0,
+                "area_depth": 24.0,
+                "mine_count_width": 4,
+                "mine_count_depth": 4,
+                "position_variance": 6.0,
+                "marker_mines": 0
+            },
+            {
+                "unique_id": "14446953359610197390",
+                "uid_name": "14446953359610197390",
+                "mine_path": 10695854393089637431,
+                "area_width": 48.0,
+                "area_depth": 48.0,
+                "mine_count_width": 5,
+                "mine_count_depth": 5,
+                "position_variance": 8.0,
+                "marker_mines": 0
+            },
+            {
+                "unique_id": "8479962019228554418",
+                "uid_name": "8479962019228554418",
+                "mine_path": 10695854393089637431,
+                "area_width": 64.0,
+                "area_depth": 64.0,
+                "mine_count_width": 6,
+                "mine_count_depth": 6,
+                "position_variance": 9.0,
+                "marker_mines": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "3578086008623815565",
+                "type": "BotEnemyType_ContactMine"
+            },
+            {
+                "idx": 1,
+                "uid": "289442314985484474",
+                "type": "289442314985484474"
+            },
+            {
+                "idx": 2,
+                "uid": "931605081112590873",
+                "type": "931605081112590873"
+            },
+            {
+                "idx": 3,
+                "uid": "5200820166822610051",
+                "type": "5200820166822610051"
+            },
+            {
+                "idx": 4,
+                "uid": "13919159664058817929",
+                "type": "13919159664058817929"
+            },
+            {
+                "idx": 5,
+                "uid": "7705018721877954864",
+                "type": "7705018721877954864"
+            },
+            {
+                "idx": 6,
+                "uid": "14446953359610197390",
+                "type": "14446953359610197390"
+            },
+            {
+                "idx": 7,
+                "uid": "8479962019228554418",
+                "type": "8479962019228554418"
+            }
+        ]
+    }
 }

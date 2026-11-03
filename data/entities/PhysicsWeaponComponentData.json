@@ -1,5 +1,23 @@
 {
-  "5731472083741485993": {
-    "dry_fire_repeat_audio_event": 0
-  }
+    "PhysicsWeaponComponentData": {
+        "items": [
+            {
+                "unique_id": "5731472083741485993",
+                "uid_name": "UnknownType_Unknown_PhysGun",
+                "dry_fire_repeat_audio_event": 0
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "dry_fire_repeat_audio_event": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "5731472083741485993",
+                "type": "UnknownType_Unknown_PhysGun"
+            }
+        ]
+    }
 }

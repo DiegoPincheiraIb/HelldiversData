@@ -1,20 +1,488 @@
 {
-  "7435299642389799754": {
-    "is_spawner": 0,
-    "max_product_count": 0,
-    "product_notify_on_spawned": 2342468885,
-    "product_notify_on_dead": 3215851785,
-    "product_notify_on_removed": 2872501618,
-    "spawner_notify_on_dead": 0,
-    "spawner_notify_on_removed": 0
-  },
-  "15922730753540746811": {
-    "is_spawner": 1,
-    "max_product_count": 3,
-    "product_notify_on_spawned": 0,
-    "product_notify_on_dead": 0,
-    "product_notify_on_removed": 0,
-    "spawner_notify_on_dead": 3249320373,
-    "spawner_notify_on_removed": 0
-  }
+    "SpawnLinkComponentData": {
+        "items": [
+            {
+                "unique_id": "15922730753540746811",
+                "uid_name": "BugEnemyType_Impaler",
+                "is_spawner": 1,
+                "max_product_count": 3,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 3249320373,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "7435299642389799754",
+                "uid_name": "BugEnemyType_Impaler_Tentacle",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 2342468885,
+                "product_notify_on_dead": 3215851785,
+                "product_notify_on_removed": 2872501618,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "12566139334605762628",
+                "uid_name": "BotEnemyType_Devastator_MK3",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "15239773297738004195",
+                "uid_name": "BotEnemyType_FactoryStrider",
+                "is_spawner": 1,
+                "max_product_count": 4,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "3480210643284562409",
+                "uid_name": "3480210643284562409",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 93267050,
+                "spawner_notify_on_removed": 155927390
+            },
+            {
+                "unique_id": "2115131297959695136",
+                "uid_name": "2115131297959695136",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "15511358547654039364",
+                "uid_name": "15511358547654039364",
+                "is_spawner": 1,
+                "max_product_count": 2,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "15527487151296701784",
+                "uid_name": "15527487151296701784",
+                "is_spawner": 1,
+                "max_product_count": 2,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "4574601326681303054",
+                "uid_name": "4574601326681303054",
+                "is_spawner": 1,
+                "max_product_count": 1,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "1360722107924848115",
+                "uid_name": "1360722107924848115",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "10380789927509132575",
+                "uid_name": "10380789927509132575",
+                "is_spawner": 1,
+                "max_product_count": 2,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "18432337427099234275",
+                "uid_name": "18432337427099234275",
+                "is_spawner": 1,
+                "max_product_count": 2,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "3516160165245076944",
+                "uid_name": "3516160165245076944",
+                "is_spawner": 1,
+                "max_product_count": 2,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "5577427870907951727",
+                "uid_name": "5577427870907951727",
+                "is_spawner": 1,
+                "max_product_count": 2,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "4707403545565814342",
+                "uid_name": "IlluminateEnemyType_Exospire_ParticleEffect",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "6336231432473988509",
+                "uid_name": "BotEnemyType_Devastator_IncendiaryCorps",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "18198461672611034237",
+                "uid_name": "BotEnemyType_Devastator_MK2",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "13723659040410201638",
+                "uid_name": "BotEnemyType_Devastator_JetBrigade",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "13340847352459495240",
+                "uid_name": "BotEnemyType_HeavyDevastator_MK2",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "17921415124075533547",
+                "uid_name": "BotEnemyType_HeavyDevastator",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "6391373595476922945",
+                "uid_name": "BotEnemyType_MGDevastator_IncendiaryCorps",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "10514734670540770044",
+                "uid_name": "BotEnemyType_HeavyDevastator_MK3",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "10828817397904429935",
+                "uid_name": "BotEnemyType_RocketDevastator",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "17756861745706792858",
+                "uid_name": "BotEnemyType_RocketDevastator_MK2",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "14536718756304552612",
+                "uid_name": "BotEnemyType_RocketDevastator_IncendiaryCorps",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "16155873629479015795",
+                "uid_name": "BotEnemyType_ConflagrationDevastator_IncendiaryCorps",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "3527126521288270458",
+                "uid_name": "3527126521288270458",
+                "is_spawner": 1,
+                "max_product_count": 4,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "17393195075174683200",
+                "uid_name": "IlluminateEnemyType_Overseer_MK3",
+                "is_spawner": 0,
+                "max_product_count": 0,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "2388937448778091108",
+                "uid_name": "2388937448778091108",
+                "is_spawner": 1,
+                "max_product_count": 2,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            },
+            {
+                "unique_id": "13179608898300476996",
+                "uid_name": "13179608898300476996",
+                "is_spawner": 1,
+                "max_product_count": 1,
+                "product_notify_on_spawned": 0,
+                "product_notify_on_dead": 0,
+                "product_notify_on_removed": 0,
+                "spawner_notify_on_dead": 0,
+                "spawner_notify_on_removed": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "15922730753540746811",
+                "type": "BugEnemyType_Impaler"
+            },
+            {
+                "idx": 1,
+                "uid": "7435299642389799754",
+                "type": "BugEnemyType_Impaler_Tentacle"
+            },
+            {
+                "idx": 2,
+                "uid": "12566139334605762628",
+                "type": "BotEnemyType_Devastator_MK3"
+            },
+            {
+                "idx": 3,
+                "uid": "15239773297738004195",
+                "type": "BotEnemyType_FactoryStrider"
+            },
+            {
+                "idx": 4,
+                "uid": "3480210643284562409",
+                "type": "3480210643284562409"
+            },
+            {
+                "idx": 5,
+                "uid": "2115131297959695136",
+                "type": "2115131297959695136"
+            },
+            {
+                "idx": 6,
+                "uid": "15511358547654039364",
+                "type": "15511358547654039364"
+            },
+            {
+                "idx": 7,
+                "uid": "15527487151296701784",
+                "type": "15527487151296701784"
+            },
+            {
+                "idx": 8,
+                "uid": "4574601326681303054",
+                "type": "4574601326681303054"
+            },
+            {
+                "idx": 9,
+                "uid": "1360722107924848115",
+                "type": "1360722107924848115"
+            },
+            {
+                "idx": 10,
+                "uid": "10380789927509132575",
+                "type": "10380789927509132575"
+            },
+            {
+                "idx": 11,
+                "uid": "18432337427099234275",
+                "type": "18432337427099234275"
+            },
+            {
+                "idx": 12,
+                "uid": "3516160165245076944",
+                "type": "3516160165245076944"
+            },
+            {
+                "idx": 13,
+                "uid": "5577427870907951727",
+                "type": "5577427870907951727"
+            },
+            {
+                "idx": 14,
+                "uid": "4707403545565814342",
+                "type": "IlluminateEnemyType_Exospire_ParticleEffect"
+            },
+            {
+                "idx": 15,
+                "uid": "6336231432473988509",
+                "type": "BotEnemyType_Devastator_IncendiaryCorps"
+            },
+            {
+                "idx": 16,
+                "uid": "18198461672611034237",
+                "type": "BotEnemyType_Devastator_MK2"
+            },
+            {
+                "idx": 17,
+                "uid": "13723659040410201638",
+                "type": "BotEnemyType_Devastator_JetBrigade"
+            },
+            {
+                "idx": 18,
+                "uid": "13340847352459495240",
+                "type": "BotEnemyType_HeavyDevastator_MK2"
+            },
+            {
+                "idx": 19,
+                "uid": "17921415124075533547",
+                "type": "BotEnemyType_HeavyDevastator"
+            },
+            {
+                "idx": 20,
+                "uid": "6391373595476922945",
+                "type": "BotEnemyType_MGDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 21,
+                "uid": "10514734670540770044",
+                "type": "BotEnemyType_HeavyDevastator_MK3"
+            },
+            {
+                "idx": 22,
+                "uid": "10828817397904429935",
+                "type": "BotEnemyType_RocketDevastator"
+            },
+            {
+                "idx": 23,
+                "uid": "17756861745706792858",
+                "type": "BotEnemyType_RocketDevastator_MK2"
+            },
+            {
+                "idx": 24,
+                "uid": "14536718756304552612",
+                "type": "BotEnemyType_RocketDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 25,
+                "uid": "16155873629479015795",
+                "type": "BotEnemyType_ConflagrationDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 26,
+                "uid": "3527126521288270458",
+                "type": "3527126521288270458"
+            },
+            {
+                "idx": 27,
+                "uid": "17393195075174683200",
+                "type": "IlluminateEnemyType_Overseer_MK3"
+            },
+            {
+                "idx": 28,
+                "uid": "2388937448778091108",
+                "type": "2388937448778091108"
+            },
+            {
+                "idx": 29,
+                "uid": "13179608898300476996",
+                "type": "13179608898300476996"
+            }
+        ]
+    }
 }

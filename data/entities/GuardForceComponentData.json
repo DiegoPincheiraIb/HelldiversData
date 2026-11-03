@@ -1,122 +1,281 @@
 {
-  "16603656238085595960": {
-    "points_override": 0,
-    "points_multiplier": 0.75,
-    "race": "RaceType_Illuminate",
-    "npc_type": "NpcType_None"
-  },
-  "5162281576342681441": {
-    "points_override": 0,
-    "points_multiplier": 0.5,
-    "race": "RaceType_Cyborg",
-    "npc_type": "NpcType_None"
-  },
-  "12499178662335403806": {
-    "points_override": 0,
-    "points_multiplier": 0.5,
-    "race": "RaceType_Bugs",
-    "npc_type": "NpcType_None"
-  },
-  "14357373657801768047": {
-    "points_override": 0,
-    "points_multiplier": 2,
-    "race": "RaceType_Cyborg",
-    "npc_type": "NpcType_None"
-  },
-  "7516392615311532008": {
-    "points_override": 0,
-    "points_multiplier": 2,
-    "race": "RaceType_Cyborg",
-    "npc_type": "NpcType_None"
-  },
-  "17701660320712954733": {
-    "points_override": 0,
-    "points_multiplier": 1.5,
-    "race": "RaceType_Illuminate",
-    "npc_type": "NpcType_None"
-  },
-  "15077078732328769815": {
-    "points_override": 0,
-    "points_multiplier": 0.75,
-    "race": "RaceType_Cyborg",
-    "npc_type": "NpcType_None"
-  },
-  "13342336668382427736": {
-    "points_override": 0,
-    "points_multiplier": 0.5,
-    "race": "RaceType_Illuminate",
-    "npc_type": "NpcType_None"
-  },
-  "14272783677463290298": {
-    "points_override": 0,
-    "points_multiplier": 0.75,
-    "race": "RaceType_Bugs",
-    "npc_type": "NpcType_None"
-  },
-  "5760480594653908939": {
-    "points_override": 0,
-    "points_multiplier": 1,
-    "race": "RaceType_Cyborg",
-    "npc_type": "NpcType_None"
-  },
-  "14991717541593849540": {
-    "points_override": 0,
-    "points_multiplier": 2,
-    "race": "RaceType_Bugs",
-    "npc_type": "NpcType_None"
-  },
-  "8510235247971412780": {
-    "points_override": 0,
-    "points_multiplier": 1.5,
-    "race": "RaceType_Cyborg",
-    "npc_type": "NpcType_None"
-  },
-  "12603428453016072583": {
-    "points_override": 120,
-    "points_multiplier": 1,
-    "race": "RaceType_SuperEarth",
-    "npc_type": "NpcType_Civilian"
-  },
-  "18263821409445622784": {
-    "points_override": 0,
-    "points_multiplier": 2,
-    "race": "RaceType_Bugs",
-    "npc_type": "NpcType_None"
-  },
-  "17390303136041605867": {
-    "points_override": 0,
-    "points_multiplier": 2,
-    "race": "RaceType_Illuminate",
-    "npc_type": "NpcType_None"
-  },
-  "13256504665046020310": {
-    "points_override": 120,
-    "points_multiplier": 1,
-    "race": "RaceType_SuperEarth",
-    "npc_type": "NpcType_Rebel"
-  },
-  "14969368728000495631": {
-    "points_override": 0,
-    "points_multiplier": 1,
-    "race": "RaceType_Bugs",
-    "npc_type": "NpcType_None"
-  },
-  "5606642810579565433": {
-    "points_override": 0,
-    "points_multiplier": 1,
-    "race": "RaceType_Illuminate",
-    "npc_type": "NpcType_None"
-  },
-  "10821140762636053034": {
-    "points_override": 120,
-    "points_multiplier": 1,
-    "race": "RaceType_SuperEarth",
-    "npc_type": "NpcType_Seaf"
-  },
-  "2826271079403656274": {
-    "points_override": 0,
-    "points_multiplier": 1.5,
-    "race": "RaceType_Bugs",
-    "npc_type": "NpcType_None"
-  }
+    "GuardForceComponentData": {
+        "items": [
+            {
+                "unique_id": "9140903931804901765",
+                "uid_name": "9140903931804901765",
+                "points_override": 0.0,
+                "points_multiplier": 2.0,
+                "race": "RaceType_Bugs",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "2826271079403656274",
+                "uid_name": "2826271079403656274",
+                "points_override": 0.0,
+                "points_multiplier": 1.5,
+                "race": "RaceType_Bugs",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "18263821409445622784",
+                "uid_name": "18263821409445622784",
+                "points_override": 0.0,
+                "points_multiplier": 2.0,
+                "race": "RaceType_Bugs",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "14969368728000495631",
+                "uid_name": "14969368728000495631",
+                "points_override": 0.0,
+                "points_multiplier": 1.0,
+                "race": "RaceType_Bugs",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "14272783677463290298",
+                "uid_name": "14272783677463290298",
+                "points_override": 0.0,
+                "points_multiplier": 0.75,
+                "race": "RaceType_Bugs",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "14991717541593849540",
+                "uid_name": "14991717541593849540",
+                "points_override": 0.0,
+                "points_multiplier": 2.0,
+                "race": "RaceType_Bugs",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "12499178662335403806",
+                "uid_name": "12499178662335403806",
+                "points_override": 0.0,
+                "points_multiplier": 0.5,
+                "race": "RaceType_Bugs",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "8510235247971412780",
+                "uid_name": "8510235247971412780",
+                "points_override": 0.0,
+                "points_multiplier": 1.5,
+                "race": "RaceType_Cyborg",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "7516392615311532008",
+                "uid_name": "7516392615311532008",
+                "points_override": 0.0,
+                "points_multiplier": 2.0,
+                "race": "RaceType_Cyborg",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "5760480594653908939",
+                "uid_name": "5760480594653908939",
+                "points_override": 0.0,
+                "points_multiplier": 1.0,
+                "race": "RaceType_Cyborg",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "15077078732328769815",
+                "uid_name": "15077078732328769815",
+                "points_override": 0.0,
+                "points_multiplier": 0.75,
+                "race": "RaceType_Cyborg",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "14357373657801768047",
+                "uid_name": "14357373657801768047",
+                "points_override": 0.0,
+                "points_multiplier": 2.0,
+                "race": "RaceType_Cyborg",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "5162281576342681441",
+                "uid_name": "5162281576342681441",
+                "points_override": 0.0,
+                "points_multiplier": 0.5,
+                "race": "RaceType_Cyborg",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "17701660320712954733",
+                "uid_name": "17701660320712954733",
+                "points_override": 0.0,
+                "points_multiplier": 1.5,
+                "race": "RaceType_Illuminate",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "17390303136041605867",
+                "uid_name": "17390303136041605867",
+                "points_override": 0.0,
+                "points_multiplier": 2.0,
+                "race": "RaceType_Illuminate",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "5606642810579565433",
+                "uid_name": "5606642810579565433",
+                "points_override": 0.0,
+                "points_multiplier": 1.0,
+                "race": "RaceType_Illuminate",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "16603656238085595960",
+                "uid_name": "16603656238085595960",
+                "points_override": 0.0,
+                "points_multiplier": 0.75,
+                "race": "RaceType_Illuminate",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "13342336668382427736",
+                "uid_name": "13342336668382427736",
+                "points_override": 0.0,
+                "points_multiplier": 0.5,
+                "race": "RaceType_Illuminate",
+                "npc_type": "NpcType_None"
+            },
+            {
+                "unique_id": "12603428453016072583",
+                "uid_name": "12603428453016072583",
+                "points_override": 120.0,
+                "points_multiplier": 1.0,
+                "race": "RaceType_SuperEarth",
+                "npc_type": "NpcType_Civilian"
+            },
+            {
+                "unique_id": "13256504665046020310",
+                "uid_name": "13256504665046020310",
+                "points_override": 120.0,
+                "points_multiplier": 1.0,
+                "race": "RaceType_SuperEarth",
+                "npc_type": "NpcType_Rebel"
+            },
+            {
+                "unique_id": "10821140762636053034",
+                "uid_name": "10821140762636053034",
+                "points_override": 120.0,
+                "points_multiplier": 1.0,
+                "race": "RaceType_SuperEarth",
+                "npc_type": "NpcType_Seaf"
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "9140903931804901765",
+                "type": "9140903931804901765"
+            },
+            {
+                "idx": 1,
+                "uid": "2826271079403656274",
+                "type": "2826271079403656274"
+            },
+            {
+                "idx": 2,
+                "uid": "18263821409445622784",
+                "type": "18263821409445622784"
+            },
+            {
+                "idx": 3,
+                "uid": "14969368728000495631",
+                "type": "14969368728000495631"
+            },
+            {
+                "idx": 4,
+                "uid": "14272783677463290298",
+                "type": "14272783677463290298"
+            },
+            {
+                "idx": 5,
+                "uid": "14991717541593849540",
+                "type": "14991717541593849540"
+            },
+            {
+                "idx": 6,
+                "uid": "12499178662335403806",
+                "type": "12499178662335403806"
+            },
+            {
+                "idx": 7,
+                "uid": "8510235247971412780",
+                "type": "8510235247971412780"
+            },
+            {
+                "idx": 8,
+                "uid": "7516392615311532008",
+                "type": "7516392615311532008"
+            },
+            {
+                "idx": 9,
+                "uid": "5760480594653908939",
+                "type": "5760480594653908939"
+            },
+            {
+                "idx": 10,
+                "uid": "15077078732328769815",
+                "type": "15077078732328769815"
+            },
+            {
+                "idx": 11,
+                "uid": "14357373657801768047",
+                "type": "14357373657801768047"
+            },
+            {
+                "idx": 12,
+                "uid": "5162281576342681441",
+                "type": "5162281576342681441"
+            },
+            {
+                "idx": 13,
+                "uid": "17701660320712954733",
+                "type": "17701660320712954733"
+            },
+            {
+                "idx": 14,
+                "uid": "17390303136041605867",
+                "type": "17390303136041605867"
+            },
+            {
+                "idx": 15,
+                "uid": "5606642810579565433",
+                "type": "5606642810579565433"
+            },
+            {
+                "idx": 16,
+                "uid": "16603656238085595960",
+                "type": "16603656238085595960"
+            },
+            {
+                "idx": 17,
+                "uid": "13342336668382427736",
+                "type": "13342336668382427736"
+            },
+            {
+                "idx": 18,
+                "uid": "12603428453016072583",
+                "type": "12603428453016072583"
+            },
+            {
+                "idx": 19,
+                "uid": "13256504665046020310",
+                "type": "13256504665046020310"
+            },
+            {
+                "idx": 20,
+                "uid": "10821140762636053034",
+                "type": "10821140762636053034"
+            }
+        ]
+    }
 }

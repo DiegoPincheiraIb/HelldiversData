@@ -1,38 +1,143 @@
 {
-  "17149918388466130800": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "12112219792508466627": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "6336865981244592821": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "4785987130142662424": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "13348889789877682713": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "16349808124409970659": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "16551082135157440381": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "11146468741807915285": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactAndDamage"
-  },
-  "15261976812381254942": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "4143232374370136320": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "3041174345526908898": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
-  },
-  "9471740285315897155": {
-    "propagation_strategy": "DamagePropagationStrategy_HitReactAndDamage"
-  }
+    "DamagePropagatorComponentData": {
+        "items": [
+            {
+                "unique_id": "6336865981244592821",
+                "uid_name": "BotEnemyType_PyroTrooper_Backpack",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "4785987130142662424",
+                "uid_name": "BotEnemyType_MGRaider_Backpack",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "16349808124409970659",
+                "uid_name": "BotEnemyType_Conscript_JetBrigade_Backpack",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "13348889789877682713",
+                "uid_name": "BotEnemyType_Hulk_JetBrigade_Backpack",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "3725568494500552428",
+                "uid_name": "BotEnemyType_Devastator_JetBrigade_Backpack",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "9471740285315897155",
+                "uid_name": "BotEnemyType_WarStriderLeftGun",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactAndDamage"
+            },
+            {
+                "unique_id": "17149918388466130800",
+                "uid_name": "BotEnemyType_Scout_Strider_Cabin",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "3041174345526908898",
+                "uid_name": "BotEnemyType_Scout_Strider_HMG",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "16551082135157440381",
+                "uid_name": "16551082135157440381",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "11146468741807915285",
+                "uid_name": "BotEnemyType_WarStriderRightGun",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactAndDamage"
+            },
+            {
+                "unique_id": "15261976812381254942",
+                "uid_name": "BotEnemyType_Scout_Strider_Full_Cabin",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "12112219792508466627",
+                "uid_name": "BotEnemyType_ReinforcedScoutStrider_Rocket_Left",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": "4143232374370136320",
+                "uid_name": "BotEnemyType_ReinforcedScoutStrider_Rocket_Right",
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "propagation_strategy": "DamagePropagationStrategy_HitReactOnly"
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "6336865981244592821",
+                "type": "BotEnemyType_PyroTrooper_Backpack"
+            },
+            {
+                "idx": 1,
+                "uid": "4785987130142662424",
+                "type": "BotEnemyType_MGRaider_Backpack"
+            },
+            {
+                "idx": 2,
+                "uid": "16349808124409970659",
+                "type": "BotEnemyType_Conscript_JetBrigade_Backpack"
+            },
+            {
+                "idx": 3,
+                "uid": "13348889789877682713",
+                "type": "BotEnemyType_Hulk_JetBrigade_Backpack"
+            },
+            {
+                "idx": 4,
+                "uid": "3725568494500552428",
+                "type": "BotEnemyType_Devastator_JetBrigade_Backpack"
+            },
+            {
+                "idx": 5,
+                "uid": "9471740285315897155",
+                "type": "BotEnemyType_WarStriderLeftGun"
+            },
+            {
+                "idx": 6,
+                "uid": "17149918388466130800",
+                "type": "BotEnemyType_Scout_Strider_Cabin"
+            },
+            {
+                "idx": 7,
+                "uid": "3041174345526908898",
+                "type": "BotEnemyType_Scout_Strider_HMG"
+            },
+            {
+                "idx": 8,
+                "uid": "16551082135157440381",
+                "type": "16551082135157440381"
+            },
+            {
+                "idx": 9,
+                "uid": "11146468741807915285",
+                "type": "BotEnemyType_WarStriderRightGun"
+            },
+            {
+                "idx": 10,
+                "uid": "15261976812381254942",
+                "type": "BotEnemyType_Scout_Strider_Full_Cabin"
+            },
+            {
+                "idx": 11,
+                "uid": "12112219792508466627",
+                "type": "BotEnemyType_ReinforcedScoutStrider_Rocket_Left"
+            },
+            {
+                "idx": 12,
+                "uid": "4143232374370136320",
+                "type": "BotEnemyType_ReinforcedScoutStrider_Rocket_Right"
+            }
+        ]
+    }
 }
