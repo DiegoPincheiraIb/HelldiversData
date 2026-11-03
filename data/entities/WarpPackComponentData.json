@@ -1,0 +1,218 @@
+{
+    "WarpPackComponentData": {
+        "items": [
+            {
+                "unique_id": "13012964727571811944",
+                "uid_name": "SupportBackpackType_Warppack",
+                "unknown_004": 2693893514,
+                "unknown_008": 924102979,
+                "unknown_010": 3208642560,
+                "unknown_014": 0.400000006,
+                "unknown_018": 4183827827,
+                "unknown_01C": 3264835969,
+                "unknown_024": 379630579,
+                "unknown_028": 4278147065,
+                "unknown_02C": 2561441774,
+                "unknown_030": -1.0,
+                "unknown_034": 898141976,
+                "explosion_type": "ExplosionType_Warppack",
+                "unknown_040": 4270333853,
+                "unknown_044": 365771550,
+                "unknown_048": 1,
+                "warp_usage_delay": 0.200000003,
+                "unknown_050": 0.200000003,
+                "unknown_054": 1.0,
+                "unknown_058": 4290361375,
+                "unknown_05C": 1.0,
+                "unknown_060": 1.0,
+                "unknown_064": 0.200000003,
+                "unknown_068": 2.0,
+                "unknown_06C": 2.0,
+                "unknown_070": 3.0,
+                "unknown_074": 1.0,
+                "warp_forward_distance": 10.0,
+                "unknown_07C": 5,
+                "warp_upward_distance": 1.399999976,
+                "warp_downward_distance": 4.0,
+                "unknown_088": 1,
+                "warp_usage_safe_threshold": 15.0,
+                "warp_usage_explosion_threshold": 45.0,
+                "warp_fuel_per_use": 33.0,
+                "warp_recharge_rate": 6.0,
+                "unknown_array_09C": [
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 2354409673,
+                        "unknown_08": 10.0,
+                        "unknown_0C": 15819917579702815207,
+                        "unknown_14": 2354409673
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 1544317139,
+                        "unknown_08": 35.0,
+                        "unknown_0C": 15819917579702815207,
+                        "unknown_14": 480431462
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 612369653,
+                        "unknown_08": 35.0,
+                        "unknown_0C": 15819917579702815207,
+                        "unknown_14": 836980140
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 2412961772,
+                        "unknown_08": 45.0,
+                        "unknown_0C": 15819917579702815207,
+                        "unknown_14": 2412961772
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 986191178,
+                        "unknown_08": 45.0,
+                        "unknown_0C": 15819917579702815207,
+                        "unknown_14": 986191178
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 938412064,
+                        "unknown_08": 0.0,
+                        "unknown_0C": 0,
+                        "unknown_14": 0
+                    },
+                    {
+                        "unknown_00": 5,
+                        "unknown_04": 0,
+                        "unknown_08": 10.0,
+                        "unknown_0C": 0,
+                        "unknown_14": 0
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 0,
+                        "unknown_08": 10.0,
+                        "unknown_0C": 0,
+                        "unknown_14": 0
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 0,
+                        "unknown_08": 10.0,
+                        "unknown_0C": 0,
+                        "unknown_14": 0
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 0,
+                        "unknown_08": 10.0,
+                        "unknown_0C": 0,
+                        "unknown_14": 0
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 0,
+                        "unknown_08": 10.0,
+                        "unknown_0C": 0,
+                        "unknown_14": 0
+                    },
+                    {
+                        "unknown_00": 0,
+                        "unknown_04": 0,
+                        "unknown_08": 10.0,
+                        "unknown_0C": 0,
+                        "unknown_14": 0
+                    }
+                ],
+                "unknown_1C4": 2131351665,
+                "unknown_1D8": 4051466939,
+                "unknown_1DC": 1629433405,
+                "unknown_1F0": 388975518,
+                "unknown_1F4": 1,
+                "unknown_1F8": 4051466939,
+                "unknown_1FC": 1629433405,
+                "unknown_20C": 2131351665,
+                "unknown_210": 4234300025,
+                "unknown_214": 2130411424,
+                "unknown_218": 3811243770,
+                "unknown_220": 2593298643,
+                "unknown_228": 2,
+                "unknown_22C": 4234300025,
+                "unknown_230": 2130411424,
+                "unknown_234": 3811243770,
+                "unknown_240": 2131351665,
+                "unknown_244": 4051466939,
+                "unknown_25C": 4244241910,
+                "unknown_260": 3732338588,
+                "unknown_264": 450287375,
+                "unknown_268": 49732699,
+                "unknown_26C": 30.0,
+                "unknown_270": 20.0,
+                "unknown_274": 0.300000012,
+                "unknown_2A8": -1.0,
+                "unknown_2C0": 1,
+                "unknown_2C4": 0.200000003,
+                "unknown_2C8": 0.200000003,
+                "unknown_2CC": 2.0,
+                "unknown_2EC": 1.0,
+                "unknown_2F0": 10.0,
+                "unknown_2F4": 5,
+                "unknown_2F8": 1.399999976,
+                "unknown_2FC": 4.0,
+                "unknown_300": 1,
+                "unknown_304": 15.0,
+                "unknown_308": 45.0,
+                "unknown_30C": 33.0,
+                "unknown_310": 8.0,
+                "unknown_array_314": [
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    },
+                    {
+                        "unknown_08": 10.0
+                    }
+                ],
+                "unknown_4E4": 1.0,
+                "unknown_4EC": 0.300000012
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "13012964727571811944",
+                "type": "SupportBackpackType_Warppack"
+            }
+        ]
+    }
+}

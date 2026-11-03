@@ -1,0 +1,20 @@
+{
+    "ProjectileClusterComponentData": {
+        "items": [
+            {
+                "unique_id": "1555905102754201235",
+                "uid_name": "SupportWeaponType_WASPLauncher_Hornets",
+                "unknown_000": 1,
+                "explosion_type": "ExplosionType_WASP_Artillery",
+                "ability": "ABILITY_TYPE_2626"
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "1555905102754201235",
+                "type": "SupportWeaponType_WASPLauncher_Hornets"
+            }
+        ]
+    }
+}
