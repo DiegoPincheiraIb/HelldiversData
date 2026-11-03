@@ -3,7 +3,7 @@
         "items": [
             {
                 "unique_id": "3939129929398354246",
-                "uid_name": "BugEnemyType_BileSpewerV1",
+                "uid_name": "BugEnemyType_Spewer_CausticStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -61,7 +61,7 @@
             },
             {
                 "unique_id": "772289455772672652",
-                "uid_name": "BugEnemyType_RuptureCharger",
+                "uid_name": "BugEnemyType_Charger_RuptureStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -119,7 +119,7 @@
             },
             {
                 "unique_id": "15659331049401757247",
-                "uid_name": "BugEnemyType_WeakHunter",
+                "uid_name": "BugEnemyType_Hunter",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -177,7 +177,7 @@
             },
             {
                 "unique_id": "10371974906799355538",
-                "uid_name": "BugEnemyType_ScavengerV1",
+                "uid_name": "BugEnemyType_Scavenger",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -409,7 +409,7 @@
             },
             {
                 "unique_id": "11351366836276126990",
-                "uid_name": "BotEnemyType_CyborgAgitator",
+                "uid_name": "BotEnemyType_CyborgAgitator_Male",
                 "preferred_speed": 5.0,
                 "maximum_speed": 4.0,
                 "fire_avoidance": 0.0,
@@ -467,7 +467,7 @@
             },
             {
                 "unique_id": "12566139334605762628",
-                "uid_name": "BotEnemyType_Devastator",
+                "uid_name": "BotEnemyType_Devastator_MK3",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -757,7 +757,7 @@
             },
             {
                 "unique_id": "8710323923067153479",
-                "uid_name": "IlluminateEnemyType_Voteless",
+                "uid_name": "IlluminateEnemyType_Voteless_Light",
                 "preferred_speed": 5.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -1105,7 +1105,7 @@
             },
             {
                 "unique_id": "8500519467319350019",
-                "uid_name": "8500519467319350019",
+                "uid_name": "SuperEarthType_SEAF_NPC_Support",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -1134,7 +1134,7 @@
             },
             {
                 "unique_id": "5385448928519479034",
-                "uid_name": "5385448928519479034",
+                "uid_name": "SuperEarthType_Civilian",
                 "preferred_speed": 4.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -1250,7 +1250,7 @@
             },
             {
                 "unique_id": "17943362722330235151",
-                "uid_name": "17943362722330235151",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male",
                 "preferred_speed": 4.0,
                 "maximum_speed": 7.0,
                 "fire_avoidance": 0.0,
@@ -1279,7 +1279,7 @@
             },
             {
                 "unique_id": "14748816422034837943",
-                "uid_name": "BugEnemyType_BileSpewerV4",
+                "uid_name": "BugEnemyType_Spewer_MK2_CausticStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1308,7 +1308,36 @@
             },
             {
                 "unique_id": "11781875241940413332",
-                "uid_name": "BugEnemyType_RuptureSpewer",
+                "uid_name": "BugEnemyType_Spewer_RuptureStrain",
+                "preferred_speed": 5.0,
+                "maximum_speed": 10.0,
+                "fire_avoidance": 0.0,
+                "boids_cohesion_strength": 0.0,
+                "boids_optimal_distance": 2.0,
+                "boids_view_radius": 10.0,
+                "unknown_019": 1,
+                "unknown_01A": 0,
+                "steering_properties": {
+                    "collision_penalty": 100.0,
+                    "penetration_penalty": 100.0,
+                    "wall_following_angle": 0.25,
+                    "dodging_penalty": 0.100000001,
+                    "velocity_hysteresis": 0.5,
+                    "sidedness_changing_penalty": 0.100000001,
+                    "weight": 20.0,
+                    "priority": 20
+                },
+                "sensor_aabb": {
+                    "bottom_extent": 0.5,
+                    "top_extent": 2.0,
+                    "half_width": 10.0
+                },
+                "default_mode": "AiCharacterMode_Havok",
+                "modulate_movespeed_on_turns": 1
+            },
+            {
+                "unique_id": "7361829613256525285",
+                "uid_name": "BugEnemyType_Noxious_Spewer",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1395,7 +1424,7 @@
             },
             {
                 "unique_id": "7719208875390099550",
-                "uid_name": "BugEnemyType_SporeCharger",
+                "uid_name": "BugEnemyType_Charger_CausticStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1482,7 +1511,7 @@
             },
             {
                 "unique_id": "4399458158766252490",
-                "uid_name": "BugEnemyType_WeakHunter",
+                "uid_name": "BugEnemyType_Hunter_MK2",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1511,7 +1540,7 @@
             },
             {
                 "unique_id": "6676641717166653626",
-                "uid_name": "BugEnemyType_Hunter",
+                "uid_name": "BugEnemyType_Hunter_MK3",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1540,7 +1569,7 @@
             },
             {
                 "unique_id": "9814471339792705014",
-                "uid_name": "BugEnemyType_PredatorHunter",
+                "uid_name": "BugEnemyType_Hunter_PredatorStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1569,7 +1598,7 @@
             },
             {
                 "unique_id": "15125779956101896786",
-                "uid_name": "BugEnemyType_PredatorStalker",
+                "uid_name": "BugEnemyType_Stalker_PredatorStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1598,7 +1627,7 @@
             },
             {
                 "unique_id": "5903841343181520462",
-                "uid_name": "BugEnemyType_ScavengerV3",
+                "uid_name": "BugEnemyType_Scavenger_MK2",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1627,7 +1656,7 @@
             },
             {
                 "unique_id": "16121421951002036444",
-                "uid_name": "BugEnemyType_ScavengerV4",
+                "uid_name": "BugEnemyType_Scavenger_MK2_Captive",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1656,7 +1685,36 @@
             },
             {
                 "unique_id": "11135777548304851724",
-                "uid_name": "BugEnemyType_ScavengerV2",
+                "uid_name": "BugEnemyType_Scavenger_MK3",
+                "preferred_speed": 5.0,
+                "maximum_speed": 10.0,
+                "fire_avoidance": 0.0,
+                "boids_cohesion_strength": 0.200000003,
+                "boids_optimal_distance": 2.0,
+                "boids_view_radius": 10.0,
+                "unknown_019": 1,
+                "unknown_01A": 0,
+                "steering_properties": {
+                    "collision_penalty": 100.0,
+                    "penetration_penalty": 100.0,
+                    "wall_following_angle": 0.25,
+                    "dodging_penalty": 0.100000001,
+                    "velocity_hysteresis": 0.5,
+                    "sidedness_changing_penalty": 0.100000001,
+                    "weight": 0.5,
+                    "priority": 0
+                },
+                "sensor_aabb": {
+                    "bottom_extent": 0.5,
+                    "top_extent": 2.0,
+                    "half_width": 10.0
+                },
+                "default_mode": "AiCharacterMode_Havok",
+                "modulate_movespeed_on_turns": 1
+            },
+            {
+                "unique_id": "9995218384209144520",
+                "uid_name": "BugEnemyType_Noxious_Scavenger",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1714,7 +1772,7 @@
             },
             {
                 "unique_id": "8261922003134896957",
-                "uid_name": "BugEnemyType_BileSpitter",
+                "uid_name": "BugEnemyType_Spitter_CausticStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1772,7 +1830,7 @@
             },
             {
                 "unique_id": "17223114646267339927",
-                "uid_name": "BugEnemyType_SporeBileTitan",
+                "uid_name": "BugEnemyType_BileTitan_SporeBurstStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1801,7 +1859,7 @@
             },
             {
                 "unique_id": "13707236614338800569",
-                "uid_name": "BugEnemyType_Warrior",
+                "uid_name": "BugEnemyType_Warrior_MK2",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -1917,7 +1975,7 @@
             },
             {
                 "unique_id": "1155202780614770422",
-                "uid_name": "BugEnemyType_BileWarrior",
+                "uid_name": "BugEnemyType_Warrior_CausticStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -2004,7 +2062,7 @@
             },
             {
                 "unique_id": "11768477327318910982",
-                "uid_name": "BugEnemyType_RuptureWarrior",
+                "uid_name": "BugEnemyType_Warrior_RuptureStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -2062,7 +2120,7 @@
             },
             {
                 "unique_id": "13104279481307701677",
-                "uid_name": "BotEnemyType_Berserker",
+                "uid_name": "BotEnemyType_Berserker_IncendiaryCorps",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -2091,7 +2149,7 @@
             },
             {
                 "unique_id": "15382378127438146468",
-                "uid_name": "BotEnemyType_Berserker",
+                "uid_name": "BotEnemyType_Berserker_JetBrigade",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -2207,7 +2265,7 @@
             },
             {
                 "unique_id": "9414910092732904122",
-                "uid_name": "BotEnemyType_PyroTrooper",
+                "uid_name": "BotEnemyType_PyroTrooper_IncendiaryCorps",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2236,7 +2294,7 @@
             },
             {
                 "unique_id": "711481103094352835",
-                "uid_name": "BotEnemyType_Trooper?",
+                "uid_name": "BotEnemyType_RocketTrooper_IncendiaryCorps",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2265,7 +2323,7 @@
             },
             {
                 "unique_id": "619301928082185734",
-                "uid_name": "BotEnemyType_MGRaider",
+                "uid_name": "BotEnemyType_MGRaider_IncendiaryCorps",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2294,7 +2352,7 @@
             },
             {
                 "unique_id": "5909160229139284606",
-                "uid_name": "BotEnemyType_Trooper",
+                "uid_name": "BotEnemyType_Trooper_JetBrigade",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2323,7 +2381,7 @@
             },
             {
                 "unique_id": "12614471755071195045",
-                "uid_name": "BotEnemyType_Trooper",
+                "uid_name": "BotEnemyType_Trooper_JetBrigade_MK2",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2352,7 +2410,7 @@
             },
             {
                 "unique_id": "9614788353289254415",
-                "uid_name": "BotEnemyType_AssaultRaider",
+                "uid_name": "BotEnemyType_AssaultRaider_JetBrigade",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2410,7 +2468,7 @@
             },
             {
                 "unique_id": "11841423120880866036",
-                "uid_name": "BotEnemyType_MGRaider",
+                "uid_name": "BotEnemyType_MGRaider_JetBrigade",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2671,7 +2729,7 @@
             },
             {
                 "unique_id": "2404044106251363533",
-                "uid_name": "BotEnemyType_Commissar",
+                "uid_name": "BotEnemyType_Commissar_JetBrigade",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2700,7 +2758,7 @@
             },
             {
                 "unique_id": "1971339432693544677",
-                "uid_name": "BotEnemyType_Commissar",
+                "uid_name": "BotEnemyType_Commissar_IncendiaryCorps",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2729,7 +2787,7 @@
             },
             {
                 "unique_id": "720026069039790444",
-                "uid_name": "BotEnemyType_CyborgAgitator",
+                "uid_name": "BotEnemyType_CyborgAgitator_Female",
                 "preferred_speed": 5.0,
                 "maximum_speed": 4.0,
                 "fire_avoidance": 0.0,
@@ -2758,7 +2816,7 @@
             },
             {
                 "unique_id": "8388657151297660569",
-                "uid_name": "BotEnemyType_CyborgRadical",
+                "uid_name": "BotEnemyType_CyborgRadical_Male",
                 "preferred_speed": 5.0,
                 "maximum_speed": 5.0,
                 "fire_avoidance": 0.0,
@@ -2787,7 +2845,7 @@
             },
             {
                 "unique_id": "14677717390494571578",
-                "uid_name": "BotEnemyType_CyborgRadical",
+                "uid_name": "BotEnemyType_CyborgRadical_Female",
                 "preferred_speed": 5.0,
                 "maximum_speed": 5.0,
                 "fire_avoidance": 0.0,
@@ -2874,7 +2932,7 @@
             },
             {
                 "unique_id": "16451308563134815530",
-                "uid_name": "BotEnemyType_HulkScorcher",
+                "uid_name": "BotEnemyType_HulkScorcher_JetBrigade",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2903,7 +2961,7 @@
             },
             {
                 "unique_id": "7902461295840507538",
-                "uid_name": "BotEnemyType_HulkFirebomber",
+                "uid_name": "BotEnemyType_HulkFirebomber_IncendiaryCorps",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2932,7 +2990,7 @@
             },
             {
                 "unique_id": "1772093692883358428",
-                "uid_name": "BotEnemyType_HulkScorcher",
+                "uid_name": "BotEnemyType_HulkScorcher_IncendiaryCorps",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -2990,7 +3048,7 @@
             },
             {
                 "unique_id": "3660840294738278623",
-                "uid_name": "BotEnemyType_HulkBruiser",
+                "uid_name": "BotEnemyType_HulkBruiser_JetBrigade",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -3019,7 +3077,7 @@
             },
             {
                 "unique_id": "6336231432473988509",
-                "uid_name": "BotEnemyType_Devastator",
+                "uid_name": "BotEnemyType_Devastator_IncendiaryCorps",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -3048,7 +3106,7 @@
             },
             {
                 "unique_id": "18198461672611034237",
-                "uid_name": "BotEnemyType_Devastator",
+                "uid_name": "BotEnemyType_Devastator_MK2",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -3077,7 +3135,7 @@
             },
             {
                 "unique_id": "13723659040410201638",
-                "uid_name": "BotEnemyType_Devastator",
+                "uid_name": "BotEnemyType_Devastator_JetBrigade",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -3106,7 +3164,7 @@
             },
             {
                 "unique_id": "13340847352459495240",
-                "uid_name": "BotEnemyType_HeavyDevastator",
+                "uid_name": "BotEnemyType_HeavyDevastator_MK2",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -3164,7 +3222,7 @@
             },
             {
                 "unique_id": "6391373595476922945",
-                "uid_name": "BotEnemyType_IncendiaryMGDevastator",
+                "uid_name": "BotEnemyType_MGDevastator_IncendiaryCorps",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -3193,7 +3251,7 @@
             },
             {
                 "unique_id": "10514734670540770044",
-                "uid_name": "BotEnemyType_Devastator",
+                "uid_name": "BotEnemyType_HeavyDevastator_MK3",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -3251,7 +3309,7 @@
             },
             {
                 "unique_id": "17756861745706792858",
-                "uid_name": "BotEnemyType_RocketDevastator",
+                "uid_name": "BotEnemyType_RocketDevastator_MK2",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -3280,7 +3338,7 @@
             },
             {
                 "unique_id": "14536718756304552612",
-                "uid_name": "BotEnemyType_RocketDevastator",
+                "uid_name": "BotEnemyType_RocketDevastator_IncendiaryCorps",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -3309,7 +3367,7 @@
             },
             {
                 "unique_id": "16155873629479015795",
-                "uid_name": "BotEnemyType_ConflagrationDevastator",
+                "uid_name": "BotEnemyType_ConflagrationDevastator_IncendiaryCorps",
                 "preferred_speed": 2.0,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -3483,7 +3541,7 @@
             },
             {
                 "unique_id": "782675882315451933",
-                "uid_name": "IlluminateEnemyType_Voteless",
+                "uid_name": "IlluminateEnemyType_Voteless_Medium",
                 "preferred_speed": 5.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -3512,7 +3570,7 @@
             },
             {
                 "unique_id": "4919490090942595835",
-                "uid_name": "IlluminateEnemyType_Voteless",
+                "uid_name": "IlluminateEnemyType_Voteless_Heavy",
                 "preferred_speed": 5.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -3541,7 +3599,7 @@
             },
             {
                 "unique_id": "17393195075174683200",
-                "uid_name": "IlluminateEnemyType_Overseer",
+                "uid_name": "IlluminateEnemyType_Overseer_MK3",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -3570,7 +3628,7 @@
             },
             {
                 "unique_id": "641481206831155133",
-                "uid_name": "641481206831155133",
+                "uid_name": "IlluminateEnemyType_Overseer_MK2",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -3599,7 +3657,7 @@
             },
             {
                 "unique_id": "15438282343866021807",
-                "uid_name": "IlluminateEnemyType_Harvester",
+                "uid_name": "IlluminateEnemyType_Harvester_MK2",
                 "preferred_speed": 2.5,
                 "maximum_speed": 3.0,
                 "fire_avoidance": 0.0,
@@ -4498,7 +4556,7 @@
             },
             {
                 "unique_id": "7719924637775600975",
-                "uid_name": "7719924637775600975",
+                "uid_name": "SuperEarthType_SEAF_NPC_withBackpack",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4527,7 +4585,7 @@
             },
             {
                 "unique_id": "11530114387757953774",
-                "uid_name": "11530114387757953774",
+                "uid_name": "SuperEarthType_SEAF_NPC_MK1",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4556,7 +4614,7 @@
             },
             {
                 "unique_id": "6089208603239816028",
-                "uid_name": "6089208603239816028",
+                "uid_name": "SuperEarthType_SEAF_NPC_MK2",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4585,7 +4643,7 @@
             },
             {
                 "unique_id": "13617855600110100742",
-                "uid_name": "13617855600110100742",
+                "uid_name": "SuperEarthType_SEAF_NPC_withWireless_MK1",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4614,7 +4672,7 @@
             },
             {
                 "unique_id": "8708480032737395252",
-                "uid_name": "8708480032737395252",
+                "uid_name": "SuperEarthType_SEAF_NPC_withWireless_MK2",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4643,7 +4701,7 @@
             },
             {
                 "unique_id": "1460639142923993241",
-                "uid_name": "1460639142923993241",
+                "uid_name": "SuperEarthType_SEAF_NPC_Medic_MK1",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4672,7 +4730,7 @@
             },
             {
                 "unique_id": "8048468262572802857",
-                "uid_name": "8048468262572802857",
+                "uid_name": "SuperEarthType_SEAF_NPC_Medic_MK2",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4701,7 +4759,7 @@
             },
             {
                 "unique_id": "14155525937218621891",
-                "uid_name": "14155525937218621891",
+                "uid_name": "SuperEarthType_SEAF_NPC_Medic_MK3",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4730,7 +4788,7 @@
             },
             {
                 "unique_id": "13814167941378577880",
-                "uid_name": "13814167941378577880",
+                "uid_name": "SuperEarthType_SEAF_NPC_HeavyWeapons_MK1",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4759,7 +4817,7 @@
             },
             {
                 "unique_id": "12023698573119337990",
-                "uid_name": "12023698573119337990",
+                "uid_name": "SuperEarthType_SEAF_NPC_HeavyWeapons_MK2",
                 "preferred_speed": 3.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 1.0,
@@ -4788,7 +4846,7 @@
             },
             {
                 "unique_id": "5555647998940836938",
-                "uid_name": "5555647998940836938",
+                "uid_name": "SuperEarthType_Civilian_MK2",
                 "preferred_speed": 4.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -4817,7 +4875,7 @@
             },
             {
                 "unique_id": "3836043307793934489",
-                "uid_name": "3836043307793934489",
+                "uid_name": "SuperEarthType_Civilian_MK3",
                 "preferred_speed": 4.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -4846,7 +4904,7 @@
             },
             {
                 "unique_id": "7712844951779243309",
-                "uid_name": "7712844951779243309",
+                "uid_name": "SuperEarthType_Civilian_MK4",
                 "preferred_speed": 4.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -4875,7 +4933,7 @@
             },
             {
                 "unique_id": "3754586476635072036",
-                "uid_name": "3754586476635072036",
+                "uid_name": "SuperEarthType_Civilian_MK5",
                 "preferred_speed": 4.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -4904,7 +4962,7 @@
             },
             {
                 "unique_id": "14706222259390606723",
-                "uid_name": "14706222259390606723",
+                "uid_name": "SuperEarthType_Civilian_MK6",
                 "preferred_speed": 4.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -4933,7 +4991,7 @@
             },
             {
                 "unique_id": "16507283781696478269",
-                "uid_name": "16507283781696478269",
+                "uid_name": "SuperEarthType_Civilian_MK7",
                 "preferred_speed": 4.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -4962,7 +5020,7 @@
             },
             {
                 "unique_id": "10665281465322007152",
-                "uid_name": "10665281465322007152",
+                "uid_name": "SuperEarthType_Civilian_MK8",
                 "preferred_speed": 4.0,
                 "maximum_speed": 6.0,
                 "fire_avoidance": 0.0,
@@ -5252,7 +5310,7 @@
             },
             {
                 "unique_id": "1024464436030047776",
-                "uid_name": "1024464436030047776",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female",
                 "preferred_speed": 4.0,
                 "maximum_speed": 7.0,
                 "fire_avoidance": 0.0,
@@ -5281,7 +5339,7 @@
             },
             {
                 "unique_id": "9683243174428770658",
-                "uid_name": "9683243174428770658",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female_MK2",
                 "preferred_speed": 4.0,
                 "maximum_speed": 7.0,
                 "fire_avoidance": 0.0,
@@ -5310,7 +5368,7 @@
             },
             {
                 "unique_id": "10179078936557797909",
-                "uid_name": "10179078936557797909",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female_MK3",
                 "preferred_speed": 4.0,
                 "maximum_speed": 7.0,
                 "fire_avoidance": 0.0,
@@ -5339,7 +5397,7 @@
             },
             {
                 "unique_id": "15395181080776134584",
-                "uid_name": "15395181080776134584",
+                "uid_name": "SuperEarthType_Extractable_Worker_Female_MK4",
                 "preferred_speed": 4.0,
                 "maximum_speed": 7.0,
                 "fire_avoidance": 0.0,
@@ -5368,7 +5426,7 @@
             },
             {
                 "unique_id": "14040307618832651425",
-                "uid_name": "14040307618832651425",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male_MK2",
                 "preferred_speed": 4.0,
                 "maximum_speed": 7.0,
                 "fire_avoidance": 0.0,
@@ -5397,7 +5455,7 @@
             },
             {
                 "unique_id": "7444362792725516608",
-                "uid_name": "7444362792725516608",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male_MK3",
                 "preferred_speed": 4.0,
                 "maximum_speed": 7.0,
                 "fire_avoidance": 0.0,
@@ -5426,7 +5484,7 @@
             },
             {
                 "unique_id": "1232841523375292236",
-                "uid_name": "1232841523375292236",
+                "uid_name": "SuperEarthType_Extractable_Worker_Male_MK4",
                 "preferred_speed": 4.0,
                 "maximum_speed": 7.0,
                 "fire_avoidance": 0.0,
@@ -5484,7 +5542,7 @@
             },
             {
                 "unique_id": "2236760086372418784",
-                "uid_name": "BugEnemyType_SporeBurstHunter",
+                "uid_name": "BugEnemyType_Hunter_SporeBurstStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -5513,7 +5571,7 @@
             },
             {
                 "unique_id": "15822911520269726977",
-                "uid_name": "BugEnemyType_SporeBurstScavenger",
+                "uid_name": "BugEnemyType_Scavenger_SporeBurstStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -5542,7 +5600,7 @@
             },
             {
                 "unique_id": "8251756929257574076",
-                "uid_name": "BugEnemyType_SporeBurstWarrior",
+                "uid_name": "BugEnemyType_Warrior_SporeBurstStrain",
                 "preferred_speed": 5.0,
                 "maximum_speed": 10.0,
                 "fire_avoidance": 0.0,
@@ -5571,7 +5629,7 @@
             },
             {
                 "unique_id": "11481777918278298912",
-                "uid_name": "BotEnemyType_Trooper?",
+                "uid_name": "BotEnemyType_BlasterTrooper_IncendiaryCorps",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -5600,7 +5658,7 @@
             },
             {
                 "unique_id": "16610351617142216522",
-                "uid_name": "BotEnemyType_Raider",
+                "uid_name": "BotEnemyType_Raider_IncendiaryCorps",
                 "preferred_speed": 5.0,
                 "maximum_speed": 8.0,
                 "fire_avoidance": 0.0,
@@ -5777,7 +5835,7 @@
             {
                 "idx": 0,
                 "uid": "3939129929398354246",
-                "type": "BugEnemyType_BileSpewerV1"
+                "type": "BugEnemyType_Spewer_CausticStrain"
             },
             {
                 "idx": 1,
@@ -5787,7 +5845,7 @@
             {
                 "idx": 2,
                 "uid": "772289455772672652",
-                "type": "BugEnemyType_RuptureCharger"
+                "type": "BugEnemyType_Charger_RuptureStrain"
             },
             {
                 "idx": 3,
@@ -5797,7 +5855,7 @@
             {
                 "idx": 4,
                 "uid": "15659331049401757247",
-                "type": "BugEnemyType_WeakHunter"
+                "type": "BugEnemyType_Hunter"
             },
             {
                 "idx": 5,
@@ -5807,7 +5865,7 @@
             {
                 "idx": 6,
                 "uid": "10371974906799355538",
-                "type": "BugEnemyType_ScavengerV1"
+                "type": "BugEnemyType_Scavenger"
             },
             {
                 "idx": 7,
@@ -5847,7 +5905,7 @@
             {
                 "idx": 14,
                 "uid": "11351366836276126990",
-                "type": "BotEnemyType_CyborgAgitator"
+                "type": "BotEnemyType_CyborgAgitator_Male"
             },
             {
                 "idx": 15,
@@ -5857,7 +5915,7 @@
             {
                 "idx": 16,
                 "uid": "12566139334605762628",
-                "type": "BotEnemyType_Devastator"
+                "type": "BotEnemyType_Devastator_MK3"
             },
             {
                 "idx": 17,
@@ -5907,7 +5965,7 @@
             {
                 "idx": 26,
                 "uid": "8710323923067153479",
-                "type": "IlluminateEnemyType_Voteless"
+                "type": "IlluminateEnemyType_Voteless_Light"
             },
             {
                 "idx": 27,
@@ -5967,12 +6025,12 @@
             {
                 "idx": 38,
                 "uid": "8500519467319350019",
-                "type": "8500519467319350019"
+                "type": "SuperEarthType_SEAF_NPC_Support"
             },
             {
                 "idx": 39,
                 "uid": "5385448928519479034",
-                "type": "5385448928519479034"
+                "type": "SuperEarthType_Civilian"
             },
             {
                 "idx": 40,
@@ -5992,780 +6050,790 @@
             {
                 "idx": 43,
                 "uid": "17943362722330235151",
-                "type": "17943362722330235151"
+                "type": "SuperEarthType_Extractable_Worker_Male"
             },
             {
                 "idx": 44,
                 "uid": "14748816422034837943",
-                "type": "BugEnemyType_BileSpewerV4"
+                "type": "BugEnemyType_Spewer_MK2_CausticStrain"
             },
             {
                 "idx": 45,
                 "uid": "11781875241940413332",
-                "type": "BugEnemyType_RuptureSpewer"
+                "type": "BugEnemyType_Spewer_RuptureStrain"
             },
             {
                 "idx": 46,
+                "uid": "7361829613256525285",
+                "type": "BugEnemyType_Noxious_Spewer"
+            },
+            {
+                "idx": 47,
                 "uid": "14731312854664874139",
                 "type": "BugEnemyType_NursingSpewer"
             },
             {
-                "idx": 47,
+                "idx": 48,
                 "uid": "6927066342767148424",
                 "type": "BugEnemyType_NursingSpewer"
             },
             {
-                "idx": 48,
+                "idx": 49,
                 "uid": "7719208875390099550",
-                "type": "BugEnemyType_SporeCharger"
+                "type": "BugEnemyType_Charger_CausticStrain"
             },
             {
-                "idx": 49,
+                "idx": 50,
                 "uid": "4251221953861716889",
                 "type": "BugEnemyType_ChargerBehemoth"
             },
             {
-                "idx": 50,
+                "idx": 51,
                 "uid": "18253730739818952707",
                 "type": "BugEnemyType_ChargerBehemoth"
             },
             {
-                "idx": 51,
-                "uid": "4399458158766252490",
-                "type": "BugEnemyType_WeakHunter"
-            },
-            {
                 "idx": 52,
-                "uid": "6676641717166653626",
-                "type": "BugEnemyType_Hunter"
+                "uid": "4399458158766252490",
+                "type": "BugEnemyType_Hunter_MK2"
             },
             {
                 "idx": 53,
-                "uid": "9814471339792705014",
-                "type": "BugEnemyType_PredatorHunter"
+                "uid": "6676641717166653626",
+                "type": "BugEnemyType_Hunter_MK3"
             },
             {
                 "idx": 54,
-                "uid": "15125779956101896786",
-                "type": "BugEnemyType_PredatorStalker"
+                "uid": "9814471339792705014",
+                "type": "BugEnemyType_Hunter_PredatorStrain"
             },
             {
                 "idx": 55,
-                "uid": "5903841343181520462",
-                "type": "BugEnemyType_ScavengerV3"
+                "uid": "15125779956101896786",
+                "type": "BugEnemyType_Stalker_PredatorStrain"
             },
             {
                 "idx": 56,
-                "uid": "16121421951002036444",
-                "type": "BugEnemyType_ScavengerV4"
+                "uid": "5903841343181520462",
+                "type": "BugEnemyType_Scavenger_MK2"
             },
             {
                 "idx": 57,
-                "uid": "11135777548304851724",
-                "type": "BugEnemyType_ScavengerV2"
+                "uid": "16121421951002036444",
+                "type": "BugEnemyType_Scavenger_MK2_Captive"
             },
             {
                 "idx": 58,
+                "uid": "11135777548304851724",
+                "type": "BugEnemyType_Scavenger_MK3"
+            },
+            {
+                "idx": 59,
+                "uid": "9995218384209144520",
+                "type": "BugEnemyType_Noxious_Scavenger"
+            },
+            {
+                "idx": 60,
                 "uid": "12300518439027380185",
                 "type": "BugEnemyType_Pouncer"
             },
             {
-                "idx": 59,
+                "idx": 61,
                 "uid": "8261922003134896957",
-                "type": "BugEnemyType_BileSpitter"
+                "type": "BugEnemyType_Spitter_CausticStrain"
             },
             {
-                "idx": 60,
+                "idx": 62,
                 "uid": "17344047887226579155",
                 "type": "BugEnemyType_Shrieker"
             },
             {
-                "idx": 61,
-                "uid": "17223114646267339927",
-                "type": "BugEnemyType_SporeBileTitan"
-            },
-            {
-                "idx": 62,
-                "uid": "13707236614338800569",
-                "type": "BugEnemyType_Warrior"
-            },
-            {
                 "idx": 63,
+                "uid": "17223114646267339927",
+                "type": "BugEnemyType_BileTitan_SporeBurstStrain"
+            },
+            {
+                "idx": 64,
+                "uid": "13707236614338800569",
+                "type": "BugEnemyType_Warrior_MK2"
+            },
+            {
+                "idx": 65,
                 "uid": "5663271064929335883",
                 "type": "BugEnemyType_Warrior"
             },
             {
-                "idx": 64,
+                "idx": 66,
                 "uid": "3626558530581732572",
                 "type": "BugEnemyType_Warrior"
             },
             {
-                "idx": 65,
+                "idx": 67,
                 "uid": "12873251592757102566",
                 "type": "BugEnemyType_Warrior"
             },
             {
-                "idx": 66,
+                "idx": 68,
                 "uid": "1155202780614770422",
-                "type": "BugEnemyType_BileWarrior"
+                "type": "BugEnemyType_Warrior_CausticStrain"
             },
             {
-                "idx": 67,
+                "idx": 69,
                 "uid": "15358116161893188517",
                 "type": "BugEnemyType_BroodCommander"
             },
             {
-                "idx": 68,
+                "idx": 70,
                 "uid": "17842374123104475103",
                 "type": "BugEnemyType_AlphaCommander"
             },
             {
-                "idx": 69,
+                "idx": 71,
                 "uid": "11768477327318910982",
-                "type": "BugEnemyType_RuptureWarrior"
+                "type": "BugEnemyType_Warrior_RuptureStrain"
             },
             {
-                "idx": 70,
+                "idx": 72,
                 "uid": "11669807341511884260",
                 "type": "BugEnemyType_HiveGuard"
             },
             {
-                "idx": 71,
-                "uid": "13104279481307701677",
-                "type": "BotEnemyType_Berserker"
-            },
-            {
-                "idx": 72,
-                "uid": "15382378127438146468",
-                "type": "BotEnemyType_Berserker"
-            },
-            {
                 "idx": 73,
+                "uid": "13104279481307701677",
+                "type": "BotEnemyType_Berserker_IncendiaryCorps"
+            },
+            {
+                "idx": 74,
+                "uid": "15382378127438146468",
+                "type": "BotEnemyType_Berserker_JetBrigade"
+            },
+            {
+                "idx": 75,
                 "uid": "12706617161845284909",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 74,
+                "idx": 76,
                 "uid": "8883573249939290241",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 75,
+                "idx": 77,
                 "uid": "12562787704342269592",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 76,
-                "uid": "9414910092732904122",
-                "type": "BotEnemyType_PyroTrooper"
-            },
-            {
-                "idx": 77,
-                "uid": "711481103094352835",
-                "type": "BotEnemyType_Trooper?"
-            },
-            {
                 "idx": 78,
-                "uid": "619301928082185734",
-                "type": "BotEnemyType_MGRaider"
+                "uid": "9414910092732904122",
+                "type": "BotEnemyType_PyroTrooper_IncendiaryCorps"
             },
             {
                 "idx": 79,
-                "uid": "5909160229139284606",
-                "type": "BotEnemyType_Trooper"
+                "uid": "711481103094352835",
+                "type": "BotEnemyType_RocketTrooper_IncendiaryCorps"
             },
             {
                 "idx": 80,
-                "uid": "12614471755071195045",
-                "type": "BotEnemyType_Trooper"
+                "uid": "619301928082185734",
+                "type": "BotEnemyType_MGRaider_IncendiaryCorps"
             },
             {
                 "idx": 81,
-                "uid": "9614788353289254415",
-                "type": "BotEnemyType_AssaultRaider"
+                "uid": "5909160229139284606",
+                "type": "BotEnemyType_Trooper_JetBrigade"
             },
             {
                 "idx": 82,
+                "uid": "12614471755071195045",
+                "type": "BotEnemyType_Trooper_JetBrigade_MK2"
+            },
+            {
+                "idx": 83,
+                "uid": "9614788353289254415",
+                "type": "BotEnemyType_AssaultRaider_JetBrigade"
+            },
+            {
+                "idx": 84,
                 "uid": "13037131039069521275",
                 "type": "BotEnemyType_MGRaider"
             },
             {
-                "idx": 83,
+                "idx": 85,
                 "uid": "11841423120880866036",
-                "type": "BotEnemyType_MGRaider"
+                "type": "BotEnemyType_MGRaider_JetBrigade"
             },
             {
-                "idx": 84,
+                "idx": 86,
                 "uid": "15621795958426619957",
                 "type": "BotEnemyType_Brawler"
             },
             {
-                "idx": 85,
+                "idx": 87,
                 "uid": "3517035000518974420",
                 "type": "3517035000518974420"
             },
             {
-                "idx": 86,
+                "idx": 88,
                 "uid": "18129582262547983427",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 87,
+                "idx": 89,
                 "uid": "2701456486977900736",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 88,
+                "idx": 90,
                 "uid": "4618830856548850870",
                 "type": "BotEnemyType_Trooper"
             },
             {
-                "idx": 89,
+                "idx": 91,
                 "uid": "7258218216136199873",
                 "type": "BotEnemyType_Raider"
             },
             {
-                "idx": 90,
+                "idx": 92,
                 "uid": "767968035755763",
                 "type": "BotEnemyType_Marauder"
             },
             {
-                "idx": 91,
+                "idx": 93,
                 "uid": "12041129896721693842",
                 "type": "BotEnemyType_Commissar"
             },
             {
-                "idx": 92,
-                "uid": "2404044106251363533",
-                "type": "BotEnemyType_Commissar"
-            },
-            {
-                "idx": 93,
-                "uid": "1971339432693544677",
-                "type": "BotEnemyType_Commissar"
-            },
-            {
                 "idx": 94,
-                "uid": "720026069039790444",
-                "type": "BotEnemyType_CyborgAgitator"
+                "uid": "2404044106251363533",
+                "type": "BotEnemyType_Commissar_JetBrigade"
             },
             {
                 "idx": 95,
-                "uid": "8388657151297660569",
-                "type": "BotEnemyType_CyborgRadical"
+                "uid": "1971339432693544677",
+                "type": "BotEnemyType_Commissar_IncendiaryCorps"
             },
             {
                 "idx": 96,
-                "uid": "14677717390494571578",
-                "type": "BotEnemyType_CyborgRadical"
+                "uid": "720026069039790444",
+                "type": "BotEnemyType_CyborgAgitator_Female"
             },
             {
                 "idx": 97,
+                "uid": "8388657151297660569",
+                "type": "BotEnemyType_CyborgRadical_Male"
+            },
+            {
+                "idx": 98,
+                "uid": "14677717390494571578",
+                "type": "BotEnemyType_CyborgRadical_Female"
+            },
+            {
+                "idx": 99,
                 "uid": "2190700087544369166",
                 "type": "BotEnemyType_HulkObliterator"
             },
             {
-                "idx": 98,
+                "idx": 100,
                 "uid": "4469039597602705386",
                 "type": "BotEnemyType_HulkScorcher"
             },
             {
-                "idx": 99,
-                "uid": "16451308563134815530",
-                "type": "BotEnemyType_HulkScorcher"
-            },
-            {
-                "idx": 100,
-                "uid": "7902461295840507538",
-                "type": "BotEnemyType_HulkFirebomber"
-            },
-            {
                 "idx": 101,
-                "uid": "1772093692883358428",
-                "type": "BotEnemyType_HulkScorcher"
+                "uid": "16451308563134815530",
+                "type": "BotEnemyType_HulkScorcher_JetBrigade"
             },
             {
                 "idx": 102,
+                "uid": "7902461295840507538",
+                "type": "BotEnemyType_HulkFirebomber_IncendiaryCorps"
+            },
+            {
+                "idx": 103,
+                "uid": "1772093692883358428",
+                "type": "BotEnemyType_HulkScorcher_IncendiaryCorps"
+            },
+            {
+                "idx": 104,
                 "uid": "1403303179954968823",
                 "type": "BotEnemyType_HulkBruiser"
             },
             {
-                "idx": 103,
-                "uid": "3660840294738278623",
-                "type": "BotEnemyType_HulkBruiser"
-            },
-            {
-                "idx": 104,
-                "uid": "6336231432473988509",
-                "type": "BotEnemyType_Devastator"
-            },
-            {
                 "idx": 105,
-                "uid": "18198461672611034237",
-                "type": "BotEnemyType_Devastator"
+                "uid": "3660840294738278623",
+                "type": "BotEnemyType_HulkBruiser_JetBrigade"
             },
             {
                 "idx": 106,
-                "uid": "13723659040410201638",
-                "type": "BotEnemyType_Devastator"
+                "uid": "6336231432473988509",
+                "type": "BotEnemyType_Devastator_IncendiaryCorps"
             },
             {
                 "idx": 107,
-                "uid": "13340847352459495240",
-                "type": "BotEnemyType_HeavyDevastator"
+                "uid": "18198461672611034237",
+                "type": "BotEnemyType_Devastator_MK2"
             },
             {
                 "idx": 108,
+                "uid": "13723659040410201638",
+                "type": "BotEnemyType_Devastator_JetBrigade"
+            },
+            {
+                "idx": 109,
+                "uid": "13340847352459495240",
+                "type": "BotEnemyType_HeavyDevastator_MK2"
+            },
+            {
+                "idx": 110,
                 "uid": "17921415124075533547",
                 "type": "BotEnemyType_HeavyDevastator"
             },
             {
-                "idx": 109,
-                "uid": "6391373595476922945",
-                "type": "BotEnemyType_IncendiaryMGDevastator"
-            },
-            {
-                "idx": 110,
-                "uid": "10514734670540770044",
-                "type": "BotEnemyType_Devastator"
-            },
-            {
                 "idx": 111,
+                "uid": "6391373595476922945",
+                "type": "BotEnemyType_MGDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 112,
+                "uid": "10514734670540770044",
+                "type": "BotEnemyType_HeavyDevastator_MK3"
+            },
+            {
+                "idx": 113,
                 "uid": "10828817397904429935",
                 "type": "BotEnemyType_RocketDevastator"
             },
             {
-                "idx": 112,
-                "uid": "17756861745706792858",
-                "type": "BotEnemyType_RocketDevastator"
-            },
-            {
-                "idx": 113,
-                "uid": "14536718756304552612",
-                "type": "BotEnemyType_RocketDevastator"
-            },
-            {
                 "idx": 114,
-                "uid": "16155873629479015795",
-                "type": "BotEnemyType_ConflagrationDevastator"
+                "uid": "17756861745706792858",
+                "type": "BotEnemyType_RocketDevastator_MK2"
             },
             {
                 "idx": 115,
+                "uid": "14536718756304552612",
+                "type": "BotEnemyType_RocketDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 116,
+                "uid": "16155873629479015795",
+                "type": "BotEnemyType_ConflagrationDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 117,
                 "uid": "3527126521288270458",
                 "type": "3527126521288270458"
             },
             {
-                "idx": 116,
+                "idx": 118,
                 "uid": "14286719829563111324",
                 "type": "BotEnemyType_ShredderTank"
             },
             {
-                "idx": 117,
+                "idx": 119,
                 "uid": "6041739005686103399",
                 "type": "BotEnemyType_AnnihilatorTank"
             },
             {
-                "idx": 118,
+                "idx": 120,
                 "uid": "7196537832909981064",
                 "type": "BotEnemyType_BarragerTank"
             },
             {
-                "idx": 119,
+                "idx": 121,
                 "uid": "10409770290790592053",
                 "type": "BotEnemyType_ReinforcedScoutStrider"
             },
             {
-                "idx": 120,
-                "uid": "782675882315451933",
-                "type": "IlluminateEnemyType_Voteless"
-            },
-            {
-                "idx": 121,
-                "uid": "4919490090942595835",
-                "type": "IlluminateEnemyType_Voteless"
-            },
-            {
                 "idx": 122,
-                "uid": "17393195075174683200",
-                "type": "IlluminateEnemyType_Overseer"
+                "uid": "782675882315451933",
+                "type": "IlluminateEnemyType_Voteless_Medium"
             },
             {
                 "idx": 123,
-                "uid": "641481206831155133",
-                "type": "641481206831155133"
+                "uid": "4919490090942595835",
+                "type": "IlluminateEnemyType_Voteless_Heavy"
             },
             {
                 "idx": 124,
-                "uid": "15438282343866021807",
-                "type": "IlluminateEnemyType_Harvester"
+                "uid": "17393195075174683200",
+                "type": "IlluminateEnemyType_Overseer_MK3"
             },
             {
                 "idx": 125,
+                "uid": "641481206831155133",
+                "type": "IlluminateEnemyType_Overseer_MK2"
+            },
+            {
+                "idx": 126,
+                "uid": "15438282343866021807",
+                "type": "IlluminateEnemyType_Harvester_MK2"
+            },
+            {
+                "idx": 127,
                 "uid": "15599629815890585244",
                 "type": "15599629815890585244"
             },
             {
-                "idx": 126,
+                "idx": 128,
                 "uid": "16841371283351459334",
                 "type": "16841371283351459334"
             },
             {
-                "idx": 127,
+                "idx": 129,
                 "uid": "2210598302234166538",
                 "type": "2210598302234166538"
             },
             {
-                "idx": 128,
+                "idx": 130,
                 "uid": "7587445649108074590",
                 "type": "7587445649108074590"
             },
             {
-                "idx": 129,
+                "idx": 131,
                 "uid": "850711056443892715",
                 "type": "850711056443892715"
             },
             {
-                "idx": 130,
+                "idx": 132,
                 "uid": "13575269880792024885",
                 "type": "13575269880792024885"
             },
             {
-                "idx": 131,
+                "idx": 133,
                 "uid": "15701184648926402687",
                 "type": "15701184648926402687"
             },
             {
-                "idx": 132,
+                "idx": 134,
                 "uid": "5938625030399109341",
                 "type": "5938625030399109341"
             },
             {
-                "idx": 133,
+                "idx": 135,
                 "uid": "11843619417684963016",
                 "type": "11843619417684963016"
             },
             {
-                "idx": 134,
+                "idx": 136,
                 "uid": "18047604708754565239",
                 "type": "18047604708754565239"
             },
             {
-                "idx": 135,
+                "idx": 137,
                 "uid": "2186831762627068031",
                 "type": "2186831762627068031"
             },
             {
-                "idx": 136,
+                "idx": 138,
                 "uid": "7057055776013546117",
                 "type": "7057055776013546117"
             },
             {
-                "idx": 137,
+                "idx": 139,
                 "uid": "5268813631875709973",
                 "type": "5268813631875709973"
             },
             {
-                "idx": 138,
+                "idx": 140,
                 "uid": "15336140906172278556",
                 "type": "15336140906172278556"
             },
             {
-                "idx": 139,
+                "idx": 141,
                 "uid": "14054387432745785364",
                 "type": "14054387432745785364"
             },
             {
-                "idx": 140,
+                "idx": 142,
                 "uid": "11353844921854370643",
                 "type": "11353844921854370643"
             },
             {
-                "idx": 141,
+                "idx": 143,
                 "uid": "4960479884336891143",
                 "type": "4960479884336891143"
             },
             {
-                "idx": 142,
+                "idx": 144,
                 "uid": "12165351853986040244",
                 "type": "12165351853986040244"
             },
             {
-                "idx": 143,
+                "idx": 145,
                 "uid": "15691978653806246852",
                 "type": "15691978653806246852"
             },
             {
-                "idx": 144,
+                "idx": 146,
                 "uid": "5077454099412397096",
                 "type": "5077454099412397096"
             },
             {
-                "idx": 145,
+                "idx": 147,
                 "uid": "8785151313511435740",
                 "type": "8785151313511435740"
             },
             {
-                "idx": 146,
+                "idx": 148,
                 "uid": "9576485996670470682",
                 "type": "9576485996670470682"
             },
             {
-                "idx": 147,
+                "idx": 149,
                 "uid": "9513169167295339035",
                 "type": "9513169167295339035"
             },
             {
-                "idx": 148,
+                "idx": 150,
                 "uid": "552747719338665864",
                 "type": "552747719338665864"
             },
             {
-                "idx": 149,
+                "idx": 151,
                 "uid": "8604848163181421628",
                 "type": "8604848163181421628"
             },
             {
-                "idx": 150,
+                "idx": 152,
                 "uid": "1239378520908923324",
                 "type": "1239378520908923324"
             },
             {
-                "idx": 151,
+                "idx": 153,
                 "uid": "6674443306042095289",
                 "type": "6674443306042095289"
             },
             {
-                "idx": 152,
+                "idx": 154,
                 "uid": "5650246641905721936",
                 "type": "5650246641905721936"
             },
             {
-                "idx": 153,
+                "idx": 155,
                 "uid": "11297499216687771913",
                 "type": "11297499216687771913"
             },
             {
-                "idx": 154,
+                "idx": 156,
                 "uid": "14828710641940459992",
                 "type": "14828710641940459992"
             },
             {
-                "idx": 155,
-                "uid": "7719924637775600975",
-                "type": "7719924637775600975"
-            },
-            {
-                "idx": 156,
-                "uid": "11530114387757953774",
-                "type": "11530114387757953774"
-            },
-            {
                 "idx": 157,
-                "uid": "6089208603239816028",
-                "type": "6089208603239816028"
+                "uid": "7719924637775600975",
+                "type": "SuperEarthType_SEAF_NPC_withBackpack"
             },
             {
                 "idx": 158,
-                "uid": "13617855600110100742",
-                "type": "13617855600110100742"
+                "uid": "11530114387757953774",
+                "type": "SuperEarthType_SEAF_NPC_MK1"
             },
             {
                 "idx": 159,
-                "uid": "8708480032737395252",
-                "type": "8708480032737395252"
+                "uid": "6089208603239816028",
+                "type": "SuperEarthType_SEAF_NPC_MK2"
             },
             {
                 "idx": 160,
-                "uid": "1460639142923993241",
-                "type": "1460639142923993241"
+                "uid": "13617855600110100742",
+                "type": "SuperEarthType_SEAF_NPC_withWireless_MK1"
             },
             {
                 "idx": 161,
-                "uid": "8048468262572802857",
-                "type": "8048468262572802857"
+                "uid": "8708480032737395252",
+                "type": "SuperEarthType_SEAF_NPC_withWireless_MK2"
             },
             {
                 "idx": 162,
-                "uid": "14155525937218621891",
-                "type": "14155525937218621891"
+                "uid": "1460639142923993241",
+                "type": "SuperEarthType_SEAF_NPC_Medic_MK1"
             },
             {
                 "idx": 163,
-                "uid": "13814167941378577880",
-                "type": "13814167941378577880"
+                "uid": "8048468262572802857",
+                "type": "SuperEarthType_SEAF_NPC_Medic_MK2"
             },
             {
                 "idx": 164,
-                "uid": "12023698573119337990",
-                "type": "12023698573119337990"
+                "uid": "14155525937218621891",
+                "type": "SuperEarthType_SEAF_NPC_Medic_MK3"
             },
             {
                 "idx": 165,
-                "uid": "5555647998940836938",
-                "type": "5555647998940836938"
+                "uid": "13814167941378577880",
+                "type": "SuperEarthType_SEAF_NPC_HeavyWeapons_MK1"
             },
             {
                 "idx": 166,
-                "uid": "3836043307793934489",
-                "type": "3836043307793934489"
+                "uid": "12023698573119337990",
+                "type": "SuperEarthType_SEAF_NPC_HeavyWeapons_MK2"
             },
             {
                 "idx": 167,
-                "uid": "7712844951779243309",
-                "type": "7712844951779243309"
+                "uid": "5555647998940836938",
+                "type": "SuperEarthType_Civilian_MK2"
             },
             {
                 "idx": 168,
-                "uid": "3754586476635072036",
-                "type": "3754586476635072036"
+                "uid": "3836043307793934489",
+                "type": "SuperEarthType_Civilian_MK3"
             },
             {
                 "idx": 169,
-                "uid": "14706222259390606723",
-                "type": "14706222259390606723"
+                "uid": "7712844951779243309",
+                "type": "SuperEarthType_Civilian_MK4"
             },
             {
                 "idx": 170,
-                "uid": "16507283781696478269",
-                "type": "16507283781696478269"
+                "uid": "3754586476635072036",
+                "type": "SuperEarthType_Civilian_MK5"
             },
             {
                 "idx": 171,
-                "uid": "10665281465322007152",
-                "type": "10665281465322007152"
+                "uid": "14706222259390606723",
+                "type": "SuperEarthType_Civilian_MK6"
             },
             {
                 "idx": 172,
+                "uid": "16507283781696478269",
+                "type": "SuperEarthType_Civilian_MK7"
+            },
+            {
+                "idx": 173,
+                "uid": "10665281465322007152",
+                "type": "SuperEarthType_Civilian_MK8"
+            },
+            {
+                "idx": 174,
                 "uid": "15529686099596640908",
                 "type": "15529686099596640908"
             },
             {
-                "idx": 173,
+                "idx": 175,
                 "uid": "1903375976943875074",
                 "type": "PickupType_StimulantBox"
             },
             {
-                "idx": 174,
+                "idx": 176,
                 "uid": "10405460102960147340",
                 "type": "10405460102960147340"
             },
             {
-                "idx": 175,
+                "idx": 177,
                 "uid": "5492393195882837684",
                 "type": "5492393195882837684"
             },
             {
-                "idx": 176,
+                "idx": 178,
                 "uid": "363124815175446673",
                 "type": "363124815175446673"
             },
             {
-                "idx": 177,
+                "idx": 179,
                 "uid": "1346028121179999955",
                 "type": "1346028121179999955"
             },
             {
-                "idx": 178,
+                "idx": 180,
                 "uid": "4083821917710944045",
                 "type": "4083821917710944045"
             },
             {
-                "idx": 179,
+                "idx": 181,
                 "uid": "12023841631339054706",
                 "type": "12023841631339054706"
             },
             {
-                "idx": 180,
+                "idx": 182,
                 "uid": "1825817556220264183",
                 "type": "1825817556220264183"
             },
             {
-                "idx": 181,
-                "uid": "1024464436030047776",
-                "type": "1024464436030047776"
-            },
-            {
-                "idx": 182,
-                "uid": "9683243174428770658",
-                "type": "9683243174428770658"
-            },
-            {
                 "idx": 183,
-                "uid": "10179078936557797909",
-                "type": "10179078936557797909"
+                "uid": "1024464436030047776",
+                "type": "SuperEarthType_Extractable_Worker_Female"
             },
             {
                 "idx": 184,
-                "uid": "15395181080776134584",
-                "type": "15395181080776134584"
+                "uid": "9683243174428770658",
+                "type": "SuperEarthType_Extractable_Worker_Female_MK2"
             },
             {
                 "idx": 185,
-                "uid": "14040307618832651425",
-                "type": "14040307618832651425"
+                "uid": "10179078936557797909",
+                "type": "SuperEarthType_Extractable_Worker_Female_MK3"
             },
             {
                 "idx": 186,
-                "uid": "7444362792725516608",
-                "type": "7444362792725516608"
+                "uid": "15395181080776134584",
+                "type": "SuperEarthType_Extractable_Worker_Female_MK4"
             },
             {
                 "idx": 187,
-                "uid": "1232841523375292236",
-                "type": "1232841523375292236"
+                "uid": "14040307618832651425",
+                "type": "SuperEarthType_Extractable_Worker_Male_MK2"
             },
             {
                 "idx": 188,
+                "uid": "7444362792725516608",
+                "type": "SuperEarthType_Extractable_Worker_Male_MK3"
+            },
+            {
+                "idx": 189,
+                "uid": "1232841523375292236",
+                "type": "SuperEarthType_Extractable_Worker_Male_MK4"
+            },
+            {
+                "idx": 190,
                 "uid": "11555060082231454796",
                 "type": "BugEnemyType_ChargerBehemoth"
             },
             {
-                "idx": 189,
-                "uid": "2236760086372418784",
-                "type": "BugEnemyType_SporeBurstHunter"
-            },
-            {
-                "idx": 190,
-                "uid": "15822911520269726977",
-                "type": "BugEnemyType_SporeBurstScavenger"
-            },
-            {
                 "idx": 191,
-                "uid": "8251756929257574076",
-                "type": "BugEnemyType_SporeBurstWarrior"
+                "uid": "2236760086372418784",
+                "type": "BugEnemyType_Hunter_SporeBurstStrain"
             },
             {
                 "idx": 192,
-                "uid": "11481777918278298912",
-                "type": "BotEnemyType_Trooper?"
+                "uid": "15822911520269726977",
+                "type": "BugEnemyType_Scavenger_SporeBurstStrain"
             },
             {
                 "idx": 193,
-                "uid": "16610351617142216522",
-                "type": "BotEnemyType_Raider"
+                "uid": "8251756929257574076",
+                "type": "BugEnemyType_Warrior_SporeBurstStrain"
             },
             {
                 "idx": 194,
+                "uid": "11481777918278298912",
+                "type": "BotEnemyType_BlasterTrooper_IncendiaryCorps"
+            },
+            {
+                "idx": 195,
+                "uid": "16610351617142216522",
+                "type": "BotEnemyType_Raider_IncendiaryCorps"
+            },
+            {
+                "idx": 196,
                 "uid": "3031503431338798614",
                 "type": "BotEnemyType_RocketRaider"
             },
             {
-                "idx": 195,
+                "idx": 197,
                 "uid": "12013007335500498924",
                 "type": "12013007335500498924"
             },
             {
-                "idx": 196,
+                "idx": 198,
                 "uid": "3128706810926128882",
                 "type": "3128706810926128882"
             },
             {
-                "idx": 197,
+                "idx": 199,
                 "uid": "15809454270358060682",
                 "type": "15809454270358060682"
             },
             {
-                "idx": 198,
+                "idx": 200,
                 "uid": "2108432737919758797",
                 "type": "2108432737919758797"
             }

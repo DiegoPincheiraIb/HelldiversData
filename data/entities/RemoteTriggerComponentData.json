@@ -1,5 +1,23 @@
 {
-  "10266352102081711787": {
-    "remote_ability_id": "AbilityId_Invalid"
-  }
+    "RemoteTriggerComponentData": {
+        "items": [
+            {
+                "unique_id": "10266352102081711787",
+                "uid_name": "10266352102081711787",
+                "remote_ability_id": "AbilityId_Invalid"
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "remote_ability_id": "AbilityId_Invalid"
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "10266352102081711787",
+                "type": "10266352102081711787"
+            }
+        ]
+    }
 }

@@ -12,14 +12,14 @@
                 "fire_fail_audio_event": 0,
                 "fire_source_node": 2601604451,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 5.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "10465347570353705351",
-                "muzzle_flash_fail": "16648530335928772614"
+                "muzzle_flash": 10465347570353705351,
+                "muzzle_flash_fail": 16648530335928772614
             },
             {
                 "unique_id": "17664382055250362923",
@@ -32,14 +32,14 @@
                 "fire_fail_audio_event": 0,
                 "fire_source_node": 2601604451,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 5.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "10465347570353705351",
-                "muzzle_flash_fail": "16648530335928772614"
+                "muzzle_flash": 10465347570353705351,
+                "muzzle_flash_fail": 16648530335928772614
             },
             {
                 "unique_id": "10214051119573296464",
@@ -52,14 +52,14 @@
                 "fire_fail_audio_event": 3527293210,
                 "fire_source_node": 2601604451,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 5.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "10465347570353705351",
-                "muzzle_flash_fail": "16648530335928772614"
+                "muzzle_flash": 10465347570353705351,
+                "muzzle_flash_fail": 16648530335928772614
             },
             {
                 "unique_id": "3101227300789072443",
@@ -72,14 +72,14 @@
                 "fire_fail_audio_event": 0,
                 "fire_source_node": 747556395,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 5.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "10465347570353705351",
-                "muzzle_flash_fail": "16648530335928772614"
+                "muzzle_flash": 10465347570353705351,
+                "muzzle_flash_fail": 16648530335928772614
             },
             {
                 "unique_id": "952558497108237637",
@@ -92,14 +92,14 @@
                 "fire_fail_audio_event": 0,
                 "fire_source_node": 1243096897,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 3.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "0",
-                "muzzle_flash_fail": "0"
+                "muzzle_flash": 0,
+                "muzzle_flash_fail": 0
             },
             {
                 "unique_id": "17082991540257404781",
@@ -112,14 +112,14 @@
                 "fire_fail_audio_event": 0,
                 "fire_source_node": 1243096897,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 3.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "0",
-                "muzzle_flash_fail": "0"
+                "muzzle_flash": 0,
+                "muzzle_flash_fail": 0
             },
             {
                 "unique_id": "8383906277678357886",
@@ -132,18 +132,18 @@
                 "fire_fail_audio_event": 0,
                 "fire_source_node": 1441931427,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 3.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "0",
-                "muzzle_flash_fail": "0"
+                "muzzle_flash": 0,
+                "muzzle_flash_fail": 0
             },
             {
                 "unique_id": "11552626079949819071",
-                "uid_name": "SupportBackpackType_ArcDrone",
+                "uid_name": "SupportBackpackType_ArcDrone_Weapon",
                 "arc_type": "ArcType_ArcDog_K9",
                 "rounds_per_minute": 12.0,
                 "infinite_ammo": 1,
@@ -152,14 +152,14 @@
                 "fire_fail_audio_event": 0,
                 "fire_source_node": 1464994495,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 5.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "10465347570353705351",
-                "muzzle_flash_fail": "16648530335928772614"
+                "muzzle_flash": 10465347570353705351,
+                "muzzle_flash_fail": 16648530335928772614
             },
             {
                 "unique_id": "535319041333920260",
@@ -172,14 +172,14 @@
                 "fire_fail_audio_event": 0,
                 "fire_source_node": 1464994495,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 5.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "10465347570353705351",
-                "muzzle_flash_fail": "16648530335928772614"
+                "muzzle_flash": 10465347570353705351,
+                "muzzle_flash_fail": 16648530335928772614
             },
             {
                 "unique_id": "10871298989420119782",
@@ -192,14 +192,34 @@
                 "fire_fail_audio_event": 1078217113,
                 "fire_source_node": 747556395,
                 "on_round_fired_shakes": {
-                    "world_shake_effect": "15470634414645351875",
-                    "local_shake_effect": "15470634414645351875",
-                    "fpv_shake_effect": "0",
+                    "world_shake_effect": 15470634414645351875,
+                    "local_shake_effect": 15470634414645351875,
+                    "fpv_shake_effect": 0,
                     "inner_radius": 5.0,
                     "outer_radius": 10.0
                 },
-                "muzzle_flash": "10465347570353705351",
-                "muzzle_flash_fail": "16648530335928772614"
+                "muzzle_flash": 10465347570353705351,
+                "muzzle_flash_fail": 16648530335928772614
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "arc_type": "ArcType_None",
+                "rounds_per_minute": -1.0,
+                "infinite_ammo": 1,
+                "fire_single_audio_event": 0,
+                "fire_all_barrel_audio_event": 0,
+                "fire_fail_audio_event": 0,
+                "fire_source_node": 0,
+                "on_round_fired_shakes": {
+                    "world_shake_effect": 0,
+                    "local_shake_effect": 0,
+                    "fpv_shake_effect": 0,
+                    "inner_radius": 2.0,
+                    "outer_radius": 5.0
+                },
+                "muzzle_flash": 0,
+                "muzzle_flash_fail": 0
             }
         ],
         "index_list": [
@@ -241,7 +261,7 @@
             {
                 "idx": 7,
                 "uid": "11552626079949819071",
-                "type": "SupportBackpackType_ArcDrone"
+                "type": "SupportBackpackType_ArcDrone_Weapon"
             },
             {
                 "idx": 8,

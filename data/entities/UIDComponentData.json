@@ -467,35 +467,71 @@
     "10871626090290489728": {
         "name": "SupportBackpackType_RecoillessRifleBackpack"
     },
+    "114072341195801864": {
+        "name": "SupportBackpackType_BulletDrone_Drone_MK2"
+    },
+    "17870518574608098412": {
+        "name": "SupportBackpackType_BulletDrone_Drone_MK3"
+    },
+    "18002332014700027641": {
+        "name": "SupportBackpackType_BulletDrone_Drone_MK4"
+    },
+    "11616925890035912226": {
+        "name": "SupportBackpackType_BulletDrone_Weapon_PlasmaGun"
+    },
+    "11601043503813400874": {
+        "name": "SupportBackpackType_BulletDrone_Drone"
+    },
     "11756121139324203897": {
-        "name": "SupportBackpackType_GuardDogBulletWeapon"
+        "name": "SupportBackpackType_BulletDrone_Weapon"
+    },
+    "2692796710804508396": {
+        "name": "SupportBackpackType_BulletDrone_Backpack"
+    },
+    "2753976566055493778": {
+        "name": "SupportBackpackType_BulletDrone_Weapon_MK2"
+    },
+    "4416184955867381998": {
+        "name": "SupportBackpackType_BulletDrone_Weapon_MK3"
     },
     "6624453650490018537": {
-        "name": "SupportBackpackType_GuardDogRover_Drone"
+        "name": "SupportBackpackType_LaserDrone_Drone"
     },
-    "12653822188347841538": {
-        "name": "SupportBackpackType_GuardDogRover_Backpack"
+    "8743388434472300512": {
+        "name": "SupportBackpackType_LaserDrone_Drone_MK2"
     },
     "3199457897835937068": {
-        "name": "SupportBackpackType_GuardDogRover_BeamGun"
+        "name": "SupportBackpackType_LaserDrone_Weapon"
+    },
+    "12653822188347841538": {
+        "name": "SupportBackpackType_LaserDrone_Backpack"
     },
     "13198259103089806061": {
-        "name": "SupportBackpackType_DogBreathDrone"
+        "name": "SupportBackpackType_CausticDrone_Weapon"
     },
-    "11552626079949819071": {
-        "name": "SupportBackpackType_ArcDrone"
+    "13834130950471716570": {
+        "name": "SupportBackpackType_CausticDrone_Backpack"
+    },
+    "13383279112602229081": {
+        "name": "SupportBackpackType_CausticDrone_Drone"
     },
     "5406314287462237588": {
         "name": "SupportBackpackType_ArcDrone_Drone"
     },
+    "11552626079949819071": {
+        "name": "SupportBackpackType_ArcDrone_Weapon"
+    },
     "14019044913798069754": {
         "name": "SupportBackpackType_ArcDrone_Backpack"
     },
-    "3464783698532994381": {
-        "name": "SupportBackpackType_FlameDrone"
+    "10925341024319250374": {
+        "name": "SupportBackpackType_FlameDrone_Drone"
     },
     "7335593197372175302": {
-        "name": "SupportBackpackType_FlameDrone_Spray"
+        "name": "SupportBackpackType_FlameDrone_Weapon"
+    },
+    "3464783698532994381": {
+        "name": "SupportBackpackType_FlameDrone_Backpack"
     },
     "11155000903228636302": {
         "name": "SupportBackpackType_PortableHellbomb"
@@ -889,6 +925,9 @@
     },
     "4773808446773069045": {
         "name": "VehicleType_GATER"
+    },
+    "576943110514355900": {
+        "name": "VehicleType_GATER_MK2"
     },
     "10985104894119086333": {
         "name": "VehicleType_GATER_Turret"
@@ -2175,12 +2214,6 @@
     },
     "16983968416304026806": {
         "name": "EagleBombardmentType_Missile"
-    },
-    "2753976566055493778": {
-        "name": "SupportBackpackType_GuardDogBulletWeapon_MK2"
-    },
-    "4416184955867381998": {
-        "name": "SupportBackpackType_GuardDogBulletWeapon_MK3"
     },
     "5617149288754513915": {
         "name": "VehicleType_Supply_FRV_ARSentry"

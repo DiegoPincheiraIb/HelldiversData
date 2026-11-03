@@ -1,11 +1,43 @@
 {
-  "5556372446766824087": {
-    "prefix": "CharacterVoicePrefix_None"
-  },
-  "16668812455095794960": {
-    "prefix": "CharacterVoicePrefix_Helldiver_Dummy"
-  },
-  "4371511811598490931": {
-    "prefix": "CharacterVoicePrefix_Helldiver_Dummy"
-  }
+    "CharacterVoiceComponentData": {
+        "items": [
+            {
+                "unique_id": "5556372446766824087",
+                "uid_name": "Avatar_Helldiver",
+                "prefix": "CharacterVoicePrefix_None"
+            },
+            {
+                "unique_id": "4371511811598490931",
+                "uid_name": "4371511811598490931",
+                "prefix": "CharacterVoicePrefix_Helldiver_Dummy"
+            },
+            {
+                "unique_id": "16668812455095794960",
+                "uid_name": "16668812455095794960",
+                "prefix": "CharacterVoicePrefix_Helldiver_Dummy"
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "prefix": "CharacterVoicePrefix_None"
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "5556372446766824087",
+                "type": "Avatar_Helldiver"
+            },
+            {
+                "idx": 1,
+                "uid": "4371511811598490931",
+                "type": "4371511811598490931"
+            },
+            {
+                "idx": 2,
+                "uid": "16668812455095794960",
+                "type": "16668812455095794960"
+            }
+        ]
+    }
 }

@@ -1,6 +1,19 @@
 {
-  "12520557306470281471": {
-    "radius": 13,
-    "delivery_tag": 665824129
-  }
+    "ObjectiveVehicleDeliveryComponentData": {
+        "items": [
+            {
+                "unique_id": "12520557306470281471",
+                "uid_name": "12520557306470281471",
+                "radius": 13.0,
+                "delivery_tag": 665824129
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "12520557306470281471",
+                "type": "12520557306470281471"
+            }
+        ]
+    }
 }

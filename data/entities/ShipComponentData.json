@@ -1,6 +1,19 @@
 {
-  "17117880539094758852": {
-    "loadout_countdown_time": 30,
-    "dropin_countdown_time": 60
-  }
+    "ShipComponentData": {
+        "items": [
+            {
+                "unique_id": "17117880539094758852",
+                "uid_name": "17117880539094758852",
+                "loadout_countdown_time": 30.0,
+                "dropin_countdown_time": 60.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "17117880539094758852",
+                "type": "17117880539094758852"
+            }
+        ]
+    }
 }

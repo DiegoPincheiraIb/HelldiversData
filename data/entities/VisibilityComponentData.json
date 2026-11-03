@@ -129,7 +129,7 @@
             },
             {
                 "unique_id": "15150485993766777854",
-                "uid_name": "15150485993766777854",
+                "uid_name": "VehicleType_MaelstromTank_Missile",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -164,14 +164,14 @@
             },
             {
                 "unique_id": "9814471339792705014",
-                "uid_name": "BugEnemyType_PredatorHunter",
+                "uid_name": "BugEnemyType_Hunter_PredatorStrain",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "15125779956101896786",
-                "uid_name": "BugEnemyType_PredatorStalker",
+                "uid_name": "BugEnemyType_Stalker_PredatorStrain",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -213,14 +213,14 @@
             },
             {
                 "unique_id": "3103483601875813497",
-                "uid_name": "DeployableType_AutoCannonEmplacement",
+                "uid_name": "DeployableType_AutocannonEmplacement",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "7539955080993332996",
-                "uid_name": "7539955080993332996",
+                "uid_name": "DeployableType_GatlingSentry_MK5",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -241,7 +241,7 @@
             },
             {
                 "unique_id": "12269323780666160625",
-                "uid_name": "DeployableType_GatlingSentry",
+                "uid_name": "DeployableType_MachineGunSentry_MK2",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -255,7 +255,7 @@
             },
             {
                 "unique_id": "12209482505501190673",
-                "uid_name": "DeployableType_HeavyMachineGunEmplacementDerelict",
+                "uid_name": "DeployableType_HeavyMachineGunEmplacement_SuperEarthDefense",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -283,28 +283,28 @@
             },
             {
                 "unique_id": "16204610837508709347",
-                "uid_name": "16204610837508709347",
+                "uid_name": "DeployableType_FlamethrowerEmplacement",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "1837707428311856638",
-                "uid_name": "1837707428311856638",
+                "uid_name": "DeployableType_LaserEmplacement",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "2616888780303759269",
-                "uid_name": "2616888780303759269",
+                "uid_name": "DeployableType_RailgunEmplacement",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "16974551944278808389",
-                "uid_name": "16974551944278808389",
+                "uid_name": "DeployableType_RocketEmplacement",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -339,14 +339,14 @@
             },
             {
                 "unique_id": "9219146911950674287",
-                "uid_name": "DeployableType_GatlingSentry",
+                "uid_name": "DeployableType_GatlingSentry_MK2",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "6337264778388549835",
-                "uid_name": "DeployableType_GatlingSentry",
+                "uid_name": "DeployableType_GatlingSentry_MK4",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -360,14 +360,14 @@
             },
             {
                 "unique_id": "3880965223585101348",
-                "uid_name": "VehicleType_BreakthroughExoSuit",
+                "uid_name": "VehicleType_BreakthroughExosuit",
                 "base_visibility": 3.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "8872978533108711529",
-                "uid_name": "VehicleType_LumbererExoSuit",
+                "uid_name": "VehicleType_LumbererExosuit",
                 "base_visibility": 3.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -408,22 +408,29 @@
                 "night_visibility": 0.800000012
             },
             {
+                "unique_id": "3037497317565530440",
+                "uid_name": "EagleBombardmentType_EagleFlyBy",
+                "base_visibility": 2.0,
+                "minimum_visibility": 0.100000001,
+                "night_visibility": 0.800000012
+            },
+            {
                 "unique_id": "15830863719876386710",
-                "uid_name": "15830863719876386710",
+                "uid_name": "EagleBombardmentType_GasStrike",
                 "base_visibility": 2.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "851455025217071569",
-                "uid_name": "851455025217071569",
+                "uid_name": "EagleBombardmentType_EagleQuickStrike",
                 "base_visibility": 2.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "16121648674137865605",
-                "uid_name": "16121648674137865605",
+                "uid_name": "EagleBombardmentType_AirToAirMissiles",
                 "base_visibility": 2.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -486,49 +493,49 @@
             },
             {
                 "unique_id": "12738988949818115065",
-                "uid_name": "12738988949818115065",
+                "uid_name": "VehicleType_MaelstromTank",
                 "base_visibility": 3.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "344970826846105488",
-                "uid_name": "DeployableType_GatlingSentry",
+                "uid_name": "DeployableType_GatlingSentry_MK6",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "9796573205647524202",
-                "uid_name": "9796573205647524202",
+                "uid_name": "DeployableType_GatlingSentry_MK3",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "576943110514355900",
-                "uid_name": "576943110514355900",
+                "uid_name": "VehicleType_GATER_MK2",
                 "base_visibility": 3.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "8315931884919593616",
-                "uid_name": "8315931884919593616",
+                "uid_name": "SuperEarthType_AR23_Liberator_Resupply",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "6113742425058627513",
-                "uid_name": "DeployableType_AutoCannonSentry",
+                "uid_name": "DeployableType_AutocannonSentry",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
             },
             {
                 "unique_id": "5617149288754513915",
-                "uid_name": "5617149288754513915",
+                "uid_name": "VehicleType_Supply_FRV_ARSentry",
                 "base_visibility": 1.0,
                 "minimum_visibility": 0.100000001,
                 "night_visibility": 0.800000012
@@ -628,7 +635,7 @@
             {
                 "idx": 18,
                 "uid": "15150485993766777854",
-                "type": "15150485993766777854"
+                "type": "VehicleType_MaelstromTank_Missile"
             },
             {
                 "idx": 19,
@@ -653,12 +660,12 @@
             {
                 "idx": 23,
                 "uid": "9814471339792705014",
-                "type": "BugEnemyType_PredatorHunter"
+                "type": "BugEnemyType_Hunter_PredatorStrain"
             },
             {
                 "idx": 24,
                 "uid": "15125779956101896786",
-                "type": "BugEnemyType_PredatorStalker"
+                "type": "BugEnemyType_Stalker_PredatorStrain"
             },
             {
                 "idx": 25,
@@ -688,12 +695,12 @@
             {
                 "idx": 30,
                 "uid": "3103483601875813497",
-                "type": "DeployableType_AutoCannonEmplacement"
+                "type": "DeployableType_AutocannonEmplacement"
             },
             {
                 "idx": 31,
                 "uid": "7539955080993332996",
-                "type": "7539955080993332996"
+                "type": "DeployableType_GatlingSentry_MK5"
             },
             {
                 "idx": 32,
@@ -708,7 +715,7 @@
             {
                 "idx": 34,
                 "uid": "12269323780666160625",
-                "type": "DeployableType_GatlingSentry"
+                "type": "DeployableType_MachineGunSentry_MK2"
             },
             {
                 "idx": 35,
@@ -718,7 +725,7 @@
             {
                 "idx": 36,
                 "uid": "12209482505501190673",
-                "type": "DeployableType_HeavyMachineGunEmplacementDerelict"
+                "type": "DeployableType_HeavyMachineGunEmplacement_SuperEarthDefense"
             },
             {
                 "idx": 37,
@@ -738,22 +745,22 @@
             {
                 "idx": 40,
                 "uid": "16204610837508709347",
-                "type": "16204610837508709347"
+                "type": "DeployableType_FlamethrowerEmplacement"
             },
             {
                 "idx": 41,
                 "uid": "1837707428311856638",
-                "type": "1837707428311856638"
+                "type": "DeployableType_LaserEmplacement"
             },
             {
                 "idx": 42,
                 "uid": "2616888780303759269",
-                "type": "2616888780303759269"
+                "type": "DeployableType_RailgunEmplacement"
             },
             {
                 "idx": 43,
                 "uid": "16974551944278808389",
-                "type": "16974551944278808389"
+                "type": "DeployableType_RocketEmplacement"
             },
             {
                 "idx": 44,
@@ -778,12 +785,12 @@
             {
                 "idx": 48,
                 "uid": "9219146911950674287",
-                "type": "DeployableType_GatlingSentry"
+                "type": "DeployableType_GatlingSentry_MK2"
             },
             {
                 "idx": 49,
                 "uid": "6337264778388549835",
-                "type": "DeployableType_GatlingSentry"
+                "type": "DeployableType_GatlingSentry_MK4"
             },
             {
                 "idx": 50,
@@ -793,12 +800,12 @@
             {
                 "idx": 51,
                 "uid": "3880965223585101348",
-                "type": "VehicleType_BreakthroughExoSuit"
+                "type": "VehicleType_BreakthroughExosuit"
             },
             {
                 "idx": 52,
                 "uid": "8872978533108711529",
-                "type": "VehicleType_LumbererExoSuit"
+                "type": "VehicleType_LumbererExosuit"
             },
             {
                 "idx": 53,
@@ -827,93 +834,98 @@
             },
             {
                 "idx": 58,
-                "uid": "15830863719876386710",
-                "type": "15830863719876386710"
+                "uid": "3037497317565530440",
+                "type": "EagleBombardmentType_EagleFlyBy"
             },
             {
                 "idx": 59,
-                "uid": "851455025217071569",
-                "type": "851455025217071569"
+                "uid": "15830863719876386710",
+                "type": "EagleBombardmentType_GasStrike"
             },
             {
                 "idx": 60,
-                "uid": "16121648674137865605",
-                "type": "16121648674137865605"
+                "uid": "851455025217071569",
+                "type": "EagleBombardmentType_EagleQuickStrike"
             },
             {
                 "idx": 61,
+                "uid": "16121648674137865605",
+                "type": "EagleBombardmentType_AirToAirMissiles"
+            },
+            {
+                "idx": 62,
                 "uid": "2862976050209719244",
                 "type": "EagleBombardmentType_NapalmAirstrike"
             },
             {
-                "idx": 62,
+                "idx": 63,
                 "uid": "4140939466573601321",
                 "type": "EagleBombardmentType_110mmRocketPods"
             },
             {
-                "idx": 63,
+                "idx": 64,
                 "uid": "16847153723028833967",
                 "type": "VehicleType_SuperEarth_FRV"
             },
             {
-                "idx": 64,
+                "idx": 65,
                 "uid": "3280238888919072741",
                 "type": "VehicleType_Incinerator_FRV"
             },
             {
-                "idx": 65,
+                "idx": 66,
                 "uid": "11178286357330019118",
                 "type": "VehicleType_Supply_FRV"
             },
             {
-                "idx": 66,
+                "idx": 67,
                 "uid": "8867451643782573472",
                 "type": "8867451643782573472"
             },
             {
-                "idx": 67,
+                "idx": 68,
                 "uid": "17238162226885792459",
                 "type": "17238162226885792459"
             },
             {
-                "idx": 68,
+                "idx": 69,
                 "uid": "4571403555494335481",
                 "type": "4571403555494335481"
             },
             {
-                "idx": 69,
-                "uid": "12738988949818115065",
-                "type": "12738988949818115065"
-            },
-            {
                 "idx": 70,
-                "uid": "344970826846105488",
-                "type": "DeployableType_GatlingSentry"
+                "uid": "12738988949818115065",
+                "type": "VehicleType_MaelstromTank"
             },
             {
                 "idx": 71,
-                "uid": "9796573205647524202",
-                "type": "9796573205647524202"
+                "uid": "344970826846105488",
+                "type": "DeployableType_GatlingSentry_MK6"
             },
             {
                 "idx": 72,
-                "uid": "576943110514355900",
-                "type": "576943110514355900"
+                "uid": "9796573205647524202",
+                "type": "DeployableType_GatlingSentry_MK3"
             },
             {
                 "idx": 73,
-                "uid": "8315931884919593616",
-                "type": "8315931884919593616"
+                "uid": "576943110514355900",
+                "type": "VehicleType_GATER_MK2"
             },
             {
                 "idx": 74,
-                "uid": "6113742425058627513",
-                "type": "DeployableType_AutoCannonSentry"
+                "uid": "8315931884919593616",
+                "type": "SuperEarthType_AR23_Liberator_Resupply"
             },
             {
                 "idx": 75,
+                "uid": "6113742425058627513",
+                "type": "DeployableType_AutocannonSentry"
+            },
+            {
+                "idx": 76,
                 "uid": "5617149288754513915",
-                "type": "5617149288754513915"
+                "type": "VehicleType_Supply_FRV_ARSentry"
             }
         ]
     }

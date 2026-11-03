@@ -1,942 +1,4110 @@
 {
-  "4092536715104205912": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2894270520075116435": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8776671053425669033": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10768610637301609307": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3124708172057168516": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3852172782311805734": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8971696097026260232": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "424716889947522210": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "535319041333920260": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16910079541664006285": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12525242792979901983": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 0,
-    "interpolation_speed": 20
-  },
-  "7778022558452062755": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "281046277510948131": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "14598422551727838342": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5274502359162322681": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "14942687850090605537": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9182363845171390146": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "6279750092088033715": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "15369542005276747891": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3865797767236207742": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "211331680192206384": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "1030663026357860236": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9738700126984703622": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9291384900638350902": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13590543656112919608": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5504262545937421089": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "6453678319562593995": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "15426747087447648220": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12984499893943104780": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "17587738009391187453": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16068287307180393021": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3973443609256024694": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4616777209957967593": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "6234346553392955601": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16576307969206587212": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "744753118896166941": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3870192466842195264": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10376328634656085665": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12943291850073424771": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16185879173872143133": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13198259103089806061": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "602390376167162446": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3371451580584923919": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5510267968365085927": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3358853937828503136": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10717884433990741653": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10660805200074987205": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13741222368367787890": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5953193886108619556": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "11300340358119080560": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12279528435724053588": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "578623101395158887": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5641428405267160100": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9473798407121267184": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "14772015414747343144": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8427145098997310521": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 0,
-    "interpolation_speed": 20
-  },
-  "11616925890035912226": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "1577001701089971290": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3109983482551492476": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8544792714086142645": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16496326307674548889": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8536986223483970266": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "15859727822481861892": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "7323248696802770694": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4291111060798646696": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "1573296579562737333": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12008625947668001407": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "11756121139324203897": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10266352102081711787": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10930013077329100956": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2714034314705433838": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10339505652348491976": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "6468799106264970105": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13632525282499700070": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12219229778730713472": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2692796710804508396": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13027308828300900709": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4416184955867381998": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3451480817719856167": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12653822188347841538": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "11333649286886241306": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16125342225783174778": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9369996777284288084": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8074555013069095359": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "15356733335604944785": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "421324886246020354": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "18102809172282470538": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "1353568197974522460": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5725374950499373869": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2791632565401924213": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2129528212146849390": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5972955417680186543": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4749824949454633632": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9264801226655597011": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8896268509512551590": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4155583896232633279": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2114795373903595840": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "11389144440041661089": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13357795631455978434": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13164006426448262783": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5634296840427219794": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "133122695844997115": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "15214248472323070124": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4885016034561106550": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "15805795754758043311": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 0,
-    "interpolation_speed": 20
-  },
-  "11493422068836852751": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "17488789745215357128": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "1945762457460294290": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3494241250398732730": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10871298989420119782": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "6912088101323449320": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8096066089414940474": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9675404802175538082": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5771061903247604588": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9724339804752659124": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "11329506424240616277": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "1279722939363854678": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "17623191861664038783": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4459198455771523223": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "14347356236094671771": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8039414067817307766": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "17709977744562302112": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12198302824036005241": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13601459612566041022": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2753976566055493778": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16671435828232852140": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5084997687310749502": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "15304220425359002535": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "6826025955225526457": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "17196401230144941076": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9869105320050739364": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "15365965494753326077": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12100643055971655455": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13918995818598980231": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "518600486455451088": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2401215835282261016": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16756305030629006721": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4894393506576860267": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "11468381642862999653": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2802369506329449110": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "9927421484392399367": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13834130950471716570": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10287068634025973658": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "18163938711866866090": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "17795912175944443264": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12508512869271882154": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3743261888606184850": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5742363029208942635": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "1892480894983787169": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2976556536743111746": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "15470422196992643923": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "7767754898735718469": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "205424700876044767": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "8864800879179811976": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5265154447371684424": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "7810054165681946755": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5910727434981086692": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "17696993194780227077": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "6889076721164976792": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "6160539022825437465": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "11432560202897483622": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16482681913442925439": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4580928717960105129": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5731472083741485993": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2055722625976668762": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10844335154607830587": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13847484889080110003": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "16085819457051082660": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 0,
-    "interpolation_speed": 10
-  },
-  "10845250369047350884": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "14923473746413089367": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "7745884044284159061": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "2877271129141764950": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "14773080917319959198": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "4510702625533881224": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5050852199397921576": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10871626090290489728": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5690760409550920280": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "17252127909105838489": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10177381595962512386": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "5691626237303103123": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3199457897835937068": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "10573539759497526597": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "7256596000532615782": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "3888029160815609798": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "14704299532448510191": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "13030869719813342633": {
-    "sync_rotation": 0,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "14845617694460717074": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  },
-  "12164217308285983839": {
-    "sync_rotation": 1,
-    "clamp_to_terrain": 1,
-    "interpolation_speed": 20
-  }
+    "NetworkPhysicsComponentData": {
+        "items": [
+            {
+                "unique_id": "15426747087447648220",
+                "uid_name": "15426747087447648220",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14598422551727838342",
+                "uid_name": "14598422551727838342",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13590543656112919608",
+                "uid_name": "13590543656112919608",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3415661852457934990",
+                "uid_name": "3415661852457934990",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8536986223483970266",
+                "uid_name": "BugEnemyType_Spewer_Artillery_CausticStrain",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8039414067817307766",
+                "uid_name": "BugEnemyType_Spewer_Vomit_CausticStrain",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12700624828350087151",
+                "uid_name": "BugEnemyType_Spewer_Vomit_MK2_CausticStrain",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "368223792538398003",
+                "uid_name": "BugEnemyType_Noxious_Spewer_Vomit",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2816271437774253565",
+                "uid_name": "BugEnemyType_SepticBreath",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8568490042777875483",
+                "uid_name": "BugEnemyType_DragonRoach_Vomit",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11408638851753260108",
+                "uid_name": "BugEnemyType_HiveLord_Vomit",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4359334844095165257",
+                "uid_name": "BugEnemyType_HiveLord_Vomit_MK2",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2129528212146849390",
+                "uid_name": "BugEnemyType_Hunter_PredatorStrain_BileSpray",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17488789745215357128",
+                "uid_name": "BotEnemyType_HulkScorcher_IncendiaryCorps_Flamethrower",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8776671053425669033",
+                "uid_name": "8776671053425669033",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14704299532448510191",
+                "uid_name": "14704299532448510191",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10930013077329100956",
+                "uid_name": "PickupType_GrenadeStack",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13027308828300900709",
+                "uid_name": "PickupType_StimulantBox",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9738700126984703622",
+                "uid_name": "9738700126984703622",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3888029160815609798",
+                "uid_name": "3888029160815609798",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4092536715104205912",
+                "uid_name": "4092536715104205912",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2055722625976668762",
+                "uid_name": "2055722625976668762",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12219229778730713472",
+                "uid_name": "PickupType_SampleFlask",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17795912175944443264",
+                "uid_name": "17795912175944443264",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5265154447371684424",
+                "uid_name": "5265154447371684424",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12198302824036005241",
+                "uid_name": "12198302824036005241",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4291111060798646696",
+                "uid_name": "PickupType_StimulantBox",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14481784348804167734",
+                "uid_name": "14481784348804167734",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14248470164113099676",
+                "uid_name": "14248470164113099676",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8984148997880128877",
+                "uid_name": "8984148997880128877",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11855261590174697195",
+                "uid_name": "SuperEarthType_SEAF_NPC_Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15535227736896796186",
+                "uid_name": "15535227736896796186",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3699688105859939822",
+                "uid_name": "SuperEarthType_SEAF_NPC_Liberator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "7904040333519397101",
+                "uid_name": "7904040333519397101",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6374978293970811313",
+                "uid_name": "SuperEarthType_SEAF_NPC_MG43",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14576954583701429272",
+                "uid_name": "SuperEarthType_SEAF_NPC_SMG",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6653197749152526844",
+                "uid_name": "SuperEarthType_SEAF_NPC_EAT",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15805795754758043311",
+                "uid_name": "15805795754758043311",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 10.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 1
+            },
+            {
+                "unique_id": "8096066089414940474",
+                "uid_name": "8096066089414940474",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4932725806049233522",
+                "uid_name": "SuperEarthType_HiveBreakerDrill",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 10.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 1
+            },
+            {
+                "unique_id": "2335895616757348607",
+                "uid_name": "2335895616757348607",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 10.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 1
+            },
+            {
+                "unique_id": "8980660665287109532",
+                "uid_name": "8980660665287109532",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9182363845171390146",
+                "uid_name": "9182363845171390146",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1577001701089971290",
+                "uid_name": "1577001701089971290",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4616777209957967593",
+                "uid_name": "4616777209957967593",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "7810054165681946755",
+                "uid_name": "SuperEarthType_None",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3013086132913930527",
+                "uid_name": "3013086132913930527",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 10.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 1
+            },
+            {
+                "unique_id": "6279750092088033715",
+                "uid_name": "6279750092088033715",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3124708172057168516",
+                "uid_name": "PickupType_BugMutatedEgg",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15304220425359002535",
+                "uid_name": "PickupType_CommonSample_MK10",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8544792714086142645",
+                "uid_name": "8544792714086142645",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5771061903247604588",
+                "uid_name": "PickupType_CommonSample_MK7",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16496326307674548889",
+                "uid_name": "PickupType_CommonSample_MK11",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14773080917319959198",
+                "uid_name": "14773080917319959198",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13741222368367787890",
+                "uid_name": "PickupType_CommonSample_MK4",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14347356236094671771",
+                "uid_name": "PickupType_BotConfidentialData",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "18301184306373976528",
+                "uid_name": "IlluminateEnemyType_Illuminate_ExplosiveBarrel",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11691712792438096287",
+                "uid_name": "11691712792438096287",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12943291850073424771",
+                "uid_name": "PickupType_CommonSample_MK2",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "7256596000532615782",
+                "uid_name": "PickupType_CommonSample_MK6",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13632525282499700070",
+                "uid_name": "PickupType_RareSample_MK1",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12508512869271882154",
+                "uid_name": "PickupType_RareSample_MK2",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16068287307180393021",
+                "uid_name": "PickupType_RareSample",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11333649286886241306",
+                "uid_name": "PickupType_SuperSample_MK1",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8074555013069095359",
+                "uid_name": "PickupType_CommonSample_MK1",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8427145098997310521",
+                "uid_name": "8427145098997310521",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13030869719813342633",
+                "uid_name": "PickupType_SuperSample_MK2",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9369996777284288084",
+                "uid_name": "PickupType_RareSample_MK3",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9724339804752659124",
+                "uid_name": "9724339804752659124",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12525242792979901983",
+                "uid_name": "SuperEarthType_ExplosiveBarrel",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17252127909105838489",
+                "uid_name": "17252127909105838489",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14923473746413089367",
+                "uid_name": "14923473746413089367",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2976556536743111746",
+                "uid_name": "2976556536743111746",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3494241250398732730",
+                "uid_name": "PickupType_CommonSample_MK5",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5504262545937421089",
+                "uid_name": "PickupType_CommonSample_MK8",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5274502359162322681",
+                "uid_name": "PickupType_CommonSample_MK3",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10573539759497526597",
+                "uid_name": "PickupType_CommonSample_MK9",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5691626237303103123",
+                "uid_name": "5691626237303103123",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9473798407121267184",
+                "uid_name": "9473798407121267184",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5953193886108619556",
+                "uid_name": "BugEnemyType_NursingSpewerBileSpray",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16671435828232852140",
+                "uid_name": "SupportWeaponType_AirburstRocketLauncherBackpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5690760409550920280",
+                "uid_name": "SupportBackpackType_SupplyBackpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16576307969206587212",
+                "uid_name": "SupportWeaponType_AutocannonBackpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2791632565401924213",
+                "uid_name": "2791632565401924213",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10844335154607830587",
+                "uid_name": "SupportBackpackType_BallisticShield",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17709977744562302112",
+                "uid_name": "17709977744562302112",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6889076721164976792",
+                "uid_name": "6889076721164976792",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13495904577777136893",
+                "uid_name": "SupportBackpackType_BFGrenadeLauncherBackpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11155000903228636302",
+                "uid_name": "SupportBackpackType_PortableHellbomb",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3033447149328295793",
+                "uid_name": "SupportWeaponType_C4Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11882632134944470026",
+                "uid_name": "SupportBackpackType_DirectionalShield_Relay",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13012964727571811944",
+                "uid_name": "SupportBackpackType_Warppack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3464783698532994381",
+                "uid_name": "SupportBackpackType_FlameDrone_Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13834130950471716570",
+                "uid_name": "SupportBackpackType_CausticDrone_Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16125342225783174778",
+                "uid_name": "16125342225783174778",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2692796710804508396",
+                "uid_name": "SupportBackpackType_BulletDrone_Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16756305030629006721",
+                "uid_name": "16756305030629006721",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12653822188347841538",
+                "uid_name": "SupportBackpackType_LaserDrone_Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1353568197974522460",
+                "uid_name": "SupportBackpackType_PersonalBubbleShield",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10287068634025973658",
+                "uid_name": "SupportWeaponType_SpearLauncher_Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3870192466842195264",
+                "uid_name": "3870192466842195264",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13330286337704337139",
+                "uid_name": "SupportWeaponType_WASPLauncher_Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14019044913798069754",
+                "uid_name": "SupportBackpackType_ArcDrone_Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4894036464529596640",
+                "uid_name": "SupportBackpackType_CrematorBackpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6829725667368330959",
+                "uid_name": "SupportBackpackType_Hoverpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6468799106264970105",
+                "uid_name": "SupportBackpackType_Jumppack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "744753118896166941",
+                "uid_name": "SupportBackpackType_MedicBackpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "391216982669554238",
+                "uid_name": "SupportBackpackType_MaxigunBackpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10871626090290489728",
+                "uid_name": "SupportBackpackType_RecoillessRifleBackpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1945762457460294290",
+                "uid_name": "SupportWeaponType_RecoillessRifle_Backpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "669328475908342564",
+                "uid_name": "SupportWeaponType_ApexSniperRifleBackpack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12101561451675752456",
+                "uid_name": "MeleeWeaponType_Unk1",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6863144698475545939",
+                "uid_name": "SupportWeaponType_BreachingHammer",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16408494556715988068",
+                "uid_name": "MeleeWeaponType_StunLance",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16743928489815142323",
+                "uid_name": "SupportWeaponType_EntrenchmentTool_Derelict",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9088112410931658315",
+                "uid_name": "MeleeWeaponType_EntrenchmentTool",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6160539022825437465",
+                "uid_name": "6160539022825437465",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "7767754898735718469",
+                "uid_name": "7767754898735718469",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "31037231052968958",
+                "uid_name": "PrimaryWeaponType_Evictor",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4749824949454633632",
+                "uid_name": "PrimaryWeaponType_Punisher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13601459612566041022",
+                "uid_name": "PrimaryWeaponType_PunisherFireOfLiberty",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5725374950499373869",
+                "uid_name": "PrimaryWeaponType_Slugger",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5634296840427219794",
+                "uid_name": "PrimaryWeaponType_HaltShotgun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15214248472323070124",
+                "uid_name": "PrimaryWeaponType_Cookout",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "421324886246020354",
+                "uid_name": "PrimaryWeaponType_PlasmaPunisher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15911719089517557690",
+                "uid_name": "PrimaryWeaponType_SweeperShotgun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8221051007693717489",
+                "uid_name": "PrimaryWeaponType_DoubleFreedomShotgun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10438714418406872918",
+                "uid_name": "PrimaryWeaponType_M90AShotgun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10768610637301609307",
+                "uid_name": "PrimaryWeaponType_Knight",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9957594915860537321",
+                "uid_name": "PrimaryWeaponType_Stoker",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5450511615252257986",
+                "uid_name": "PrimaryWeaponType_StA11",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13722729806569931406",
+                "uid_name": "PrimaryWeaponType_M7SSMG",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10717884433990741653",
+                "uid_name": "PrimaryWeaponType_Reprimand",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1760530725124205338",
+                "uid_name": "PrimaryWeaponType_Gallant",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3460488074252222302",
+                "uid_name": "PrimaryWeaponType_PlasmaSniper",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17983663411446975103",
+                "uid_name": "PrimaryWeaponType_VariableShotgun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16910079541664006285",
+                "uid_name": "16910079541664006285",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14954542309183038509",
+                "uid_name": "SecondaryWeaponType_Warrant",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1501339492476700580",
+                "uid_name": "SecondaryWeaponType_MissilePistol",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "424716889947522210",
+                "uid_name": "SecondaryWeaponType_Peacemaker",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15470422196992643923",
+                "uid_name": "SecondaryWeaponType_StimPistol",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11468381642862999653",
+                "uid_name": "11468381642862999653",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "227172373006170809",
+                "uid_name": "SuperEarthType_SEAF_NPC_Stim",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5910727434981086692",
+                "uid_name": "SupportWeaponType_BreakActionShotgun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "205424700876044767",
+                "uid_name": "PickupType_StimulantBox",
+                "sync_rotation": 0,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16085819457051082660",
+                "uid_name": "SuperEarthType_HiveBreakerDrill",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 10.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 1
+            },
+            {
+                "unique_id": "5084997687310749502",
+                "uid_name": "5084997687310749502",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11432560202897483622",
+                "uid_name": "PickupType_LarvaContainer",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "518600486455451088",
+                "uid_name": "SupportBackpackType_DarkFluidJumppack",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4459198455771523223",
+                "uid_name": "PickupType_BlackBox",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10376328634656085665",
+                "uid_name": "10376328634656085665",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15610193170761224894",
+                "uid_name": "BotEnemyType_FusionBattery",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17587738009391187453",
+                "uid_name": "17587738009391187453",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3743261888606184850",
+                "uid_name": "3743261888606184850",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6234346553392955601",
+                "uid_name": "PickupType_ICBMLaunchCodes",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5349838937890643512",
+                "uid_name": "5349838937890643512",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10004644392982580508",
+                "uid_name": "PickupType_BlackBox",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11329506424240616277",
+                "uid_name": "11329506424240616277",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12049411073751888981",
+                "uid_name": "12049411073751888981",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4470277688789891167",
+                "uid_name": "4470277688789891167",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13847484889080110003",
+                "uid_name": "SuperEarthType_SEAF_Gun_EMP",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15859727822481861892",
+                "uid_name": "SuperEarthType_SEAF_Gun_Explosive",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "7745884044284159061",
+                "uid_name": "SuperEarthType_SEAF_Gun_High_Yield_Explosive",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16185879173872143133",
+                "uid_name": "SuperEarthType_SEAF_Gun_Mini_Nuke",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16482681913442925439",
+                "uid_name": "SuperEarthType_SEAF_Gun_Napalm",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17696993194780227077",
+                "uid_name": "SuperEarthType_SEAF_Gun_Smoke",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3973443609256024694",
+                "uid_name": "SupportWeaponType_TacticalVideoCamera",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "993334325267157491",
+                "uid_name": "PickupType_PlatinumBar",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11389144440041661089",
+                "uid_name": "PickupType_SSSD_HardDrive",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4894393506576860267",
+                "uid_name": "4894393506576860267",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3946815129443875283",
+                "uid_name": "3946815129443875283",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3259411408732039565",
+                "uid_name": "3259411408732039565",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10339505652348491976",
+                "uid_name": "10339505652348491976",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13142476912332493378",
+                "uid_name": "IlluminateEnemyType_IlluminateArtifact",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12902940357999748154",
+                "uid_name": "12902940357999748154",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 0,
+                "interpolation_speed": 10.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 1
+            },
+            {
+                "unique_id": "11037037794164389181",
+                "uid_name": "PrimaryWeaponType_Stoker_Underbarrel",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "201944147320653301",
+                "uid_name": "PrimaryWeaponType_OneTwo_GrenadeUnderbarrel",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13385271715385004853",
+                "uid_name": "PrimaryWeaponType_Arbitrator_Underslung",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5905641205788913469",
+                "uid_name": "SupportWeaponType_C4Detonator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "7778022558452062755",
+                "uid_name": "7778022558452062755",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11756121139324203897",
+                "uid_name": "SupportBackpackType_BulletDrone_Weapon",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2753976566055493778",
+                "uid_name": "SupportBackpackType_BulletDrone_Weapon_MK2",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4416184955867381998",
+                "uid_name": "SupportBackpackType_BulletDrone_Weapon_MK3",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11616925890035912226",
+                "uid_name": "SupportBackpackType_BulletDrone_Weapon_PlasmaGun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "7335593197372175302",
+                "uid_name": "SupportBackpackType_FlameDrone_Weapon",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13198259103089806061",
+                "uid_name": "SupportBackpackType_CausticDrone_Weapon",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3199457897835937068",
+                "uid_name": "SupportBackpackType_LaserDrone_Weapon",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11552626079949819071",
+                "uid_name": "SupportBackpackType_ArcDrone_Weapon",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "18219495801425257306",
+                "uid_name": "MeleeWeaponType_Saber",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13784670920243131812",
+                "uid_name": "SupportWeaponType_DefoliationTool",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5966635890313573271",
+                "uid_name": "MeleeWeaponType_RiotBaton",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12750169196543686872",
+                "uid_name": "SupportWeaponType_OneTrueFlag",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8467154841892407376",
+                "uid_name": "MeleeWeaponType_Tomahawk",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8731737688384722662",
+                "uid_name": "MeleeWeaponType_Machete",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3371451580584923919",
+                "uid_name": "3371451580584923919",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "535319041333920260",
+                "uid_name": "PrimaryWeaponType_ArcShotgun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10845250369047350884",
+                "uid_name": "PrimaryWeaponType_StandardLiberator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4885016034561106550",
+                "uid_name": "PrimaryWeaponType_LiberatorPenetrator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14942687850090605537",
+                "uid_name": "PrimaryWeaponType_LiberatorConcussive",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12201875276601049603",
+                "uid_name": "PrimaryWeaponType_OneTwo_Rifle",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14840077516977962372",
+                "uid_name": "PrimaryWeaponType_StA52",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13558475039457634667",
+                "uid_name": "PrimaryWeaponType_PacifierRifle",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9526594500243002157",
+                "uid_name": "PrimaryWeaponType_Coyote",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13261220132843116788",
+                "uid_name": "PrimaryWeaponType_LiberatorLegacy",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5601762105466289171",
+                "uid_name": "PrimaryWeaponType_AssaultRifleMA5C",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12100643055971655455",
+                "uid_name": "PrimaryWeaponType_LiberatorCarbine",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14845617694460717074",
+                "uid_name": "PrimaryWeaponType_Tenderizer",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12153278833391482546",
+                "uid_name": "PrimaryWeaponType_Arbitrator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8110598756017148880",
+                "uid_name": "PrimaryWeaponType_Suppressor",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5050852199397921576",
+                "uid_name": "PrimaryWeaponType_StandardBreaker",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6826025955225526457",
+                "uid_name": "PrimaryWeaponType_SprayAndPrayBreaker",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13918995818598980231",
+                "uid_name": "PrimaryWeaponType_IncendiaryBreaker",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6912088101323449320",
+                "uid_name": "PrimaryWeaponType_Adjudicator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1117846648694268261",
+                "uid_name": "PrimaryWeaponType_Amendment",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8896268509512551590",
+                "uid_name": "PrimaryWeaponType_Constitution",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4752105698603780953",
+                "uid_name": "PrimaryWeaponType_Sightliner",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17623191861664038783",
+                "uid_name": "PrimaryWeaponType_ExplodingCrossbow",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5742363029208942635",
+                "uid_name": "PrimaryWeaponType_Torcher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9291384900638350902",
+                "uid_name": "PrimaryWeaponType_Dominator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13164006426448262783",
+                "uid_name": "PrimaryWeaponType_Eruptor",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2877271129141764950",
+                "uid_name": "PrimaryWeaponType_Scythe",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9093125700741019976",
+                "uid_name": "PrimaryWeaponType_Shear",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9675404802175538082",
+                "uid_name": "PrimaryWeaponType_Sickle",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2980234130573201393",
+                "uid_name": "PrimaryWeaponType_DoubleEdgeSickle",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4361428863637469552",
+                "uid_name": "PrimaryWeaponType_Trident",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14438355057613758791",
+                "uid_name": "PrimaryWeaponType_LaserSMG_Sai",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16634382492500136054",
+                "uid_name": "PrimaryWeaponType_Deadeye",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12008625947668001407",
+                "uid_name": "SupportWeaponType_LightMachineGun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16535356726426036192",
+                "uid_name": "PrimaryWeaponType_Hyena",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17308323378831780460",
+                "uid_name": "PrimaryWeaponType_Censor",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1926414056943231889",
+                "uid_name": "PrimaryWeaponType_HotShot_MarksmanRifle",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "281046277510948131",
+                "uid_name": "PrimaryWeaponType_StandardDiligence",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5510267968365085927",
+                "uid_name": "PrimaryWeaponType_CounterSniperDiligence",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5641428405267160100",
+                "uid_name": "PrimaryWeaponType_Defender",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "578623101395158887",
+                "uid_name": "PrimaryWeaponType_Pummeler",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5731472083741485993",
+                "uid_name": "UnknownType_Unknown_PhysGun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "17196401230144941076",
+                "uid_name": "PrimaryWeaponType_Scorcher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "18102809172282470538",
+                "uid_name": "PrimaryWeaponType_Purifier",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3109983482551492476",
+                "uid_name": "SecondaryWeaponType_Bushwhacker",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3852172782311805734",
+                "uid_name": "SecondaryWeaponType_Redeemer",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "830958149412624616",
+                "uid_name": "SecondaryWeaponType_ReEducator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4714430103453754419",
+                "uid_name": "SecondaryWeaponType_LaserRevolver",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4580928717960105129",
+                "uid_name": "SecondaryWeaponType_Crisper",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5972955417680186543",
+                "uid_name": "SecondaryWeaponType_GrenadePistol",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16798240363848969985",
+                "uid_name": "SecondaryWeaponType_Breacher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8864800879179811976",
+                "uid_name": "SecondaryWeaponType_Dagger",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "179559337717557904",
+                "uid_name": "SecondaryWeaponType_Mist",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1892480894983787169",
+                "uid_name": "SecondaryWeaponType_Verdict",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14375697644675127823",
+                "uid_name": "SecondaryWeaponType_VetoPistol",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11435027044679925718",
+                "uid_name": "SecondaryWeaponType_Ultimatum",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "5573423824998200517",
+                "uid_name": "SecondaryWeaponType_SOCOMPistol",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15832062961832144321",
+                "uid_name": "SecondaryWeaponType_BoltPistol",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12279528435724053588",
+                "uid_name": "SecondaryWeaponType_Loyalist",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10177381595962512386",
+                "uid_name": "SecondaryWeaponType_Senator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13682483582340182029",
+                "uid_name": "SecondaryWeaponType_Ombudsman",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2802369506329449110",
+                "uid_name": "SupportWeaponType_AirburstRocketLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10871298989420119782",
+                "uid_name": "SupportWeaponType_ArcThrower",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12164217308285983839",
+                "uid_name": "SupportWeaponType_Autocannon",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9854668298113416351",
+                "uid_name": "SupportWeaponType_BFGrenadeLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9869105320050739364",
+                "uid_name": "SupportWeaponType_Sterilizer",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "7853371720342307430",
+                "uid_name": "SupportWeaponType_MeltaGun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12784766379234794359",
+                "uid_name": "SupportWeaponType_ExpendableMachineGun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8509380141312129223",
+                "uid_name": "SupportWeaponType_Leveller",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12877445900026273694",
+                "uid_name": "SupportWeaponType_ExpendableNapalmLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2714034314705433838",
+                "uid_name": "SupportWeaponType_SpearLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "14733648658679365221",
+                "uid_name": "SupportWeaponType_WASPLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4155583896232633279",
+                "uid_name": "SupportWeaponType_Flamethrower",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "211331680192206384",
+                "uid_name": "SupportWeaponType_GrenadeLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "18319281757224320923",
+                "uid_name": "SupportWeaponType_DescalatorGrenadeLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4046732776742447255",
+                "uid_name": "SupportWeaponType_Speargun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8694225878611593109",
+                "uid_name": "SupportWeaponType_Cremator",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2401215835282261016",
+                "uid_name": "SupportWeaponType_HeavyMachineGun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15369542005276747891",
+                "uid_name": "SupportWeaponType_LaserCannon",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "6453678319562593995",
+                "uid_name": "SupportWeaponType_CommandoRocketLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3865797767236207742",
+                "uid_name": "SupportWeaponType_QuasarPulseCannon",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8347508405287998274",
+                "uid_name": "SupportWeaponType_NovaSniperRifle",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9264801226655597011",
+                "uid_name": "SupportWeaponType_ExpendableAntiTank",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1279722939363854678",
+                "uid_name": "SupportWeaponType_MachineGun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4874456896233937276",
+                "uid_name": "SupportWeaponType_Maxigun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "18163938711866866090",
+                "uid_name": "SupportWeaponType_MiniMissileSilo_Remote",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "16777584932715761236",
+                "uid_name": "SupportWeaponType_EpochPlasmaLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "3358853937828503136",
+                "uid_name": "SupportWeaponType_Railgun",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "11493422068836852751",
+                "uid_name": "SupportWeaponType_RecoillessRifle",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "10266352102081711787",
+                "uid_name": "10266352102081711787",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "9927421484392399367",
+                "uid_name": "SupportWeaponType_AntiMaterielRifle",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13264489371434957764",
+                "uid_name": "SupportWeaponType_ApexSniperRifle",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "2114795373903595840",
+                "uid_name": "DeployableType_GrenadierBattlementGrenadeLauncher",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "12984499893943104780",
+                "uid_name": "SupportWeaponType_LightMachineGun_MK3",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "13357795631455978434",
+                "uid_name": "SupportWeaponType_LightMachineGun_APC_MK4",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "15365965494753326077",
+                "uid_name": "SupportWeaponType_LightMachineGun_APC_MK5",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "8971696097026260232",
+                "uid_name": "8971696097026260232",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "1088183950891271627",
+                "uid_name": "1088183950891271627",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            },
+            {
+                "unique_id": "4510702625533881224",
+                "uid_name": "4510702625533881224",
+                "sync_rotation": 1,
+                "clamp_to_terrain": 1,
+                "interpolation_speed": 20.0,
+                "unknown_008": 966119509,
+                "unknown_00C": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "15426747087447648220",
+                "type": "15426747087447648220"
+            },
+            {
+                "idx": 1,
+                "uid": "14598422551727838342",
+                "type": "14598422551727838342"
+            },
+            {
+                "idx": 2,
+                "uid": "13590543656112919608",
+                "type": "13590543656112919608"
+            },
+            {
+                "idx": 3,
+                "uid": "3415661852457934990",
+                "type": "3415661852457934990"
+            },
+            {
+                "idx": 4,
+                "uid": "8536986223483970266",
+                "type": "BugEnemyType_Spewer_Artillery_CausticStrain"
+            },
+            {
+                "idx": 5,
+                "uid": "8039414067817307766",
+                "type": "BugEnemyType_Spewer_Vomit_CausticStrain"
+            },
+            {
+                "idx": 6,
+                "uid": "12700624828350087151",
+                "type": "BugEnemyType_Spewer_Vomit_MK2_CausticStrain"
+            },
+            {
+                "idx": 7,
+                "uid": "368223792538398003",
+                "type": "BugEnemyType_Noxious_Spewer_Vomit"
+            },
+            {
+                "idx": 8,
+                "uid": "2816271437774253565",
+                "type": "BugEnemyType_SepticBreath"
+            },
+            {
+                "idx": 9,
+                "uid": "8568490042777875483",
+                "type": "BugEnemyType_DragonRoach_Vomit"
+            },
+            {
+                "idx": 10,
+                "uid": "11408638851753260108",
+                "type": "BugEnemyType_HiveLord_Vomit"
+            },
+            {
+                "idx": 11,
+                "uid": "4359334844095165257",
+                "type": "BugEnemyType_HiveLord_Vomit_MK2"
+            },
+            {
+                "idx": 12,
+                "uid": "2129528212146849390",
+                "type": "BugEnemyType_Hunter_PredatorStrain_BileSpray"
+            },
+            {
+                "idx": 13,
+                "uid": "17488789745215357128",
+                "type": "BotEnemyType_HulkScorcher_IncendiaryCorps_Flamethrower"
+            },
+            {
+                "idx": 14,
+                "uid": "8776671053425669033",
+                "type": "8776671053425669033"
+            },
+            {
+                "idx": 15,
+                "uid": "14704299532448510191",
+                "type": "14704299532448510191"
+            },
+            {
+                "idx": 16,
+                "uid": "10930013077329100956",
+                "type": "PickupType_GrenadeStack"
+            },
+            {
+                "idx": 17,
+                "uid": "13027308828300900709",
+                "type": "PickupType_StimulantBox"
+            },
+            {
+                "idx": 18,
+                "uid": "9738700126984703622",
+                "type": "9738700126984703622"
+            },
+            {
+                "idx": 19,
+                "uid": "3888029160815609798",
+                "type": "3888029160815609798"
+            },
+            {
+                "idx": 20,
+                "uid": "4092536715104205912",
+                "type": "4092536715104205912"
+            },
+            {
+                "idx": 21,
+                "uid": "2055722625976668762",
+                "type": "2055722625976668762"
+            },
+            {
+                "idx": 22,
+                "uid": "12219229778730713472",
+                "type": "PickupType_SampleFlask"
+            },
+            {
+                "idx": 23,
+                "uid": "17795912175944443264",
+                "type": "17795912175944443264"
+            },
+            {
+                "idx": 24,
+                "uid": "5265154447371684424",
+                "type": "5265154447371684424"
+            },
+            {
+                "idx": 25,
+                "uid": "12198302824036005241",
+                "type": "12198302824036005241"
+            },
+            {
+                "idx": 26,
+                "uid": "4291111060798646696",
+                "type": "PickupType_StimulantBox"
+            },
+            {
+                "idx": 27,
+                "uid": "14481784348804167734",
+                "type": "14481784348804167734"
+            },
+            {
+                "idx": 28,
+                "uid": "14248470164113099676",
+                "type": "14248470164113099676"
+            },
+            {
+                "idx": 29,
+                "uid": "8984148997880128877",
+                "type": "8984148997880128877"
+            },
+            {
+                "idx": 30,
+                "uid": "11855261590174697195",
+                "type": "SuperEarthType_SEAF_NPC_Backpack"
+            },
+            {
+                "idx": 31,
+                "uid": "15535227736896796186",
+                "type": "15535227736896796186"
+            },
+            {
+                "idx": 32,
+                "uid": "3699688105859939822",
+                "type": "SuperEarthType_SEAF_NPC_Liberator"
+            },
+            {
+                "idx": 33,
+                "uid": "7904040333519397101",
+                "type": "7904040333519397101"
+            },
+            {
+                "idx": 34,
+                "uid": "6374978293970811313",
+                "type": "SuperEarthType_SEAF_NPC_MG43"
+            },
+            {
+                "idx": 35,
+                "uid": "14576954583701429272",
+                "type": "SuperEarthType_SEAF_NPC_SMG"
+            },
+            {
+                "idx": 36,
+                "uid": "6653197749152526844",
+                "type": "SuperEarthType_SEAF_NPC_EAT"
+            },
+            {
+                "idx": 37,
+                "uid": "15805795754758043311",
+                "type": "15805795754758043311"
+            },
+            {
+                "idx": 38,
+                "uid": "8096066089414940474",
+                "type": "8096066089414940474"
+            },
+            {
+                "idx": 39,
+                "uid": "4932725806049233522",
+                "type": "SuperEarthType_HiveBreakerDrill"
+            },
+            {
+                "idx": 40,
+                "uid": "2335895616757348607",
+                "type": "2335895616757348607"
+            },
+            {
+                "idx": 41,
+                "uid": "8980660665287109532",
+                "type": "8980660665287109532"
+            },
+            {
+                "idx": 42,
+                "uid": "9182363845171390146",
+                "type": "9182363845171390146"
+            },
+            {
+                "idx": 43,
+                "uid": "1577001701089971290",
+                "type": "1577001701089971290"
+            },
+            {
+                "idx": 44,
+                "uid": "4616777209957967593",
+                "type": "4616777209957967593"
+            },
+            {
+                "idx": 45,
+                "uid": "7810054165681946755",
+                "type": "SuperEarthType_None"
+            },
+            {
+                "idx": 46,
+                "uid": "3013086132913930527",
+                "type": "3013086132913930527"
+            },
+            {
+                "idx": 47,
+                "uid": "6279750092088033715",
+                "type": "6279750092088033715"
+            },
+            {
+                "idx": 48,
+                "uid": "3124708172057168516",
+                "type": "PickupType_BugMutatedEgg"
+            },
+            {
+                "idx": 49,
+                "uid": "15304220425359002535",
+                "type": "PickupType_CommonSample_MK10"
+            },
+            {
+                "idx": 50,
+                "uid": "8544792714086142645",
+                "type": "8544792714086142645"
+            },
+            {
+                "idx": 51,
+                "uid": "5771061903247604588",
+                "type": "PickupType_CommonSample_MK7"
+            },
+            {
+                "idx": 52,
+                "uid": "16496326307674548889",
+                "type": "PickupType_CommonSample_MK11"
+            },
+            {
+                "idx": 53,
+                "uid": "14773080917319959198",
+                "type": "14773080917319959198"
+            },
+            {
+                "idx": 54,
+                "uid": "13741222368367787890",
+                "type": "PickupType_CommonSample_MK4"
+            },
+            {
+                "idx": 55,
+                "uid": "14347356236094671771",
+                "type": "PickupType_BotConfidentialData"
+            },
+            {
+                "idx": 56,
+                "uid": "18301184306373976528",
+                "type": "IlluminateEnemyType_Illuminate_ExplosiveBarrel"
+            },
+            {
+                "idx": 57,
+                "uid": "11691712792438096287",
+                "type": "11691712792438096287"
+            },
+            {
+                "idx": 58,
+                "uid": "12943291850073424771",
+                "type": "PickupType_CommonSample_MK2"
+            },
+            {
+                "idx": 59,
+                "uid": "7256596000532615782",
+                "type": "PickupType_CommonSample_MK6"
+            },
+            {
+                "idx": 60,
+                "uid": "13632525282499700070",
+                "type": "PickupType_RareSample_MK1"
+            },
+            {
+                "idx": 61,
+                "uid": "12508512869271882154",
+                "type": "PickupType_RareSample_MK2"
+            },
+            {
+                "idx": 62,
+                "uid": "16068287307180393021",
+                "type": "PickupType_RareSample"
+            },
+            {
+                "idx": 63,
+                "uid": "11333649286886241306",
+                "type": "PickupType_SuperSample_MK1"
+            },
+            {
+                "idx": 64,
+                "uid": "8074555013069095359",
+                "type": "PickupType_CommonSample_MK1"
+            },
+            {
+                "idx": 65,
+                "uid": "8427145098997310521",
+                "type": "8427145098997310521"
+            },
+            {
+                "idx": 66,
+                "uid": "13030869719813342633",
+                "type": "PickupType_SuperSample_MK2"
+            },
+            {
+                "idx": 67,
+                "uid": "9369996777284288084",
+                "type": "PickupType_RareSample_MK3"
+            },
+            {
+                "idx": 68,
+                "uid": "9724339804752659124",
+                "type": "9724339804752659124"
+            },
+            {
+                "idx": 69,
+                "uid": "12525242792979901983",
+                "type": "SuperEarthType_ExplosiveBarrel"
+            },
+            {
+                "idx": 70,
+                "uid": "17252127909105838489",
+                "type": "17252127909105838489"
+            },
+            {
+                "idx": 71,
+                "uid": "14923473746413089367",
+                "type": "14923473746413089367"
+            },
+            {
+                "idx": 72,
+                "uid": "2976556536743111746",
+                "type": "2976556536743111746"
+            },
+            {
+                "idx": 73,
+                "uid": "3494241250398732730",
+                "type": "PickupType_CommonSample_MK5"
+            },
+            {
+                "idx": 74,
+                "uid": "5504262545937421089",
+                "type": "PickupType_CommonSample_MK8"
+            },
+            {
+                "idx": 75,
+                "uid": "5274502359162322681",
+                "type": "PickupType_CommonSample_MK3"
+            },
+            {
+                "idx": 76,
+                "uid": "10573539759497526597",
+                "type": "PickupType_CommonSample_MK9"
+            },
+            {
+                "idx": 77,
+                "uid": "5691626237303103123",
+                "type": "5691626237303103123"
+            },
+            {
+                "idx": 78,
+                "uid": "9473798407121267184",
+                "type": "9473798407121267184"
+            },
+            {
+                "idx": 79,
+                "uid": "5953193886108619556",
+                "type": "BugEnemyType_NursingSpewerBileSpray"
+            },
+            {
+                "idx": 80,
+                "uid": "16671435828232852140",
+                "type": "SupportWeaponType_AirburstRocketLauncherBackpack"
+            },
+            {
+                "idx": 81,
+                "uid": "5690760409550920280",
+                "type": "SupportBackpackType_SupplyBackpack"
+            },
+            {
+                "idx": 82,
+                "uid": "16576307969206587212",
+                "type": "SupportWeaponType_AutocannonBackpack"
+            },
+            {
+                "idx": 83,
+                "uid": "2791632565401924213",
+                "type": "2791632565401924213"
+            },
+            {
+                "idx": 84,
+                "uid": "10844335154607830587",
+                "type": "SupportBackpackType_BallisticShield"
+            },
+            {
+                "idx": 85,
+                "uid": "17709977744562302112",
+                "type": "17709977744562302112"
+            },
+            {
+                "idx": 86,
+                "uid": "6889076721164976792",
+                "type": "6889076721164976792"
+            },
+            {
+                "idx": 87,
+                "uid": "13495904577777136893",
+                "type": "SupportBackpackType_BFGrenadeLauncherBackpack"
+            },
+            {
+                "idx": 88,
+                "uid": "11155000903228636302",
+                "type": "SupportBackpackType_PortableHellbomb"
+            },
+            {
+                "idx": 89,
+                "uid": "3033447149328295793",
+                "type": "SupportWeaponType_C4Backpack"
+            },
+            {
+                "idx": 90,
+                "uid": "11882632134944470026",
+                "type": "SupportBackpackType_DirectionalShield_Relay"
+            },
+            {
+                "idx": 91,
+                "uid": "13012964727571811944",
+                "type": "SupportBackpackType_Warppack"
+            },
+            {
+                "idx": 92,
+                "uid": "3464783698532994381",
+                "type": "SupportBackpackType_FlameDrone_Backpack"
+            },
+            {
+                "idx": 93,
+                "uid": "13834130950471716570",
+                "type": "SupportBackpackType_CausticDrone_Backpack"
+            },
+            {
+                "idx": 94,
+                "uid": "16125342225783174778",
+                "type": "16125342225783174778"
+            },
+            {
+                "idx": 95,
+                "uid": "2692796710804508396",
+                "type": "SupportBackpackType_BulletDrone_Backpack"
+            },
+            {
+                "idx": 96,
+                "uid": "16756305030629006721",
+                "type": "16756305030629006721"
+            },
+            {
+                "idx": 97,
+                "uid": "12653822188347841538",
+                "type": "SupportBackpackType_LaserDrone_Backpack"
+            },
+            {
+                "idx": 98,
+                "uid": "1353568197974522460",
+                "type": "SupportBackpackType_PersonalBubbleShield"
+            },
+            {
+                "idx": 99,
+                "uid": "10287068634025973658",
+                "type": "SupportWeaponType_SpearLauncher_Backpack"
+            },
+            {
+                "idx": 100,
+                "uid": "3870192466842195264",
+                "type": "3870192466842195264"
+            },
+            {
+                "idx": 101,
+                "uid": "13330286337704337139",
+                "type": "SupportWeaponType_WASPLauncher_Backpack"
+            },
+            {
+                "idx": 102,
+                "uid": "14019044913798069754",
+                "type": "SupportBackpackType_ArcDrone_Backpack"
+            },
+            {
+                "idx": 103,
+                "uid": "4894036464529596640",
+                "type": "SupportBackpackType_CrematorBackpack"
+            },
+            {
+                "idx": 104,
+                "uid": "6829725667368330959",
+                "type": "SupportBackpackType_Hoverpack"
+            },
+            {
+                "idx": 105,
+                "uid": "6468799106264970105",
+                "type": "SupportBackpackType_Jumppack"
+            },
+            {
+                "idx": 106,
+                "uid": "744753118896166941",
+                "type": "SupportBackpackType_MedicBackpack"
+            },
+            {
+                "idx": 107,
+                "uid": "391216982669554238",
+                "type": "SupportBackpackType_MaxigunBackpack"
+            },
+            {
+                "idx": 108,
+                "uid": "10871626090290489728",
+                "type": "SupportBackpackType_RecoillessRifleBackpack"
+            },
+            {
+                "idx": 109,
+                "uid": "1945762457460294290",
+                "type": "SupportWeaponType_RecoillessRifle_Backpack"
+            },
+            {
+                "idx": 110,
+                "uid": "669328475908342564",
+                "type": "SupportWeaponType_ApexSniperRifleBackpack"
+            },
+            {
+                "idx": 111,
+                "uid": "12101561451675752456",
+                "type": "MeleeWeaponType_Unk1"
+            },
+            {
+                "idx": 112,
+                "uid": "6863144698475545939",
+                "type": "SupportWeaponType_BreachingHammer"
+            },
+            {
+                "idx": 113,
+                "uid": "16408494556715988068",
+                "type": "MeleeWeaponType_StunLance"
+            },
+            {
+                "idx": 114,
+                "uid": "16743928489815142323",
+                "type": "SupportWeaponType_EntrenchmentTool_Derelict"
+            },
+            {
+                "idx": 115,
+                "uid": "9088112410931658315",
+                "type": "MeleeWeaponType_EntrenchmentTool"
+            },
+            {
+                "idx": 116,
+                "uid": "6160539022825437465",
+                "type": "6160539022825437465"
+            },
+            {
+                "idx": 117,
+                "uid": "7767754898735718469",
+                "type": "7767754898735718469"
+            },
+            {
+                "idx": 118,
+                "uid": "31037231052968958",
+                "type": "PrimaryWeaponType_Evictor"
+            },
+            {
+                "idx": 119,
+                "uid": "4749824949454633632",
+                "type": "PrimaryWeaponType_Punisher"
+            },
+            {
+                "idx": 120,
+                "uid": "13601459612566041022",
+                "type": "PrimaryWeaponType_PunisherFireOfLiberty"
+            },
+            {
+                "idx": 121,
+                "uid": "5725374950499373869",
+                "type": "PrimaryWeaponType_Slugger"
+            },
+            {
+                "idx": 122,
+                "uid": "5634296840427219794",
+                "type": "PrimaryWeaponType_HaltShotgun"
+            },
+            {
+                "idx": 123,
+                "uid": "15214248472323070124",
+                "type": "PrimaryWeaponType_Cookout"
+            },
+            {
+                "idx": 124,
+                "uid": "421324886246020354",
+                "type": "PrimaryWeaponType_PlasmaPunisher"
+            },
+            {
+                "idx": 125,
+                "uid": "15911719089517557690",
+                "type": "PrimaryWeaponType_SweeperShotgun"
+            },
+            {
+                "idx": 126,
+                "uid": "8221051007693717489",
+                "type": "PrimaryWeaponType_DoubleFreedomShotgun"
+            },
+            {
+                "idx": 127,
+                "uid": "10438714418406872918",
+                "type": "PrimaryWeaponType_M90AShotgun"
+            },
+            {
+                "idx": 128,
+                "uid": "10768610637301609307",
+                "type": "PrimaryWeaponType_Knight"
+            },
+            {
+                "idx": 129,
+                "uid": "9957594915860537321",
+                "type": "PrimaryWeaponType_Stoker"
+            },
+            {
+                "idx": 130,
+                "uid": "5450511615252257986",
+                "type": "PrimaryWeaponType_StA11"
+            },
+            {
+                "idx": 131,
+                "uid": "13722729806569931406",
+                "type": "PrimaryWeaponType_M7SSMG"
+            },
+            {
+                "idx": 132,
+                "uid": "10717884433990741653",
+                "type": "PrimaryWeaponType_Reprimand"
+            },
+            {
+                "idx": 133,
+                "uid": "1760530725124205338",
+                "type": "PrimaryWeaponType_Gallant"
+            },
+            {
+                "idx": 134,
+                "uid": "3460488074252222302",
+                "type": "PrimaryWeaponType_PlasmaSniper"
+            },
+            {
+                "idx": 135,
+                "uid": "17983663411446975103",
+                "type": "PrimaryWeaponType_VariableShotgun"
+            },
+            {
+                "idx": 136,
+                "uid": "16910079541664006285",
+                "type": "16910079541664006285"
+            },
+            {
+                "idx": 137,
+                "uid": "14954542309183038509",
+                "type": "SecondaryWeaponType_Warrant"
+            },
+            {
+                "idx": 138,
+                "uid": "1501339492476700580",
+                "type": "SecondaryWeaponType_MissilePistol"
+            },
+            {
+                "idx": 139,
+                "uid": "424716889947522210",
+                "type": "SecondaryWeaponType_Peacemaker"
+            },
+            {
+                "idx": 140,
+                "uid": "15470422196992643923",
+                "type": "SecondaryWeaponType_StimPistol"
+            },
+            {
+                "idx": 141,
+                "uid": "11468381642862999653",
+                "type": "11468381642862999653"
+            },
+            {
+                "idx": 142,
+                "uid": "227172373006170809",
+                "type": "SuperEarthType_SEAF_NPC_Stim"
+            },
+            {
+                "idx": 143,
+                "uid": "5910727434981086692",
+                "type": "SupportWeaponType_BreakActionShotgun"
+            },
+            {
+                "idx": 144,
+                "uid": "205424700876044767",
+                "type": "PickupType_StimulantBox"
+            },
+            {
+                "idx": 145,
+                "uid": "16085819457051082660",
+                "type": "SuperEarthType_HiveBreakerDrill"
+            },
+            {
+                "idx": 146,
+                "uid": "5084997687310749502",
+                "type": "5084997687310749502"
+            },
+            {
+                "idx": 147,
+                "uid": "11432560202897483622",
+                "type": "PickupType_LarvaContainer"
+            },
+            {
+                "idx": 148,
+                "uid": "518600486455451088",
+                "type": "SupportBackpackType_DarkFluidJumppack"
+            },
+            {
+                "idx": 149,
+                "uid": "4459198455771523223",
+                "type": "PickupType_BlackBox"
+            },
+            {
+                "idx": 150,
+                "uid": "10376328634656085665",
+                "type": "10376328634656085665"
+            },
+            {
+                "idx": 151,
+                "uid": "15610193170761224894",
+                "type": "BotEnemyType_FusionBattery"
+            },
+            {
+                "idx": 152,
+                "uid": "17587738009391187453",
+                "type": "17587738009391187453"
+            },
+            {
+                "idx": 153,
+                "uid": "3743261888606184850",
+                "type": "3743261888606184850"
+            },
+            {
+                "idx": 154,
+                "uid": "6234346553392955601",
+                "type": "PickupType_ICBMLaunchCodes"
+            },
+            {
+                "idx": 155,
+                "uid": "5349838937890643512",
+                "type": "5349838937890643512"
+            },
+            {
+                "idx": 156,
+                "uid": "10004644392982580508",
+                "type": "PickupType_BlackBox"
+            },
+            {
+                "idx": 157,
+                "uid": "11329506424240616277",
+                "type": "11329506424240616277"
+            },
+            {
+                "idx": 158,
+                "uid": "12049411073751888981",
+                "type": "12049411073751888981"
+            },
+            {
+                "idx": 159,
+                "uid": "4470277688789891167",
+                "type": "4470277688789891167"
+            },
+            {
+                "idx": 160,
+                "uid": "13847484889080110003",
+                "type": "SuperEarthType_SEAF_Gun_EMP"
+            },
+            {
+                "idx": 161,
+                "uid": "15859727822481861892",
+                "type": "SuperEarthType_SEAF_Gun_Explosive"
+            },
+            {
+                "idx": 162,
+                "uid": "7745884044284159061",
+                "type": "SuperEarthType_SEAF_Gun_High_Yield_Explosive"
+            },
+            {
+                "idx": 163,
+                "uid": "16185879173872143133",
+                "type": "SuperEarthType_SEAF_Gun_Mini_Nuke"
+            },
+            {
+                "idx": 164,
+                "uid": "16482681913442925439",
+                "type": "SuperEarthType_SEAF_Gun_Napalm"
+            },
+            {
+                "idx": 165,
+                "uid": "17696993194780227077",
+                "type": "SuperEarthType_SEAF_Gun_Smoke"
+            },
+            {
+                "idx": 166,
+                "uid": "3973443609256024694",
+                "type": "SupportWeaponType_TacticalVideoCamera"
+            },
+            {
+                "idx": 167,
+                "uid": "993334325267157491",
+                "type": "PickupType_PlatinumBar"
+            },
+            {
+                "idx": 168,
+                "uid": "11389144440041661089",
+                "type": "PickupType_SSSD_HardDrive"
+            },
+            {
+                "idx": 169,
+                "uid": "4894393506576860267",
+                "type": "4894393506576860267"
+            },
+            {
+                "idx": 170,
+                "uid": "3946815129443875283",
+                "type": "3946815129443875283"
+            },
+            {
+                "idx": 171,
+                "uid": "3259411408732039565",
+                "type": "3259411408732039565"
+            },
+            {
+                "idx": 172,
+                "uid": "10339505652348491976",
+                "type": "10339505652348491976"
+            },
+            {
+                "idx": 173,
+                "uid": "13142476912332493378",
+                "type": "IlluminateEnemyType_IlluminateArtifact"
+            },
+            {
+                "idx": 174,
+                "uid": "12902940357999748154",
+                "type": "12902940357999748154"
+            },
+            {
+                "idx": 175,
+                "uid": "11037037794164389181",
+                "type": "PrimaryWeaponType_Stoker_Underbarrel"
+            },
+            {
+                "idx": 176,
+                "uid": "201944147320653301",
+                "type": "PrimaryWeaponType_OneTwo_GrenadeUnderbarrel"
+            },
+            {
+                "idx": 177,
+                "uid": "13385271715385004853",
+                "type": "PrimaryWeaponType_Arbitrator_Underslung"
+            },
+            {
+                "idx": 178,
+                "uid": "5905641205788913469",
+                "type": "SupportWeaponType_C4Detonator"
+            },
+            {
+                "idx": 179,
+                "uid": "7778022558452062755",
+                "type": "7778022558452062755"
+            },
+            {
+                "idx": 180,
+                "uid": "11756121139324203897",
+                "type": "SupportBackpackType_BulletDrone_Weapon"
+            },
+            {
+                "idx": 181,
+                "uid": "2753976566055493778",
+                "type": "SupportBackpackType_BulletDrone_Weapon_MK2"
+            },
+            {
+                "idx": 182,
+                "uid": "4416184955867381998",
+                "type": "SupportBackpackType_BulletDrone_Weapon_MK3"
+            },
+            {
+                "idx": 183,
+                "uid": "11616925890035912226",
+                "type": "SupportBackpackType_BulletDrone_Weapon_PlasmaGun"
+            },
+            {
+                "idx": 184,
+                "uid": "7335593197372175302",
+                "type": "SupportBackpackType_FlameDrone_Weapon"
+            },
+            {
+                "idx": 185,
+                "uid": "13198259103089806061",
+                "type": "SupportBackpackType_CausticDrone_Weapon"
+            },
+            {
+                "idx": 186,
+                "uid": "3199457897835937068",
+                "type": "SupportBackpackType_LaserDrone_Weapon"
+            },
+            {
+                "idx": 187,
+                "uid": "11552626079949819071",
+                "type": "SupportBackpackType_ArcDrone_Weapon"
+            },
+            {
+                "idx": 188,
+                "uid": "18219495801425257306",
+                "type": "MeleeWeaponType_Saber"
+            },
+            {
+                "idx": 189,
+                "uid": "13784670920243131812",
+                "type": "SupportWeaponType_DefoliationTool"
+            },
+            {
+                "idx": 190,
+                "uid": "5966635890313573271",
+                "type": "MeleeWeaponType_RiotBaton"
+            },
+            {
+                "idx": 191,
+                "uid": "12750169196543686872",
+                "type": "SupportWeaponType_OneTrueFlag"
+            },
+            {
+                "idx": 192,
+                "uid": "8467154841892407376",
+                "type": "MeleeWeaponType_Tomahawk"
+            },
+            {
+                "idx": 193,
+                "uid": "8731737688384722662",
+                "type": "MeleeWeaponType_Machete"
+            },
+            {
+                "idx": 194,
+                "uid": "3371451580584923919",
+                "type": "3371451580584923919"
+            },
+            {
+                "idx": 195,
+                "uid": "535319041333920260",
+                "type": "PrimaryWeaponType_ArcShotgun"
+            },
+            {
+                "idx": 196,
+                "uid": "10845250369047350884",
+                "type": "PrimaryWeaponType_StandardLiberator"
+            },
+            {
+                "idx": 197,
+                "uid": "4885016034561106550",
+                "type": "PrimaryWeaponType_LiberatorPenetrator"
+            },
+            {
+                "idx": 198,
+                "uid": "14942687850090605537",
+                "type": "PrimaryWeaponType_LiberatorConcussive"
+            },
+            {
+                "idx": 199,
+                "uid": "12201875276601049603",
+                "type": "PrimaryWeaponType_OneTwo_Rifle"
+            },
+            {
+                "idx": 200,
+                "uid": "14840077516977962372",
+                "type": "PrimaryWeaponType_StA52"
+            },
+            {
+                "idx": 201,
+                "uid": "13558475039457634667",
+                "type": "PrimaryWeaponType_PacifierRifle"
+            },
+            {
+                "idx": 202,
+                "uid": "9526594500243002157",
+                "type": "PrimaryWeaponType_Coyote"
+            },
+            {
+                "idx": 203,
+                "uid": "13261220132843116788",
+                "type": "PrimaryWeaponType_LiberatorLegacy"
+            },
+            {
+                "idx": 204,
+                "uid": "5601762105466289171",
+                "type": "PrimaryWeaponType_AssaultRifleMA5C"
+            },
+            {
+                "idx": 205,
+                "uid": "12100643055971655455",
+                "type": "PrimaryWeaponType_LiberatorCarbine"
+            },
+            {
+                "idx": 206,
+                "uid": "14845617694460717074",
+                "type": "PrimaryWeaponType_Tenderizer"
+            },
+            {
+                "idx": 207,
+                "uid": "12153278833391482546",
+                "type": "PrimaryWeaponType_Arbitrator"
+            },
+            {
+                "idx": 208,
+                "uid": "8110598756017148880",
+                "type": "PrimaryWeaponType_Suppressor"
+            },
+            {
+                "idx": 209,
+                "uid": "5050852199397921576",
+                "type": "PrimaryWeaponType_StandardBreaker"
+            },
+            {
+                "idx": 210,
+                "uid": "6826025955225526457",
+                "type": "PrimaryWeaponType_SprayAndPrayBreaker"
+            },
+            {
+                "idx": 211,
+                "uid": "13918995818598980231",
+                "type": "PrimaryWeaponType_IncendiaryBreaker"
+            },
+            {
+                "idx": 212,
+                "uid": "6912088101323449320",
+                "type": "PrimaryWeaponType_Adjudicator"
+            },
+            {
+                "idx": 213,
+                "uid": "1117846648694268261",
+                "type": "PrimaryWeaponType_Amendment"
+            },
+            {
+                "idx": 214,
+                "uid": "8896268509512551590",
+                "type": "PrimaryWeaponType_Constitution"
+            },
+            {
+                "idx": 215,
+                "uid": "4752105698603780953",
+                "type": "PrimaryWeaponType_Sightliner"
+            },
+            {
+                "idx": 216,
+                "uid": "17623191861664038783",
+                "type": "PrimaryWeaponType_ExplodingCrossbow"
+            },
+            {
+                "idx": 217,
+                "uid": "5742363029208942635",
+                "type": "PrimaryWeaponType_Torcher"
+            },
+            {
+                "idx": 218,
+                "uid": "9291384900638350902",
+                "type": "PrimaryWeaponType_Dominator"
+            },
+            {
+                "idx": 219,
+                "uid": "13164006426448262783",
+                "type": "PrimaryWeaponType_Eruptor"
+            },
+            {
+                "idx": 220,
+                "uid": "2877271129141764950",
+                "type": "PrimaryWeaponType_Scythe"
+            },
+            {
+                "idx": 221,
+                "uid": "9093125700741019976",
+                "type": "PrimaryWeaponType_Shear"
+            },
+            {
+                "idx": 222,
+                "uid": "9675404802175538082",
+                "type": "PrimaryWeaponType_Sickle"
+            },
+            {
+                "idx": 223,
+                "uid": "2980234130573201393",
+                "type": "PrimaryWeaponType_DoubleEdgeSickle"
+            },
+            {
+                "idx": 224,
+                "uid": "4361428863637469552",
+                "type": "PrimaryWeaponType_Trident"
+            },
+            {
+                "idx": 225,
+                "uid": "14438355057613758791",
+                "type": "PrimaryWeaponType_LaserSMG_Sai"
+            },
+            {
+                "idx": 226,
+                "uid": "16634382492500136054",
+                "type": "PrimaryWeaponType_Deadeye"
+            },
+            {
+                "idx": 227,
+                "uid": "12008625947668001407",
+                "type": "SupportWeaponType_LightMachineGun"
+            },
+            {
+                "idx": 228,
+                "uid": "16535356726426036192",
+                "type": "PrimaryWeaponType_Hyena"
+            },
+            {
+                "idx": 229,
+                "uid": "17308323378831780460",
+                "type": "PrimaryWeaponType_Censor"
+            },
+            {
+                "idx": 230,
+                "uid": "1926414056943231889",
+                "type": "PrimaryWeaponType_HotShot_MarksmanRifle"
+            },
+            {
+                "idx": 231,
+                "uid": "281046277510948131",
+                "type": "PrimaryWeaponType_StandardDiligence"
+            },
+            {
+                "idx": 232,
+                "uid": "5510267968365085927",
+                "type": "PrimaryWeaponType_CounterSniperDiligence"
+            },
+            {
+                "idx": 233,
+                "uid": "5641428405267160100",
+                "type": "PrimaryWeaponType_Defender"
+            },
+            {
+                "idx": 234,
+                "uid": "578623101395158887",
+                "type": "PrimaryWeaponType_Pummeler"
+            },
+            {
+                "idx": 235,
+                "uid": "5731472083741485993",
+                "type": "UnknownType_Unknown_PhysGun"
+            },
+            {
+                "idx": 236,
+                "uid": "17196401230144941076",
+                "type": "PrimaryWeaponType_Scorcher"
+            },
+            {
+                "idx": 237,
+                "uid": "18102809172282470538",
+                "type": "PrimaryWeaponType_Purifier"
+            },
+            {
+                "idx": 238,
+                "uid": "3109983482551492476",
+                "type": "SecondaryWeaponType_Bushwhacker"
+            },
+            {
+                "idx": 239,
+                "uid": "3852172782311805734",
+                "type": "SecondaryWeaponType_Redeemer"
+            },
+            {
+                "idx": 240,
+                "uid": "830958149412624616",
+                "type": "SecondaryWeaponType_ReEducator"
+            },
+            {
+                "idx": 241,
+                "uid": "4714430103453754419",
+                "type": "SecondaryWeaponType_LaserRevolver"
+            },
+            {
+                "idx": 242,
+                "uid": "4580928717960105129",
+                "type": "SecondaryWeaponType_Crisper"
+            },
+            {
+                "idx": 243,
+                "uid": "5972955417680186543",
+                "type": "SecondaryWeaponType_GrenadePistol"
+            },
+            {
+                "idx": 244,
+                "uid": "16798240363848969985",
+                "type": "SecondaryWeaponType_Breacher"
+            },
+            {
+                "idx": 245,
+                "uid": "8864800879179811976",
+                "type": "SecondaryWeaponType_Dagger"
+            },
+            {
+                "idx": 246,
+                "uid": "179559337717557904",
+                "type": "SecondaryWeaponType_Mist"
+            },
+            {
+                "idx": 247,
+                "uid": "1892480894983787169",
+                "type": "SecondaryWeaponType_Verdict"
+            },
+            {
+                "idx": 248,
+                "uid": "14375697644675127823",
+                "type": "SecondaryWeaponType_VetoPistol"
+            },
+            {
+                "idx": 249,
+                "uid": "11435027044679925718",
+                "type": "SecondaryWeaponType_Ultimatum"
+            },
+            {
+                "idx": 250,
+                "uid": "5573423824998200517",
+                "type": "SecondaryWeaponType_SOCOMPistol"
+            },
+            {
+                "idx": 251,
+                "uid": "15832062961832144321",
+                "type": "SecondaryWeaponType_BoltPistol"
+            },
+            {
+                "idx": 252,
+                "uid": "12279528435724053588",
+                "type": "SecondaryWeaponType_Loyalist"
+            },
+            {
+                "idx": 253,
+                "uid": "10177381595962512386",
+                "type": "SecondaryWeaponType_Senator"
+            },
+            {
+                "idx": 254,
+                "uid": "13682483582340182029",
+                "type": "SecondaryWeaponType_Ombudsman"
+            },
+            {
+                "idx": 255,
+                "uid": "2802369506329449110",
+                "type": "SupportWeaponType_AirburstRocketLauncher"
+            },
+            {
+                "idx": 256,
+                "uid": "10871298989420119782",
+                "type": "SupportWeaponType_ArcThrower"
+            },
+            {
+                "idx": 257,
+                "uid": "12164217308285983839",
+                "type": "SupportWeaponType_Autocannon"
+            },
+            {
+                "idx": 258,
+                "uid": "9854668298113416351",
+                "type": "SupportWeaponType_BFGrenadeLauncher"
+            },
+            {
+                "idx": 259,
+                "uid": "9869105320050739364",
+                "type": "SupportWeaponType_Sterilizer"
+            },
+            {
+                "idx": 260,
+                "uid": "7853371720342307430",
+                "type": "SupportWeaponType_MeltaGun"
+            },
+            {
+                "idx": 261,
+                "uid": "12784766379234794359",
+                "type": "SupportWeaponType_ExpendableMachineGun"
+            },
+            {
+                "idx": 262,
+                "uid": "8509380141312129223",
+                "type": "SupportWeaponType_Leveller"
+            },
+            {
+                "idx": 263,
+                "uid": "12877445900026273694",
+                "type": "SupportWeaponType_ExpendableNapalmLauncher"
+            },
+            {
+                "idx": 264,
+                "uid": "2714034314705433838",
+                "type": "SupportWeaponType_SpearLauncher"
+            },
+            {
+                "idx": 265,
+                "uid": "14733648658679365221",
+                "type": "SupportWeaponType_WASPLauncher"
+            },
+            {
+                "idx": 266,
+                "uid": "4155583896232633279",
+                "type": "SupportWeaponType_Flamethrower"
+            },
+            {
+                "idx": 267,
+                "uid": "211331680192206384",
+                "type": "SupportWeaponType_GrenadeLauncher"
+            },
+            {
+                "idx": 268,
+                "uid": "18319281757224320923",
+                "type": "SupportWeaponType_DescalatorGrenadeLauncher"
+            },
+            {
+                "idx": 269,
+                "uid": "4046732776742447255",
+                "type": "SupportWeaponType_Speargun"
+            },
+            {
+                "idx": 270,
+                "uid": "8694225878611593109",
+                "type": "SupportWeaponType_Cremator"
+            },
+            {
+                "idx": 271,
+                "uid": "2401215835282261016",
+                "type": "SupportWeaponType_HeavyMachineGun"
+            },
+            {
+                "idx": 272,
+                "uid": "15369542005276747891",
+                "type": "SupportWeaponType_LaserCannon"
+            },
+            {
+                "idx": 273,
+                "uid": "6453678319562593995",
+                "type": "SupportWeaponType_CommandoRocketLauncher"
+            },
+            {
+                "idx": 274,
+                "uid": "3865797767236207742",
+                "type": "SupportWeaponType_QuasarPulseCannon"
+            },
+            {
+                "idx": 275,
+                "uid": "8347508405287998274",
+                "type": "SupportWeaponType_NovaSniperRifle"
+            },
+            {
+                "idx": 276,
+                "uid": "9264801226655597011",
+                "type": "SupportWeaponType_ExpendableAntiTank"
+            },
+            {
+                "idx": 277,
+                "uid": "1279722939363854678",
+                "type": "SupportWeaponType_MachineGun"
+            },
+            {
+                "idx": 278,
+                "uid": "4874456896233937276",
+                "type": "SupportWeaponType_Maxigun"
+            },
+            {
+                "idx": 279,
+                "uid": "18163938711866866090",
+                "type": "SupportWeaponType_MiniMissileSilo_Remote"
+            },
+            {
+                "idx": 280,
+                "uid": "16777584932715761236",
+                "type": "SupportWeaponType_EpochPlasmaLauncher"
+            },
+            {
+                "idx": 281,
+                "uid": "3358853937828503136",
+                "type": "SupportWeaponType_Railgun"
+            },
+            {
+                "idx": 282,
+                "uid": "11493422068836852751",
+                "type": "SupportWeaponType_RecoillessRifle"
+            },
+            {
+                "idx": 283,
+                "uid": "10266352102081711787",
+                "type": "10266352102081711787"
+            },
+            {
+                "idx": 284,
+                "uid": "9927421484392399367",
+                "type": "SupportWeaponType_AntiMaterielRifle"
+            },
+            {
+                "idx": 285,
+                "uid": "13264489371434957764",
+                "type": "SupportWeaponType_ApexSniperRifle"
+            },
+            {
+                "idx": 286,
+                "uid": "2114795373903595840",
+                "type": "DeployableType_GrenadierBattlementGrenadeLauncher"
+            },
+            {
+                "idx": 287,
+                "uid": "12984499893943104780",
+                "type": "SupportWeaponType_LightMachineGun_MK3"
+            },
+            {
+                "idx": 288,
+                "uid": "13357795631455978434",
+                "type": "SupportWeaponType_LightMachineGun_APC_MK4"
+            },
+            {
+                "idx": 289,
+                "uid": "15365965494753326077",
+                "type": "SupportWeaponType_LightMachineGun_APC_MK5"
+            },
+            {
+                "idx": 290,
+                "uid": "8971696097026260232",
+                "type": "8971696097026260232"
+            },
+            {
+                "idx": 291,
+                "uid": "1088183950891271627",
+                "type": "1088183950891271627"
+            },
+            {
+                "idx": 292,
+                "uid": "4510702625533881224",
+                "type": "4510702625533881224"
+            }
+        ]
+    }
 }

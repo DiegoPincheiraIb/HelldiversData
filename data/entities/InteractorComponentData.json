@@ -1,12 +1,37 @@
 {
-  "5556372446766824087": {
-    "radius": 0.5,
-    "node": 938412064,
-    "node_offset": {
-      "x": -0.25,
-      "y": 0,
-      "z": 0
-    },
-    "camera_forward_offset": 0.5
-  }
+    "InteractorComponentData": {
+        "items": [
+            {
+                "unique_id": "5556372446766824087",
+                "uid_name": "Avatar_Helldiver",
+                "radius": 0.5,
+                "node": 938412064,
+                "node_offset": {
+                    "x": -0.25,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "camera_forward_offset": 0.5
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "radius": 1.0,
+                "node": 1243096897,
+                "node_offset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "camera_forward_offset": 0.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "5556372446766824087",
+                "type": "Avatar_Helldiver"
+            }
+        ]
+    }
 }

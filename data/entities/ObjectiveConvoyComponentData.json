@@ -1,8 +1,28 @@
 {
-  "14473354838608697721": {
-    "marker_type": "ObjectiveConvoyMarkerType_End"
-  },
-  "1869985465112560625": {
-    "marker_type": "ObjectiveConvoyMarkerType_Start"
-  }
+    "ObjectiveConvoyComponentData": {
+        "items": [
+            {
+                "unique_id": "14473354838608697721",
+                "uid_name": "14473354838608697721",
+                "marker_type": "ObjectiveConvoyMarkerType_End"
+            },
+            {
+                "unique_id": "1869985465112560625",
+                "uid_name": "1869985465112560625",
+                "marker_type": "ObjectiveConvoyMarkerType_Start"
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "14473354838608697721",
+                "type": "14473354838608697721"
+            },
+            {
+                "idx": 1,
+                "uid": "1869985465112560625",
+                "type": "1869985465112560625"
+            }
+        ]
+    }
 }

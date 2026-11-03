@@ -1,1452 +1,2417 @@
 {
-  "11750748021023067901": {
-    "member_id": 2519355991,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bugs_spawnhole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bugs_spawnhole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bugs_spawnhole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 50,
-    "spawn_count": 2,
-    "spawn_count_minimum": 0,
-    "production_cooldown": 2,
-    "spawn_cooldown": 7,
-    "spawn_delay": 7,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 0,
-    "start_disabled": 0
-  },
-  "1127579667861114802": {
-    "member_id": 2519355991,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bugs_spawnhole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bugs_spawnhole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bugs_spawnhole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 50,
-    "spawn_count": 4,
-    "spawn_count_minimum": 0,
-    "production_cooldown": 1,
-    "spawn_cooldown": 5,
-    "spawn_delay": 5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 0,
-    "start_disabled": 0
-  },
-  "11648480632094885955": {
-    "member_id": 1678159601,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_cyborg_production_spawn_start",
-    "ability_spawn_done": "AbilityId_cyborg_production_spawn_stop",
-    "spawn_start_duration": 2,
-    "spawn_stop_duration": 2,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_cyborg_conscript_spawn_door_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 0,
-    "idle_stopped_sound": 0,
-    "explosive_trigger_enter_sound": 1928462362,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 4,
-    "spawn_count": 2,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 50,
-    "spawn_cooldown": 40,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "5149481135433687355": {
-    "member_id": 1571860610,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_stalker_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_stalker_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_stalker_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 227879515,
-    "idle_stopped_sound": 171876455,
-    "explosive_trigger_enter_sound": 1514210907,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 1,
-    "spawn_count": 1,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 45,
-    "spawn_cooldown": 75,
-    "spawn_delay": 5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 0,
-    "start_disabled": 0
-  },
-  "12154768248238632812": {
-    "member_id": 437176070,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_cyborg_production_spawn_gunship_start",
-    "ability_spawn_done": "AbilityId_cyborg_production_spawn_gunship_stop",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_cyborg_gunship_spawned",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 222832806,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 0,
-    "idle_stopped_sound": 0,
-    "explosive_trigger_enter_sound": 1864081026,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 1,
-    "spawn_count": 1,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 90,
-    "spawn_cooldown": 90,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "10942957064970873712": {
-    "member_id": 112786645,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_stalker_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_stalker_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_stalker_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 227879515,
-    "idle_stopped_sound": 171876455,
-    "explosive_trigger_enter_sound": 1514210907,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 1,
-    "spawn_count": 1,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 45,
-    "spawn_cooldown": 75,
-    "spawn_delay": 5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 0,
-    "start_disabled": 0
-  },
-  "672872697911391764": {
-    "member_id": 2519355991,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bugs_spawnhole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bugs_spawnhole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bugs_spawnhole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 2,
-    "spawn_count": 2,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 40,
-    "spawn_cooldown": 30,
-    "spawn_delay": 5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 0,
-    "start_disabled": 0
-  },
-  "5744599939368375614": {
-    "member_id": 1678159601,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_cyborg_production_spawn_start",
-    "ability_spawn_done": "AbilityId_cyborg_production_spawn_stop",
-    "spawn_start_duration": 2,
-    "spawn_stop_duration": 2,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_cyborg_conscript_spawn_door_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 0,
-    "idle_stopped_sound": 0,
-    "explosive_trigger_enter_sound": 1928462362,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 4,
-    "spawn_count": 2,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 50,
-    "spawn_cooldown": 40,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "1006683030863220015": {
-    "member_id": 0,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 0,
-    "spawn_count": 0,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 0,
-    "spawn_cooldown": 0,
-    "spawn_delay": 0,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "13558922670169218566": {
-    "member_id": 3517152816,
-    "fallback_member_id": 3478611010,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_hunter_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_hunter_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_hunter_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 2,
-    "spawn_count": 2,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 25,
-    "spawn_cooldown": 60,
-    "spawn_delay": 3,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "17346053465930021216": {
-    "member_id": 1678159601,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_cyborg_production_spawn_start",
-    "ability_spawn_done": "AbilityId_cyborg_production_spawn_stop",
-    "spawn_start_duration": 2,
-    "spawn_stop_duration": 2,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_cyborg_conscript_spawn_door_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 0,
-    "idle_stopped_sound": 0,
-    "explosive_trigger_enter_sound": 1928462362,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 4,
-    "spawn_count": 2,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 50,
-    "spawn_cooldown": 40,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "11595118386686545266": {
-    "member_id": 3438025933,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_civilian_spawner_spawn_start",
-    "ability_spawn_done": "AbilityId_civilian_spawner_spawn_start",
-    "spawn_start_duration": 2,
-    "spawn_stop_duration": 2,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 0,
-    "idle_stopped_sound": 0,
-    "explosive_trigger_enter_sound": 1864081026,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 6,
-    "spawn_count": 4,
-    "spawn_count_minimum": 4,
-    "production_cooldown": 7,
-    "spawn_cooldown": 7,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 1,
-    "ignore_guard_force": 1,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 0,
-    "start_disabled": 0
-  },
-  "10102056965302435169": {
-    "member_id": 2478129961,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_bugs_production_spawn_start",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 2,
-    "spawn_count": 2,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 40,
-    "spawn_cooldown": 40,
-    "spawn_delay": 4,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "5861687265757701821": {
-    "member_id": 1678159601,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_cyborg_production_spawn_start",
-    "ability_spawn_done": "AbilityId_cyborg_production_spawn_stop",
-    "spawn_start_duration": 2,
-    "spawn_stop_duration": 2,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_cyborg_conscript_spawn_door_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 0,
-    "idle_stopped_sound": 0,
-    "explosive_trigger_enter_sound": 1928462362,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 4,
-    "spawn_count": 2,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 50,
-    "spawn_cooldown": 40,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "9872437428268460875": {
-    "member_id": 3478611010,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 5,
-    "spawn_count": 3,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 15,
-    "spawn_cooldown": 30,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "9100766894272830527": {
-    "member_id": 1610950166,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_bugs_production_spawn_start",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 0,
-    "spawn_count": 2,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 40,
-    "spawn_cooldown": 40,
-    "spawn_delay": 4,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "17837615728688239629": {
-    "member_id": 2255668545,
-    "fallback_member_id": 957043117,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_bugs_production_spawn_start",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 1,
-    "spawn_count": 1,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 50,
-    "spawn_cooldown": 40,
-    "spawn_delay": 5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "15449222908953809681": {
-    "member_id": 592702357,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 0,
-    "spawn_count": 3,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 15,
-    "spawn_cooldown": 30,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "7532632187257416932": {
-    "member_id": 1610950166,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_IdleDespawnDisabled",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_bugs_production_spawn_start",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 1534277595,
-    "idle_stopped_sound": 1251151001,
-    "explosive_trigger_enter_sound": 3874989636,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 0,
-    "spawn_count": 1,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 40,
-    "spawn_cooldown": 1,
-    "spawn_delay": 1,
-    "cooldown_variation": 0.5,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 1,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 0,
-    "start_disabled": 0
-  },
-  "2507395399702661992": {
-    "member_id": 1678159601,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_cyborg_production_spawn_start",
-    "ability_spawn_done": "AbilityId_cyborg_production_spawn_stop",
-    "spawn_start_duration": 2,
-    "spawn_stop_duration": 2,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_cyborg_conscript_spawn_door_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 0,
-    "idle_stopped_sound": 0,
-    "explosive_trigger_enter_sound": 1928462362,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 4,
-    "spawn_count": 2,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 50,
-    "spawn_cooldown": 40,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "11193918233387225593": {
-    "member_id": 96305411,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 5,
-    "spawn_count": 3,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 15,
-    "spawn_cooldown": 30,
-    "spawn_delay": 1.5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "3948687847710625144": {
-    "member_id": 3603869457,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_bugs_production_spawn_start",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 1,
-    "spawn_count": 1,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 60,
-    "spawn_cooldown": 40,
-    "spawn_delay": 5,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "15239773297738004195": {
-    "member_id": 565587391,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_cyborg_spawner_spawn_start",
-    "ability_spawn_done": "AbilityId_cyborg_spawner_spawn_stop",
-    "spawn_start_duration": 0.25,
-    "spawn_stop_duration": 3,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_cyborg_conscript_spawner_claw_one",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1238122822,
-        "attach_spawn_to_node": 1
-      },
-      {
-        "ability": "AbilityId_cyborg_conscript_spawner_claw_two",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 3356762849,
-        "attach_spawn_to_node": 1
-      },
-      {
-        "ability": "AbilityId_cyborg_conscript_spawner_claw_three",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 4147465433,
-        "attach_spawn_to_node": 1
-      },
-      {
-        "ability": "AbilityId_cyborg_conscript_spawner_claw_four",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1926902977,
-        "attach_spawn_to_node": 1
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 0,
-    "idle_stopped_sound": 0,
-    "explosive_trigger_enter_sound": 1864081026,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 4,
-    "spawn_count": 4,
-    "spawn_count_minimum": 4,
-    "production_cooldown": 2,
-    "spawn_cooldown": 20,
-    "spawn_delay": 0,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 1,
-    "sequential_lanes": 1,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "11350815606295074697": {
-    "member_id": 2478129961,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_None",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_bugs_production_spawn_start",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_left",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 477695766,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_bug_warrior_spawn_hole_right",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 1579592948,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 640134690,
-    "idle_stopped_sound": 152342586,
-    "explosive_trigger_enter_sound": 2380123877,
-    "explosive_demolition_riser_sound": 3163953727,
-    "production_queue_limit": 1,
-    "spawn_count": 1,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 25,
-    "spawn_cooldown": 40,
-    "spawn_delay": 4,
-    "cooldown_variation": 0.200000003,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 0,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 1,
-    "start_disabled": 0
-  },
-  "6699176282901212749": {
-    "member_id": 592702357,
-    "fallback_member_id": 0,
-    "spawn_flag": "AiEnemyFlag_IdleDespawnDisabled",
-    "ability_activate": "AbilityId_Invalid",
-    "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_bugs_production_spawn_start",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 0,
-    "spawn_stop_duration": 0,
-    "spawn_lanes": [
-      {
-        "ability": "AbilityId_bug_scavenger_spawn_hole_mid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 2075297681,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "ability_spawn": "AbilityId_Invalid",
-        "ability_spawn_start": "AbilityId_Invalid",
-        "node": 0,
-        "attach_spawn_to_node": 0
-      }
-    ],
-    "audio_source_node": 0,
-    "idle_started_sound": 1534277595,
-    "idle_stopped_sound": 1251151001,
-    "explosive_trigger_enter_sound": 3029915592,
-    "explosive_demolition_riser_sound": 0,
-    "production_queue_limit": 0,
-    "spawn_count": 1,
-    "spawn_count_minimum": 1,
-    "production_cooldown": 40,
-    "spawn_cooldown": 1,
-    "spawn_delay": 1,
-    "cooldown_variation": 0.5,
-    "spawns_npcs": 0,
-    "ignore_guard_force": 1,
-    "sequential_lanes": 0,
-    "use_global_spawner_cooldown": 0,
-    "start_disabled": 0
-  }
+    "AiSpawnerComponentData": {
+        "items": [
+            {
+                "unique_id": "1006683030863220015",
+                "uid_name": "BugEnemyType_BugHole_Smoke_MK3",
+                "member_id": 0,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 0,
+                "spawn_count": 0,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 0.0,
+                "spawn_cooldown": 0.0,
+                "spawn_delay": 0.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "4770136952149103182",
+                "uid_name": "BotEnemyType_BulkFabricator",
+                "member_id": 3744054757,
+                "fallback_member_id": 1678159601,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "ABILITY_TYPE_913",
+                "ability_spawn_start": "ABILITY_TYPE_912",
+                "ability_spawn_done": "ABILITY_TYPE_913",
+                "spawn_start_duration": 2.5,
+                "spawn_stop_duration": 4.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_914",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 289579047,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_914",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 170621925,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 4038938647,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 2,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 40.0,
+                "spawn_cooldown": 20.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 1.0,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 1,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 0
+            },
+            {
+                "unique_id": "17346053465930021216",
+                "uid_name": "BotEnemyType_Fabricator",
+                "member_id": 1678159601,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_915",
+                "ability_spawn_done": "ABILITY_TYPE_916",
+                "spawn_start_duration": 2.0,
+                "spawn_stop_duration": 2.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_723",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 1928462362,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 4,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 50.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "12157917601251901249",
+                "uid_name": "12157917601251901249",
+                "member_id": 3245399847,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_174",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 92330316,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 1,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 40.0,
+                "spawn_cooldown": 50.0,
+                "spawn_delay": 8.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 0
+            },
+            {
+                "unique_id": "9075620520169363765",
+                "uid_name": "IlluminateEnemyType_WarpGateway",
+                "member_id": 3539239690,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_1913",
+                "ability_spawn_done": "ABILITY_TYPE_1916",
+                "spawn_start_duration": 5.0,
+                "spawn_stop_duration": 5.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_1915",
+                        "ability_spawn": "ABILITY_TYPE_1914",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 222832806,
+                        "attach_spawn_to_node": 1
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 682302578,
+                "idle_stopped_sound": 2393963244,
+                "explosive_trigger_enter_sound": 92330316,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 4,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 1.0,
+                "spawn_cooldown": 25.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 0
+            },
+            {
+                "unique_id": "12955111991617354039",
+                "uid_name": "IlluminateEnemyType_LandedWarpship_MK2",
+                "member_id": 3539239690,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_1908",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_1909",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 682302578,
+                "idle_stopped_sound": 2393963244,
+                "explosive_trigger_enter_sound": 92330316,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 4,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 4.0,
+                "spawn_cooldown": 4.0,
+                "spawn_delay": 1.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 1088421888,
+                "unknown_0B4": 3.0,
+                "unknown_0B8": 3.5,
+                "unknown_0BC": 5.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "15239773297738004195",
+                "uid_name": "BotEnemyType_FactoryStrider",
+                "member_id": 565587391,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_999",
+                "ability_spawn_done": "ABILITY_TYPE_1000",
+                "spawn_start_duration": 0.25,
+                "spawn_stop_duration": 3.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_725",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1238122822,
+                        "attach_spawn_to_node": 1
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_726",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 3356762849,
+                        "attach_spawn_to_node": 1
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_727",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 4147465433,
+                        "attach_spawn_to_node": 1
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_728",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1926902977,
+                        "attach_spawn_to_node": 1
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 92330316,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 4,
+                "spawn_count": 4,
+                "spawn_count_minimum": 4,
+                "production_cooldown": 2.0,
+                "spawn_cooldown": 20.0,
+                "spawn_delay": 0.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 1,
+                "unknown_0A6": 0,
+                "sequential_lanes": 1,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 1,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 0
+            },
+            {
+                "unique_id": "11595118386686545266",
+                "uid_name": "11595118386686545266",
+                "member_id": 3438025933,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_573",
+                "ability_spawn_done": "ABILITY_TYPE_573",
+                "spawn_start_duration": 2.0,
+                "spawn_stop_duration": 2.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 92330316,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 6,
+                "spawn_count": 4,
+                "spawn_count_minimum": 4,
+                "production_cooldown": 7.0,
+                "spawn_cooldown": 7.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 1,
+                "ignore_guard_force": 1,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 0
+            },
+            {
+                "unique_id": "12154768248238632812",
+                "uid_name": "BotEnemyType_Fabricator",
+                "member_id": 437176070,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_917",
+                "ability_spawn_done": "ABILITY_TYPE_918",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_803",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 222832806,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 92330316,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 1,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 90.0,
+                "spawn_cooldown": 90.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 0
+            },
+            {
+                "unique_id": "3085775354050256750",
+                "uid_name": "IlluminateEnemyType_Warpship_Invasion",
+                "member_id": 2941825161,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_1908",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_1909",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 92330316,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 4,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 4.0,
+                "spawn_cooldown": 4.0,
+                "spawn_delay": 1.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 1,
+                "unknown_0AA": 0,
+                "unknown_0AC": 4,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 0
+            },
+            {
+                "unique_id": "4191988217743057032",
+                "uid_name": "BugEnemyType_Bile_Titan_Bug_Hole",
+                "member_id": 839087686,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_448",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 3528819637,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 1065239193,
+                "idle_stopped_sound": 1800431795,
+                "explosive_trigger_enter_sound": 1869830618,
+                "explosive_demolition_riser_sound": 3776848516,
+                "production_queue_limit": 2,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 40.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 4.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "12666120718945160643",
+                "uid_name": "BugEnemyType_Infested_Tower",
+                "member_id": 2519355991,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_173",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_174",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_175",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 1,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 5.0,
+                "spawn_cooldown": 5.0,
+                "spawn_delay": 1.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "13558922670169218566",
+                "uid_name": "BugEnemyType_BugHole_MK3",
+                "member_id": 3517152816,
+                "fallback_member_id": 3478611010,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_315",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_316",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_317",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 2,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 25.0,
+                "spawn_cooldown": 60.0,
+                "spawn_delay": 3.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "10942957064970873712",
+                "uid_name": "BugEnemyType_BugHole_MK1",
+                "member_id": 1571860610,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_424",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_425",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_426",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 227879515,
+                "idle_stopped_sound": 171876455,
+                "explosive_trigger_enter_sound": 1514210907,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 1,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 45.0,
+                "spawn_cooldown": 75.0,
+                "spawn_delay": 5.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "9872437428268460875",
+                "uid_name": "BugEnemyType_BugHole_MK8",
+                "member_id": 3478611010,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_372",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_373",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_374",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 5,
+                "spawn_count": 3,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 15.0,
+                "spawn_cooldown": 30.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "15449222908953809681",
+                "uid_name": "BugEnemyType_BugHole_MK4",
+                "member_id": 592702357,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_372",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_373",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_374",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 0,
+                "spawn_count": 3,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 15.0,
+                "spawn_cooldown": 30.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "672872697911391764",
+                "uid_name": "BugEnemyType_Shrieker_Nest",
+                "member_id": 2519355991,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_173",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_174",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_175",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 2,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 40.0,
+                "spawn_cooldown": 30.0,
+                "spawn_delay": 5.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "11193918233387225593",
+                "uid_name": "BugEnemyType_BugHole_MK5",
+                "member_id": 96305411,
+                "fallback_member_id": 3478611010,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_372",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_373",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_374",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 5,
+                "spawn_count": 3,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 15.0,
+                "spawn_cooldown": 30.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "5149481135433687355",
+                "uid_name": "BugEnemyType_BugHole_MK7",
+                "member_id": 1571860610,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_424",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_425",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_426",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 227879515,
+                "idle_stopped_sound": 171876455,
+                "explosive_trigger_enter_sound": 1514210907,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 1,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 45.0,
+                "spawn_cooldown": 75.0,
+                "spawn_delay": 5.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "10102056965302435169",
+                "uid_name": "BugEnemyType_BugHole_MK9",
+                "member_id": 2478129961,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_180",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_490",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_491",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_492",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 2,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 40.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 4.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "9100766894272830527",
+                "uid_name": "BugEnemyType_BugHole_Smoke_(Crash)",
+                "member_id": 1610950166,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_180",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_490",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_491",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_492",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 0,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 40.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 4.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "13159942169661045483",
+                "uid_name": "BugEnemyType_BugHole_MK11",
+                "member_id": 2478129961,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_180",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_490",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_491",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_492",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 2,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 40.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 4.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "11350815606295074697",
+                "uid_name": "BugEnemyType_BugHole_MK2",
+                "member_id": 2478129961,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_180",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_490",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_491",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_492",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 1,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 25.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 4.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "1127579667861114802",
+                "uid_name": "BugEnemyType_BugHole_Smoke_MK1",
+                "member_id": 2519355991,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_173",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_174",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_175",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 50,
+                "spawn_count": 4,
+                "spawn_count_minimum": 0,
+                "production_cooldown": 1.0,
+                "spawn_cooldown": 5.0,
+                "spawn_delay": 5.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "11750748021023067901",
+                "uid_name": "BugEnemyType_BugHole_Smoke_MK2",
+                "member_id": 2519355991,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "AbilityId_Invalid",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_173",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_174",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_175",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 50,
+                "spawn_count": 2,
+                "spawn_count_minimum": 0,
+                "production_cooldown": 2.0,
+                "spawn_cooldown": 7.0,
+                "spawn_delay": 7.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "5861687265757701821",
+                "uid_name": "BotEnemyType_Fabricator",
+                "member_id": 1678159601,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_915",
+                "ability_spawn_done": "ABILITY_TYPE_916",
+                "spawn_start_duration": 2.0,
+                "spawn_stop_duration": 2.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_723",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 1928462362,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 4,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 50.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "2507395399702661992",
+                "uid_name": "BotEnemyType_Fabricator",
+                "member_id": 1678159601,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_915",
+                "ability_spawn_done": "ABILITY_TYPE_916",
+                "spawn_start_duration": 2.0,
+                "spawn_stop_duration": 2.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_723",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 1928462362,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 4,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 50.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "11648480632094885955",
+                "uid_name": "BotEnemyType_Fabricator",
+                "member_id": 1678159601,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_915",
+                "ability_spawn_done": "ABILITY_TYPE_916",
+                "spawn_start_duration": 2.0,
+                "spawn_stop_duration": 2.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_723",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 1928462362,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 4,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 50.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "5744599939368375614",
+                "uid_name": "BotEnemyType_Fabricator",
+                "member_id": 1678159601,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_915",
+                "ability_spawn_done": "ABILITY_TYPE_916",
+                "spawn_start_duration": 2.0,
+                "spawn_stop_duration": 2.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_723",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 0,
+                "idle_stopped_sound": 0,
+                "explosive_trigger_enter_sound": 1928462362,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 4,
+                "spawn_count": 2,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 50.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 1.5,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 0.0,
+                "unknown_0B8": 0.0,
+                "unknown_0BC": 0.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "7532632187257416932",
+                "uid_name": "7532632187257416932",
+                "member_id": 1610950166,
+                "fallback_member_id": 0,
+                "spawn_flag": 8,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_180",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_491",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 3874989636,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 0,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 40.0,
+                "spawn_cooldown": 1.0,
+                "spawn_delay": 1.0,
+                "cooldown_variation": 0.5,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 1,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "6699176282901212749",
+                "uid_name": "6699176282901212749",
+                "member_id": 592702357,
+                "fallback_member_id": 0,
+                "spawn_flag": 8,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_180",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_373",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 1037034062,
+                "explosive_demolition_riser_sound": 0,
+                "production_queue_limit": 0,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 40.0,
+                "spawn_cooldown": 1.0,
+                "spawn_delay": 1.0,
+                "cooldown_variation": 0.5,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 1,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 0,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "17837615728688239629",
+                "uid_name": "BugEnemyType_BugHole_MK10",
+                "member_id": 2255668545,
+                "fallback_member_id": 957043117,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_180",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_490",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_491",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_492",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 1,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 50.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 5.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            },
+            {
+                "unique_id": "3948687847710625144",
+                "uid_name": "BugEnemyType_BugHole_MK6",
+                "member_id": 3603869457,
+                "fallback_member_id": 0,
+                "spawn_flag": 0,
+                "ability_activate": "AbilityId_Invalid",
+                "ability_deactivate": "AbilityId_Invalid",
+                "ability_spawn_start": "ABILITY_TYPE_180",
+                "ability_spawn_done": "AbilityId_Invalid",
+                "spawn_start_duration": 0.0,
+                "spawn_stop_duration": 0.0,
+                "spawn_lanes": [
+                    {
+                        "ability": "ABILITY_TYPE_490",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 477695766,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_491",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 2075297681,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "ABILITY_TYPE_492",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 1579592948,
+                        "attach_spawn_to_node": 0
+                    },
+                    {
+                        "ability": "AbilityId_Invalid",
+                        "ability_spawn": "AbilityId_Invalid",
+                        "ability_spawn_lane_start": "AbilityId_Invalid",
+                        "node": 0,
+                        "attach_spawn_to_node": 0
+                    }
+                ],
+                "audio_source_node": 0,
+                "idle_started_sound": 640134690,
+                "idle_stopped_sound": 152342586,
+                "explosive_trigger_enter_sound": 2380123877,
+                "explosive_demolition_riser_sound": 3163953727,
+                "production_queue_limit": 1,
+                "spawn_count": 1,
+                "spawn_count_minimum": 1,
+                "production_cooldown": 60.0,
+                "spawn_cooldown": 40.0,
+                "spawn_delay": 5.0,
+                "cooldown_variation": 0.200000003,
+                "spawns_npcs": 0,
+                "ignore_guard_force": 0,
+                "unknown_0A6": 0,
+                "sequential_lanes": 0,
+                "use_global_spawner_cooldown": 1,
+                "start_disabled": 0,
+                "unknown_0AA": 0,
+                "unknown_0AC": 12,
+                "unknown_0B0": 0,
+                "unknown_0B4": 4.0,
+                "unknown_0B8": 2.0,
+                "unknown_0BC": 8.0,
+                "unknown_0C0": 1
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "1006683030863220015",
+                "type": "BugEnemyType_BugHole_Smoke_MK3"
+            },
+            {
+                "idx": 1,
+                "uid": "4770136952149103182",
+                "type": "BotEnemyType_BulkFabricator"
+            },
+            {
+                "idx": 2,
+                "uid": "17346053465930021216",
+                "type": "BotEnemyType_Fabricator"
+            },
+            {
+                "idx": 3,
+                "uid": "12157917601251901249",
+                "type": "12157917601251901249"
+            },
+            {
+                "idx": 4,
+                "uid": "9075620520169363765",
+                "type": "IlluminateEnemyType_WarpGateway"
+            },
+            {
+                "idx": 5,
+                "uid": "12955111991617354039",
+                "type": "IlluminateEnemyType_LandedWarpship_MK2"
+            },
+            {
+                "idx": 6,
+                "uid": "15239773297738004195",
+                "type": "BotEnemyType_FactoryStrider"
+            },
+            {
+                "idx": 7,
+                "uid": "11595118386686545266",
+                "type": "11595118386686545266"
+            },
+            {
+                "idx": 8,
+                "uid": "12154768248238632812",
+                "type": "BotEnemyType_Fabricator"
+            },
+            {
+                "idx": 9,
+                "uid": "3085775354050256750",
+                "type": "IlluminateEnemyType_Warpship_Invasion"
+            },
+            {
+                "idx": 10,
+                "uid": "4191988217743057032",
+                "type": "BugEnemyType_Bile_Titan_Bug_Hole"
+            },
+            {
+                "idx": 11,
+                "uid": "12666120718945160643",
+                "type": "BugEnemyType_Infested_Tower"
+            },
+            {
+                "idx": 12,
+                "uid": "13558922670169218566",
+                "type": "BugEnemyType_BugHole_MK3"
+            },
+            {
+                "idx": 13,
+                "uid": "10942957064970873712",
+                "type": "BugEnemyType_BugHole_MK1"
+            },
+            {
+                "idx": 14,
+                "uid": "9872437428268460875",
+                "type": "BugEnemyType_BugHole_MK8"
+            },
+            {
+                "idx": 15,
+                "uid": "15449222908953809681",
+                "type": "BugEnemyType_BugHole_MK4"
+            },
+            {
+                "idx": 16,
+                "uid": "672872697911391764",
+                "type": "BugEnemyType_Shrieker_Nest"
+            },
+            {
+                "idx": 17,
+                "uid": "11193918233387225593",
+                "type": "BugEnemyType_BugHole_MK5"
+            },
+            {
+                "idx": 18,
+                "uid": "5149481135433687355",
+                "type": "BugEnemyType_BugHole_MK7"
+            },
+            {
+                "idx": 19,
+                "uid": "10102056965302435169",
+                "type": "BugEnemyType_BugHole_MK9"
+            },
+            {
+                "idx": 20,
+                "uid": "9100766894272830527",
+                "type": "BugEnemyType_BugHole_Smoke_(Crash)"
+            },
+            {
+                "idx": 21,
+                "uid": "13159942169661045483",
+                "type": "BugEnemyType_BugHole_MK11"
+            },
+            {
+                "idx": 22,
+                "uid": "11350815606295074697",
+                "type": "BugEnemyType_BugHole_MK2"
+            },
+            {
+                "idx": 23,
+                "uid": "1127579667861114802",
+                "type": "BugEnemyType_BugHole_Smoke_MK1"
+            },
+            {
+                "idx": 24,
+                "uid": "11750748021023067901",
+                "type": "BugEnemyType_BugHole_Smoke_MK2"
+            },
+            {
+                "idx": 25,
+                "uid": "5861687265757701821",
+                "type": "BotEnemyType_Fabricator"
+            },
+            {
+                "idx": 26,
+                "uid": "2507395399702661992",
+                "type": "BotEnemyType_Fabricator"
+            },
+            {
+                "idx": 27,
+                "uid": "11648480632094885955",
+                "type": "BotEnemyType_Fabricator"
+            },
+            {
+                "idx": 28,
+                "uid": "5744599939368375614",
+                "type": "BotEnemyType_Fabricator"
+            },
+            {
+                "idx": 29,
+                "uid": "7532632187257416932",
+                "type": "7532632187257416932"
+            },
+            {
+                "idx": 30,
+                "uid": "6699176282901212749",
+                "type": "6699176282901212749"
+            },
+            {
+                "idx": 31,
+                "uid": "17837615728688239629",
+                "type": "BugEnemyType_BugHole_MK10"
+            },
+            {
+                "idx": 32,
+                "uid": "3948687847710625144",
+                "type": "BugEnemyType_BugHole_MK6"
+            }
+        ]
+    }
 }

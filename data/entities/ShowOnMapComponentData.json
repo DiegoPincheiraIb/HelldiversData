@@ -1,134 +1,528 @@
 {
-  "963627585262025575": {
-    "start_revealed": 0,
-    "is_discoverable": 1,
-    "icon": 15459301811813320676,
-    "discovery_cleared_icon": 0,
-    "size_x": 32,
-    "size_y": 32,
-    "use_world_coord_size": 0,
-    "loc_string": 3664780818,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 1
-  },
-  "2642665978849996335": {
-    "start_revealed": 0,
-    "is_discoverable": 0,
-    "icon": 12503235940963958259,
-    "discovery_cleared_icon": 0,
-    "size_x": 64,
-    "size_y": 64,
-    "use_world_coord_size": 0,
-    "loc_string": 0,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 0
-  },
-  "15797048871223121091": {
-    "start_revealed": 0,
-    "is_discoverable": 1,
-    "icon": 2807972877425502563,
-    "discovery_cleared_icon": 9130959012795814321,
-    "size_x": 32,
-    "size_y": 32,
-    "use_world_coord_size": 0,
-    "loc_string": 3713389674,
-    "is_discovery_location": 1,
-    "revealed_by_map_pulse": 0
-  },
-  "4447782889858555354": {
-    "start_revealed": 0,
-    "is_discoverable": 1,
-    "icon": 443331287904090859,
-    "discovery_cleared_icon": 0,
-    "size_x": 32,
-    "size_y": 32,
-    "use_world_coord_size": 0,
-    "loc_string": 910757278,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 1
-  },
-  "9777107062777261843": {
-    "start_revealed": 0,
-    "is_discoverable": 1,
-    "icon": 12244420657664932688,
-    "discovery_cleared_icon": 11124759105755669199,
-    "size_x": 32,
-    "size_y": 32,
-    "use_world_coord_size": 0,
-    "loc_string": 32661982,
-    "is_discovery_location": 1,
-    "revealed_by_map_pulse": 0
-  },
-  "4873719022425764511": {
-    "start_revealed": 0,
-    "is_discoverable": 0,
-    "icon": 15459301811813320676,
-    "discovery_cleared_icon": 0,
-    "size_x": 32,
-    "size_y": 32,
-    "use_world_coord_size": 0,
-    "loc_string": 3664780818,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 1
-  },
-  "5763536790522227960": {
-    "start_revealed": 0,
-    "is_discoverable": 0,
-    "icon": 15459301811813320676,
-    "discovery_cleared_icon": 0,
-    "size_x": 32,
-    "size_y": 32,
-    "use_world_coord_size": 0,
-    "loc_string": 135325812,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 1
-  },
-  "14112507246362999093": {
-    "start_revealed": 1,
-    "is_discoverable": 1,
-    "icon": 8459123324008576555,
-    "discovery_cleared_icon": 0,
-    "size_x": 64,
-    "size_y": 64,
-    "use_world_coord_size": 0,
-    "loc_string": 0,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 1
-  },
-  "9258220220468961691": {
-    "start_revealed": 0,
-    "is_discoverable": 0,
-    "icon": 15459301811813320676,
-    "discovery_cleared_icon": 0,
-    "size_x": 32,
-    "size_y": 32,
-    "use_world_coord_size": 0,
-    "loc_string": 922749441,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 1
-  },
-  "13803685151943133100": {
-    "start_revealed": 0,
-    "is_discoverable": 0,
-    "icon": 8459123324008576555,
-    "discovery_cleared_icon": 0,
-    "size_x": 64,
-    "size_y": 64,
-    "use_world_coord_size": 0,
-    "loc_string": 0,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 0
-  },
-  "3572349364299675891": {
-    "start_revealed": 0,
-    "is_discoverable": 0,
-    "icon": 1631563128112403805,
-    "discovery_cleared_icon": 0,
-    "size_x": 64,
-    "size_y": 64,
-    "use_world_coord_size": 0,
-    "loc_string": 0,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 0
-  }
+    "ShowOnMapComponentData": {
+        "items": [
+            {
+                "unique_id": "9777107062777261843",
+                "uid_name": "SuperEarthType_MajorPoI",
+                "start_revealed": 0,
+                "is_discoverable": 1,
+                "icon": 1443847322599235379,
+                "discovery_cleared_icon": 12124924497787249300,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 32661982,
+                "is_discovery_location": 1,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "15797048871223121091",
+                "uid_name": "SuperEarthType_MinorPoI",
+                "start_revealed": 0,
+                "is_discoverable": 1,
+                "icon": 14386318074848005433,
+                "discovery_cleared_icon": 7176195428865351016,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 3713389674,
+                "is_discovery_location": 1,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "4447782889858555354",
+                "uid_name": "SuperEarthType_MobileRadarStation",
+                "start_revealed": 0,
+                "is_discoverable": 1,
+                "icon": 8943214343737209334,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 910757278,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 1,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "8976894502087196225",
+                "uid_name": "8976894502087196225",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 8882602908742827005,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 1923650587,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 1,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "9258220220468961691",
+                "uid_name": "9258220220468961691",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 7238755149266103945,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 922749441,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 1,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "13803685151943133100",
+                "uid_name": "13803685151943133100",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 13594852396541536557,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 2512561516,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "16736270748778796145",
+                "uid_name": "16736270748778796145",
+                "start_revealed": 1,
+                "is_discoverable": 1,
+                "icon": 13594852396541536557,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 1,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "4115043012407993615",
+                "uid_name": "4115043012407993615",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 13594852396541536557,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "7736340617956477812",
+                "uid_name": "SuperEarthType_ReinforcementPods",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 9722025709045383995,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 2510839207,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "4873719022425764511",
+                "uid_name": "4873719022425764511",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 7238755149266103945,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 3664780818,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 1,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "2642665978849996335",
+                "uid_name": "SuperEarthType_PowerGenerator",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 12013247709256634790,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "963627585262025575",
+                "uid_name": "963627585262025575",
+                "start_revealed": 0,
+                "is_discoverable": 1,
+                "icon": 7238755149266103945,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 3664780818,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 1,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "5763536790522227960",
+                "uid_name": "5763536790522227960",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 7238755149266103945,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 135325812,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 1,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "5016400767610308159",
+                "uid_name": "5016400767610308159",
+                "start_revealed": 0,
+                "is_discoverable": 1,
+                "icon": 3925296520692652266,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "4388029100657027261",
+                "uid_name": "4388029100657027261",
+                "start_revealed": 0,
+                "is_discoverable": 1,
+                "icon": 5952982240730532331,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "17631069409454690559",
+                "uid_name": "17631069409454690559",
+                "start_revealed": 1,
+                "is_discoverable": 0,
+                "icon": 11398078153708074333,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 4047525053,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 1,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "3572349364299675891",
+                "uid_name": "3572349364299675891",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 11744914536851010348,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 2503736186,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "14112507246362999093",
+                "uid_name": "14112507246362999093",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 13594852396541536557,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 2103923543,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "4826263884972836617",
+                "uid_name": "4826263884972836617",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 13594852396541536557,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 2600483602,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "9579814997562801345",
+                "uid_name": "9579814997562801345",
+                "start_revealed": 1,
+                "is_discoverable": 0,
+                "icon": 5952982240730532331,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "12606485697777944956",
+                "uid_name": "12606485697777944956",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 12013247709256634790,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "14517910308823468371",
+                "uid_name": "14517910308823468371",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 12013247709256634790,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "5345630485224079874",
+                "uid_name": "5345630485224079874",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 12013247709256634790,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "2812505216397986596",
+                "uid_name": "2812505216397986596",
+                "start_revealed": 0,
+                "is_discoverable": 0,
+                "icon": 12013247709256634790,
+                "discovery_cleared_icon": 0,
+                "size_x": 64.0,
+                "size_y": 64.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 1
+            },
+            {
+                "unique_id": "18425528956672743905",
+                "uid_name": "SuperEarthType_SEAF_Artillery",
+                "start_revealed": 0,
+                "is_discoverable": 1,
+                "icon": 14545867286482172847,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 1,
+                "loc_string": 2591631933,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 1,
+                "unknown_02B": 0
+            },
+            {
+                "unique_id": "9514029060716333676",
+                "uid_name": "9514029060716333676",
+                "start_revealed": 1,
+                "is_discoverable": 0,
+                "icon": 5952982240730532331,
+                "discovery_cleared_icon": 0,
+                "size_x": 32.0,
+                "size_y": 32.0,
+                "use_world_coord_size": 0,
+                "loc_string": 0,
+                "is_discovery_location": 0,
+                "revealed_by_map_pulse": 0,
+                "unknown_02B": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "9777107062777261843",
+                "type": "SuperEarthType_MajorPoI"
+            },
+            {
+                "idx": 1,
+                "uid": "15797048871223121091",
+                "type": "SuperEarthType_MinorPoI"
+            },
+            {
+                "idx": 2,
+                "uid": "4447782889858555354",
+                "type": "SuperEarthType_MobileRadarStation"
+            },
+            {
+                "idx": 3,
+                "uid": "8976894502087196225",
+                "type": "8976894502087196225"
+            },
+            {
+                "idx": 4,
+                "uid": "9258220220468961691",
+                "type": "9258220220468961691"
+            },
+            {
+                "idx": 5,
+                "uid": "13803685151943133100",
+                "type": "13803685151943133100"
+            },
+            {
+                "idx": 6,
+                "uid": "16736270748778796145",
+                "type": "16736270748778796145"
+            },
+            {
+                "idx": 7,
+                "uid": "4115043012407993615",
+                "type": "4115043012407993615"
+            },
+            {
+                "idx": 8,
+                "uid": "7736340617956477812",
+                "type": "SuperEarthType_ReinforcementPods"
+            },
+            {
+                "idx": 9,
+                "uid": "4873719022425764511",
+                "type": "4873719022425764511"
+            },
+            {
+                "idx": 10,
+                "uid": "2642665978849996335",
+                "type": "SuperEarthType_PowerGenerator"
+            },
+            {
+                "idx": 11,
+                "uid": "963627585262025575",
+                "type": "963627585262025575"
+            },
+            {
+                "idx": 12,
+                "uid": "5763536790522227960",
+                "type": "5763536790522227960"
+            },
+            {
+                "idx": 13,
+                "uid": "5016400767610308159",
+                "type": "5016400767610308159"
+            },
+            {
+                "idx": 14,
+                "uid": "4388029100657027261",
+                "type": "4388029100657027261"
+            },
+            {
+                "idx": 15,
+                "uid": "17631069409454690559",
+                "type": "17631069409454690559"
+            },
+            {
+                "idx": 16,
+                "uid": "3572349364299675891",
+                "type": "3572349364299675891"
+            },
+            {
+                "idx": 17,
+                "uid": "14112507246362999093",
+                "type": "14112507246362999093"
+            },
+            {
+                "idx": 18,
+                "uid": "4826263884972836617",
+                "type": "4826263884972836617"
+            },
+            {
+                "idx": 19,
+                "uid": "9579814997562801345",
+                "type": "9579814997562801345"
+            },
+            {
+                "idx": 20,
+                "uid": "12606485697777944956",
+                "type": "12606485697777944956"
+            },
+            {
+                "idx": 21,
+                "uid": "14517910308823468371",
+                "type": "14517910308823468371"
+            },
+            {
+                "idx": 22,
+                "uid": "5345630485224079874",
+                "type": "5345630485224079874"
+            },
+            {
+                "idx": 23,
+                "uid": "2812505216397986596",
+                "type": "2812505216397986596"
+            },
+            {
+                "idx": 24,
+                "uid": "18425528956672743905",
+                "type": "SuperEarthType_SEAF_Artillery"
+            },
+            {
+                "idx": 25,
+                "uid": "9514029060716333676",
+                "type": "9514029060716333676"
+            }
+        ]
+    }
 }

@@ -1,0 +1,19 @@
+{
+    "Unknown_295933BEComponentData": {
+        "items": [
+            {
+                "unique_id": "9075620520169363765",
+                "uid_name": "IlluminateEnemyType_WarpGateway",
+                "unknown_000": 2507485753,
+                "unknown_004": 1465506656
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "9075620520169363765",
+                "type": "IlluminateEnemyType_WarpGateway"
+            }
+        ]
+    }
+}

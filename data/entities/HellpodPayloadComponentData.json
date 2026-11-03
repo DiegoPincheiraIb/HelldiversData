@@ -1,611 +1,1419 @@
 {
-  "5546703783041515346": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "5096354858712799022": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "15628185827517046516": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "2315516436421582687": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "16747667077579727959": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12424973596508546593": {
-    "remove_time": 6,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_seismic_probe_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "10719993517856893473": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "16116574862830205005": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "16003672528522815935": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "4202058061031081322": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12449657272871172571": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "3965302274531977670": {
-    "remove_time": 2.5,
-    "life_time": 150,
-    "on_retract_ability": "AbilityId_turret_deactivate",
-    "map_icon": 552046174126877950,
-    "map_name": 3633384189
-  },
-  "10836035197107641878": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "5787948413593898778": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_ammo_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "17910078671568111462": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "16361817941812852399": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12209482505501190673": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 15624159681914200441,
-    "map_name": 1366895198
-  },
-  "15560829713433970564": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "1837707428311856638": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "7004572901293848370": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "3088981311867959219": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "10061873194046625038": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12611223767334871581": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "3586234782721573506": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12008891559002833673": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "5881843148917714292": {
-    "remove_time": 2.5,
-    "life_time": 180,
-    "on_retract_ability": "AbilityId_turret_deactivate",
-    "map_icon": 3184388384051355399,
-    "map_name": 2602942644
-  },
-  "14586739053780151064": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "6113742425058627513": {
-    "remove_time": 2.5,
-    "life_time": 150,
-    "on_retract_ability": "AbilityId_hellpod_generic_turret_retract",
-    "map_icon": 811588942361303807,
-    "map_name": 3791174808
-  },
-  "2616888780303759269": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "9930392667348956705": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "4021120973472933563": {
-    "remove_time": 2.5,
-    "life_time": 150,
-    "on_retract_ability": "AbilityId_turret_deactivate",
-    "map_icon": 1850305939493930264,
-    "map_name": 1140023383
-  },
-  "9670353792785147784": {
-    "remove_time": 2.5,
-    "life_time": 180,
-    "on_retract_ability": "AbilityId_turret_deactivate",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "16028040304287202855": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "1051445694670701817": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 15624159681914200441,
-    "map_name": 1366895198
-  },
-  "14990836890103997252": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "7103244170870631670": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "7539955080993332996": {
-    "remove_time": 2.5,
-    "life_time": 180,
-    "on_retract_ability": "AbilityId_turret_deactivate",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "992939827990506476": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "5511920513804679707": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "7470354883998204659": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "725877384353361216": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "18294292771580135983": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "13125214096466681673": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "17259437333005147504": {
-    "remove_time": 3.5,
-    "life_time": 150,
-    "on_retract_ability": "AbilityId_hellpod_long_turret_retract",
-    "map_icon": 1850305939493930264,
-    "map_name": 1140023383
-  },
-  "9879448964426328539": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "17083241647592728848": {
-    "remove_time": 2.5,
-    "life_time": 40,
-    "on_retract_ability": "AbilityId_shield_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "7229430146472047344": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "2712008117028049500": {
-    "remove_time": 3.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_long_turret_retract",
-    "map_icon": 2219756737934356705,
-    "map_name": 2248440908
-  },
-  "9219146911950674287": {
-    "remove_time": 3.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_long_turret_retract",
-    "map_icon": 1850305939493930264,
-    "map_name": 1140023383
-  },
-  "16974551944278808389": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "9796573205647524202": {
-    "remove_time": 2.5,
-    "life_time": -1,
-    "on_retract_ability": "AbilityId_turret_deactivate",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "8383906277678357886": {
-    "remove_time": 2.5,
-    "life_time": 150,
-    "on_retract_ability": "AbilityId_tesla_turret_deactivate",
-    "map_icon": 14777987687039927618,
-    "map_name": 2489495420
-  },
-  "13534862741616025304": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "11376870716921492798": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "16884914410677175712": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12827722989328478091": {
-    "remove_time": 2.5,
-    "life_time": 180,
-    "on_retract_ability": "AbilityId_turret_deactivate",
-    "map_icon": 3184388384051355399,
-    "map_name": 2602942644
-  },
-  "3003496806383724538": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12967812241745948652": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "578662561602494491": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "7741265416947841340": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12765265282294763822": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "1053057044002772930": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "6337264778388549835": {
-    "remove_time": 3.5,
-    "life_time": -1,
-    "on_retract_ability": "AbilityId_hellpod_long_turret_retract",
-    "map_icon": 1850305939493930264,
-    "map_name": 1140023383
-  },
-  "11594114104552493871": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "10806471875148778594": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "16204610837508709347": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12269323780666160625": {
-    "remove_time": 2.5,
-    "life_time": 180,
-    "on_retract_ability": "AbilityId_turret_deactivate",
-    "map_icon": 1850305939493930264,
-    "map_name": 1140023383
-  },
-  "14314828040919828387": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "344970826846105488": {
-    "remove_time": 3.5,
-    "life_time": -1,
-    "on_retract_ability": "AbilityId_hellpod_long_turret_retract",
-    "map_icon": 1850305939493930264,
-    "map_name": 1140023383
-  },
-  "12220563120145251703": {
-    "remove_time": 3.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_long_turret_retract",
-    "map_icon": 2219756737934356705,
-    "map_name": 2248440908
-  },
-  "17297258079668724512": {
-    "remove_time": 3.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_long_turret_retract",
-    "map_icon": 2219756737934356705,
-    "map_name": 2248440908
-  },
-  "4971147757632036889": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "13946543042552897732": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12554051465013040605": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "13777321776887997010": {
-    "remove_time": 3.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_long_turret_retract",
-    "map_icon": 2219756737934356705,
-    "map_name": 2248440908
-  },
-  "15991884556147755475": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "3808429690324817690": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "12548565706891777268": {
-    "remove_time": 2.5,
-    "life_time": 180,
-    "on_retract_ability": "AbilityId_turret_deactivate",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "14394260739264934509": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "13054785979242890129": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "1141864099511539165": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "3548847957556322972": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "14231239742203987259": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "3076609961184545675": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "576663892176497294": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "16793772489963160606": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  },
-  "6863983759145391137": {
-    "remove_time": 2.5,
-    "life_time": 0,
-    "on_retract_ability": "AbilityId_hellpod_generic_hellpod_rack_retract",
-    "map_icon": 0,
-    "map_name": 0
-  }
+    "HellpodPayloadComponentData": {
+        "items": [
+            {
+                "unique_id": "7229430146472047344",
+                "uid_name": "7229430146472047344",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "3103483601875813497",
+                "uid_name": "DeployableType_AutocannonEmplacement",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "7539955080993332996",
+                "uid_name": "DeployableType_GatlingSentry_MK5",
+                "remove_time": 2.5,
+                "life_time": 180.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "17083241647592728848",
+                "uid_name": "DeployableType_TeamShield",
+                "remove_time": 2.5,
+                "life_time": 40.0,
+                "on_retract_ability": "ABILITY_TYPE_2424"
+            },
+            {
+                "unique_id": "3003496806383724538",
+                "uid_name": "3003496806383724538",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "901379433810974099",
+                "uid_name": "DeployableType_GrenadierBattlement",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "9371080132553746520",
+                "uid_name": "DeployableType_FlamethrowerSentry",
+                "remove_time": 2.5,
+                "life_time": 150.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "14314828040919828387",
+                "uid_name": "DeployableType_Hellbomb",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "725877384353361216",
+                "uid_name": "725877384353361216",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "12449657272871172571",
+                "uid_name": "12449657272871172571",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "12554051465013040605",
+                "uid_name": "12554051465013040605",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "6198940140191066280",
+                "uid_name": "DeployableType_LaserSentry",
+                "remove_time": 2.5,
+                "life_time": 180.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "12269323780666160625",
+                "uid_name": "DeployableType_MachineGunSentry_MK2",
+                "remove_time": 2.5,
+                "life_time": 180.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "1051445694670701817",
+                "uid_name": "DeployableType_HeavyMachineGunEmplacement",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "12209482505501190673",
+                "uid_name": "DeployableType_HeavyMachineGunEmplacement_SuperEarthDefense",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "17297258079668724512",
+                "uid_name": "DeployableType_AntiPersonnelMinefield",
+                "remove_time": 3.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1270"
+            },
+            {
+                "unique_id": "12220563120145251703",
+                "uid_name": "DeployableType_GasMinefield",
+                "remove_time": 3.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1270"
+            },
+            {
+                "unique_id": "13777321776887997010",
+                "uid_name": "DeployableType_IncendiaryMinefield",
+                "remove_time": 3.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1270"
+            },
+            {
+                "unique_id": "2712008117028049500",
+                "uid_name": "DeployableType_AntiTankMinefield",
+                "remove_time": 3.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1270"
+            },
+            {
+                "unique_id": "5881843148917714292",
+                "uid_name": "DeployableType_MortarSentry",
+                "remove_time": 2.5,
+                "life_time": 180.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "2998286011813792148",
+                "uid_name": "DeployableType_GasMortarSentry",
+                "remove_time": 2.5,
+                "life_time": 180.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "12827722989328478091",
+                "uid_name": "DeployableType_EMSMortarSentry",
+                "remove_time": 2.5,
+                "life_time": 180.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "16204610837508709347",
+                "uid_name": "DeployableType_FlamethrowerEmplacement",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "1837707428311856638",
+                "uid_name": "DeployableType_LaserEmplacement",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "2616888780303759269",
+                "uid_name": "DeployableType_RailgunEmplacement",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "16974551944278808389",
+                "uid_name": "DeployableType_RocketEmplacement",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "9670353792785147784",
+                "uid_name": "9670353792785147784",
+                "remove_time": 2.5,
+                "life_time": 180.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "3965302274531977670",
+                "uid_name": "DeployableType_RocketSentry",
+                "remove_time": 2.5,
+                "life_time": 150.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "7103244170870631670",
+                "uid_name": "7103244170870631670",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "8383906277678357886",
+                "uid_name": "DeployableType_TeslaTower",
+                "remove_time": 2.5,
+                "life_time": 150.0,
+                "on_retract_ability": "ABILITY_TYPE_2529"
+            },
+            {
+                "unique_id": "17259437333005147504",
+                "uid_name": "DeployableType_GatlingSentry",
+                "remove_time": 3.5,
+                "life_time": 150.0,
+                "on_retract_ability": "ABILITY_TYPE_1270"
+            },
+            {
+                "unique_id": "9219146911950674287",
+                "uid_name": "DeployableType_GatlingSentry_MK2",
+                "remove_time": 3.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1270"
+            },
+            {
+                "unique_id": "6337264778388549835",
+                "uid_name": "DeployableType_GatlingSentry_MK4",
+                "remove_time": 3.5,
+                "life_time": -1.0,
+                "on_retract_ability": "ABILITY_TYPE_1270"
+            },
+            {
+                "unique_id": "4021120973472933563",
+                "uid_name": "DeployableType_MachineGunSentry",
+                "remove_time": 2.5,
+                "life_time": 150.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "13054785979242890129",
+                "uid_name": "13054785979242890129",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "14586739053780151064",
+                "uid_name": "14586739053780151064",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "3548847957556322972",
+                "uid_name": "3548847957556322972",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "5546703783041515346",
+                "uid_name": "5546703783041515346",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "6863983759145391137",
+                "uid_name": "6863983759145391137",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "4202058061031081322",
+                "uid_name": "4202058061031081322",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "3088981311867959219",
+                "uid_name": "3088981311867959219",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "3076609961184545675",
+                "uid_name": "3076609961184545675",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "13220630793330837644",
+                "uid_name": "13220630793330837644",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "777378755084961873",
+                "uid_name": "777378755084961873",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "14990836890103997252",
+                "uid_name": "14990836890103997252",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "13534862741616025304",
+                "uid_name": "13534862741616025304",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "576663892176497294",
+                "uid_name": "576663892176497294",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "9930392667348956705",
+                "uid_name": "9930392667348956705",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "7741265416947841340",
+                "uid_name": "7741265416947841340",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "655326963730992680",
+                "uid_name": "655326963730992680",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "5511920513804679707",
+                "uid_name": "5511920513804679707",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "16747667077579727959",
+                "uid_name": "16747667077579727959",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "4702722572603225990",
+                "uid_name": "4702722572603225990",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "15628185827517046516",
+                "uid_name": "15628185827517046516",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "16028040304287202855",
+                "uid_name": "16028040304287202855",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "578662561602494491",
+                "uid_name": "578662561602494491",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "8276213418471108848",
+                "uid_name": "8276213418471108848",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "17910078671568111462",
+                "uid_name": "17910078671568111462",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "5643845069706156830",
+                "uid_name": "5643845069706156830",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "14444545864073080978",
+                "uid_name": "14444545864073080978",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "9988513589272608914",
+                "uid_name": "9988513589272608914",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "2353971082640043615",
+                "uid_name": "2353971082640043615",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "14231239742203987259",
+                "uid_name": "14231239742203987259",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "747660740534049118",
+                "uid_name": "747660740534049118",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "16793772489963160606",
+                "uid_name": "16793772489963160606",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "2315516436421582687",
+                "uid_name": "2315516436421582687",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "3415909520450653186",
+                "uid_name": "3415909520450653186",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "6678650487122301993",
+                "uid_name": "6678650487122301993",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "14577940623038630357",
+                "uid_name": "14577940623038630357",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "1141864099511539165",
+                "uid_name": "1141864099511539165",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "8630355153153141386",
+                "uid_name": "8630355153153141386",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "5970902984446543682",
+                "uid_name": "5970902984446543682",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "1053057044002772930",
+                "uid_name": "1053057044002772930",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "12008891559002833673",
+                "uid_name": "12008891559002833673",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "7004572901293848370",
+                "uid_name": "7004572901293848370",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "18294292771580135983",
+                "uid_name": "18294292771580135983",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "11594114104552493871",
+                "uid_name": "11594114104552493871",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "7470354883998204659",
+                "uid_name": "7470354883998204659",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "3165122520209079584",
+                "uid_name": "3165122520209079584",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "992939827990506476",
+                "uid_name": "992939827990506476",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "3586234782721573506",
+                "uid_name": "3586234782721573506",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "10719993517856893473",
+                "uid_name": "10719993517856893473",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "6064640338382564399",
+                "uid_name": "6064640338382564399",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "12967812241745948652",
+                "uid_name": "12967812241745948652",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "9196357621753489238",
+                "uid_name": "9196357621753489238",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "16975580601286218750",
+                "uid_name": "16975580601286218750",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "10212114617817310457",
+                "uid_name": "10212114617817310457",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "8337919257571739556",
+                "uid_name": "8337919257571739556",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "16003672528522815935",
+                "uid_name": "16003672528522815935",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "5096354858712799022",
+                "uid_name": "5096354858712799022",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "13125214096466681673",
+                "uid_name": "13125214096466681673",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "15991884556147755475",
+                "uid_name": "15991884556147755475",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "4971147757632036889",
+                "uid_name": "4971147757632036889",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "11376870716921492798",
+                "uid_name": "11376870716921492798",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "9879448964426328539",
+                "uid_name": "9879448964426328539",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "8627652307616206702",
+                "uid_name": "8627652307616206702",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "13946543042552897732",
+                "uid_name": "13946543042552897732",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "10836035197107641878",
+                "uid_name": "10836035197107641878",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "15146612351663130407",
+                "uid_name": "15146612351663130407",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "13491377088706131080",
+                "uid_name": "13491377088706131080",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "344970826846105488",
+                "uid_name": "DeployableType_GatlingSentry_MK6",
+                "remove_time": 3.5,
+                "life_time": -1.0,
+                "on_retract_ability": "ABILITY_TYPE_1270"
+            },
+            {
+                "unique_id": "9796573205647524202",
+                "uid_name": "DeployableType_GatlingSentry_MK3",
+                "remove_time": 2.5,
+                "life_time": -1.0,
+                "on_retract_ability": "ABILITY_TYPE_2537"
+            },
+            {
+                "unique_id": "12765265282294763822",
+                "uid_name": "12765265282294763822",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "14394260739264934509",
+                "uid_name": "14394260739264934509",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "16116574862830205005",
+                "uid_name": "16116574862830205005",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "12424973596508546593",
+                "uid_name": "12424973596508546593",
+                "remove_time": 6.0,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1271"
+            },
+            {
+                "unique_id": "16361817941812852399",
+                "uid_name": "16361817941812852399",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "1537696249448617261",
+                "uid_name": "1537696249448617261",
+                "remove_time": 6.0,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1282"
+            },
+            {
+                "unique_id": "4552071351006696626",
+                "uid_name": "4552071351006696626",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "5787948413593898778",
+                "uid_name": "5787948413593898778",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1266"
+            },
+            {
+                "unique_id": "15560829713433970564",
+                "uid_name": "15560829713433970564",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "8315931884919593616",
+                "uid_name": "SuperEarthType_AR23_Liberator_Resupply",
+                "remove_time": 0.0,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1272"
+            },
+            {
+                "unique_id": "6113742425058627513",
+                "uid_name": "DeployableType_AutocannonSentry",
+                "remove_time": 2.5,
+                "life_time": 150.0,
+                "on_retract_ability": "ABILITY_TYPE_1268"
+            },
+            {
+                "unique_id": "12611223767334871581",
+                "uid_name": "12611223767334871581",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "3808429690324817690",
+                "uid_name": "3808429690324817690",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "16884914410677175712",
+                "uid_name": "16884914410677175712",
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1267"
+            },
+            {
+                "unique_id": "5617149288754513915",
+                "uid_name": "VehicleType_Supply_FRV_ARSentry",
+                "remove_time": 0.0,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1272"
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "remove_time": 2.5,
+                "life_time": 0.0,
+                "on_retract_ability": "ABILITY_TYPE_1265"
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "7229430146472047344",
+                "type": "7229430146472047344"
+            },
+            {
+                "idx": 1,
+                "uid": "3103483601875813497",
+                "type": "DeployableType_AutocannonEmplacement"
+            },
+            {
+                "idx": 2,
+                "uid": "7539955080993332996",
+                "type": "DeployableType_GatlingSentry_MK5"
+            },
+            {
+                "idx": 3,
+                "uid": "17083241647592728848",
+                "type": "DeployableType_TeamShield"
+            },
+            {
+                "idx": 4,
+                "uid": "3003496806383724538",
+                "type": "3003496806383724538"
+            },
+            {
+                "idx": 5,
+                "uid": "901379433810974099",
+                "type": "DeployableType_GrenadierBattlement"
+            },
+            {
+                "idx": 6,
+                "uid": "9371080132553746520",
+                "type": "DeployableType_FlamethrowerSentry"
+            },
+            {
+                "idx": 7,
+                "uid": "14314828040919828387",
+                "type": "DeployableType_Hellbomb"
+            },
+            {
+                "idx": 8,
+                "uid": "725877384353361216",
+                "type": "725877384353361216"
+            },
+            {
+                "idx": 9,
+                "uid": "12449657272871172571",
+                "type": "12449657272871172571"
+            },
+            {
+                "idx": 10,
+                "uid": "12554051465013040605",
+                "type": "12554051465013040605"
+            },
+            {
+                "idx": 11,
+                "uid": "6198940140191066280",
+                "type": "DeployableType_LaserSentry"
+            },
+            {
+                "idx": 12,
+                "uid": "12269323780666160625",
+                "type": "DeployableType_MachineGunSentry_MK2"
+            },
+            {
+                "idx": 13,
+                "uid": "1051445694670701817",
+                "type": "DeployableType_HeavyMachineGunEmplacement"
+            },
+            {
+                "idx": 14,
+                "uid": "12209482505501190673",
+                "type": "DeployableType_HeavyMachineGunEmplacement_SuperEarthDefense"
+            },
+            {
+                "idx": 15,
+                "uid": "17297258079668724512",
+                "type": "DeployableType_AntiPersonnelMinefield"
+            },
+            {
+                "idx": 16,
+                "uid": "12220563120145251703",
+                "type": "DeployableType_GasMinefield"
+            },
+            {
+                "idx": 17,
+                "uid": "13777321776887997010",
+                "type": "DeployableType_IncendiaryMinefield"
+            },
+            {
+                "idx": 18,
+                "uid": "2712008117028049500",
+                "type": "DeployableType_AntiTankMinefield"
+            },
+            {
+                "idx": 19,
+                "uid": "5881843148917714292",
+                "type": "DeployableType_MortarSentry"
+            },
+            {
+                "idx": 20,
+                "uid": "2998286011813792148",
+                "type": "DeployableType_GasMortarSentry"
+            },
+            {
+                "idx": 21,
+                "uid": "12827722989328478091",
+                "type": "DeployableType_EMSMortarSentry"
+            },
+            {
+                "idx": 22,
+                "uid": "16204610837508709347",
+                "type": "DeployableType_FlamethrowerEmplacement"
+            },
+            {
+                "idx": 23,
+                "uid": "1837707428311856638",
+                "type": "DeployableType_LaserEmplacement"
+            },
+            {
+                "idx": 24,
+                "uid": "2616888780303759269",
+                "type": "DeployableType_RailgunEmplacement"
+            },
+            {
+                "idx": 25,
+                "uid": "16974551944278808389",
+                "type": "DeployableType_RocketEmplacement"
+            },
+            {
+                "idx": 26,
+                "uid": "9670353792785147784",
+                "type": "9670353792785147784"
+            },
+            {
+                "idx": 27,
+                "uid": "3965302274531977670",
+                "type": "DeployableType_RocketSentry"
+            },
+            {
+                "idx": 28,
+                "uid": "7103244170870631670",
+                "type": "7103244170870631670"
+            },
+            {
+                "idx": 29,
+                "uid": "8383906277678357886",
+                "type": "DeployableType_TeslaTower"
+            },
+            {
+                "idx": 30,
+                "uid": "17259437333005147504",
+                "type": "DeployableType_GatlingSentry"
+            },
+            {
+                "idx": 31,
+                "uid": "9219146911950674287",
+                "type": "DeployableType_GatlingSentry_MK2"
+            },
+            {
+                "idx": 32,
+                "uid": "6337264778388549835",
+                "type": "DeployableType_GatlingSentry_MK4"
+            },
+            {
+                "idx": 33,
+                "uid": "4021120973472933563",
+                "type": "DeployableType_MachineGunSentry"
+            },
+            {
+                "idx": 34,
+                "uid": "13054785979242890129",
+                "type": "13054785979242890129"
+            },
+            {
+                "idx": 35,
+                "uid": "14586739053780151064",
+                "type": "14586739053780151064"
+            },
+            {
+                "idx": 36,
+                "uid": "3548847957556322972",
+                "type": "3548847957556322972"
+            },
+            {
+                "idx": 37,
+                "uid": "5546703783041515346",
+                "type": "5546703783041515346"
+            },
+            {
+                "idx": 38,
+                "uid": "6863983759145391137",
+                "type": "6863983759145391137"
+            },
+            {
+                "idx": 39,
+                "uid": "4202058061031081322",
+                "type": "4202058061031081322"
+            },
+            {
+                "idx": 40,
+                "uid": "3088981311867959219",
+                "type": "3088981311867959219"
+            },
+            {
+                "idx": 41,
+                "uid": "3076609961184545675",
+                "type": "3076609961184545675"
+            },
+            {
+                "idx": 42,
+                "uid": "13220630793330837644",
+                "type": "13220630793330837644"
+            },
+            {
+                "idx": 43,
+                "uid": "777378755084961873",
+                "type": "777378755084961873"
+            },
+            {
+                "idx": 44,
+                "uid": "14990836890103997252",
+                "type": "14990836890103997252"
+            },
+            {
+                "idx": 45,
+                "uid": "13534862741616025304",
+                "type": "13534862741616025304"
+            },
+            {
+                "idx": 46,
+                "uid": "576663892176497294",
+                "type": "576663892176497294"
+            },
+            {
+                "idx": 47,
+                "uid": "9930392667348956705",
+                "type": "9930392667348956705"
+            },
+            {
+                "idx": 48,
+                "uid": "7741265416947841340",
+                "type": "7741265416947841340"
+            },
+            {
+                "idx": 49,
+                "uid": "655326963730992680",
+                "type": "655326963730992680"
+            },
+            {
+                "idx": 50,
+                "uid": "5511920513804679707",
+                "type": "5511920513804679707"
+            },
+            {
+                "idx": 51,
+                "uid": "16747667077579727959",
+                "type": "16747667077579727959"
+            },
+            {
+                "idx": 52,
+                "uid": "4702722572603225990",
+                "type": "4702722572603225990"
+            },
+            {
+                "idx": 53,
+                "uid": "15628185827517046516",
+                "type": "15628185827517046516"
+            },
+            {
+                "idx": 54,
+                "uid": "16028040304287202855",
+                "type": "16028040304287202855"
+            },
+            {
+                "idx": 55,
+                "uid": "578662561602494491",
+                "type": "578662561602494491"
+            },
+            {
+                "idx": 56,
+                "uid": "8276213418471108848",
+                "type": "8276213418471108848"
+            },
+            {
+                "idx": 57,
+                "uid": "17910078671568111462",
+                "type": "17910078671568111462"
+            },
+            {
+                "idx": 58,
+                "uid": "5643845069706156830",
+                "type": "5643845069706156830"
+            },
+            {
+                "idx": 59,
+                "uid": "14444545864073080978",
+                "type": "14444545864073080978"
+            },
+            {
+                "idx": 60,
+                "uid": "9988513589272608914",
+                "type": "9988513589272608914"
+            },
+            {
+                "idx": 61,
+                "uid": "2353971082640043615",
+                "type": "2353971082640043615"
+            },
+            {
+                "idx": 62,
+                "uid": "14231239742203987259",
+                "type": "14231239742203987259"
+            },
+            {
+                "idx": 63,
+                "uid": "747660740534049118",
+                "type": "747660740534049118"
+            },
+            {
+                "idx": 64,
+                "uid": "16793772489963160606",
+                "type": "16793772489963160606"
+            },
+            {
+                "idx": 65,
+                "uid": "2315516436421582687",
+                "type": "2315516436421582687"
+            },
+            {
+                "idx": 66,
+                "uid": "3415909520450653186",
+                "type": "3415909520450653186"
+            },
+            {
+                "idx": 67,
+                "uid": "6678650487122301993",
+                "type": "6678650487122301993"
+            },
+            {
+                "idx": 68,
+                "uid": "14577940623038630357",
+                "type": "14577940623038630357"
+            },
+            {
+                "idx": 69,
+                "uid": "1141864099511539165",
+                "type": "1141864099511539165"
+            },
+            {
+                "idx": 70,
+                "uid": "8630355153153141386",
+                "type": "8630355153153141386"
+            },
+            {
+                "idx": 71,
+                "uid": "5970902984446543682",
+                "type": "5970902984446543682"
+            },
+            {
+                "idx": 72,
+                "uid": "1053057044002772930",
+                "type": "1053057044002772930"
+            },
+            {
+                "idx": 73,
+                "uid": "12008891559002833673",
+                "type": "12008891559002833673"
+            },
+            {
+                "idx": 74,
+                "uid": "7004572901293848370",
+                "type": "7004572901293848370"
+            },
+            {
+                "idx": 75,
+                "uid": "18294292771580135983",
+                "type": "18294292771580135983"
+            },
+            {
+                "idx": 76,
+                "uid": "11594114104552493871",
+                "type": "11594114104552493871"
+            },
+            {
+                "idx": 77,
+                "uid": "7470354883998204659",
+                "type": "7470354883998204659"
+            },
+            {
+                "idx": 78,
+                "uid": "3165122520209079584",
+                "type": "3165122520209079584"
+            },
+            {
+                "idx": 79,
+                "uid": "992939827990506476",
+                "type": "992939827990506476"
+            },
+            {
+                "idx": 80,
+                "uid": "3586234782721573506",
+                "type": "3586234782721573506"
+            },
+            {
+                "idx": 81,
+                "uid": "10719993517856893473",
+                "type": "10719993517856893473"
+            },
+            {
+                "idx": 82,
+                "uid": "6064640338382564399",
+                "type": "6064640338382564399"
+            },
+            {
+                "idx": 83,
+                "uid": "12967812241745948652",
+                "type": "12967812241745948652"
+            },
+            {
+                "idx": 84,
+                "uid": "9196357621753489238",
+                "type": "9196357621753489238"
+            },
+            {
+                "idx": 85,
+                "uid": "16975580601286218750",
+                "type": "16975580601286218750"
+            },
+            {
+                "idx": 86,
+                "uid": "10212114617817310457",
+                "type": "10212114617817310457"
+            },
+            {
+                "idx": 87,
+                "uid": "8337919257571739556",
+                "type": "8337919257571739556"
+            },
+            {
+                "idx": 88,
+                "uid": "16003672528522815935",
+                "type": "16003672528522815935"
+            },
+            {
+                "idx": 89,
+                "uid": "5096354858712799022",
+                "type": "5096354858712799022"
+            },
+            {
+                "idx": 90,
+                "uid": "13125214096466681673",
+                "type": "13125214096466681673"
+            },
+            {
+                "idx": 91,
+                "uid": "15991884556147755475",
+                "type": "15991884556147755475"
+            },
+            {
+                "idx": 92,
+                "uid": "4971147757632036889",
+                "type": "4971147757632036889"
+            },
+            {
+                "idx": 93,
+                "uid": "11376870716921492798",
+                "type": "11376870716921492798"
+            },
+            {
+                "idx": 94,
+                "uid": "9879448964426328539",
+                "type": "9879448964426328539"
+            },
+            {
+                "idx": 95,
+                "uid": "8627652307616206702",
+                "type": "8627652307616206702"
+            },
+            {
+                "idx": 96,
+                "uid": "13946543042552897732",
+                "type": "13946543042552897732"
+            },
+            {
+                "idx": 97,
+                "uid": "10836035197107641878",
+                "type": "10836035197107641878"
+            },
+            {
+                "idx": 98,
+                "uid": "15146612351663130407",
+                "type": "15146612351663130407"
+            },
+            {
+                "idx": 99,
+                "uid": "13491377088706131080",
+                "type": "13491377088706131080"
+            },
+            {
+                "idx": 100,
+                "uid": "344970826846105488",
+                "type": "DeployableType_GatlingSentry_MK6"
+            },
+            {
+                "idx": 101,
+                "uid": "9796573205647524202",
+                "type": "DeployableType_GatlingSentry_MK3"
+            },
+            {
+                "idx": 102,
+                "uid": "12765265282294763822",
+                "type": "12765265282294763822"
+            },
+            {
+                "idx": 103,
+                "uid": "14394260739264934509",
+                "type": "14394260739264934509"
+            },
+            {
+                "idx": 104,
+                "uid": "16116574862830205005",
+                "type": "16116574862830205005"
+            },
+            {
+                "idx": 105,
+                "uid": "12424973596508546593",
+                "type": "12424973596508546593"
+            },
+            {
+                "idx": 106,
+                "uid": "16361817941812852399",
+                "type": "16361817941812852399"
+            },
+            {
+                "idx": 107,
+                "uid": "1537696249448617261",
+                "type": "1537696249448617261"
+            },
+            {
+                "idx": 108,
+                "uid": "4552071351006696626",
+                "type": "4552071351006696626"
+            },
+            {
+                "idx": 109,
+                "uid": "5787948413593898778",
+                "type": "5787948413593898778"
+            },
+            {
+                "idx": 110,
+                "uid": "15560829713433970564",
+                "type": "15560829713433970564"
+            },
+            {
+                "idx": 111,
+                "uid": "8315931884919593616",
+                "type": "SuperEarthType_AR23_Liberator_Resupply"
+            },
+            {
+                "idx": 112,
+                "uid": "6113742425058627513",
+                "type": "DeployableType_AutocannonSentry"
+            },
+            {
+                "idx": 113,
+                "uid": "12611223767334871581",
+                "type": "12611223767334871581"
+            },
+            {
+                "idx": 114,
+                "uid": "3808429690324817690",
+                "type": "3808429690324817690"
+            },
+            {
+                "idx": 115,
+                "uid": "16884914410677175712",
+                "type": "16884914410677175712"
+            },
+            {
+                "idx": 116,
+                "uid": "5617149288754513915",
+                "type": "VehicleType_Supply_FRV_ARSentry"
+            }
+        ]
+    }
 }

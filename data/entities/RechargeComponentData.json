@@ -15,6 +15,11 @@
                 "unique_id": "518600486455451088",
                 "uid_name": "SupportBackpackType_DarkFluidJumppack",
                 "recharge_time": 8.0
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "recharge_time": 5.0
             }
         ],
         "index_list": [

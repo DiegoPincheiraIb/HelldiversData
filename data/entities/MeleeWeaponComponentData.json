@@ -1,0 +1,679 @@
+{
+    "MeleeWeaponComponentData": {
+        "items": [
+            {
+                "unique_id": "12101561451675752456",
+                "uid_name": "MeleeWeaponType_Unk1",
+                "unknown_04": 1,
+                "stamina_cost": 0.0,
+                "damage_info_type": "DamageInfoType_None",
+                "unknown_10": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "6863144698475545939",
+                "uid_name": "SupportWeaponType_BreachingHammer",
+                "unknown_04": 2,
+                "stamina_cost": 0.050000001,
+                "damage_info_type": "DamageInfoType_Hammer",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_039",
+                        "ABILITY_TYPE_040",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_041",
+                        "ABILITY_TYPE_042",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "ABILITY_TYPE_038",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "16408494556715988068",
+                "uid_name": "MeleeWeaponType_StunLance",
+                "unknown_04": 1,
+                "stamina_cost": 0.029999999,
+                "damage_info_type": "DamageInfoType_StunLance",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_043",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_044",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "16743928489815142323",
+                "uid_name": "SupportWeaponType_EntrenchmentTool_Derelict",
+                "unknown_04": 0,
+                "stamina_cost": 0.029999999,
+                "damage_info_type": "DamageInfoType_Shovel",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_045",
+                        "ABILITY_TYPE_046",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_047",
+                        "ABILITY_TYPE_048",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 2,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_049",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "9088112410931658315",
+                "uid_name": "MeleeWeaponType_EntrenchmentTool",
+                "unknown_04": 0,
+                "stamina_cost": 0.029999999,
+                "damage_info_type": "DamageInfoType_Shovel",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_045",
+                        "ABILITY_TYPE_046",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_047",
+                        "ABILITY_TYPE_048",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 2,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_049",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "18219495801425257306",
+                "uid_name": "MeleeWeaponType_Saber",
+                "unknown_04": 0,
+                "stamina_cost": 0.029999999,
+                "damage_info_type": "DamageInfoType_Saber",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_001",
+                        "ABILITY_TYPE_002",
+                        "ABILITY_TYPE_003",
+                        "ABILITY_TYPE_004",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_005",
+                        "ABILITY_TYPE_006",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "13784670920243131812",
+                "uid_name": "SupportWeaponType_DefoliationTool",
+                "unknown_04": 2,
+                "stamina_cost": 0.050000001,
+                "damage_info_type": "DamageInfoType_Chainsaw",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_008",
+                        "ABILITY_TYPE_009",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_010",
+                        "ABILITY_TYPE_011",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "5966635890313573271",
+                "uid_name": "MeleeWeaponType_RiotBaton",
+                "unknown_04": 0,
+                "stamina_cost": 0.029999999,
+                "damage_info_type": "DamageInfoType_RiotBaton",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_012",
+                        "ABILITY_TYPE_013",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_016",
+                        "ABILITY_TYPE_017",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "12750169196543686872",
+                "uid_name": "SupportWeaponType_OneTrueFlag",
+                "unknown_04": 1,
+                "stamina_cost": 0.029999999,
+                "damage_info_type": "DamageInfoType_Flag",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_018",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_019",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 2,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_018",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "8467154841892407376",
+                "uid_name": "MeleeWeaponType_Tomahawk",
+                "unknown_04": 1,
+                "stamina_cost": 0.039999999,
+                "damage_info_type": "DamageInfoType_Tomahawk",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_022",
+                        "ABILITY_TYPE_023",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_024",
+                        "ABILITY_TYPE_025",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            },
+            {
+                "unique_id": "8731737688384722662",
+                "uid_name": "MeleeWeaponType_Machete",
+                "unknown_04": 2,
+                "stamina_cost": 0.050000001,
+                "damage_info_type": "DamageInfoType_Machete",
+                "unknown_10": {
+                    "avatar_stance": 0,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_026",
+                        "ABILITY_TYPE_027",
+                        "ABILITY_TYPE_028",
+                        "ABILITY_TYPE_029",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_34": {
+                    "avatar_stance": 1,
+                    "wielder_animation_type": [
+                        "ABILITY_TYPE_030",
+                        "ABILITY_TYPE_031",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_58": {
+                    "avatar_stance": 3,
+                    "wielder_animation_type": [
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid",
+                        "AbilityId_Invalid"
+                    ]
+                },
+                "unknown_A0": [
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid",
+                    "AbilityId_Invalid"
+                ]
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "12101561451675752456",
+                "type": "MeleeWeaponType_Unk1"
+            },
+            {
+                "idx": 1,
+                "uid": "6863144698475545939",
+                "type": "SupportWeaponType_BreachingHammer"
+            },
+            {
+                "idx": 2,
+                "uid": "16408494556715988068",
+                "type": "MeleeWeaponType_StunLance"
+            },
+            {
+                "idx": 3,
+                "uid": "16743928489815142323",
+                "type": "SupportWeaponType_EntrenchmentTool_Derelict"
+            },
+            {
+                "idx": 4,
+                "uid": "9088112410931658315",
+                "type": "MeleeWeaponType_EntrenchmentTool"
+            },
+            {
+                "idx": 5,
+                "uid": "18219495801425257306",
+                "type": "MeleeWeaponType_Saber"
+            },
+            {
+                "idx": 6,
+                "uid": "13784670920243131812",
+                "type": "SupportWeaponType_DefoliationTool"
+            },
+            {
+                "idx": 7,
+                "uid": "5966635890313573271",
+                "type": "MeleeWeaponType_RiotBaton"
+            },
+            {
+                "idx": 8,
+                "uid": "12750169196543686872",
+                "type": "SupportWeaponType_OneTrueFlag"
+            },
+            {
+                "idx": 9,
+                "uid": "8467154841892407376",
+                "type": "MeleeWeaponType_Tomahawk"
+            },
+            {
+                "idx": 10,
+                "uid": "8731737688384722662",
+                "type": "MeleeWeaponType_Machete"
+            }
+        ]
+    }
+}

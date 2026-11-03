@@ -1,0 +1,20 @@
+{
+    "Unknown_1DDF9A2DComponentData": {
+        "items": [
+            {
+                "unique_id": "1864924857437116746",
+                "uid_name": "IlluminateEnemyType_Stingray",
+                "unknown_000": 15.0,
+                "unknown_004": 8.300000191,
+                "unknown_008": 5.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "1864924857437116746",
+                "type": "IlluminateEnemyType_Stingray"
+            }
+        ]
+    }
+}

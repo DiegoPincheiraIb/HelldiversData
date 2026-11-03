@@ -1,642 +1,1973 @@
 {
-  "8883573249939290241": {
-    "unaware_value": 1.79999995,
-    "attacking_value": 20,
-    "engaged_value": 20,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "2895453262415111841": {
-    "unaware_value": 7,
-    "attacking_value": 70,
-    "engaged_value": 70,
-    "unaware_distance": 160,
-    "attacking_distance": 80,
-    "is_major_unit": 0
-  },
-  "12614471755071195045": {
-    "unaware_value": 1.20000005,
-    "attacking_value": 17,
-    "engaged_value": 17,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "12873251592757102566": {
-    "unaware_value": 0.699999988,
-    "attacking_value": 25,
-    "engaged_value": 25,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "3939129929398354246": {
-    "unaware_value": 4,
-    "attacking_value": 50,
-    "engaged_value": 50,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "16451308563134815530": {
-    "unaware_value": 5,
-    "attacking_value": 60,
-    "engaged_value": 60,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "4399458158766252490": {
-    "unaware_value": 0.699999988,
-    "attacking_value": 25,
-    "engaged_value": 25,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "2404044106251363533": {
-    "unaware_value": 1.20000005,
-    "attacking_value": 17,
-    "engaged_value": 17,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "14278331370456096813": {
-    "unaware_value": 6,
-    "attacking_value": 30,
-    "engaged_value": 30,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "9614788353289254415": {
-    "unaware_value": 2,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "10828817397904429935": {
-    "unaware_value": 7,
-    "attacking_value": 50,
-    "engaged_value": 50,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "10371974906799355538": {
-    "unaware_value": 0.200000003,
-    "attacking_value": 2,
-    "engaged_value": 2,
-    "unaware_distance": 100,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "3517035000518974420": {
-    "unaware_value": 1.5,
-    "attacking_value": 18,
-    "engaged_value": 18,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "1155202780614770422": {
-    "unaware_value": 0.699999988,
-    "attacking_value": 25,
-    "engaged_value": 25,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "1403303179954968823": {
-    "unaware_value": 5,
-    "attacking_value": 60,
-    "engaged_value": 60,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "14748816422034837943": {
-    "unaware_value": 4,
-    "attacking_value": 50,
-    "engaged_value": 50,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "12300518439027380185": {
-    "unaware_value": 0.300000012,
-    "attacking_value": 3.5,
-    "engaged_value": 3.5,
-    "unaware_distance": 100,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "6676641717166653626": {
-    "unaware_value": 1,
-    "attacking_value": 29,
-    "engaged_value": 29,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "7719208875390099550": {
-    "unaware_value": 3,
-    "attacking_value": 55,
-    "engaged_value": 55,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "7258218216136199873": {
-    "unaware_value": 1.20000005,
-    "attacking_value": 17,
-    "engaged_value": 17,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "10861016308832836833": {
-    "unaware_value": 5,
-    "attacking_value": 60,
-    "engaged_value": 60,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "15239773297738004195": {
-    "unaware_value": 7,
-    "attacking_value": 100,
-    "engaged_value": 100,
-    "unaware_distance": 160,
-    "attacking_distance": 160,
-    "is_major_unit": 1
-  },
-  "15358116161893188517": {
-    "unaware_value": 0.699999988,
-    "attacking_value": 25,
-    "engaged_value": 25,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "13723659040410201638": {
-    "unaware_value": 6,
-    "attacking_value": 30,
-    "engaged_value": 30,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "6041739005686103399": {
-    "unaware_value": 7,
-    "attacking_value": 85,
-    "engaged_value": 85,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "13340847352459495240": {
-    "unaware_value": 7,
-    "attacking_value": 50,
-    "engaged_value": 50,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "5663271064929335883": {
-    "unaware_value": 0.5,
-    "attacking_value": 20,
-    "engaged_value": 20,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "11135777548304851724": {
-    "unaware_value": 0.300000012,
-    "attacking_value": 3,
-    "engaged_value": 3,
-    "unaware_distance": 100,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "17672347716099392046": {
-    "unaware_value": 2.5,
-    "attacking_value": 50,
-    "engaged_value": 50,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "2190700087544369166": {
-    "unaware_value": 5,
-    "attacking_value": 60,
-    "engaged_value": 60,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "9137331974793918131": {
-    "unaware_value": 1,
-    "attacking_value": 15,
-    "engaged_value": 15,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "10409770290790592053": {
-    "unaware_value": 5,
-    "attacking_value": 48,
-    "engaged_value": 48,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "16919711124802745493": {
-    "unaware_value": 0.5,
-    "attacking_value": 20,
-    "engaged_value": 20,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "3031503431338798614": {
-    "unaware_value": 2,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "10958708641660631096": {
-    "unaware_value": 12,
-    "attacking_value": 12,
-    "engaged_value": 12,
-    "unaware_distance": 160,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "17756861745706792858": {
-    "unaware_value": 7,
-    "attacking_value": 50,
-    "engaged_value": 50,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "14731312854664874139": {
-    "unaware_value": 4,
-    "attacking_value": 50,
-    "engaged_value": 50,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "3660840294738278623": {
-    "unaware_value": 5,
-    "attacking_value": 60,
-    "engaged_value": 60,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "17842374123104475103": {
-    "unaware_value": 0.800000012,
-    "attacking_value": 27,
-    "engaged_value": 27,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "12008441084326179745": {
-    "unaware_value": 3,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "18129582262547983427": {
-    "unaware_value": 1,
-    "attacking_value": 15,
-    "engaged_value": 15,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "15382378127438146468": {
-    "unaware_value": 3,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "12566139334605762628": {
-    "unaware_value": 6,
-    "attacking_value": 30,
-    "engaged_value": 30,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "7435299642389799754": {
-    "unaware_value": 2,
-    "attacking_value": 4,
-    "engaged_value": 4,
-    "unaware_distance": 100,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "6116178405309884875": {
-    "unaware_value": 3,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "11555060082231454796": {
-    "unaware_value": 3,
-    "attacking_value": 55,
-    "engaged_value": 55,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "12041129896721693842": {
-    "unaware_value": 1.20000005,
-    "attacking_value": 17,
-    "engaged_value": 17,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "767968035755763": {
-    "unaware_value": 1.20000005,
-    "attacking_value": 18,
-    "engaged_value": 18,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "13707236614338800569": {
-    "unaware_value": 0.5,
-    "attacking_value": 20,
-    "engaged_value": 20,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "4251221953861716889": {
-    "unaware_value": 3,
-    "attacking_value": 55,
-    "engaged_value": 55,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "15922730753540746811": {
-    "unaware_value": 7,
-    "attacking_value": 80,
-    "engaged_value": 80,
-    "unaware_distance": 160,
-    "attacking_distance": 160,
-    "is_major_unit": 1
-  },
-  "3626558530581732572": {
-    "unaware_value": 0.699999988,
-    "attacking_value": 25,
-    "engaged_value": 25,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "11398074038506794973": {
-    "unaware_value": 7,
-    "attacking_value": 80,
-    "engaged_value": 80,
-    "unaware_distance": 160,
-    "attacking_distance": 160,
-    "is_major_unit": 1
-  },
-  "2701456486977900736": {
-    "unaware_value": 2,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "17246256129031935938": {
-    "unaware_value": 7,
-    "attacking_value": 70,
-    "engaged_value": 70,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "11669807341511884260": {
-    "unaware_value": 1,
-    "attacking_value": 29,
-    "engaged_value": 29,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "15821153730695962661": {
-    "unaware_value": 12,
-    "attacking_value": 12,
-    "engaged_value": 12,
-    "unaware_distance": 160,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "17875655752828743943": {
-    "unaware_value": 4,
-    "attacking_value": 45,
-    "engaged_value": 45,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "6927066342767148424": {
-    "unaware_value": 4,
-    "attacking_value": 50,
-    "engaged_value": 50,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "7196537832909981064": {
-    "unaware_value": 7,
-    "attacking_value": 85,
-    "engaged_value": 85,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "4469039597602705386": {
-    "unaware_value": 5,
-    "attacking_value": 60,
-    "engaged_value": 60,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "17921415124075533547": {
-    "unaware_value": 7,
-    "attacking_value": 50,
-    "engaged_value": 50,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "3583430772214091149": {
-    "unaware_value": 7,
-    "attacking_value": 85,
-    "engaged_value": 85,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "12706617161845284909": {
-    "unaware_value": 2,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 120,
-    "attacking_distance": 80,
-    "is_major_unit": 0
-  },
-  "11841423120880866036": {
-    "unaware_value": 2,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "15621795958426619957": {
-    "unaware_value": 1,
-    "attacking_value": 15,
-    "engaged_value": 15,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "9414910092732904122": {
-    "unaware_value": 2,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "10514734670540770044": {
-    "unaware_value": 6.5,
-    "attacking_value": 40,
-    "engaged_value": 40,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "14286719829563111324": {
-    "unaware_value": 7,
-    "attacking_value": 85,
-    "engaged_value": 85,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "16121421951002036444": {
-    "unaware_value": 0.200000003,
-    "attacking_value": 2,
-    "engaged_value": 2,
-    "unaware_distance": 100,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "7208293264043292125": {
-    "unaware_value": 0.400000006,
-    "attacking_value": 6,
-    "engaged_value": 6,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "5909160229139284606": {
-    "unaware_value": 1,
-    "attacking_value": 15,
-    "engaged_value": 15,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "15659331049401757247": {
-    "unaware_value": 0.699999988,
-    "attacking_value": 25,
-    "engaged_value": 25,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "5903841343181520462": {
-    "unaware_value": 0.200000003,
-    "attacking_value": 2,
-    "engaged_value": 2,
-    "unaware_distance": 100,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "1909471264691872944": {
-    "unaware_value": 3,
-    "attacking_value": 55,
-    "engaged_value": 55,
-    "unaware_distance": 140,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "4618830856548850870": {
-    "unaware_value": 1,
-    "attacking_value": 15,
-    "engaged_value": 15,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "12562787704342269592": {
-    "unaware_value": 2.5,
-    "attacking_value": 25,
-    "engaged_value": 25,
-    "unaware_distance": 140,
-    "attacking_distance": 80,
-    "is_major_unit": 0
-  },
-  "13037131039069521275": {
-    "unaware_value": 2,
-    "attacking_value": 23,
-    "engaged_value": 23,
-    "unaware_distance": 120,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  },
-  "8261922003134896957": {
-    "unaware_value": 0.300000012,
-    "attacking_value": 3.5,
-    "engaged_value": 3.5,
-    "unaware_distance": 100,
-    "attacking_distance": 55,
-    "is_major_unit": 0
-  },
-  "18198461672611034237": {
-    "unaware_value": 9,
-    "attacking_value": 64,
-    "engaged_value": 64,
-    "unaware_distance": 140,
-    "attacking_distance": 70,
-    "is_major_unit": 0
-  }
+    "MusicIntensifierComponentData": {
+        "items": [
+            {
+                "unique_id": "3939129929398354246",
+                "uid_name": "BugEnemyType_Spewer_CausticStrain",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "1909471264691872944",
+                "uid_name": "BugEnemyType_Charger",
+                "unaware_value": 3.0,
+                "attacking_value": 55.0,
+                "engaged_value": 55.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "772289455772672652",
+                "uid_name": "BugEnemyType_Charger_RuptureStrain",
+                "unaware_value": 3.0,
+                "attacking_value": 55.0,
+                "engaged_value": 55.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "10811815200209238698",
+                "uid_name": "BugEnemyType_Dragonroach",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 110.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "15304878361562187723",
+                "uid_name": "BugEnemyType_HiveLord",
+                "unaware_value": 7.0,
+                "attacking_value": 80.0,
+                "engaged_value": 80.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 160.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "15659331049401757247",
+                "uid_name": "BugEnemyType_Hunter",
+                "unaware_value": 0.699999988,
+                "attacking_value": 25.0,
+                "engaged_value": 25.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "15922730753540746811",
+                "uid_name": "BugEnemyType_Impaler",
+                "unaware_value": 7.0,
+                "attacking_value": 80.0,
+                "engaged_value": 80.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 160.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "7435299642389799754",
+                "uid_name": "BugEnemyType_Impaler_Tentacle",
+                "unaware_value": 2.0,
+                "attacking_value": 4.0,
+                "engaged_value": 4.0,
+                "unaware_distance": 100.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "10371974906799355538",
+                "uid_name": "BugEnemyType_Scavenger",
+                "unaware_value": 0.200000003,
+                "attacking_value": 2.0,
+                "engaged_value": 2.0,
+                "unaware_distance": 100.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "7208293264043292125",
+                "uid_name": "BugEnemyType_Shrieker",
+                "unaware_value": 0.400000006,
+                "attacking_value": 6.0,
+                "engaged_value": 6.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17672347716099392046",
+                "uid_name": "BugEnemyType_Stalker",
+                "unaware_value": 2.5,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "11398074038506794973",
+                "uid_name": "BugEnemyType_BileTitan",
+                "unaware_value": 7.0,
+                "attacking_value": 80.0,
+                "engaged_value": 80.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 160.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "16919711124802745493",
+                "uid_name": "BugEnemyType_Warrior",
+                "unaware_value": 0.5,
+                "attacking_value": 20.0,
+                "engaged_value": 20.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "12008441084326179745",
+                "uid_name": "BotEnemyType_Berserker",
+                "unaware_value": 3.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "6116178405309884875",
+                "uid_name": "BotEnemyType_Berserker",
+                "unaware_value": 3.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "9137331974793918131",
+                "uid_name": "BotEnemyType_Trooper",
+                "unaware_value": 1.0,
+                "attacking_value": 15.0,
+                "engaged_value": 15.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "11351366836276126990",
+                "uid_name": "BotEnemyType_CyborgAgitator_Male",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "10861016308832836833",
+                "uid_name": "BotEnemyType_Hulk",
+                "unaware_value": 5.0,
+                "attacking_value": 60.0,
+                "engaged_value": 60.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "12566139334605762628",
+                "uid_name": "BotEnemyType_Devastator_MK3",
+                "unaware_value": 6.0,
+                "attacking_value": 30.0,
+                "engaged_value": 30.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "14278331370456096813",
+                "uid_name": "BotEnemyType_Devastator",
+                "unaware_value": 6.0,
+                "attacking_value": 30.0,
+                "engaged_value": 30.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17246256129031935938",
+                "uid_name": "BotEnemyType_WarStrider",
+                "unaware_value": 7.0,
+                "attacking_value": 70.0,
+                "engaged_value": 70.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "15821153730695962661",
+                "uid_name": "15821153730695962661",
+                "unaware_value": 12.0,
+                "attacking_value": 12.0,
+                "engaged_value": 12.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "2895453262415111841",
+                "uid_name": "BotEnemyType_Gunship",
+                "unaware_value": 7.0,
+                "attacking_value": 70.0,
+                "engaged_value": 70.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 80.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "13557003672051169255",
+                "uid_name": "BotEnemyType_CyborgVoxEngine",
+                "unaware_value": 7.0,
+                "attacking_value": 100.0,
+                "engaged_value": 100.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 160.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "15239773297738004195",
+                "uid_name": "BotEnemyType_FactoryStrider",
+                "unaware_value": 7.0,
+                "attacking_value": 100.0,
+                "engaged_value": 100.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 160.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "3583430772214091149",
+                "uid_name": "3583430772214091149",
+                "unaware_value": 7.0,
+                "attacking_value": 85.0,
+                "engaged_value": 85.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17875655752828743943",
+                "uid_name": "BotEnemyType_ScoutStrider",
+                "unaware_value": 4.0,
+                "attacking_value": 45.0,
+                "engaged_value": 45.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "16785366656768074861",
+                "uid_name": "IlluminateEnemyType_CrescentOverseer",
+                "unaware_value": 2.0,
+                "attacking_value": 20.0,
+                "engaged_value": 20.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "14706661867033484396",
+                "uid_name": "IlluminateEnemyType_Wretch",
+                "unaware_value": 0.5,
+                "attacking_value": 20.0,
+                "engaged_value": 20.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "10401073942655502917",
+                "uid_name": "IlluminateEnemyType_Crusher",
+                "unaware_value": 5.0,
+                "attacking_value": 60.0,
+                "engaged_value": 60.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "8710323923067153479",
+                "uid_name": "IlluminateEnemyType_Voteless_Light",
+                "unaware_value": 0.100000001,
+                "attacking_value": 2.0,
+                "engaged_value": 2.0,
+                "unaware_distance": 85.0,
+                "attacking_distance": 60.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "15726775732878460914",
+                "uid_name": "IlluminateEnemyType_Overseer",
+                "unaware_value": 2.0,
+                "attacking_value": 20.0,
+                "engaged_value": 20.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "6938491555126425632",
+                "uid_name": "IlluminateEnemyType_ElevatedOverseer",
+                "unaware_value": 2.0,
+                "attacking_value": 20.0,
+                "engaged_value": 20.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 60.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "7483912604024319283",
+                "uid_name": "IlluminateEnemyType_Fleshmob",
+                "unaware_value": 0.100000001,
+                "attacking_value": 2.0,
+                "engaged_value": 2.0,
+                "unaware_distance": 85.0,
+                "attacking_distance": 60.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "12421182327299345565",
+                "uid_name": "IlluminateEnemyType_Watcher",
+                "unaware_value": 3.0,
+                "attacking_value": 18.0,
+                "engaged_value": 18.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 80.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "3809994927963057822",
+                "uid_name": "IlluminateEnemyType_Obtruder",
+                "unaware_value": 3.0,
+                "attacking_value": 18.0,
+                "engaged_value": 18.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 80.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "10835289456440565066",
+                "uid_name": "IlluminateEnemyType_Harvester",
+                "unaware_value": 6.0,
+                "attacking_value": 90.0,
+                "engaged_value": 90.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 160.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "1864924857437116746",
+                "uid_name": "IlluminateEnemyType_Stingray",
+                "unaware_value": 7.0,
+                "attacking_value": 70.0,
+                "engaged_value": 70.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 80.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "8422338628769435505",
+                "uid_name": "IlluminateEnemyType_Warpship",
+                "unaware_value": 12.0,
+                "attacking_value": 12.0,
+                "engaged_value": 12.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17450606859370033415",
+                "uid_name": "IlluminateEnemyType_Leviathan",
+                "unaware_value": 3.0,
+                "attacking_value": 18.0,
+                "engaged_value": 18.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 80.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "14748816422034837943",
+                "uid_name": "BugEnemyType_Spewer_MK2_CausticStrain",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "11781875241940413332",
+                "uid_name": "BugEnemyType_Spewer_RuptureStrain",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "7361829613256525285",
+                "uid_name": "BugEnemyType_Noxious_Spewer",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "14731312854664874139",
+                "uid_name": "BugEnemyType_NursingSpewer",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "6927066342767148424",
+                "uid_name": "BugEnemyType_NursingSpewer",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "7719208875390099550",
+                "uid_name": "BugEnemyType_Charger_CausticStrain",
+                "unaware_value": 3.0,
+                "attacking_value": 55.0,
+                "engaged_value": 55.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "4251221953861716889",
+                "uid_name": "BugEnemyType_ChargerBehemoth",
+                "unaware_value": 3.0,
+                "attacking_value": 55.0,
+                "engaged_value": 55.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "18253730739818952707",
+                "uid_name": "BugEnemyType_ChargerBehemoth",
+                "unaware_value": 3.0,
+                "attacking_value": 55.0,
+                "engaged_value": 55.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "4399458158766252490",
+                "uid_name": "BugEnemyType_Hunter_MK2",
+                "unaware_value": 0.699999988,
+                "attacking_value": 25.0,
+                "engaged_value": 25.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "6676641717166653626",
+                "uid_name": "BugEnemyType_Hunter_MK3",
+                "unaware_value": 1.0,
+                "attacking_value": 29.0,
+                "engaged_value": 29.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "9814471339792705014",
+                "uid_name": "BugEnemyType_Hunter_PredatorStrain",
+                "unaware_value": 1.0,
+                "attacking_value": 29.0,
+                "engaged_value": 29.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "15125779956101896786",
+                "uid_name": "BugEnemyType_Stalker_PredatorStrain",
+                "unaware_value": 1.5,
+                "attacking_value": 45.0,
+                "engaged_value": 45.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "5903841343181520462",
+                "uid_name": "BugEnemyType_Scavenger_MK2",
+                "unaware_value": 0.200000003,
+                "attacking_value": 2.0,
+                "engaged_value": 2.0,
+                "unaware_distance": 100.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "16121421951002036444",
+                "uid_name": "BugEnemyType_Scavenger_MK2_Captive",
+                "unaware_value": 0.200000003,
+                "attacking_value": 2.0,
+                "engaged_value": 2.0,
+                "unaware_distance": 100.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "11135777548304851724",
+                "uid_name": "BugEnemyType_Scavenger_MK3",
+                "unaware_value": 0.300000012,
+                "attacking_value": 3.0,
+                "engaged_value": 3.0,
+                "unaware_distance": 100.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "9995218384209144520",
+                "uid_name": "BugEnemyType_Noxious_Scavenger",
+                "unaware_value": 0.200000003,
+                "attacking_value": 2.0,
+                "engaged_value": 2.0,
+                "unaware_distance": 100.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "12300518439027380185",
+                "uid_name": "BugEnemyType_Pouncer",
+                "unaware_value": 0.300000012,
+                "attacking_value": 3.5,
+                "engaged_value": 3.5,
+                "unaware_distance": 100.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "8261922003134896957",
+                "uid_name": "BugEnemyType_Spitter_CausticStrain",
+                "unaware_value": 0.300000012,
+                "attacking_value": 3.5,
+                "engaged_value": 3.5,
+                "unaware_distance": 100.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17344047887226579155",
+                "uid_name": "BugEnemyType_Shrieker",
+                "unaware_value": 0.400000006,
+                "attacking_value": 6.0,
+                "engaged_value": 6.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17223114646267339927",
+                "uid_name": "BugEnemyType_BileTitan_SporeBurstStrain",
+                "unaware_value": 7.0,
+                "attacking_value": 80.0,
+                "engaged_value": 80.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 160.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "13707236614338800569",
+                "uid_name": "BugEnemyType_Warrior_MK2",
+                "unaware_value": 0.5,
+                "attacking_value": 20.0,
+                "engaged_value": 20.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "5663271064929335883",
+                "uid_name": "BugEnemyType_Warrior",
+                "unaware_value": 0.5,
+                "attacking_value": 20.0,
+                "engaged_value": 20.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "3626558530581732572",
+                "uid_name": "BugEnemyType_Warrior",
+                "unaware_value": 0.699999988,
+                "attacking_value": 25.0,
+                "engaged_value": 25.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "12873251592757102566",
+                "uid_name": "BugEnemyType_Warrior",
+                "unaware_value": 0.699999988,
+                "attacking_value": 25.0,
+                "engaged_value": 25.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "1155202780614770422",
+                "uid_name": "BugEnemyType_Warrior_CausticStrain",
+                "unaware_value": 0.699999988,
+                "attacking_value": 25.0,
+                "engaged_value": 25.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "15358116161893188517",
+                "uid_name": "BugEnemyType_BroodCommander",
+                "unaware_value": 0.699999988,
+                "attacking_value": 25.0,
+                "engaged_value": 25.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17842374123104475103",
+                "uid_name": "BugEnemyType_AlphaCommander",
+                "unaware_value": 0.800000012,
+                "attacking_value": 27.0,
+                "engaged_value": 27.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "11768477327318910982",
+                "uid_name": "BugEnemyType_Warrior_RuptureStrain",
+                "unaware_value": 0.699999988,
+                "attacking_value": 25.0,
+                "engaged_value": 25.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "11669807341511884260",
+                "uid_name": "BugEnemyType_HiveGuard",
+                "unaware_value": 1.0,
+                "attacking_value": 29.0,
+                "engaged_value": 29.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "13104279481307701677",
+                "uid_name": "BotEnemyType_Berserker_IncendiaryCorps",
+                "unaware_value": 3.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "15382378127438146468",
+                "uid_name": "BotEnemyType_Berserker_JetBrigade",
+                "unaware_value": 3.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "12706617161845284909",
+                "uid_name": "BotEnemyType_Trooper",
+                "unaware_value": 2.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 80.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "8883573249939290241",
+                "uid_name": "BotEnemyType_Trooper",
+                "unaware_value": 1.799999952,
+                "attacking_value": 20.0,
+                "engaged_value": 20.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "12562787704342269592",
+                "uid_name": "BotEnemyType_Trooper",
+                "unaware_value": 2.5,
+                "attacking_value": 25.0,
+                "engaged_value": 25.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 80.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "9414910092732904122",
+                "uid_name": "BotEnemyType_PyroTrooper_IncendiaryCorps",
+                "unaware_value": 2.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "711481103094352835",
+                "uid_name": "BotEnemyType_RocketTrooper_IncendiaryCorps",
+                "unaware_value": 2.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 80.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "619301928082185734",
+                "uid_name": "BotEnemyType_MGRaider_IncendiaryCorps",
+                "unaware_value": 2.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "5909160229139284606",
+                "uid_name": "BotEnemyType_Trooper_JetBrigade",
+                "unaware_value": 1.0,
+                "attacking_value": 15.0,
+                "engaged_value": 15.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "12614471755071195045",
+                "uid_name": "BotEnemyType_Trooper_JetBrigade_MK2",
+                "unaware_value": 1.200000048,
+                "attacking_value": 17.0,
+                "engaged_value": 17.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "9614788353289254415",
+                "uid_name": "BotEnemyType_AssaultRaider_JetBrigade",
+                "unaware_value": 2.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "13037131039069521275",
+                "uid_name": "BotEnemyType_MGRaider",
+                "unaware_value": 2.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "11841423120880866036",
+                "uid_name": "BotEnemyType_MGRaider_JetBrigade",
+                "unaware_value": 2.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "15621795958426619957",
+                "uid_name": "BotEnemyType_Brawler",
+                "unaware_value": 1.0,
+                "attacking_value": 15.0,
+                "engaged_value": 15.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "3517035000518974420",
+                "uid_name": "3517035000518974420",
+                "unaware_value": 1.5,
+                "attacking_value": 18.0,
+                "engaged_value": 18.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "18129582262547983427",
+                "uid_name": "BotEnemyType_Trooper",
+                "unaware_value": 1.0,
+                "attacking_value": 15.0,
+                "engaged_value": 15.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "2701456486977900736",
+                "uid_name": "BotEnemyType_Trooper",
+                "unaware_value": 2.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "4618830856548850870",
+                "uid_name": "BotEnemyType_Trooper",
+                "unaware_value": 1.0,
+                "attacking_value": 15.0,
+                "engaged_value": 15.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "7258218216136199873",
+                "uid_name": "BotEnemyType_Raider",
+                "unaware_value": 1.200000048,
+                "attacking_value": 17.0,
+                "engaged_value": 17.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "767968035755763",
+                "uid_name": "BotEnemyType_Marauder",
+                "unaware_value": 1.200000048,
+                "attacking_value": 18.0,
+                "engaged_value": 18.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "12041129896721693842",
+                "uid_name": "BotEnemyType_Commissar",
+                "unaware_value": 1.200000048,
+                "attacking_value": 17.0,
+                "engaged_value": 17.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "2404044106251363533",
+                "uid_name": "BotEnemyType_Commissar_JetBrigade",
+                "unaware_value": 1.200000048,
+                "attacking_value": 17.0,
+                "engaged_value": 17.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "1971339432693544677",
+                "uid_name": "BotEnemyType_Commissar_IncendiaryCorps",
+                "unaware_value": 1.200000048,
+                "attacking_value": 17.0,
+                "engaged_value": 17.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "720026069039790444",
+                "uid_name": "BotEnemyType_CyborgAgitator_Female",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "8388657151297660569",
+                "uid_name": "BotEnemyType_CyborgRadical_Male",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "14677717390494571578",
+                "uid_name": "BotEnemyType_CyborgRadical_Female",
+                "unaware_value": 4.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "2190700087544369166",
+                "uid_name": "BotEnemyType_HulkObliterator",
+                "unaware_value": 5.0,
+                "attacking_value": 60.0,
+                "engaged_value": 60.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "4469039597602705386",
+                "uid_name": "BotEnemyType_HulkScorcher",
+                "unaware_value": 5.0,
+                "attacking_value": 60.0,
+                "engaged_value": 60.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "16451308563134815530",
+                "uid_name": "BotEnemyType_HulkScorcher_JetBrigade",
+                "unaware_value": 5.0,
+                "attacking_value": 60.0,
+                "engaged_value": 60.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "7902461295840507538",
+                "uid_name": "BotEnemyType_HulkFirebomber_IncendiaryCorps",
+                "unaware_value": 5.0,
+                "attacking_value": 60.0,
+                "engaged_value": 60.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "1772093692883358428",
+                "uid_name": "BotEnemyType_HulkScorcher_IncendiaryCorps",
+                "unaware_value": 5.0,
+                "attacking_value": 60.0,
+                "engaged_value": 60.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "1403303179954968823",
+                "uid_name": "BotEnemyType_HulkBruiser",
+                "unaware_value": 5.0,
+                "attacking_value": 60.0,
+                "engaged_value": 60.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "3660840294738278623",
+                "uid_name": "BotEnemyType_HulkBruiser_JetBrigade",
+                "unaware_value": 5.0,
+                "attacking_value": 60.0,
+                "engaged_value": 60.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "6336231432473988509",
+                "uid_name": "BotEnemyType_Devastator_IncendiaryCorps",
+                "unaware_value": 6.0,
+                "attacking_value": 30.0,
+                "engaged_value": 30.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "18198461672611034237",
+                "uid_name": "BotEnemyType_Devastator_MK2",
+                "unaware_value": 9.0,
+                "attacking_value": 64.0,
+                "engaged_value": 64.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "13723659040410201638",
+                "uid_name": "BotEnemyType_Devastator_JetBrigade",
+                "unaware_value": 6.0,
+                "attacking_value": 30.0,
+                "engaged_value": 30.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "13340847352459495240",
+                "uid_name": "BotEnemyType_HeavyDevastator_MK2",
+                "unaware_value": 7.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17921415124075533547",
+                "uid_name": "BotEnemyType_HeavyDevastator",
+                "unaware_value": 7.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "6391373595476922945",
+                "uid_name": "BotEnemyType_MGDevastator_IncendiaryCorps",
+                "unaware_value": 7.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "10514734670540770044",
+                "uid_name": "BotEnemyType_HeavyDevastator_MK3",
+                "unaware_value": 6.5,
+                "attacking_value": 40.0,
+                "engaged_value": 40.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "10828817397904429935",
+                "uid_name": "BotEnemyType_RocketDevastator",
+                "unaware_value": 7.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17756861745706792858",
+                "uid_name": "BotEnemyType_RocketDevastator_MK2",
+                "unaware_value": 7.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "14536718756304552612",
+                "uid_name": "BotEnemyType_RocketDevastator_IncendiaryCorps",
+                "unaware_value": 7.0,
+                "attacking_value": 50.0,
+                "engaged_value": 50.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "16155873629479015795",
+                "uid_name": "BotEnemyType_ConflagrationDevastator_IncendiaryCorps",
+                "unaware_value": 6.0,
+                "attacking_value": 30.0,
+                "engaged_value": 30.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "10958708641660631096",
+                "uid_name": "BotEnemyType_Dropship",
+                "unaware_value": 12.0,
+                "attacking_value": 12.0,
+                "engaged_value": 12.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "3527126521288270458",
+                "uid_name": "3527126521288270458",
+                "unaware_value": 7.0,
+                "attacking_value": 100.0,
+                "engaged_value": 100.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 160.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "14286719829563111324",
+                "uid_name": "BotEnemyType_ShredderTank",
+                "unaware_value": 7.0,
+                "attacking_value": 85.0,
+                "engaged_value": 85.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "6041739005686103399",
+                "uid_name": "BotEnemyType_AnnihilatorTank",
+                "unaware_value": 7.0,
+                "attacking_value": 85.0,
+                "engaged_value": 85.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "7196537832909981064",
+                "uid_name": "BotEnemyType_BarragerTank",
+                "unaware_value": 7.0,
+                "attacking_value": 85.0,
+                "engaged_value": 85.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "10409770290790592053",
+                "uid_name": "BotEnemyType_ReinforcedScoutStrider",
+                "unaware_value": 5.0,
+                "attacking_value": 48.0,
+                "engaged_value": 48.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "782675882315451933",
+                "uid_name": "IlluminateEnemyType_Voteless_Medium",
+                "unaware_value": 0.200000003,
+                "attacking_value": 2.5,
+                "engaged_value": 2.5,
+                "unaware_distance": 85.0,
+                "attacking_distance": 60.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "4919490090942595835",
+                "uid_name": "IlluminateEnemyType_Voteless_Heavy",
+                "unaware_value": 0.300000012,
+                "attacking_value": 3.0,
+                "engaged_value": 3.0,
+                "unaware_distance": 85.0,
+                "attacking_distance": 60.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "17393195075174683200",
+                "uid_name": "IlluminateEnemyType_Overseer_MK3",
+                "unaware_value": 2.0,
+                "attacking_value": 20.0,
+                "engaged_value": 20.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "641481206831155133",
+                "uid_name": "IlluminateEnemyType_Overseer_MK2",
+                "unaware_value": 2.200000048,
+                "attacking_value": 22.0,
+                "engaged_value": 22.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "15438282343866021807",
+                "uid_name": "IlluminateEnemyType_Harvester_MK2",
+                "unaware_value": 6.0,
+                "attacking_value": 90.0,
+                "engaged_value": 90.0,
+                "unaware_distance": 160.0,
+                "attacking_distance": 160.0,
+                "is_major_unit": 1
+            },
+            {
+                "unique_id": "11555060082231454796",
+                "uid_name": "BugEnemyType_ChargerBehemoth",
+                "unaware_value": 3.0,
+                "attacking_value": 55.0,
+                "engaged_value": 55.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "2236760086372418784",
+                "uid_name": "BugEnemyType_Hunter_SporeBurstStrain",
+                "unaware_value": 1.0,
+                "attacking_value": 29.0,
+                "engaged_value": 29.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "15822911520269726977",
+                "uid_name": "BugEnemyType_Scavenger_SporeBurstStrain",
+                "unaware_value": 0.300000012,
+                "attacking_value": 3.0,
+                "engaged_value": 3.0,
+                "unaware_distance": 100.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "8251756929257574076",
+                "uid_name": "BugEnemyType_Warrior_SporeBurstStrain",
+                "unaware_value": 0.699999988,
+                "attacking_value": 25.0,
+                "engaged_value": 25.0,
+                "unaware_distance": 140.0,
+                "attacking_distance": 55.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "11481777918278298912",
+                "uid_name": "BotEnemyType_BlasterTrooper_IncendiaryCorps",
+                "unaware_value": 1.0,
+                "attacking_value": 15.0,
+                "engaged_value": 15.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "16610351617142216522",
+                "uid_name": "BotEnemyType_Raider_IncendiaryCorps",
+                "unaware_value": 1.200000048,
+                "attacking_value": 17.0,
+                "engaged_value": 17.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            },
+            {
+                "unique_id": "3031503431338798614",
+                "uid_name": "BotEnemyType_RocketRaider",
+                "unaware_value": 2.0,
+                "attacking_value": 23.0,
+                "engaged_value": 23.0,
+                "unaware_distance": 120.0,
+                "attacking_distance": 70.0,
+                "is_major_unit": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "3939129929398354246",
+                "type": "BugEnemyType_Spewer_CausticStrain"
+            },
+            {
+                "idx": 1,
+                "uid": "1909471264691872944",
+                "type": "BugEnemyType_Charger"
+            },
+            {
+                "idx": 2,
+                "uid": "772289455772672652",
+                "type": "BugEnemyType_Charger_RuptureStrain"
+            },
+            {
+                "idx": 3,
+                "uid": "10811815200209238698",
+                "type": "BugEnemyType_Dragonroach"
+            },
+            {
+                "idx": 4,
+                "uid": "15304878361562187723",
+                "type": "BugEnemyType_HiveLord"
+            },
+            {
+                "idx": 5,
+                "uid": "15659331049401757247",
+                "type": "BugEnemyType_Hunter"
+            },
+            {
+                "idx": 6,
+                "uid": "15922730753540746811",
+                "type": "BugEnemyType_Impaler"
+            },
+            {
+                "idx": 7,
+                "uid": "7435299642389799754",
+                "type": "BugEnemyType_Impaler_Tentacle"
+            },
+            {
+                "idx": 8,
+                "uid": "10371974906799355538",
+                "type": "BugEnemyType_Scavenger"
+            },
+            {
+                "idx": 9,
+                "uid": "7208293264043292125",
+                "type": "BugEnemyType_Shrieker"
+            },
+            {
+                "idx": 10,
+                "uid": "17672347716099392046",
+                "type": "BugEnemyType_Stalker"
+            },
+            {
+                "idx": 11,
+                "uid": "11398074038506794973",
+                "type": "BugEnemyType_BileTitan"
+            },
+            {
+                "idx": 12,
+                "uid": "16919711124802745493",
+                "type": "BugEnemyType_Warrior"
+            },
+            {
+                "idx": 13,
+                "uid": "12008441084326179745",
+                "type": "BotEnemyType_Berserker"
+            },
+            {
+                "idx": 14,
+                "uid": "6116178405309884875",
+                "type": "BotEnemyType_Berserker"
+            },
+            {
+                "idx": 15,
+                "uid": "9137331974793918131",
+                "type": "BotEnemyType_Trooper"
+            },
+            {
+                "idx": 16,
+                "uid": "11351366836276126990",
+                "type": "BotEnemyType_CyborgAgitator_Male"
+            },
+            {
+                "idx": 17,
+                "uid": "10861016308832836833",
+                "type": "BotEnemyType_Hulk"
+            },
+            {
+                "idx": 18,
+                "uid": "12566139334605762628",
+                "type": "BotEnemyType_Devastator_MK3"
+            },
+            {
+                "idx": 19,
+                "uid": "14278331370456096813",
+                "type": "BotEnemyType_Devastator"
+            },
+            {
+                "idx": 20,
+                "uid": "17246256129031935938",
+                "type": "BotEnemyType_WarStrider"
+            },
+            {
+                "idx": 21,
+                "uid": "15821153730695962661",
+                "type": "15821153730695962661"
+            },
+            {
+                "idx": 22,
+                "uid": "2895453262415111841",
+                "type": "BotEnemyType_Gunship"
+            },
+            {
+                "idx": 23,
+                "uid": "13557003672051169255",
+                "type": "BotEnemyType_CyborgVoxEngine"
+            },
+            {
+                "idx": 24,
+                "uid": "15239773297738004195",
+                "type": "BotEnemyType_FactoryStrider"
+            },
+            {
+                "idx": 25,
+                "uid": "3583430772214091149",
+                "type": "3583430772214091149"
+            },
+            {
+                "idx": 26,
+                "uid": "17875655752828743943",
+                "type": "BotEnemyType_ScoutStrider"
+            },
+            {
+                "idx": 27,
+                "uid": "16785366656768074861",
+                "type": "IlluminateEnemyType_CrescentOverseer"
+            },
+            {
+                "idx": 28,
+                "uid": "14706661867033484396",
+                "type": "IlluminateEnemyType_Wretch"
+            },
+            {
+                "idx": 29,
+                "uid": "10401073942655502917",
+                "type": "IlluminateEnemyType_Crusher"
+            },
+            {
+                "idx": 30,
+                "uid": "8710323923067153479",
+                "type": "IlluminateEnemyType_Voteless_Light"
+            },
+            {
+                "idx": 31,
+                "uid": "15726775732878460914",
+                "type": "IlluminateEnemyType_Overseer"
+            },
+            {
+                "idx": 32,
+                "uid": "6938491555126425632",
+                "type": "IlluminateEnemyType_ElevatedOverseer"
+            },
+            {
+                "idx": 33,
+                "uid": "7483912604024319283",
+                "type": "IlluminateEnemyType_Fleshmob"
+            },
+            {
+                "idx": 34,
+                "uid": "12421182327299345565",
+                "type": "IlluminateEnemyType_Watcher"
+            },
+            {
+                "idx": 35,
+                "uid": "3809994927963057822",
+                "type": "IlluminateEnemyType_Obtruder"
+            },
+            {
+                "idx": 36,
+                "uid": "10835289456440565066",
+                "type": "IlluminateEnemyType_Harvester"
+            },
+            {
+                "idx": 37,
+                "uid": "1864924857437116746",
+                "type": "IlluminateEnemyType_Stingray"
+            },
+            {
+                "idx": 38,
+                "uid": "8422338628769435505",
+                "type": "IlluminateEnemyType_Warpship"
+            },
+            {
+                "idx": 39,
+                "uid": "17450606859370033415",
+                "type": "IlluminateEnemyType_Leviathan"
+            },
+            {
+                "idx": 40,
+                "uid": "14748816422034837943",
+                "type": "BugEnemyType_Spewer_MK2_CausticStrain"
+            },
+            {
+                "idx": 41,
+                "uid": "11781875241940413332",
+                "type": "BugEnemyType_Spewer_RuptureStrain"
+            },
+            {
+                "idx": 42,
+                "uid": "7361829613256525285",
+                "type": "BugEnemyType_Noxious_Spewer"
+            },
+            {
+                "idx": 43,
+                "uid": "14731312854664874139",
+                "type": "BugEnemyType_NursingSpewer"
+            },
+            {
+                "idx": 44,
+                "uid": "6927066342767148424",
+                "type": "BugEnemyType_NursingSpewer"
+            },
+            {
+                "idx": 45,
+                "uid": "7719208875390099550",
+                "type": "BugEnemyType_Charger_CausticStrain"
+            },
+            {
+                "idx": 46,
+                "uid": "4251221953861716889",
+                "type": "BugEnemyType_ChargerBehemoth"
+            },
+            {
+                "idx": 47,
+                "uid": "18253730739818952707",
+                "type": "BugEnemyType_ChargerBehemoth"
+            },
+            {
+                "idx": 48,
+                "uid": "4399458158766252490",
+                "type": "BugEnemyType_Hunter_MK2"
+            },
+            {
+                "idx": 49,
+                "uid": "6676641717166653626",
+                "type": "BugEnemyType_Hunter_MK3"
+            },
+            {
+                "idx": 50,
+                "uid": "9814471339792705014",
+                "type": "BugEnemyType_Hunter_PredatorStrain"
+            },
+            {
+                "idx": 51,
+                "uid": "15125779956101896786",
+                "type": "BugEnemyType_Stalker_PredatorStrain"
+            },
+            {
+                "idx": 52,
+                "uid": "5903841343181520462",
+                "type": "BugEnemyType_Scavenger_MK2"
+            },
+            {
+                "idx": 53,
+                "uid": "16121421951002036444",
+                "type": "BugEnemyType_Scavenger_MK2_Captive"
+            },
+            {
+                "idx": 54,
+                "uid": "11135777548304851724",
+                "type": "BugEnemyType_Scavenger_MK3"
+            },
+            {
+                "idx": 55,
+                "uid": "9995218384209144520",
+                "type": "BugEnemyType_Noxious_Scavenger"
+            },
+            {
+                "idx": 56,
+                "uid": "12300518439027380185",
+                "type": "BugEnemyType_Pouncer"
+            },
+            {
+                "idx": 57,
+                "uid": "8261922003134896957",
+                "type": "BugEnemyType_Spitter_CausticStrain"
+            },
+            {
+                "idx": 58,
+                "uid": "17344047887226579155",
+                "type": "BugEnemyType_Shrieker"
+            },
+            {
+                "idx": 59,
+                "uid": "17223114646267339927",
+                "type": "BugEnemyType_BileTitan_SporeBurstStrain"
+            },
+            {
+                "idx": 60,
+                "uid": "13707236614338800569",
+                "type": "BugEnemyType_Warrior_MK2"
+            },
+            {
+                "idx": 61,
+                "uid": "5663271064929335883",
+                "type": "BugEnemyType_Warrior"
+            },
+            {
+                "idx": 62,
+                "uid": "3626558530581732572",
+                "type": "BugEnemyType_Warrior"
+            },
+            {
+                "idx": 63,
+                "uid": "12873251592757102566",
+                "type": "BugEnemyType_Warrior"
+            },
+            {
+                "idx": 64,
+                "uid": "1155202780614770422",
+                "type": "BugEnemyType_Warrior_CausticStrain"
+            },
+            {
+                "idx": 65,
+                "uid": "15358116161893188517",
+                "type": "BugEnemyType_BroodCommander"
+            },
+            {
+                "idx": 66,
+                "uid": "17842374123104475103",
+                "type": "BugEnemyType_AlphaCommander"
+            },
+            {
+                "idx": 67,
+                "uid": "11768477327318910982",
+                "type": "BugEnemyType_Warrior_RuptureStrain"
+            },
+            {
+                "idx": 68,
+                "uid": "11669807341511884260",
+                "type": "BugEnemyType_HiveGuard"
+            },
+            {
+                "idx": 69,
+                "uid": "13104279481307701677",
+                "type": "BotEnemyType_Berserker_IncendiaryCorps"
+            },
+            {
+                "idx": 70,
+                "uid": "15382378127438146468",
+                "type": "BotEnemyType_Berserker_JetBrigade"
+            },
+            {
+                "idx": 71,
+                "uid": "12706617161845284909",
+                "type": "BotEnemyType_Trooper"
+            },
+            {
+                "idx": 72,
+                "uid": "8883573249939290241",
+                "type": "BotEnemyType_Trooper"
+            },
+            {
+                "idx": 73,
+                "uid": "12562787704342269592",
+                "type": "BotEnemyType_Trooper"
+            },
+            {
+                "idx": 74,
+                "uid": "9414910092732904122",
+                "type": "BotEnemyType_PyroTrooper_IncendiaryCorps"
+            },
+            {
+                "idx": 75,
+                "uid": "711481103094352835",
+                "type": "BotEnemyType_RocketTrooper_IncendiaryCorps"
+            },
+            {
+                "idx": 76,
+                "uid": "619301928082185734",
+                "type": "BotEnemyType_MGRaider_IncendiaryCorps"
+            },
+            {
+                "idx": 77,
+                "uid": "5909160229139284606",
+                "type": "BotEnemyType_Trooper_JetBrigade"
+            },
+            {
+                "idx": 78,
+                "uid": "12614471755071195045",
+                "type": "BotEnemyType_Trooper_JetBrigade_MK2"
+            },
+            {
+                "idx": 79,
+                "uid": "9614788353289254415",
+                "type": "BotEnemyType_AssaultRaider_JetBrigade"
+            },
+            {
+                "idx": 80,
+                "uid": "13037131039069521275",
+                "type": "BotEnemyType_MGRaider"
+            },
+            {
+                "idx": 81,
+                "uid": "11841423120880866036",
+                "type": "BotEnemyType_MGRaider_JetBrigade"
+            },
+            {
+                "idx": 82,
+                "uid": "15621795958426619957",
+                "type": "BotEnemyType_Brawler"
+            },
+            {
+                "idx": 83,
+                "uid": "3517035000518974420",
+                "type": "3517035000518974420"
+            },
+            {
+                "idx": 84,
+                "uid": "18129582262547983427",
+                "type": "BotEnemyType_Trooper"
+            },
+            {
+                "idx": 85,
+                "uid": "2701456486977900736",
+                "type": "BotEnemyType_Trooper"
+            },
+            {
+                "idx": 86,
+                "uid": "4618830856548850870",
+                "type": "BotEnemyType_Trooper"
+            },
+            {
+                "idx": 87,
+                "uid": "7258218216136199873",
+                "type": "BotEnemyType_Raider"
+            },
+            {
+                "idx": 88,
+                "uid": "767968035755763",
+                "type": "BotEnemyType_Marauder"
+            },
+            {
+                "idx": 89,
+                "uid": "12041129896721693842",
+                "type": "BotEnemyType_Commissar"
+            },
+            {
+                "idx": 90,
+                "uid": "2404044106251363533",
+                "type": "BotEnemyType_Commissar_JetBrigade"
+            },
+            {
+                "idx": 91,
+                "uid": "1971339432693544677",
+                "type": "BotEnemyType_Commissar_IncendiaryCorps"
+            },
+            {
+                "idx": 92,
+                "uid": "720026069039790444",
+                "type": "BotEnemyType_CyborgAgitator_Female"
+            },
+            {
+                "idx": 93,
+                "uid": "8388657151297660569",
+                "type": "BotEnemyType_CyborgRadical_Male"
+            },
+            {
+                "idx": 94,
+                "uid": "14677717390494571578",
+                "type": "BotEnemyType_CyborgRadical_Female"
+            },
+            {
+                "idx": 95,
+                "uid": "2190700087544369166",
+                "type": "BotEnemyType_HulkObliterator"
+            },
+            {
+                "idx": 96,
+                "uid": "4469039597602705386",
+                "type": "BotEnemyType_HulkScorcher"
+            },
+            {
+                "idx": 97,
+                "uid": "16451308563134815530",
+                "type": "BotEnemyType_HulkScorcher_JetBrigade"
+            },
+            {
+                "idx": 98,
+                "uid": "7902461295840507538",
+                "type": "BotEnemyType_HulkFirebomber_IncendiaryCorps"
+            },
+            {
+                "idx": 99,
+                "uid": "1772093692883358428",
+                "type": "BotEnemyType_HulkScorcher_IncendiaryCorps"
+            },
+            {
+                "idx": 100,
+                "uid": "1403303179954968823",
+                "type": "BotEnemyType_HulkBruiser"
+            },
+            {
+                "idx": 101,
+                "uid": "3660840294738278623",
+                "type": "BotEnemyType_HulkBruiser_JetBrigade"
+            },
+            {
+                "idx": 102,
+                "uid": "6336231432473988509",
+                "type": "BotEnemyType_Devastator_IncendiaryCorps"
+            },
+            {
+                "idx": 103,
+                "uid": "18198461672611034237",
+                "type": "BotEnemyType_Devastator_MK2"
+            },
+            {
+                "idx": 104,
+                "uid": "13723659040410201638",
+                "type": "BotEnemyType_Devastator_JetBrigade"
+            },
+            {
+                "idx": 105,
+                "uid": "13340847352459495240",
+                "type": "BotEnemyType_HeavyDevastator_MK2"
+            },
+            {
+                "idx": 106,
+                "uid": "17921415124075533547",
+                "type": "BotEnemyType_HeavyDevastator"
+            },
+            {
+                "idx": 107,
+                "uid": "6391373595476922945",
+                "type": "BotEnemyType_MGDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 108,
+                "uid": "10514734670540770044",
+                "type": "BotEnemyType_HeavyDevastator_MK3"
+            },
+            {
+                "idx": 109,
+                "uid": "10828817397904429935",
+                "type": "BotEnemyType_RocketDevastator"
+            },
+            {
+                "idx": 110,
+                "uid": "17756861745706792858",
+                "type": "BotEnemyType_RocketDevastator_MK2"
+            },
+            {
+                "idx": 111,
+                "uid": "14536718756304552612",
+                "type": "BotEnemyType_RocketDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 112,
+                "uid": "16155873629479015795",
+                "type": "BotEnemyType_ConflagrationDevastator_IncendiaryCorps"
+            },
+            {
+                "idx": 113,
+                "uid": "10958708641660631096",
+                "type": "BotEnemyType_Dropship"
+            },
+            {
+                "idx": 114,
+                "uid": "3527126521288270458",
+                "type": "3527126521288270458"
+            },
+            {
+                "idx": 115,
+                "uid": "14286719829563111324",
+                "type": "BotEnemyType_ShredderTank"
+            },
+            {
+                "idx": 116,
+                "uid": "6041739005686103399",
+                "type": "BotEnemyType_AnnihilatorTank"
+            },
+            {
+                "idx": 117,
+                "uid": "7196537832909981064",
+                "type": "BotEnemyType_BarragerTank"
+            },
+            {
+                "idx": 118,
+                "uid": "10409770290790592053",
+                "type": "BotEnemyType_ReinforcedScoutStrider"
+            },
+            {
+                "idx": 119,
+                "uid": "782675882315451933",
+                "type": "IlluminateEnemyType_Voteless_Medium"
+            },
+            {
+                "idx": 120,
+                "uid": "4919490090942595835",
+                "type": "IlluminateEnemyType_Voteless_Heavy"
+            },
+            {
+                "idx": 121,
+                "uid": "17393195075174683200",
+                "type": "IlluminateEnemyType_Overseer_MK3"
+            },
+            {
+                "idx": 122,
+                "uid": "641481206831155133",
+                "type": "IlluminateEnemyType_Overseer_MK2"
+            },
+            {
+                "idx": 123,
+                "uid": "15438282343866021807",
+                "type": "IlluminateEnemyType_Harvester_MK2"
+            },
+            {
+                "idx": 124,
+                "uid": "11555060082231454796",
+                "type": "BugEnemyType_ChargerBehemoth"
+            },
+            {
+                "idx": 125,
+                "uid": "2236760086372418784",
+                "type": "BugEnemyType_Hunter_SporeBurstStrain"
+            },
+            {
+                "idx": 126,
+                "uid": "15822911520269726977",
+                "type": "BugEnemyType_Scavenger_SporeBurstStrain"
+            },
+            {
+                "idx": 127,
+                "uid": "8251756929257574076",
+                "type": "BugEnemyType_Warrior_SporeBurstStrain"
+            },
+            {
+                "idx": 128,
+                "uid": "11481777918278298912",
+                "type": "BotEnemyType_BlasterTrooper_IncendiaryCorps"
+            },
+            {
+                "idx": 129,
+                "uid": "16610351617142216522",
+                "type": "BotEnemyType_Raider_IncendiaryCorps"
+            },
+            {
+                "idx": 130,
+                "uid": "3031503431338798614",
+                "type": "BotEnemyType_RocketRaider"
+            }
+        ]
+    }
 }

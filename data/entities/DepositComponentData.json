@@ -9,7 +9,7 @@
                 "refill_amount": 20,
                 "deduct_owner_vo_event": 0,
                 "last_deduct_owner_vo_event": 0,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -37,17 +37,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_None",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "4773808446773069045",
-                "uid_name": "4773808446773069045",
+                "uid_name": "VehicleType_GATER",
                 "capacity": 10,
                 "start_amount": -1,
                 "refill_amount": 20,
                 "deduct_owner_vo_event": 0,
                 "last_deduct_owner_vo_event": 0,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -75,7 +77,49 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_None",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
+            },
+            {
+                "unique_id": "1605323339894850998",
+                "uid_name": "VehicleType_Bastion",
+                "capacity": 10,
+                "start_amount": -1,
+                "refill_amount": 20,
+                "deduct_owner_vo_event": 0,
+                "last_deduct_owner_vo_event": 0,
+                "drone_path": 0,
+                "friendly_interact_ability": "AbilityId_Invalid",
+                "self_interact_ability": "AbilityId_Invalid",
+                "show_self_interact": 0,
+                "node_hiding_order": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "node_hiding_order_post_anim_event": 0,
+                "refill_style": "DepositRefill_None",
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "11105721130648470965",
@@ -85,7 +129,7 @@
                 "refill_amount": 20,
                 "deduct_owner_vo_event": 0,
                 "last_deduct_owner_vo_event": 0,
-                "drone_path": "2139899069241334240",
+                "drone_path": 2139899069241334240,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -113,17 +157,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_None",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "16671435828232852140",
-                "uid_name": "SupportBackpackType_AirburstRocketBackpack",
-                "capacity": 6,
+                "uid_name": "SupportWeaponType_AirburstRocketLauncherBackpack",
+                "capacity": 5,
                 "start_amount": -1,
-                "refill_amount": 5,
+                "refill_amount": 3,
                 "deduct_owner_vo_event": 0,
                 "last_deduct_owner_vo_event": 0,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -151,7 +197,9 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "2802369506329449110"
+                "assisted_reload_weapon_path": 2802369506329449110,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "5690760409550920280",
@@ -161,7 +209,7 @@
                 "refill_amount": 1,
                 "deduct_owner_vo_event": 0,
                 "last_deduct_owner_vo_event": 0,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_complex_avatar_backpack_ammo",
                 "self_interact_ability": "AbilityId_complex_avatar_backpack_ammo_self",
                 "show_self_interact": 0,
@@ -189,17 +237,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 3740288220,
                 "refill_style": "DepositRefill_Supplies",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "16576307969206587212",
-                "uid_name": "SupportBackpackType_AutoCannonBackpack",
+                "uid_name": "SupportWeaponType_AutocannonBackpack",
                 "capacity": 10,
                 "start_amount": -1,
-                "refill_amount": 9,
+                "refill_amount": 5,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -227,17 +277,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "12164217308285983839"
+                "assisted_reload_weapon_path": 12164217308285983839,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "2791632565401924213",
-                "uid_name": "SupportBackpackType_AutoCannonBackpackMK2",
+                "uid_name": "2791632565401924213",
                 "capacity": 15,
                 "start_amount": -1,
                 "refill_amount": 5,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -265,7 +317,49 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "12164217308285983839"
+                "assisted_reload_weapon_path": 12164217308285983839,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
+            },
+            {
+                "unique_id": "13495904577777136893",
+                "uid_name": "SupportBackpackType_BFGrenadeLauncherBackpack",
+                "capacity": 120,
+                "start_amount": 120,
+                "refill_amount": 60,
+                "deduct_owner_vo_event": 0,
+                "last_deduct_owner_vo_event": 0,
+                "drone_path": 0,
+                "friendly_interact_ability": "AbilityId_Invalid",
+                "self_interact_ability": "AbilityId_Invalid",
+                "show_self_interact": 0,
+                "node_hiding_order": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "node_hiding_order_post_anim_event": 0,
+                "refill_style": "DepositRefill_Ammo",
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "11155000903228636302",
@@ -275,9 +369,9 @@
                 "refill_amount": 0,
                 "deduct_owner_vo_event": 0,
                 "last_deduct_owner_vo_event": 0,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
-                "self_interact_ability": "ABILITY_TYPE_2140",
+                "self_interact_ability": "AbilityId_complex_avatar_portable_hellbomb_self",
                 "show_self_interact": 0,
                 "node_hiding_order": [
                     0,
@@ -303,17 +397,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_None",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "3033447149328295793",
-                "uid_name": "SupportBackpackType_C4Backpack",
+                "uid_name": "SupportWeaponType_C4Backpack",
                 "capacity": 6,
                 "start_amount": 6,
                 "refill_amount": 3,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -341,17 +437,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 3740288220,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "5905641205788913469"
+                "assisted_reload_weapon_path": 5905641205788913469,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "3464783698532994381",
-                "uid_name": "SupportBackpackType_HotDogDrone",
+                "uid_name": "SupportBackpackType_FlameDrone_Backpack",
                 "capacity": 6,
                 "start_amount": 6,
                 "refill_amount": 6,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "10925341024319250374",
+                "drone_path": 10925341024319250374,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -379,17 +477,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 792497908,
+                "unknown_094": 1
             },
             {
                 "unique_id": "13834130950471716570",
-                "uid_name": "SupportBackpackType_DogBreathDrone",
+                "uid_name": "SupportBackpackType_CausticDrone_Backpack",
                 "capacity": 6,
                 "start_amount": 6,
                 "refill_amount": 6,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "13383279112602229081",
+                "drone_path": 13383279112602229081,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -417,7 +517,9 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 792497908,
+                "unknown_094": 1
             },
             {
                 "unique_id": "16125342225783174778",
@@ -427,7 +529,7 @@
                 "refill_amount": 2,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "1322834788093768675",
+                "drone_path": 1322834788093768675,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -455,17 +557,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Supplies",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "2692796710804508396",
-                "uid_name": "2692796710804508396",
+                "uid_name": "SupportBackpackType_BulletDrone_Backpack",
                 "capacity": 8,
                 "start_amount": 8,
                 "refill_amount": 8,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "11601043503813400874",
+                "drone_path": 11601043503813400874,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -493,17 +597,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "16756305030629006721",
-                "uid_name": "SupportBackpackType_LiberatorDogDrone",
+                "uid_name": "16756305030629006721",
                 "capacity": 4,
                 "start_amount": 4,
                 "refill_amount": 2,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "18002332014700027641",
+                "drone_path": 18002332014700027641,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -531,17 +637,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Supplies",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "12653822188347841538",
-                "uid_name": "SupportBackpackType_GuardDogRover",
+                "uid_name": "SupportBackpackType_LaserDrone_Backpack",
                 "capacity": 4,
                 "start_amount": 4,
                 "refill_amount": 2,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "6624453650490018537",
+                "drone_path": 6624453650490018537,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -569,17 +677,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Supplies",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "10287068634025973658",
-                "uid_name": "SupportBackpackType_SpearBackpack",
+                "uid_name": "SupportWeaponType_SpearLauncher_Backpack",
                 "capacity": 4,
                 "start_amount": -1,
-                "refill_amount": 4,
+                "refill_amount": 2,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -607,7 +717,9 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "2714034314705433838"
+                "assisted_reload_weapon_path": 2714034314705433838,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "3870192466842195264",
@@ -617,7 +729,7 @@
                 "refill_amount": 2,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -645,17 +757,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "2714034314705433838"
+                "assisted_reload_weapon_path": 2714034314705433838,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "13330286337704337139",
-                "uid_name": "SupportBackpackType_WASPBackpack",
-                "capacity": 6,
+                "uid_name": "SupportWeaponType_WASPLauncher_Backpack",
+                "capacity": 5,
                 "start_amount": -1,
-                "refill_amount": 5,
+                "refill_amount": 3,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -683,17 +797,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "14733648658679365221"
+                "assisted_reload_weapon_path": 14733648658679365221,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "14019044913798069754",
-                "uid_name": "SupportBackpackType_K9ArcDrone",
+                "uid_name": "SupportBackpackType_ArcDrone_Backpack",
                 "capacity": 6,
                 "start_amount": 6,
                 "refill_amount": 6,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "5406314287462237588",
+                "drone_path": 5406314287462237588,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -721,7 +837,49 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
+            },
+            {
+                "unique_id": "4894036464529596640",
+                "uid_name": "SupportBackpackType_CrematorBackpack",
+                "capacity": 500,
+                "start_amount": 500,
+                "refill_amount": 250,
+                "deduct_owner_vo_event": 0,
+                "last_deduct_owner_vo_event": 0,
+                "drone_path": 0,
+                "friendly_interact_ability": "AbilityId_Invalid",
+                "self_interact_ability": "AbilityId_Invalid",
+                "show_self_interact": 0,
+                "node_hiding_order": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "node_hiding_order_post_anim_event": 0,
+                "refill_style": "DepositRefill_Ammo",
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "744753118896166941",
@@ -731,7 +889,7 @@
                 "refill_amount": 1,
                 "deduct_owner_vo_event": 3471829629,
                 "last_deduct_owner_vo_event": 3471829629,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_complex_avatar_backpack_medic",
                 "self_interact_ability": "AbilityId_complex_avatar_backpack_medic_self",
                 "show_self_interact": 0,
@@ -759,17 +917,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 3740288220,
                 "refill_style": "DepositRefill_Medic",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "391216982669554238",
                 "uid_name": "SupportBackpackType_MaxigunBackpack",
-                "capacity": 750,
-                "start_amount": 750,
-                "refill_amount": 400,
+                "capacity": 1000,
+                "start_amount": 1000,
+                "refill_amount": 500,
                 "deduct_owner_vo_event": 0,
                 "last_deduct_owner_vo_event": 0,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -797,55 +957,19 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "0"
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             },
             {
                 "unique_id": "10871626090290489728",
                 "uid_name": "SupportBackpackType_RecoillessRifleBackpack",
-                "capacity": 6,
-                "start_amount": -1,
-                "refill_amount": 5,
-                "deduct_owner_vo_event": 195519030,
-                "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "0",
-                "friendly_interact_ability": "AbilityId_Invalid",
-                "self_interact_ability": "AbilityId_Invalid",
-                "show_self_interact": 0,
-                "node_hiding_order": [
-                    2877693355,
-                    776490902,
-                    2961426652,
-                    1197992325,
-                    2764938127,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "node_hiding_order_post_anim_event": 0,
-                "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "11493422068836852751"
-            },
-            {
-                "unique_id": "1945762457460294290",
-                "uid_name": "1945762457460294290",
                 "capacity": 5,
                 "start_amount": -1,
                 "refill_amount": 3,
                 "deduct_owner_vo_event": 195519030,
                 "last_deduct_owner_vo_event": 3187204892,
-                "drone_path": "0",
+                "drone_path": 0,
                 "friendly_interact_ability": "AbilityId_Invalid",
                 "self_interact_ability": "AbilityId_Invalid",
                 "show_self_interact": 0,
@@ -873,7 +997,249 @@
                 ],
                 "node_hiding_order_post_anim_event": 0,
                 "refill_style": "DepositRefill_Ammo",
-                "assisted_reload_weapon_path": "11493422068836852751"
+                "assisted_reload_weapon_path": 11493422068836852751,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
+            },
+            {
+                "unique_id": "1945762457460294290",
+                "uid_name": "SupportWeaponType_RecoillessRifle_Backpack",
+                "capacity": 5,
+                "start_amount": -1,
+                "refill_amount": 3,
+                "deduct_owner_vo_event": 195519030,
+                "last_deduct_owner_vo_event": 3187204892,
+                "drone_path": 0,
+                "friendly_interact_ability": "AbilityId_Invalid",
+                "self_interact_ability": "AbilityId_Invalid",
+                "show_self_interact": 0,
+                "node_hiding_order": [
+                    2877693355,
+                    776490902,
+                    2961426652,
+                    1197992325,
+                    2764938127,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "node_hiding_order_post_anim_event": 0,
+                "refill_style": "DepositRefill_Ammo",
+                "assisted_reload_weapon_path": 11493422068836852751,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
+            },
+            {
+                "unique_id": "669328475908342564",
+                "uid_name": "SupportWeaponType_ApexSniperRifleBackpack",
+                "capacity": 4,
+                "start_amount": -1,
+                "refill_amount": 2,
+                "deduct_owner_vo_event": 195519030,
+                "last_deduct_owner_vo_event": 3187204892,
+                "drone_path": 0,
+                "friendly_interact_ability": "AbilityId_Invalid",
+                "self_interact_ability": "AbilityId_Invalid",
+                "show_self_interact": 0,
+                "node_hiding_order": [
+                    1521254770,
+                    181476733,
+                    595314737,
+                    202190756,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "node_hiding_order_post_anim_event": 0,
+                "refill_style": "DepositRefill_Ammo",
+                "assisted_reload_weapon_path": 13264489371434957764,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
+            },
+            {
+                "unique_id": "11178286357330019118",
+                "uid_name": "VehicleType_Supply_FRV",
+                "capacity": 8,
+                "start_amount": 8,
+                "refill_amount": 0,
+                "deduct_owner_vo_event": 0,
+                "last_deduct_owner_vo_event": 0,
+                "drone_path": 0,
+                "friendly_interact_ability": "AbilityId_Invalid",
+                "self_interact_ability": "AbilityId_Invalid",
+                "show_self_interact": 0,
+                "node_hiding_order": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "node_hiding_order_post_anim_event": 0,
+                "refill_style": "DepositRefill_None",
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
+            },
+            {
+                "unique_id": "12738988949818115065",
+                "uid_name": "VehicleType_MaelstromTank",
+                "capacity": 10,
+                "start_amount": -1,
+                "refill_amount": 20,
+                "deduct_owner_vo_event": 0,
+                "last_deduct_owner_vo_event": 0,
+                "drone_path": 0,
+                "friendly_interact_ability": "AbilityId_Invalid",
+                "self_interact_ability": "AbilityId_Invalid",
+                "show_self_interact": 0,
+                "node_hiding_order": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "node_hiding_order_post_anim_event": 0,
+                "refill_style": "DepositRefill_None",
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
+            },
+            {
+                "unique_id": "576943110514355900",
+                "uid_name": "VehicleType_GATER_MK2",
+                "capacity": 10,
+                "start_amount": -1,
+                "refill_amount": 20,
+                "deduct_owner_vo_event": 0,
+                "last_deduct_owner_vo_event": 0,
+                "drone_path": 0,
+                "friendly_interact_ability": "AbilityId_Invalid",
+                "self_interact_ability": "AbilityId_Invalid",
+                "show_self_interact": 0,
+                "node_hiding_order": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "node_hiding_order_post_anim_event": 0,
+                "refill_style": "DepositRefill_None",
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "capacity": 1,
+                "start_amount": -1,
+                "refill_amount": 20,
+                "deduct_owner_vo_event": 0,
+                "last_deduct_owner_vo_event": 0,
+                "drone_path": 0,
+                "friendly_interact_ability": "AbilityId_Invalid",
+                "self_interact_ability": "AbilityId_Invalid",
+                "show_self_interact": 0,
+                "node_hiding_order": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "node_hiding_order_post_anim_event": 0,
+                "refill_style": "DepositRefill_None",
+                "assisted_reload_weapon_path": 0,
+                "unknown_090": 1269087576,
+                "unknown_094": 0
             }
         ],
         "index_list": [
@@ -885,112 +1251,147 @@
             {
                 "idx": 1,
                 "uid": "4773808446773069045",
-                "type": "4773808446773069045"
+                "type": "VehicleType_GATER"
             },
             {
                 "idx": 2,
+                "uid": "1605323339894850998",
+                "type": "VehicleType_Bastion"
+            },
+            {
+                "idx": 3,
                 "uid": "11105721130648470965",
                 "type": "11105721130648470965"
             },
             {
-                "idx": 3,
+                "idx": 4,
                 "uid": "16671435828232852140",
-                "type": "SupportBackpackType_AirburstRocketBackpack"
+                "type": "SupportWeaponType_AirburstRocketLauncherBackpack"
             },
             {
-                "idx": 4,
+                "idx": 5,
                 "uid": "5690760409550920280",
                 "type": "SupportBackpackType_SupplyBackpack"
             },
             {
-                "idx": 5,
-                "uid": "16576307969206587212",
-                "type": "SupportBackpackType_AutoCannonBackpack"
-            },
-            {
                 "idx": 6,
-                "uid": "2791632565401924213",
-                "type": "SupportBackpackType_AutoCannonBackpackMK2"
+                "uid": "16576307969206587212",
+                "type": "SupportWeaponType_AutocannonBackpack"
             },
             {
                 "idx": 7,
+                "uid": "2791632565401924213",
+                "type": "2791632565401924213"
+            },
+            {
+                "idx": 8,
+                "uid": "13495904577777136893",
+                "type": "SupportBackpackType_BFGrenadeLauncherBackpack"
+            },
+            {
+                "idx": 9,
                 "uid": "11155000903228636302",
                 "type": "SupportBackpackType_PortableHellbomb"
             },
             {
-                "idx": 8,
-                "uid": "3033447149328295793",
-                "type": "SupportBackpackType_C4Backpack"
-            },
-            {
-                "idx": 9,
-                "uid": "3464783698532994381",
-                "type": "SupportBackpackType_HotDogDrone"
-            },
-            {
                 "idx": 10,
-                "uid": "13834130950471716570",
-                "type": "SupportBackpackType_DogBreathDrone"
+                "uid": "3033447149328295793",
+                "type": "SupportWeaponType_C4Backpack"
             },
             {
                 "idx": 11,
+                "uid": "3464783698532994381",
+                "type": "SupportBackpackType_FlameDrone_Backpack"
+            },
+            {
+                "idx": 12,
+                "uid": "13834130950471716570",
+                "type": "SupportBackpackType_CausticDrone_Backpack"
+            },
+            {
+                "idx": 13,
                 "uid": "16125342225783174778",
                 "type": "16125342225783174778"
             },
             {
-                "idx": 12,
-                "uid": "2692796710804508396",
-                "type": "2692796710804508396"
-            },
-            {
-                "idx": 13,
-                "uid": "16756305030629006721",
-                "type": "SupportBackpackType_LiberatorDogDrone"
-            },
-            {
                 "idx": 14,
-                "uid": "12653822188347841538",
-                "type": "SupportBackpackType_GuardDogRover"
+                "uid": "2692796710804508396",
+                "type": "SupportBackpackType_BulletDrone_Backpack"
             },
             {
                 "idx": 15,
-                "uid": "10287068634025973658",
-                "type": "SupportBackpackType_SpearBackpack"
+                "uid": "16756305030629006721",
+                "type": "16756305030629006721"
             },
             {
                 "idx": 16,
+                "uid": "12653822188347841538",
+                "type": "SupportBackpackType_LaserDrone_Backpack"
+            },
+            {
+                "idx": 17,
+                "uid": "10287068634025973658",
+                "type": "SupportWeaponType_SpearLauncher_Backpack"
+            },
+            {
+                "idx": 18,
                 "uid": "3870192466842195264",
                 "type": "3870192466842195264"
             },
             {
-                "idx": 17,
-                "uid": "13330286337704337139",
-                "type": "SupportBackpackType_WASPBackpack"
-            },
-            {
-                "idx": 18,
-                "uid": "14019044913798069754",
-                "type": "SupportBackpackType_K9ArcDrone"
-            },
-            {
                 "idx": 19,
+                "uid": "13330286337704337139",
+                "type": "SupportWeaponType_WASPLauncher_Backpack"
+            },
+            {
+                "idx": 20,
+                "uid": "14019044913798069754",
+                "type": "SupportBackpackType_ArcDrone_Backpack"
+            },
+            {
+                "idx": 21,
+                "uid": "4894036464529596640",
+                "type": "SupportBackpackType_CrematorBackpack"
+            },
+            {
+                "idx": 22,
                 "uid": "744753118896166941",
                 "type": "SupportBackpackType_MedicBackpack"
             },
             {
-                "idx": 20,
+                "idx": 23,
                 "uid": "391216982669554238",
                 "type": "SupportBackpackType_MaxigunBackpack"
             },
             {
-                "idx": 21,
+                "idx": 24,
                 "uid": "10871626090290489728",
                 "type": "SupportBackpackType_RecoillessRifleBackpack"
             },
             {
-                "idx": 22,
+                "idx": 25,
                 "uid": "1945762457460294290",
-                "type": "1945762457460294290"
+                "type": "SupportWeaponType_RecoillessRifle_Backpack"
+            },
+            {
+                "idx": 26,
+                "uid": "669328475908342564",
+                "type": "SupportWeaponType_ApexSniperRifleBackpack"
+            },
+            {
+                "idx": 27,
+                "uid": "11178286357330019118",
+                "type": "VehicleType_Supply_FRV"
+            },
+            {
+                "idx": 28,
+                "uid": "12738988949818115065",
+                "type": "VehicleType_MaelstromTank"
+            },
+            {
+                "idx": 29,
+                "uid": "576943110514355900",
+                "type": "VehicleType_GATER_MK2"
             }
         ]
     }

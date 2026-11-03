@@ -1,8 +1,28 @@
 {
-  "5197663570806576153": {
-    "occupied_light_off_timer": 3
-  },
-  "7880797595543514155": {
-    "occupied_light_off_timer": 3
-  }
+    "ShipHellpodComponentData": {
+        "items": [
+            {
+                "unique_id": "5197663570806576153",
+                "uid_name": "5197663570806576153",
+                "occupied_light_off_timer": 3.0
+            },
+            {
+                "unique_id": "7880797595543514155",
+                "uid_name": "7880797595543514155",
+                "occupied_light_off_timer": 3.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "5197663570806576153",
+                "type": "5197663570806576153"
+            },
+            {
+                "idx": 1,
+                "uid": "7880797595543514155",
+                "type": "7880797595543514155"
+            }
+        ]
+    }
 }

@@ -1,0 +1,20 @@
+{
+    "Unknown_88630F9FComponentData": {
+        "items": [
+            {
+                "unique_id": "14081448954912365533",
+                "uid_name": "VehicleType_MaelstromTank_TargetDesignator",
+                "unknown_000": 0.300000012,
+                "unknown_004": 1,
+                "unknown_010": 1
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "14081448954912365533",
+                "type": "VehicleType_MaelstromTank_TargetDesignator"
+            }
+        ]
+    }
+}

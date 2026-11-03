@@ -1,0 +1,36 @@
+{
+    "Unknown_E3F485C7ComponentData": {
+        "items": [
+            {
+                "unique_id": "16915618249410217346",
+                "uid_name": "16915618249410217346",
+                "unknown_000": 99,
+                "unknown_004": 42.0,
+                "unknown_008": 28.0,
+                "unknown_00C": 2.0,
+                "unknown_020": 1.875,
+                "unknown_024": 1.875,
+                "unknown_028": 1.875,
+                "unknown_02C": 1.875,
+                "unknown_030": 1.875,
+                "unknown_034": 1.875,
+                "unknown_048": 2.75,
+                "unknown_04C": 2.75,
+                "unknown_050": 2.75,
+                "unknown_054": 2.75,
+                "unknown_058": 2.75,
+                "unknown_05C": 2.75,
+                "unknown_064": 5,
+                "unknown_068": 977066355,
+                "unknown_06C": 3780889744
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "16915618249410217346",
+                "type": "16915618249410217346"
+            }
+        ]
+    }
+}

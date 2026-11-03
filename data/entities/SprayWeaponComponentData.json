@@ -11,13 +11,13 @@
                 "spray_capsule_radius": 1.100000024,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -25,13 +25,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "6181568566424688250",
+                    "muzzle_effect": 6181568566424688250,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -39,13 +39,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -58,12 +58,11 @@
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "8039414067817307766",
-                "uid_name": "BugEnemyType_BileSpewerV3",
+                "uid_name": "BugEnemyType_Spewer_Vomit_CausticStrain",
                 "warmup_time": 0.0,
                 "cooldown_time": 0.050000001,
                 "firenode_pose_limit": 0.0,
@@ -71,13 +70,13 @@
                 "spray_capsule_radius": 1.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -85,13 +84,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "6181568566424688250",
+                    "muzzle_effect": 6181568566424688250,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -99,13 +98,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -118,8 +117,7 @@
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "2816271437774253565",
@@ -131,13 +129,13 @@
                 "spray_capsule_radius": 1.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -145,13 +143,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "6181568566424688250",
+                    "muzzle_effect": 6181568566424688250,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -159,31 +157,30 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
                     "wind_template": "WindEffectTemplate_None"
                 },
                 "ammo_cost": 0,
-                "projectile_type": "PROJ_TYPE_023",
+                "projectile_type": "PROJ_TYPE_024",
                 "damage_info_type": "DamageInfoType_None",
                 "effect_type": "HitEffectDamageType_None",
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "8568490042777875483",
-                "uid_name": "BugEnemyType_BileSpewerSpray",
+                "uid_name": "BugEnemyType_DragonRoach_Vomit",
                 "warmup_time": 0.0,
                 "cooldown_time": 0.01,
                 "firenode_pose_limit": 0.0,
@@ -191,13 +188,13 @@
                 "spray_capsule_radius": 5.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -205,13 +202,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "2692210838382123519",
+                    "muzzle_effect": 2692210838382123519,
                     "callout_event_start": 418315309,
                     "audio_event_start": 3340914726,
                     "audio_event_stop": 1004375400,
@@ -219,31 +216,30 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
                     "wind_template": "WindEffectTemplate_None"
                 },
                 "ammo_cost": 0,
-                "projectile_type": "PROJ_TYPE_235",
-                "damage_info_type": "DMG_TYPE_579",
+                "projectile_type": "PROJ_TYPE_239",
+                "damage_info_type": "DMG_TYPE_591",
                 "effect_type": "HitEffectDamageType_None",
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_None",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_None"
             },
             {
                 "unique_id": "2129528212146849390",
-                "uid_name": "BugEnemyType_HunterBileSpray",
+                "uid_name": "BugEnemyType_Hunter_PredatorStrain_BileSpray",
                 "warmup_time": 0.0,
                 "cooldown_time": 0.050000001,
                 "firenode_pose_limit": 0.0,
@@ -251,13 +247,13 @@
                 "spray_capsule_radius": 1.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -265,13 +261,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "6181568566424688250",
+                    "muzzle_effect": 6181568566424688250,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -279,13 +275,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -298,12 +294,11 @@
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "17636297115750610289",
-                "uid_name": "17636297115750610289",
+                "uid_name": "BotEnemyType_PyroTrooper_IncendiaryCorps_Flamethrower",
                 "warmup_time": 1.0,
                 "cooldown_time": 1.0,
                 "firenode_pose_limit": 0.0,
@@ -311,13 +306,13 @@
                 "spray_capsule_radius": 0.25,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "18178481158602349376",
+                    "muzzle_effect": 18178481158602349376,
                     "callout_event_start": 0,
                     "audio_event_start": 3860165635,
                     "audio_event_stop": 0,
@@ -325,13 +320,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "13461756045271898035",
+                    "muzzle_effect": 13461756045271898035,
                     "callout_event_start": 0,
                     "audio_event_start": 2940567763,
                     "audio_event_stop": 3358505350,
@@ -339,13 +334,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -358,12 +353,11 @@
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "17488789745215357128",
-                "uid_name": "BotEnemyType_HulkScorcherFlamethrower",
+                "uid_name": "BotEnemyType_HulkScorcher_IncendiaryCorps_Flamethrower",
                 "warmup_time": 1.0,
                 "cooldown_time": 1.0,
                 "firenode_pose_limit": 0.0,
@@ -371,13 +365,13 @@
                 "spray_capsule_radius": 0.5,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "18178481158602349376",
+                    "muzzle_effect": 18178481158602349376,
                     "callout_event_start": 0,
                     "audio_event_start": 2048366901,
                     "audio_event_stop": 0,
@@ -385,13 +379,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "13461756045271898035",
+                    "muzzle_effect": 13461756045271898035,
                     "callout_event_start": 0,
                     "audio_event_start": 2221618875,
                     "audio_event_stop": 2155672448,
@@ -399,13 +393,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -418,12 +412,11 @@
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "519812688473392934",
-                "uid_name": "VehicleType_LumbererExoSuit_Flamethrower",
+                "uid_name": "VehicleType_LumbererExosuit_Flamethrower",
                 "warmup_time": 0.699999988,
                 "cooldown_time": 10.0,
                 "firenode_pose_limit": 0.0,
@@ -431,13 +424,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 2557993495,
                     "audio_event_stop": 0,
@@ -445,13 +438,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "16415996823525155780",
+                    "muzzle_effect": 16415996823525155780,
                     "callout_event_start": 418315309,
                     "audio_event_start": 1153376687,
                     "audio_event_stop": 783613635,
@@ -459,13 +452,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 5338378,
                     "audio_event_stop": 4213751115,
@@ -473,17 +466,16 @@
                 },
                 "ammo_cost": 1,
                 "projectile_type": "ProjectileType_None",
-                "damage_info_type": "DamageInfoType_Projectile_Flamethrower_Cremator",
+                "damage_info_type": "DamageInfoType_Projectile_Flamethrower_Cremator_MK2",
                 "effect_type": "HitEffectDamageType_PiercingMedium",
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 1926142422,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "17223114646267339927",
-                "uid_name": "BugEnemyType_SporeBileTitan",
+                "uid_name": "BugEnemyType_BileTitan_SporeBurstStrain",
                 "warmup_time": 0.0,
                 "cooldown_time": 0.050000001,
                 "firenode_pose_limit": 0.0,
@@ -491,13 +483,13 @@
                 "spray_capsule_radius": 1.100000024,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -505,13 +497,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "16569755665269430598",
+                    "muzzle_effect": 16569755665269430598,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -519,27 +511,26 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
                     "wind_template": "WindEffectTemplate_None"
                 },
                 "ammo_cost": 0,
-                "projectile_type": "PROJ_TYPE_159",
+                "projectile_type": "PROJ_TYPE_161",
                 "damage_info_type": "DamageInfoType_None",
                 "effect_type": "HitEffectDamageType_None",
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "5953193886108619556",
@@ -551,13 +542,13 @@
                 "spray_capsule_radius": 1.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -565,13 +556,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "8645238791260988562",
+                    "muzzle_effect": 8645238791260988562,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -579,13 +570,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -598,8 +589,7 @@
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "284602740380634958",
@@ -611,13 +601,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -625,13 +615,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "1670305856112843263",
+                    "muzzle_effect": 1670305856112843263,
                     "callout_event_start": 418315309,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -639,13 +629,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -653,13 +643,12 @@
                 },
                 "ammo_cost": 1,
                 "projectile_type": "ProjectileType_None",
-                "damage_info_type": "DamageInfoType_PyrotechGrenade",
+                "damage_info_type": "DamageInfoType_Sparks_PyrotechGrenade",
                 "effect_type": "HitEffectDamageType_PiercingMedium",
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Medium",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Medium"
             },
             {
                 "unique_id": "9371080132553746520",
@@ -671,13 +660,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 1143652851,
                     "audio_event_stop": 0,
@@ -685,13 +674,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "16415996823525155780",
+                    "muzzle_effect": 16415996823525155780,
                     "callout_event_start": 418315309,
                     "audio_event_start": 3147353857,
                     "audio_event_stop": 1270155399,
@@ -699,13 +688,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 3284929155,
                     "audio_event_stop": 333451710,
@@ -713,17 +702,16 @@
                 },
                 "ammo_cost": 1,
                 "projectile_type": "ProjectileType_None",
-                "damage_info_type": "DamageInfoType_Projectile_Flamethrower_Cremator",
+                "damage_info_type": "DamageInfoType_Projectile_Flamethrower_Cremator_MK2",
                 "effect_type": "HitEffectDamageType_PiercingMedium",
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "16204610837508709347",
-                "uid_name": "16204610837508709347",
+                "uid_name": "DeployableType_FlamethrowerEmplacement",
                 "warmup_time": 0.699999988,
                 "cooldown_time": 15.0,
                 "firenode_pose_limit": 0.0,
@@ -731,13 +719,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 3550831508,
                     "audio_event_stop": 0,
@@ -745,13 +733,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "8100017336532090948",
+                    "muzzle_effect": 8100017336532090948,
                     "callout_event_start": 0,
                     "audio_event_start": 1881104745,
                     "audio_event_stop": 548193405,
@@ -759,13 +747,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 2308490114,
                     "audio_event_stop": 155984213,
@@ -778,8 +766,7 @@
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "11037037794164389181",
@@ -791,13 +778,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 2976742107,
                     "audio_event_stop": 0,
@@ -805,13 +792,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "17161707001298768559",
+                    "muzzle_effect": 17161707001298768559,
                     "callout_event_start": 418315309,
                     "audio_event_start": 241766230,
                     "audio_event_stop": 2373333470,
@@ -819,13 +806,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 2270614757,
                     "audio_event_stop": 1587852684,
@@ -838,8 +825,7 @@
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 2439407863,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "7778022558452062755",
@@ -851,13 +837,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 2869137645,
                     "audio_event_stop": 0,
@@ -865,13 +851,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "8100017336532090948",
+                    "muzzle_effect": 8100017336532090948,
                     "callout_event_start": 0,
                     "audio_event_start": 2084608292,
                     "audio_event_stop": 3955395638,
@@ -879,13 +865,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -898,12 +884,11 @@
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 2645484469,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "7335593197372175302",
-                "uid_name": "7335593197372175302",
+                "uid_name": "SupportBackpackType_FlameDrone_Weapon",
                 "warmup_time": 0.699999988,
                 "cooldown_time": 10.0,
                 "firenode_pose_limit": 0.0,
@@ -911,13 +896,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 2869137645,
                     "audio_event_stop": 0,
@@ -925,13 +910,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "13991562456240544718",
+                    "muzzle_effect": 13991562456240544718,
                     "callout_event_start": 418315309,
                     "audio_event_start": 2084608292,
                     "audio_event_stop": 3955395638,
@@ -939,13 +924,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -958,12 +943,11 @@
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 2439407863,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "13198259103089806061",
-                "uid_name": "SupportBackpackType_DogBreathDrone",
+                "uid_name": "SupportBackpackType_CausticDrone_Weapon",
                 "warmup_time": 0.0,
                 "cooldown_time": 15.0,
                 "firenode_pose_limit": 0.0,
@@ -971,13 +955,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -985,13 +969,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "242765372113565227",
+                    "muzzle_effect": 242765372113565227,
                     "callout_event_start": 418315309,
                     "audio_event_start": 335829265,
                     "audio_event_stop": 1035764924,
@@ -999,13 +983,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 0,
                     "audio_event_stop": 0,
@@ -1018,8 +1002,7 @@
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_None",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_None"
             },
             {
                 "unique_id": "5742363029208942635",
@@ -1031,13 +1014,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 1017214271,
                     "audio_event_stop": 0,
@@ -1045,13 +1028,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "13991562456240544718",
+                    "muzzle_effect": 13991562456240544718,
                     "callout_event_start": 418315309,
                     "audio_event_start": 2970598254,
                     "audio_event_stop": 2413843637,
@@ -1059,13 +1042,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 2121069226,
                     "audio_event_stop": 2964381256,
@@ -1078,8 +1061,7 @@
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 2439407863,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "4580928717960105129",
@@ -1091,13 +1073,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 2146488441,
                     "audio_event_stop": 0,
@@ -1105,13 +1087,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "11696612951655659479",
+                    "muzzle_effect": 11696612951655659479,
                     "callout_event_start": 418315309,
                     "audio_event_start": 3757506625,
                     "audio_event_stop": 1665050303,
@@ -1119,13 +1101,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 3879498819,
                     "audio_event_stop": 3968902089,
@@ -1138,8 +1120,7 @@
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 2439407863,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "9869105320050739364",
@@ -1151,13 +1132,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 3435018303,
                     "audio_event_stop": 0,
@@ -1165,13 +1146,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "11804315310924160597",
+                    "muzzle_effect": 11804315310924160597,
                     "callout_event_start": 418315309,
                     "audio_event_start": 1773671782,
                     "audio_event_stop": 599097114,
@@ -1179,13 +1160,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "0",
+                    "muzzle_effect": 0,
                     "callout_event_start": 0,
                     "audio_event_start": 1928837757,
                     "audio_event_stop": 1851540683,
@@ -1198,8 +1179,7 @@
                 "particle_collision_trigger_mines": 0,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 0,
-                "particle_collision_fire_template": "FireTemplate_None",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_None"
             },
             {
                 "unique_id": "4155583896232633279",
@@ -1211,13 +1191,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 3550831508,
                     "audio_event_stop": 0,
@@ -1225,13 +1205,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "11696612951655659479",
+                    "muzzle_effect": 11696612951655659479,
                     "callout_event_start": 418315309,
                     "audio_event_start": 1881104745,
                     "audio_event_stop": 548193405,
@@ -1239,13 +1219,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 2308490114,
                     "audio_event_stop": 155984213,
@@ -1258,8 +1238,7 @@
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 2439407863,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "8694225878611593109",
@@ -1271,13 +1250,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 4026553142,
                     "audio_event_stop": 0,
@@ -1285,13 +1264,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "11885419067834423525",
+                    "muzzle_effect": 11885419067834423525,
                     "callout_event_start": 418315309,
                     "audio_event_start": 2174575826,
                     "audio_event_stop": 113540263,
@@ -1299,13 +1278,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 3769495531,
                     "audio_event_stop": 3499201604,
@@ -1318,12 +1297,11 @@
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 2439407863,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
             },
             {
                 "unique_id": "4920324387701779176",
-                "uid_name": "4920324387701779176",
+                "uid_name": "VehicleType_Incinerator_FRV_Flamethrower",
                 "warmup_time": 0.699999988,
                 "cooldown_time": 10.0,
                 "firenode_pose_limit": 0.0,
@@ -1331,13 +1309,13 @@
                 "spray_capsule_radius": 0.0,
                 "warmup": {
                     "shake": {
-                        "world_shake_effect": "14900141230239011239",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 14900141230239011239,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "10048255496969202164",
+                    "muzzle_effect": 10048255496969202164,
                     "callout_event_start": 0,
                     "audio_event_start": 1407405509,
                     "audio_event_stop": 0,
@@ -1345,13 +1323,13 @@
                 },
                 "firing": {
                     "shake": {
-                        "world_shake_effect": "1587683755141136233",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 1587683755141136233,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "9091998352808646401",
+                    "muzzle_effect": 9091998352808646401,
                     "callout_event_start": 418315309,
                     "audio_event_start": 2000604828,
                     "audio_event_stop": 3334939337,
@@ -1359,13 +1337,13 @@
                 },
                 "cooldown": {
                     "shake": {
-                        "world_shake_effect": "0",
-                        "local_shake_effect": "0",
-                        "fpv_shake_effect": "0",
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
                         "inner_radius": 2.0,
                         "outer_radius": 5.0
                     },
-                    "muzzle_effect": "829875543123227408",
+                    "muzzle_effect": 829875543123227408,
                     "callout_event_start": 0,
                     "audio_event_start": 1250790038,
                     "audio_event_stop": 3218657890,
@@ -1378,8 +1356,66 @@
                 "particle_collision_trigger_mines": 1,
                 "last_drop_owner_vo_event": 3956223216,
                 "dry_fire_audio_event": 2439407863,
-                "particle_collision_fire_template": "FireTemplate_Large",
-                "unknown_014": 0
+                "particle_collision_fire_template": "FireTemplate_Large"
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "warmup_time": 0.0,
+                "cooldown_time": 0.0,
+                "firenode_pose_limit": 180.0,
+                "audio_node": 0,
+                "spray_capsule_radius": 0.0,
+                "warmup": {
+                    "shake": {
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
+                        "inner_radius": 2.0,
+                        "outer_radius": 5.0
+                    },
+                    "muzzle_effect": 0,
+                    "callout_event_start": 0,
+                    "audio_event_start": 0,
+                    "audio_event_stop": 0,
+                    "wind_template": "WindEffectTemplate_None"
+                },
+                "firing": {
+                    "shake": {
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
+                        "inner_radius": 2.0,
+                        "outer_radius": 5.0
+                    },
+                    "muzzle_effect": 0,
+                    "callout_event_start": 0,
+                    "audio_event_start": 0,
+                    "audio_event_stop": 0,
+                    "wind_template": "WindEffectTemplate_None"
+                },
+                "cooldown": {
+                    "shake": {
+                        "world_shake_effect": 0,
+                        "local_shake_effect": 0,
+                        "fpv_shake_effect": 0,
+                        "inner_radius": 2.0,
+                        "outer_radius": 5.0
+                    },
+                    "muzzle_effect": 0,
+                    "callout_event_start": 0,
+                    "audio_event_start": 0,
+                    "audio_event_stop": 0,
+                    "wind_template": "WindEffectTemplate_None"
+                },
+                "ammo_cost": 1,
+                "projectile_type": "ProjectileType_None",
+                "damage_info_type": "DamageInfoType_None",
+                "effect_type": "HitEffectDamageType_None",
+                "particle_collision_trigger_mines": 0,
+                "last_drop_owner_vo_event": 2645484469,
+                "dry_fire_audio_event": 0,
+                "particle_collision_fire_template": "FireTemplate_Large"
             }
         ],
         "index_list": [
@@ -1391,7 +1427,7 @@
             {
                 "idx": 1,
                 "uid": "8039414067817307766",
-                "type": "BugEnemyType_BileSpewerV3"
+                "type": "BugEnemyType_Spewer_Vomit_CausticStrain"
             },
             {
                 "idx": 2,
@@ -1401,32 +1437,32 @@
             {
                 "idx": 3,
                 "uid": "8568490042777875483",
-                "type": "BugEnemyType_BileSpewerSpray"
+                "type": "BugEnemyType_DragonRoach_Vomit"
             },
             {
                 "idx": 4,
                 "uid": "2129528212146849390",
-                "type": "BugEnemyType_HunterBileSpray"
+                "type": "BugEnemyType_Hunter_PredatorStrain_BileSpray"
             },
             {
                 "idx": 5,
                 "uid": "17636297115750610289",
-                "type": "17636297115750610289"
+                "type": "BotEnemyType_PyroTrooper_IncendiaryCorps_Flamethrower"
             },
             {
                 "idx": 6,
                 "uid": "17488789745215357128",
-                "type": "BotEnemyType_HulkScorcherFlamethrower"
+                "type": "BotEnemyType_HulkScorcher_IncendiaryCorps_Flamethrower"
             },
             {
                 "idx": 7,
                 "uid": "519812688473392934",
-                "type": "VehicleType_LumbererExoSuit_Flamethrower"
+                "type": "VehicleType_LumbererExosuit_Flamethrower"
             },
             {
                 "idx": 8,
                 "uid": "17223114646267339927",
-                "type": "BugEnemyType_SporeBileTitan"
+                "type": "BugEnemyType_BileTitan_SporeBurstStrain"
             },
             {
                 "idx": 9,
@@ -1446,7 +1482,7 @@
             {
                 "idx": 12,
                 "uid": "16204610837508709347",
-                "type": "16204610837508709347"
+                "type": "DeployableType_FlamethrowerEmplacement"
             },
             {
                 "idx": 13,
@@ -1461,12 +1497,12 @@
             {
                 "idx": 15,
                 "uid": "7335593197372175302",
-                "type": "7335593197372175302"
+                "type": "SupportBackpackType_FlameDrone_Weapon"
             },
             {
                 "idx": 16,
                 "uid": "13198259103089806061",
-                "type": "SupportBackpackType_DogBreathDrone"
+                "type": "SupportBackpackType_CausticDrone_Weapon"
             },
             {
                 "idx": 17,
@@ -1496,7 +1532,7 @@
             {
                 "idx": 22,
                 "uid": "4920324387701779176",
-                "type": "4920324387701779176"
+                "type": "VehicleType_Incinerator_FRV_Flamethrower"
             }
         ]
     }
